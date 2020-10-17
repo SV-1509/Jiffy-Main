@@ -19,9 +19,14 @@ def web_scraper(url,alphabet):
     soup=bs.BeautifulSoup(r.content,"lxml") 
     title=[item.text for item in soup.find_all("title")]
     para=[item.text for item in soup.find_all("p")] 
-    listToStr = ' '.join([str(elem) for elem in para]) 
+    listToStr = ' '.join([str(elem) for elem in para[:-6]]) #last 6 items are heading of links to other articles
     scraped_content=[url,title,para]
-    f = open("Investopedia_Terms/{}/{}".format(alphabet,title[0]), "w")
+    try:
+        f = open("Investopedia_Terms/{}/{}".format(alphabet,title[0]), "w")
+    except:
+        alt_title="exceptions"
+        f = open("Investopedia_Terms/{}/{}".format(alphabet,alt_title), "a")
+        pass
     f.write(listToStr)
     f.close()
     
