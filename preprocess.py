@@ -3,11 +3,11 @@ import string
 from clean import clean
 
 def preprocess(path):
-	letters = list(string.ascii_lowercase)
+	folders = os.listdir(path=path)
 	data = []
-	for letter in letters:
-		for file in os.listdir(path+letter):
-			f = open(path+letter+'/'+file,'r')
+	for folder in folders:
+		for file in os.listdir(path+folder):
+			f = open(path+folder+'/'+file,'r')
 			doc = f.read()
 			doc = clean(doc)
 			data.append(doc)
