@@ -1,0 +1,17 @@
+
+The Treasury yield curve, which is also known as the term structure of interest rates, draws out a line chart to demonstrate a relationship between yields and maturities of on-the-run Treasury fixed-income securities. It illustrates the yields of Treasury securities at fixed maturities, viz. 1, 2, 3 and 6 months and 1, 2, 3, 5, 7, 10, 20, and 30 years. Therefore, they are commonly referred to as “constant maturity Treasury” rates or CMTs.﻿﻿ ﻿﻿
+ 
+Market participants pay very close attention to yield curves, as they are used in deriving interest rates (using bootstrapping), which are in turn used as discount rates for each payment to value Treasury securities. In addition to this, market participants are also interested in identifying the spread between short-term rates and long-term rates to determine the slope of the yield curve, which is a predictor of the economic situation of the country.﻿﻿
+ 
+Yields on Treasury securities are in theory free of credit risk and are often used as a benchmark to evaluate the relative worth of U.S. non-Treasury securities. Below is the Treasury yield curve chart as on Oct. 3, 2014.﻿﻿ 
+ 
+Source: www.treasury.gov 
+ 
+The above chart shows a "normal" yield curve, exhibiting an upward slope. This means that 30-year Treasury securities are offering the highest returns, while 1-month maturity Treasury securities are offering the lowest returns. The scenario is considered normal because investors are compensated for holding longer-term securities, which possess greater investment risks. The spread between 2-year U.S. Treasury securities and 30-year U.S. Treasury securities defines the slope of the yield curve, which in this case is 256 basis points.﻿﻿ (Note: There is no industry-wide accepted definition of the maturity used for the long end and the maturity used for the short end of the yield curve). The normal yield curve implies that both fiscal and monetary policies are currently expansionary and the economy is likely to expand in the future. The higher yields on longer-term maturity securities also means that short-term rates are likely to increase in the future as growth in the economy would lead to higher inflation rates. 
+ 
+Other Shapes of the Yield Curve
+ 
+The Bottom Line
+ 
+It is imperative for market participants to view the yield curve to identify the future state of the economy, which would help them make relevant economic decisions. Yield curves are also used to derive yield to maturity (YTM) for particular issues and play a crucial role in credit modeling, including bootstrapping, bond valuation, and risk and rating assessment. 
+ U.S. Department of the Treasury. "Interest Rates - Frequently Asked Questions." Accessed Oct. 5, 2020. U.S. Department of the Treasury. "Daily Treasury Yield Curve Rates." Accessed Oct. 5, 2020. Federal Reserve Bank of Chicago. "Why Does the Yield-Curve Slope Predict Recessions?" Accessed Oct. 5, 2020. U.S. Department of the Treasury. "Daily Treasury Yield Curve Rates (2014)." Accessed Oct. 5, 2020.

@@ -1,0 +1,15 @@
+
+In statistics, the geometric mean is calculated by raising the product of a series of numbers to the inverse of the total length of the series. The geometric mean is most useful when numbers in the series are not independent of each other or if numbers tend to make large fluctuations.
+ 
+Applications of the geometric mean are most common in business and finance, where it is frequently used when dealing with percentages to calculate growth rates and returns on a portfolio of securities. It is also used in certain financial and stock market indexes, such as the Financial Times' Value Line Geometric index.﻿﻿
+ 
+The geometric mean is used in finance to calculate average growth rates and is referred to as the compounded annual growth rate. Consider a stock that grows by 10% in year one, declines by 20% in year two, and then grows by 30% in year three. The geometric mean of the growth rate is calculated as follows:
+ 
+The geometric mean is commonly used to calculate the annual return on portfolio of securities. Consider a portfolio of stocks that goes up from $100 to $110 in year one, then declines to $80 in year two and goes up to $150 in year three. The return on portfolio is then calculated as ($150/$100)^(1/3) = 0.1447 or 14.47%.
+ 
+The geometric mean is also occasionally used in constructing stock indexes. Many of the Value Line indexes maintained by the Financial Times employ the geometric mean.﻿﻿﻿ In this type of index, all stocks have equal weights, regardless of their market capitalizations or prices. The index is calculated by taking the geometric mean of the proportional change in price of each of the stocks within the index.
+ 
+The geometric mean was first conceptualized by Greek philosopher Pythagoras of Samos and is closely associated with two other classical means made famous by him: the arithmetic mean and the harmonic mean.
+ 
+The geometric mean is also used for sets of numbers, where the values that are multiplied together are exponential. Examples of this phenomena include the interest rates that may be attached to any financial investments, or the statistical rates if human population growth.
+ Financial Times. "Value Line Geometric Index." Accessed June 28, 2020.

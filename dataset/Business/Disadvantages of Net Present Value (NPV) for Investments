@@ -1,0 +1,24 @@
+
+While net present value (NPV) calculations are useful when evaluating investment opportunities, the process is by no means perfect. NPV is a useful starting point but it's not a definitive metric that an investor should rely on for all investment decisions as there are some disadvantages to using the calculation.
+ 
+Net Present Value (NPV) looks to assess the profitability of an investment on the basis that a dollar in the future is not worth the same as a dollar today. Money loses value over time due to inflation. However, a dollar today can be invested and earn a return, making its future value possibly higher than a dollar received at the same point in the future.
+ 
+NPV seeks to determine the present value of future cash flows of an investment above the initial cost of the investment. The discount rate element of the NPV formula discounts the future cash flows to the present day value. If subtracting the initial cost of the investment from the sum of the cash flows in the present-day is positive, then the investment is worthwhile.
+ 
+For example, an investor could receive $100 today or a year from now. Most investors would not be willing to postpone receiving $100 today. However, what if an investor could choose to receive $100 today or $105 in one year? The 5% rate of return for waiting one year might be worthwhile for an investor unless there was another investment that could yield a rate greater than 5% over the same period.
+ 
+If an investor knew they could earn 8% from a relatively safe investment over the next year, they would choose to receive $100 today and not the $105 in a year, with the 5% rate of return. In this case, the 8% is the discount rate.
+ 
+How does an investor know which discount rate to use? Accurately pegging a percentage number to an investment to represent its risk premium is not an exact science. If the investment is safe with a low risk of loss, 5% may be a reasonable discount rate to use but what if the investment harbors enough risk to warrant a 10% discount rate? Because NPV calculations require the selection of a discount rate, they can be unreliable if the wrong rate is selected.
+ 
+Making matters even more complex is the possibility that the investment will not have the same level of risk throughout its entire time horizon.
+ 
+In our example of a five-year investment, how should an investor calculate NPV if the investment had a high risk of loss for the first year but a relatively low risk for the last four years? The investor could apply different discount rates for each period, but this would make the model even more complex and require the pegging of five discount rates.
+ 
+The cost of capital is the rate of return required that makes an investment worthwhile. It helps determine whether the return on an investment is worth the risk. When a company decides on whether or not to make an investment, it has to set an appropriate cost of capital. If it aims too high then it may determine an investment is not worth the risk and have a missed opportunity. Conversely, if the cost of capital is too low, it may be making investment decisions that are not worthwhile.
+ 
+When an investment doesn't have a guaranteed return it can be difficult to determine the cash flows from that investment. This can sometimes be the case for companies that invest in new equipment or decisions based on business expansion. A company can estimate the kind of cash flows these investment decisions may have, but there is a chance they could be off by a significant percentage.
+ 
+A higher NPV doesn't necessarily mean a better investment. If there are two investments or projects up for decision, and one project is larger in scale, the NPV will be higher for that project as NPV is reported in dollars and a larger outlay will result in a larger number. It's important to assess the returns from an investment in percentage terms to get an accurate picture of which investment provides a better return.
+ 
+NPV is limited in that it only takes into consideration the cash flows of a project. It fails to include other critical costs that can have an impact on the true value of the investment. These costs include opportunity costs and any other costs not included in the preliminary outlay of capital.

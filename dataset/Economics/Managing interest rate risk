@@ -1,0 +1,45 @@
+
+Interest rate risk exists in an interest-bearing asset, such as a loan or a bond, due to the possibility of a change in the asset's value resulting from the variability of interest rates. Interest rate risk management has become very important, and assorted instruments have been developed to deal with interest rate risk.
+ 
+This article looks at several ways that both businesses and consumers manage interest rate risk using various interest rate derivative instruments.
+ 
+Interest rate risk is the risk that arises when the absolute level of interest rates fluctuate. Interest rate risk directly affects the values of fixed-income securities. Since interest rates and bond prices are inversely related, the risk associated with a rise in interest rates causes bond prices to fall, and vice versa. Bond investors, specifically those who invest in long-term fixed-rate bonds, are more directly susceptible to interest rate risk.
+ 
+Suppose an individual purchases a 3% fixed-rate 30-year bond for $10,000. This bond pays $300 per year through maturity. If during this time, interest rates rise to 3.5%, new bonds issued pay $350 per year through maturity, assuming a $10,000 investment. If the 3% bondholder continues to hold his bond through maturity, he loses out on the opportunity to earn a higher interest rate. Alternatively, he could sell his 3% bond in the market and buy the bond with the higher interest rate. However, doing so results in the investor getting a lower price on his sale of 3% bonds as they are no longer as attractive to investors since the newly issued 3.5% bonds are also available.
+ 
+In contrast, changes in interest rates also affect equity investors but less directly than bond investors. This is because, for example, when interest rates rise, the corporation's cost of borrowing money also increases. This could result in the corporation postponing borrowing, which may result in less spending. This decrease in spending may slow down corporate growth and result in decreased profit and ultimately lower stock prices for investors.
+ 
+As with any risk-management assessment, there is always the option to do nothing, and that is what many people do. However, in circumstances of unpredictability, sometimes not hedging is disastrous. Yes, there is a cost to hedging, but what is the cost of a major move in the wrong direction?
+ 
+One need only look to Orange County, California, in 1994 to see evidence of the pitfalls of ignoring the threat of interest rate risk. In a nutshell, Orange County Treasurer Robert Citron borrowed money at lower short-term rates and lent money at higher long-term rates. The strategy was initially great as short-term rates fell and the normal yield curve was maintained. But when the curve began to turn and approach inverted yield curve status, things changed. Losses to Orange County and the almost 200 public entities for which Citron managed money were estimated at nearly $1.7 billion and resulted in the municipality's bankruptcy.﻿﻿ That's a hefty price to pay for ignoring interest rate risk.
+ 
+Those who want to hedge their investments against interest rate risk have many products to choose from
+ 
+Forwards: A forward contract is the most basic interest rate management product. The idea is simple, and many other products discussed in this article are based on this idea of an agreement today for an exchange of something at a specific future date.
+ 
+Forward Rate Agreements (FRAs): An FRA is based on the idea of a forward contract, where the determinant of gain or loss is an interest rate. Under this agreement, one party pays a fixed interest rate and receives a floating interest rate equal to a reference rate. The actual payments are calculated based on a notional principal amount and paid at intervals determined by the parties. Only a net payment is made – the loser pays the winner, so to speak. FRAs are always settled in cash.
+ 
+FRA users are typically borrowers or lenders with a single future date on which they are exposed to interest rate risk. A series of FRAs is similar to a swap (discussed below); however, in a swap, all payments are at the same rate. Each FRA in a series is priced at a different rate unless the term structure is flat.
+ 
+Futures: A futures contract is similar to a forward, but it provides the counterparties with less risk than a forward contract – namely, a lessening of default and liquidity risk due to the inclusion of an intermediary.
+ 
+Swaps: Just like it sounds, a swap is an exchange. More specifically, an interest rate swap looks a lot like a combination of FRAs and involves an agreement between counterparties to exchange sets of future cash flows. The most common type of interest rate swap is a plain vanilla swap, which involves one party paying a fixed interest rate and receiving a floating rate, and the other party paying a floating rate and receiving a fixed rate.
+ 
+Options: Interest rate management options are option contracts for which the underlying security is a debt obligation. These instruments are useful in protecting the parties involved in a floating-rate loan, such as adjustable-rate mortgages (ARMs). A grouping of interest rate call options is referred to as an interest rate cap; a combination of interest rate put options is referred to as an interest rate floor. In general, a cap is like a call, and a floor is like a put.
+ 
+Swaptions: A swaption, or swap option, is simply an option to enter into a swap.
+ 
+Embedded options: Many investors encounter interest management derivative instruments via embedded options. If you have ever bought a bond with a call provision, you too are in the club. The issuer of your callable bond is insuring that if interest rates decline, they can call in your bond and issue new bonds with a lower coupon.
+ 
+Caps: A cap, also called a ceiling, is a call option on an interest rate. An example of its application would be a borrower going long, or paying a premium to buy a cap and receiving cash payments from the cap seller (the short) when the reference interest rate exceeds the cap's strike rate. The payments are designed to offset interest rate increases on a floating-rate loan.
+ 
+If the actual interest rate exceeds the strike rate, the seller pays the difference between the strike and the interest rate multiplied by the notional principal. This option will "cap," or place an upper limit, on the holder's interest expense.
+ 
+The interest rate cap is a series of component options, or "caplets," for each period the cap agreement exists. A caplet is designed to provide a hedge against a rise in the benchmark interest rate, such as the London Interbank Offered Rate (LIBOR), for a stated period.
+ 
+Floors: Just as a put option is considered the mirror image of a call option, the floor is the mirror image of the cap. The interest rate floor, like the cap, is a series of component options, except that they are put options and the series components are referred to as "floorlets." Whoever is long, the floor is paid upon maturity of the floorlets if the reference rate is below the floor's strike price. A lender uses this to protect against falling rates on an outstanding floating-rate loan.
+ 
+Collars: A protective collar can also help manage interest rate risk. Collaring is accomplished by simultaneously buying a cap and selling a floor (or vice versa), just like a collar protects an investor who is long on a stock. A zero-cost collar can also be established to lower the cost of hedging, but this lessens the potential profit that would be enjoyed by an interest rate movement in your favor as you have placed a ceiling on your potential profit.
+ 
+Each of these products provides a way to hedge interest rate risk, with different products more appropriate for different scenarios. There is, however, no free lunch. With any of these alternatives, one gives up something – either money, like premiums paid-for options, or opportunity cost, which is the profit one would have made without hedging.
+ Public Policy Institute of California. "The Orange County Bankruptcy: Who's Next?" Accessed April 28, 2020.

@@ -1,0 +1,20 @@
+
+The TED spread is the difference between the three-month Treasury bill and the three-month LIBOR based in US dollars. To put it another way, the TED spread is the difference between the interest rate on short-term US government debt and the interest rate on interbank loans.
+ 
+TED is an acronym for the Treasury-EuroDollar rate.
+ 
+The TED spread was originally calculated as the price difference between three-month futures contracts on U.S. Treasuries and three-month contracts for Eurodollars with identical expiration months. After futures on Treasury bills (T-bills) were dropped by the Chicago Mercantile Exchange (CME) following the 1987 stock market crash, the TED spread was amended. It is calculated as the difference between the interest rate banks can lend to each other over a three-month time frame and the interest rate at which the government is able to borrow money for a three-month period.
+ 
+The TED spread is used as an indicator of credit risk. This is because U.S. T-bills are considered risk free and measure an ultra-safe bet – the U.S. government’s creditworthiness. In addition, the LIBOR is a dollar-denominated gauge used to reflect the credit ratings of corporate borrowers or the credit risk that large international banks assume when they lend money to each other. By comparing the risk-free rate to any other interest rate, an analyst can determine the perceived difference in risk. Following this construct, the TED spread can be understood as the difference between the interest rate that investors demand from the government for investing in short-term Treasuries and the interest rate that investors charge large banks.
+ 
+As the TED spread increases, the default risk on interbank loans is considered to be increasing. Interbank lenders will demand a higher rate of interest or will be willing to accept lower returns on safe investments such as T-bills. In other words, the higher the liquidity or solvency risk posed by one or more banks, the higher the rate lenders or investors will require on their loans to other banks compared to loans to the government. As the spread decreases, the default risk is considered to be decreasing. In this case, investors will sell T-bills and reinvest the proceeds in the stock market which is perceived to offer a better rate of return on investments.
+ 
+The TED spread is a relatively simple calculation:
+ 
+TED Spread = 3-mth LIBOR – 3-mth T-bill rate
+ 
+Of course, it is far easier to let the St. Louis Fed calculate and chart it for you.
+ 
+Typically, the size of the spread is designated in basis points (bps). For example, if the T-bill rate is 1.43% and LIBOR is 1.79%, the TED spread is 36 bps. The TED spread fluctuates over time but generally has remained within the range of 10 and 50 bps. However, this spread can increase over a wider range during times of crisis in the economy.
+ 
+For example, following the collapse of Lehman Brothers in 2008, the TED spread peaked at 450 basis points. A downturn in the economy indicates to banks that other banks may encounter solvency problems, leading banks to restrict interbank lending. This, in turn, leads to a wider TED spread and lower credit availability for individual and corporate borrowers in the economy.

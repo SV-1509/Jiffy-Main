@@ -1,0 +1,18 @@
+
+Taylor's rule, which is also referred to as the Taylor rule or Taylor principle, is an econometric model that describes the relationship between Federal Reserve operating targets and the rates of inflation and gross domestic product growth. The Taylor rules has been interpreted both as a way to forecast Fed monetary policy and as a fixed rule policy to guide monetary policy in response to changes in economic conditions. The rule consists of a formula that relates the Fed's operating target for short-term interest rates to two factors: the deviation between actual and desired inflation rates and the deviation between real GDP growth and the desired GDP growth rate﻿.
+ 
+In economics, Taylor's rule is essentially a forecasting model used to determine what interest rates should be in order to shift the economy toward stable prices and full employment. Taylor's rule makes the recommendation that the Federal Reserve should raise interest rates when inflation is high or when employment exceeds full employment levels. Conversely, when inflation and employment levels are low, the Taylor rule implies that interest rates should be decreased.
+ 
+Taylor's rule was invented and published from 1992 to 1993 by John Taylor, a Stanford economist, who outlined the rule in his precedent-setting 1993 study "Discretion vs. Policy Rules in Practice." Taylor continued to perfect the rule and made amendments to the formula in 1999.
+ 
+Taylor's equation looks like:
+ 
+r = p + 0.5y + 0.5(p – 2) + 2
+ 
+Where:
+ 
+In simpler terms, this equation says that the Fed will adjust it's fed funds rate target by an equally weighted average of the gap between actual inflation and the Fed's desired rate of inflation (assumed to be 2%) and the gap between observed real GDP and a hypothetical target GDP at a constant linear growth rate (calculated by Taylor at at 2.2%). This means that Fed will raise its target fed funds rate when inflation rise above 2% or real GDP growth rises above 2.2%, and lower the target rate when either of these fall below their respective targets.  
+ 
+The equation's purpose is to look at potential targets for interest rates; however, such a task is impossible without looking at inflation. To compare inflation and non-inflation rates, the total spectrum of an economy must be observed in terms of prices. Variations are often made to this formula based on what central bankers determine are the most important factors to include.
+ 
+For many, the jury is out on Taylor's rule as it comes with several drawbacks, the most serious being it cannot account for sudden shocks or turns in the economy, such as a stock or housing market crash. In his research and original formulation of the rule, Taylor acknowledged this and pointed out that rigid adherence to a policy rule would not always be appropriate in the face of such shocks. Another shortcoming of the Taylor rule is that it can offer ambiguous advice if inflation and GDP growth move in opposite directions. During periods of stagnant economic growth and high inflation, such as stagflation, the Taylor rule provides little guidance to policy makers, since the terms of the equation then tend to cancel each other out. While several issues with the rule are, as yet, unresolved, many central banks find Taylor's rule a favorable practice and some research indicates that use of similar rules may improve economic performance. 

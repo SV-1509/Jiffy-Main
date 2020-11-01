@@ -1,0 +1,38 @@
+
+Maturity gap is a measurement of interest rate risk for risk-sensitive assets and liabilities. Using the maturity gap model, the potential changes in the net interest income variable can be measured. In effect, if interest rates change, interest income and interest expense will change as the various assets and liabilities are repriced.
+ 
+A bank is exposed to liquidity risk, that is, the risk that it will have inadequate cash to meet its funding requirements. To ensure that it has an adequate level of cash for its operations; the terms of maturity of its assets and liabilities must be monitored. If the gap between the maturities of assets and liabilities held is very large, the bank may be forced to seek relatively expensive “money at call” borrowings.
+ 
+Before exploring maturity gap, we must first review how banks operate, which is slightly different than most corporations. Assets for banks include loans, which is counterintuitive since we think of loans as debt. However, for a bank, a loan is a stream of income in the form of the principal and interest payments from the borrower. Liabilities, on the other hand, include deposits, which again for an individual investor would be an asset. However, banks pay depositors interest on those funds, which is considered an expense. Of course, deposits are important because those funds are used to make loans to the bank's customers.
+ 
+So, if interest rates rise, banks might earn more income from their loans, but they also have to pay a higher rate to depositors. Maturity gap analysis helps address the difference between the money due to depositors and the income expected from loans over various time frames.
+ 
+The maturity of each asset or liability defines an interval that must be assessed. The interval is the gap that is present between the cost of owning assets and liabilities that generate interest income and the degree of risk or volatility of the holdings. The maturity gap analysis compares the value of assets that either mature or are repriced within a given time interval to the value of liabilities that either mature or are repriced during the same time period. Reprice means there's the potential to receive a new interest rate.
+ 
+To understand the gap, assets and liabilities are grouped according to their maturity or repricing intervals. For example, assets and liabilities due to mature in less than 30 days are grouped together, assets and liabilities with a maturity date between 270 and 365 days are included in the same category, and so on. Longer repricing periods have a higher sensitivity to interest rate changes and are subject to change within a year. An asset or a liability with an interest rate that cannot change for more than a year is considered fixed.
+ 
+The maturity gap is the weighted-average time to maturity of financial assets less the weighted-average time to maturity of liabilities. The market values at each point of maturity for both assets and liabilities are assessed, then multiplied by the change in interest rates, and summed up to calculate the net interest income or expense. The resulting value can be expressed either in dollars or as a percentage of total earning assets.
+ 
+For example, the balance sheet for a bank is provided in the table below. Let’s calculate the net interest income (or expense) at year-end if interest rates increase by 2% (or 200 basis points).
+ Assets (in millions) Floating rate loans (8% annually) $10 20-year fixed rate loans (6% annually) $15 Total Assets $25 Liabilities & Equity    Current Deposits (5% annually) $12 Fixed Term Deposits (5% annually) $8 Equity $5 Total Liabilities and Equity $25 
+Using the figures in the table, the company’s expected net interest income at the end of the year is:
+ 
+Interest income from Assets – Interest expense from Liabilities
+ 
+= ($10 x 8%) + ($15 x 6%) – [($12 x 5%) + ($8 x 5%)]
+ 
+= $0.80 + $0.90 – ($0.60 + $0.40)
+ 
+= $1.7 - $1
+ 
+Expected Net Interest Income = $0.70, or $700,000
+ 
+If interest rates increase, let’s see how the change will affect the company’s expected net interest income using maturity gap analysis. Multiply the market values by the change in interest (2%), bearing in mind that the rate-sensitive or floating assets and liabilities will be affected by the change in rates.
+ 
+Calculate the net interest income by adding the resultant values together.
+ 
+If interest rates increase by 2%, the expected net interest income will decrease by $40,000 or ($700,000 - $660,000). Although a bank typically earns more income from loans with an increase in overall interest rates, the bank, in our example, saw its net interest income decline. The reason for the decrease was that the bank had a larger amount of non-fixed rate deposits ($12 million) than variable-rate loans ($10 million). In other words, the cost of deposits rose by more than the increase in income from variable-rate loans.
+ 
+Conversely, if interest rates declined by 2% instead, the net interest income will increase by $40,000 to $740,000. The reason for the rise in income–despite lower rates– is due to the bank having more fixed-rate loans ($15 million) than variable-rate deposits ($10 million). In the second scenario, the fixed-rate loans helped the bank earn a steady interest income despite a lower rate environment.
+ 
+The maturity gap method, while useful, is not as popular as it once was due to the rise of new techniques in recent years. Newer techniques such as asset/liability duration and value at risk (VaR) have largely replaced maturity gap analysis.

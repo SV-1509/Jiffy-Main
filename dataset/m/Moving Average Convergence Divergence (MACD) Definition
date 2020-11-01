@@ -1,0 +1,40 @@
+
+Moving Average Convergence Divergence (MACD) is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price. The MACD is calculated by subtracting the 26-period Exponential Moving Average (EMA) from the 12-period EMA.
+ 
+The result of that calculation is the MACD line. A nine-day EMA of the MACD called the "signal line," is then plotted on top of the MACD line, which can function as a trigger for buy and sell signals. Traders may buy the security when the MACD crosses above its signal line and sell—or short—the security when the MACD crosses below the signal line. Moving Average Convergence Divergence (MACD) indicators can be interpreted in several ways, but the more common methods are crossovers, divergences, and rapid rises/falls.
+ 
+﻿MACD=12-Period EMA − 26-Period EMA\text{MACD}=\text{12-Period EMA }-\text{ 26-Period EMA}MACD=12-Period EMA − 26-Period EMA﻿
+ 
+MACD is calculated by subtracting the long-term EMA (26 periods) from the short-term EMA (12 periods). An exponential moving average (EMA) is a type of moving average (MA) that places a greater weight and significance on the most recent data points. The exponential moving average is also referred to as the exponentially weighted moving average. An exponentially weighted moving average reacts more significantly to recent price changes than a simple moving average (SMA), which applies an equal weight to all observations in the period.
+ 
+The MACD has a positive value whenever the 12-period EMA (blue) is above the 26-period EMA (red) and a negative value when the 12-period EMA is below the 26-period EMA. The more distant the MACD is above or below its baseline indicates that the distance between the two EMAs is growing. In the following chart, you can see how the two EMAs applied to the price chart correspond to the MACD (blue) crossing above or below its baseline (red dashed) in the indicator below the price chart.
+ 
+MACD is often displayed with a histogram (see the chart below) which graphs the distance between the MACD and its signal line. If the MACD is above the signal line, the histogram will be above the MACD’s baseline. If the MACD is below its signal line, the histogram will be below the MACD’s baseline. Traders use the MACD’s histogram to identify when bullish or bearish momentum is high.
+ 
+The relative strength indicator (RSI) aims to signal whether a market is considered to be overbought or oversold in relation to recent price levels. The RSI is an oscillator that calculates average price gains and losses over a given period of time; the default time period is 14 periods with values bounded from 0 to 100.
+ 
+MACD measures the relationship between two EMAs, while the RSI measures price change in relation to recent price highs and lows. These two indicators are often used together to provide analysts a more complete technical picture of a market.
+ 
+These indicators both measure momentum in a market, but, because they measure different factors, they sometimes give contrary indications. For example, the RSI may show a reading above 70 for a sustained period of time, indicating a market is overextended to the buy side in relation to recent prices, while the MACD indicates the market is still increasing in buying momentum. Either indicator may signal an upcoming trend change by showing divergence from price (price continues higher while the indicator turns lower, or vice versa).
+ 
+One of the main problems with divergence is that it can often signal a possible reversal but then no actual reversal actually happens—it produces a false positive. The other problem is that divergence doesn't forecast all reversals. In other words, it predicts too many reversals that don't occur and not enough real price reversals. 
+ 
+"False positive" divergence often occurs when the price of an asset moves sideways, such as in a range or triangle pattern following a trend. A slowdown in the momentum—sideways movement or slow trending movement—of the price will cause the MACD to pull away from its prior extremes and gravitate toward the zero lines even in the absence of a true reversal.
+ 
+Are you interested in using MACD for your trades? Check out our own primer on the MACD and Spotting Trend Reversals with MACD for more information.
+ 
+If you'd like to learn about more indicators, Investopedia's Technical Analysis Course provides a comprehensive introduction to the subject. You'll learn basic and advanced technical analysis, chart reading skills, technical indicators you need to identify, and how to capitalize on price trends in over five hours of on-demand video, exercises, and interactive content. 
+ 
+As shown on the following chart, when the MACD falls below the signal line, it is a bearish signal which indicates that it may be time to sell. Conversely, when the MACD rises above the signal line, the indicator gives a bullish signal, which suggests that the price of the asset is likely to experience upward momentum. Some traders wait for a confirmed cross above the signal line before entering a position to reduce the chances of being "faked out" and entering a position too early.
+ 
+Crossovers are more reliable when they conform to the prevailing trend. If the MACD crosses above its signal line following a brief correction within a longer-term uptrend, it qualifies as bullish confirmation.
+ 
+If the MACD crosses below its signal line following a brief move higher within a longer-term downtrend, traders would consider that a bearish confirmation.
+ 
+When the MACD forms highs or lows that diverge from the corresponding highs and lows on the price, it is called a divergence. A bullish divergence appears when the MACD forms two rising lows that correspond with two falling lows on the price. This is a valid bullish signal when the long-term trend is still positive. Some traders will look for bullish divergences even when the long-term trend is negative because they can signal a change in the trend, although this technique is less reliable.
+ 
+When the MACD forms a series of two falling highs that correspond with two rising highs on the price, a bearish divergence has been formed. A bearish divergence that appears during a long-term bearish trend is considered confirmation that the trend is likely to continue. Some traders will watch for bearish divergences during long-term bullish trends because they can signal weakness in the trend. However, it is not as reliable as a bearish divergence during a bearish trend.
+ 
+When the MACD rises or falls rapidly (the shorter-term moving average pulls away from the longer-term moving average), it is a signal that the security is overbought or oversold and will soon return to normal levels. Traders will often combine this analysis with the Relative Strength Index (RSI) or other technical indicators to verify overbought or oversold conditions.
+ 
+It is not uncommon for investors to use the MACD’s histogram the same way they may use the MACD itself. Positive or negative crossovers, divergences, and rapid rises or falls can be identified on the histogram as well. Some experience is needed before deciding which is best in any given situation because there are timing differences between signals on the MACD and its histogram.

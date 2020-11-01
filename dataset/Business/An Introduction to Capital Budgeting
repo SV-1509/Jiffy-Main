@@ -1,0 +1,74 @@
+
+Capital budgeting involves choosing projects that add value to a company. The capital budgeting process can involve almost anything including acquiring land or purchasing fixed assets like a new truck or machinery.
+ 
+Corporations are typically required, or at least recommended, to undertake those projects that will increase profitability and thus enhance shareholders' wealth.
+ 
+However, the rate of return deemed acceptable or unacceptable is influenced by other factors specific to the company as well as the project.
+ 
+For example, a social or charitable project is often not approved based on the rate of return, but more on the desire of a business to foster goodwill and contribute back to its community.
+ 
+Capital budgeting is important because it creates accountability and measurability. Any business that seeks to invest its resources in a project without understanding the risks and returns involved would be held as irresponsible by its owners or shareholders.
+ 
+Furthermore, if a business has no way of measuring the effectiveness of its investment decisions, chances are the business would have little chance of surviving in the competitive marketplace. 
+ 
+Businesses (aside from non-profits) exist to earn profits. The capital budgeting process is a measurable way for businesses to determine the long-term economic and financial profitability of any investment project. 
+ A capital budgeting decision is both a financial commitment and an investment. By taking on a project, the business is making a financial commitment, but it is also investing in its longer-term direction that will likely have an influence on future projects the company considers.  
+Different businesses use different valuation methods to either accept or reject capital budgeting projects. Although the net present value (NPV) method is the most favorable one among analysts, the internal rate of return (IRR) and payback period (PB) methods are often used as well under certain circumstances. Managers can have the most confidence in their analysis when all three approaches indicate the same course of action.
+ 
+When a firm is presented with a capital budgeting decision, one of its first tasks is to determine whether or not the project will prove to be profitable. The payback period (PB), internal rate of return (IRR) and net present value (NPV) methods are the most common approaches to project selection.
+ 
+Although an ideal capital budgeting solution is such that all three metrics will indicate the same decision, these approaches will often produce contradictory results. Depending on management's preferences and selection criteria, more emphasis will be put on one approach over another. Nonetheless, there are common advantages and disadvantages associated with these widely used valuation methods.
+ 
+The payback period calculates the length of time required to recoup the original investment. For example, if a capital budgeting project requires an initial cash outlay of $1 million, the PB reveals how many years are required for the cash inflows to equate to the one million dollar outflow. A short PB period is preferred as it indicates that the project would "pay for itself" within a smaller time frame.
+ 
+In the following example, the PB period would be three and one-third of a year, or three years and four months.
+ 
+Payback periods are typically used when liquidity presents a major concern. If a company only has a limited amount of funds, they might be able to only undertake one major project at a time. Therefore, management will heavily focus on recovering their initial investment in order to undertake subsequent projects.
+ 
+Another major advantage of using the PB is that it is easy to calculate once the cash flow forecasts have been established.
+ 
+There are drawbacks to using the PB metric to determine capital budgeting decisions. Firstly, the payback period does not account for the time value of money (TVM). Simply calculating the PB provides a metric that places the same emphasis on payments received in year one and year two.
+ 
+Such an error violates one of the fundamental principles of finance. Luckily, this problem can easily be amended by implementing a discounted payback period model. Basically, the discounted PB period factors in TVM and allows one to determine how long it takes for the investment to be recovered on a discounted cash flow basis.
+ 
+Another drawback is that both payback periods and discounted payback periods ignore the cash flows that occur towards the end of a project's life, such as the salvage value. Thus, the PB is not a direct measure of profitability.
+ 
+The following example has a PB period of four years, which is worse than that of the previous example, but the large $15,000,000 cash inflow occurring in year five is ignored for the purposes of this metric.
+ 
+There are other drawbacks to the payback method that include the possibility that cash investments might be needed at different stages of the project. Also, the life of the asset that was purchased should be considered. If the asset's life does not extend much beyond the payback period, there might not be enough time to generate profits from the project.
+ 
+Since the payback period does not reflect the added value of a capital budgeting decision, it is usually considered the least relevant valuation approach. However, if liquidity is a vital consideration, PB periods are of major importance.
+ 
+The internal rate of return (or expected return on a project) is the discount rate that would result in a net present value of zero. Since the NPV of a project is inversely correlated with the discount rate—if the discount rate increases then future cash flows become more uncertain and thus become worth less in value—the benchmark for IRR calculations is the actual rate used by the firm to discount after-tax cash flows.
+ 
+An IRR which is higher than the weighted average cost of capital suggests that the capital project is a profitable endeavor and vice versa.
+ 
+The IRR rule is as follows:
+ 
+IRR > Cost of Capital = Accept Project
+ 
+IRR < Cost of Capital = Reject Project
+ 
+In the example below, the IRR is 15%. If the firm's actual discount rate that they use for discounted cash flow models is less than 15% the project should be accepted.
+ 
+The primary advantage of implementing the internal rate of return as a decision-making tool is that it provides a benchmark figure for every project that can be assessed in reference to a company's capital structure. The IRR will usually produce the same types of decisions as net present value models and allows firms to compare projects on the basis of returns on invested capital.
+ 
+Despite that the IRR is easy to compute with either a financial calculator or software packages, there are some downfalls to using this metric. Similar to the PB method, the IRR does not give a true sense of the value that a project will add to a firm—it simply provides a benchmark figure for what projects should be accepted based on the firm's cost of capital.
+ 
+The internal rate of return does not allow for an appropriate comparison of mutually exclusive projects; therefore managers might be able to determine that project A and project B are both beneficial to the firm, but they would not be able to decide which one is better if only one may be accepted.
+ 
+Another error arising with the use of IRR analysis presents itself when the cash flow streams from a project are unconventional, meaning that there are additional cash outflows following the initial investment. Unconventional cash flows are common in capital budgeting since many projects require future capital outlays for maintenance and repairs. In such a scenario, an IRR might not exist, or there might be multiple internal rates of return. In the example below two IRRs exist—12.7% and 787.3%.
+ 
+The IRR is a useful valuation measure when analyzing individual capital budgeting projects, not those which are mutually exclusive. It provides a better valuation alternative to the PB method, yet falls short on several key requirements.
+ 
+The net present value approach is the most intuitive and accurate valuation approach to capital budgeting problems. Discounting the after-tax cash flows by the weighted average cost of capital allows managers to determine whether a project will be profitable or not. And unlike the IRR method, NPVs reveal exactly how profitable a project will be in comparison to alternatives.
+ 
+The NPV rule states that all projects with a positive net present value should be accepted while those that are negative should be rejected. If funds are limited and all positive NPV projects cannot be initiated, those with the high discounted value should be accepted.
+ 
+In the two examples below, assuming a discount rate of 10%, project A and project B have respective NPVs of $126,000 and $1,200,000. These results signal that both capital budgeting projects would increase the value of the firm, but if the company only has $1 million to invest at the moment, project B is superior.
+ 
+Some of the major advantages of the NPV approach include its overall usefulness and that the NPV provides a direct measure of added profitability. It allows one to compare multiple mutually exclusive projects simultaneously, and even though the discount rate is subject to change, a sensitivity analysis of the NPV can typically signal any overwhelming potential future concerns.
+ 
+Although the NPV approach is subject to fair criticisms that the value-added figure does not factor in the overall magnitude of the project, the profitability index (PI), a metric derived from discounted cash flow calculations can easily fix this concern.
+ 
+The profitability index is calculated by dividing the present value of future cash flows by the initial investment. A PI greater than 1 indicates that the NPV is positive while a PI of less than 1 indicates a negative NPV. Weighted average cost of capital (WACC) may be hard to calculate, but it's a solid way to measure investment quality.

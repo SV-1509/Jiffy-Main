@@ -1,0 +1,56 @@
+
+The side-by-side white lines pattern is a three-candle continuation pattern that occurs on candlestick charts. The up version is a large up (white or green) candle followed by a gap and then two more white candles of similar size to each other. The down version is a large down (black or red) candle followed by two white candles of similar size. When the pattern occurs, which is rare, it is expected that the price will continue moving in the current trend direction, down or up, as the case may be.
+ 
+The up gap side-by-side white lines is a bullish continuation pattern with the following characteristics:
+ 
+The down gap side-by-side white lines is a bearish continuation pattern with the following characteristics:
+ 
+The side-by-side white lines pattern is moderately accurate in predicting a continuation of the current trend, but it is somewhat uncommon. A continuation occurs 66% of the time. The pattern doesn't always produce large price moves. A little over 60% of the patterns produced a 6% average move in 10 days, and those patterns occurred in downtrends with a downside breakout from the pattern (downtrend continuation). Patterns occurring in other contexts didn't have as large of price moves, according to Thomas Bulkowski's candlestick research.
+ 
+Use other chart patterns or technical indicators to confirm the candlestick pattern to maximize the odds of success.
+ 
+Many traders opt to wait for confirmation from the pattern. Confirmation is price movement that confirms the expectation of the pattern. For example, following an up gap side-by-side white lines pattern, a trader may wait for the price to move above the highs of the pattern before initiating a long position. A stop loss could then be placed below the low of the second or third candle or even the first candle in order to give the trade more room.
+ 
+Suppose the security is engaged in an uptrend, with confident bulls expecting higher prices. The first candle shows a rally with a large real body and a close higher than the open. Bull confidence increases further on the second candle, with an up gap and positive intraday price action that holds a higher high into the closing bell.
+ 
+Bullish resolve is tested on the third candle, which opens with an initial drop into the opening price of the second candle. However, the decline fails to gain traction and buyers lift the security back to the high of the second candle by the close. This reveals diminishing bear power, raising odds for a rally and new high on the next candle.  
+ 
+Suppose the security is engaged in a downtrend, with confident bears expecting lower prices. The first candle posts a sell-off bar with a large real body and a close lower than the open. Bear confidence is shaken on the second candle, with a down gap and strong intraday price action that holds below the gap into the closing bell. Bearish resolve grows on the third candle, which opens with a down gap into the opening price of the second candle. Once again strong intraday price action fails to pierce gap resistance. This reveals diminishing bull power, raising odds for a decline and new low on the next candle.
+ 
+The Apple Inc. (AAPL) daily chart shows an example of the up gap version of the candlestick pattern.
+ 
+Coming off a swing low, the price has a large up candle followed by a gap and then two additional side-by-side up candles. The next day (fourth candle), the price continued to rally, moving above the high of candles two and three. This provided confirmation that the uptrend was continuing. The rally lasted a few more days before drifting sideways.
+ 
+The three outside up/down candlestick pattern is a reversal pattern, not a continuation pattern like the up/down gap side-by-side white lines pattern. In the outside up pattern, a black candlestick is followed by two white candles. In the outside down pattern, a white candle is followed by two black candles.
+ 
+The pattern is rare, which means finding it and opportunities to use it will be limited. The pattern has moderate reliability. This means that ideally the candlestick pattern should be coupled with other forms of analysis and confirmed by other trade signals. The pattern that tended to produce large price moves, following the pattern, was the down gap version occurring in a downtrend. The pattern served to act as a downtrend continuation pattern.
+ 
+This pattern, and candlestick patterns in general, don't provide a price target. It is up to the trader to determine when they will exit a profitable trade. Waiting for price confirmation following the pattern is recommended.
+
+The Gap Three Methods is a three-bar Japanese candlestick pattern that indicates a continuation of the current trend. It is a variant of the Upside Tasuki Gap pattern, but the third candle completely closes the gap between the first two candles.
+ 
+The Upside Gap Three methods is a bullish continuation pattern with the following characteristics:
+ 
+The Downside Gap Three Methods is a bearish continuation pattern with the following characteristics:
+ 
+The Upside/Downside Gap Three Methods is a rare but reasonably reliable pattern. When identified, traders should apply other forms of technical analysis to seek confirmation, such as price action and technical indicators.
+ 
+Suppose the market is engaged in a current uptrend. The rally continues on the first candle in a healthy session with the close well above the open, generating a wide range real body. This increases the bull's confidence, while putting bears on the defensive. Their caution is justified because the second candle opens with a gap up and healthy buying pressure that lifts the security to a new high. Profit-taking causes the third candle to close the gap between the first and second candles. The bulls assume the uptrend will resume now that the gap has filled.
+ 
+Now suppose the market is engaged in a current downtrend. The decline continues on the first candle in a weak session with the close well below the open, generating a wide range real body. This increases the bear's confidence, while putting bulls on the defensive. Their caution is justified because the second candle opens with a down gap and active selling pressure that drops the security to a new low. Short covering causes the third candle to close the gap between the first and second candles. The bears assume the downtrend will resume now that the gap has filled.
+ 
+Paul has spotted an Upside Gap Three Methods pattern on the chart of Cellectis S.A. and wants to use the formation to enter a long position in the direction of the trend and set his risk parameters. He could execute a trade at the closing price of the third candle at $16.39 and place a stop-loss order below the first candle’s low at $15.75. David may decide to take a more conservative approach and enter a buy stop order slightly above the second candle’s high at $16.95, waiting for confirmation that the uptrend has resumed. He could then use the low of the third candle at $16.27 as a stop-loss point. 
+
+The upside/downside ratio is a market breadth indicator that shows the relationship between the volumes of advancing and declining issues on an exchange. Investors typically use the indicator to determine the momentum of the market at any given time.
+ 
+The upside/downside ratio is calculated as follows:
+ 
+﻿Upside/Downside Ratio=Advancing IssuesDeclining Issueswhere:Advancing Issues=total volume traded of securities thatclose above their opening priceDeclining Issues=total volume traded of securities thatclose below their opening price\begin{aligned} &Upside/Downside~Ratio = \dfrac{Advancing~Issues}{Declining~Issues}\\ &\textbf{where:}\\ &Advancing~Issues=\text{\small total volume traded of securities that}\\&\text{\small close above their opening price}\\ &Declining~Issues=\text{\small total volume traded of securities that}\\&\text{\small close below their opening price}\\ \end{aligned}​Upside/Downside Ratio=Declining IssuesAdvancing Issues​where:Advancing Issues=total volume traded of securities thatclose above their opening priceDeclining Issues=total volume traded of securities thatclose below their opening price​﻿
+ 
+The upside/downside ratio is often smoothed using a simple moving average to filter out smaller, less significant movements. The indicator generates values greater than 1 when the volume on advancing issues is greater than declining issues. It generates values less than 1 when the volume on the declining issues is greater than advancing issues. The upside/downside ratio, also known as the upside/downside volume ratio, is available as a technical indicator on many trading platforms. (For further reading, see: How to Use Volume to Improve Your Trading.)
+ 
+Contrarian Strategies: The upside/downside ratio is often used to gauge overbought and oversold conditions in the market. Low values can indicate that the market is reaching oversold levels, while high values can indicate that the market is becoming overbought. Traders should use other technical indicators in conjunction with the upside/downside ratio when building a trading strategy. For example, if the indicator has a value less than 1, traders could look for buy entry points in securities that are approaching significant support levels, such as stocks nearing their long-term trendlines.
+ 
+Momentum/Trend Strategies: Momentum traders, who trade in the direction of the prevailing trend, often use the upside/downside ratio to confirm the broader market has support from institutional investors. Traders may decide to use the indicator as a trade entry filter. For instance, they may only buy a stock when the indicator is above 1.5 or take a short position when it is below 0.5.
+ 
+Other technical indicators, such as the relative strength index (RSI) and stochastic oscillator could be used with the upside/downside ratio to ensure the market is not in an extreme overbought or oversold condition and due for a price correction. For example, if the indicator has a value less than 0.5 and the RSI is below 30, it may be prudent to avoid entering a short position until a short-term retracement occurs. (For more, see: Overbought or Oversold? Use the Relative Strength Index to Find Out.)

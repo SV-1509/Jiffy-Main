@@ -1,0 +1,14 @@
+
+Boolean algebra is a division of mathematics that deals with operations on logical values and incorporates binary variables. Boolean algebra traces its origins to an 1854 book by mathematician George Boole.
+ 
+The distinguishing factor of Boolean algebra is that it deals only with the study of binary variables. Most commonly Boolean variables are presented with the possible values of 1 ("true") or 0 ("false"). Variables can also have more complex interpretations, such as in set theory. Boolean algebra is also known as binary algebra.
+ 
+Boolean algebra is different from elementary algebra as the latter deals with numerical operations and the former deals with logical operations. Elementary algebra is expressed using basic mathematical functions, such as addition, subtraction, multiplication, and division, whereas Boolean algebra deals with conjunction, disjunction, and negation.
+ 
+The concept of Boolean algebra was first introduced by George Boole in his book, The Mathematical Analysis of Logic, and further expanded upon in his book, An Investigation of the Laws of Thought. Since its concept has been detailed, Boolean algebra's primary use has been in computer programming languages. Its mathematical purposes are used in set theory and statistics.
+ 
+Boolean algebra has applications in finance through mathematical modeling of market activities. For example, research into the pricing of stock options can be aided by the use of a binary tree to represent the range of possible outcomes in the underlying security. In this binomial options pricing model, where there are only two possible outcomes, the Boolean variable represents an increase or a decrease in the price of the security.
+ 
+This type of modeling is necessary because, in American options, which can be exercised at any time, the path of a security's price is just as important as its final price. The binomial options pricing model requires the path of a security's price to be broken into a series of discrete time ranges.
+ 
+As such, the binomial options pricing model allows an investor or trader to view the change in the asset price from one period to the next. This allows them to evaluate the option based on decisions made at different points. Because a U.S. based option can be exercised at any time, this allows a trader to determine whether they should exercise an option or hold onto it for a longer period. An analysis of the binomial tree would allow a trader to see in advance if an option should be exercised. If there is a positive value, then the option should be exercised, if the value is negative, then the trader should hold onto the position.

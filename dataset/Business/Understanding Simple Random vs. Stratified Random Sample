@@ -1,0 +1,26 @@
+
+In statistical analysis, the "population" is the total set of observations or data that exists. However, it is often unfeasible to measure every individual or data point in a population. Instead, researchers rely on samples. A sample is a set of observations from the population. The sampling method is the process used to pull samples from the population.
+ 
+Simple random samples and stratified random samples are both common methods for obtaining a sample. A simple random sample is used to represent the entire data population and.randomly selects individuals from the population without any other consideration.
+ 
+A stratified random sample, on the other hand, first divides the population into smaller groups, or strata, based on shared characteristics. Therefore, a stratified sampling strategy will ensure that members from each subgroup is included in the data analysis.
+ 
+Simple random sampling is a statistical tool used to describe a very basic sample taken from a data population. This sample represents the equivalent of the entire population.
+ 
+The simple random sample is often used when there is very little information available about the data population, when the data population has far too many differences to divide into various subsets, or when there is only one distinct characteristic among the data population.
+ 
+For instance, a candy company may want to study the buying habits of its customers in order to determine the future of its product line. If there are 10,000 customers, it may use choose 100 of those customers as a random sample. It can then apply what it finds from those 100 customers to the rest of its base.
+ 
+Statisticians will devise an exhaustive list of a data population and then select a random sample within that large group. In this sample, every member of the population has an equal chance of being selected to be part of the sample. They can be chosen in two ways:
+ 
+Using simple random sampling allows researchers to make generalizations about a specific population and leave out any bias. This can help determine how to make future decisions. So that candy company from the example above can use this tool to develop a new candy flavor to manufacture based on the current tastes of the 100 customers. But keep in mind, these are generalizations, so there is room for error. After all, it is a simple sample. Those 100 customers may not have an accurate representation of the tastes of the entire population.
+ 
+Unlike simple random samples, stratified random samples are used with populations that can be easily broken into different subgroups or subsets. These groups are based on certain criteria, then randomly choose elements from each in proportion to the group's size versus the population.
+ 
+This method of sampling means there will be selections from each different group—the size of which is based on its proportion to the entire population. But the researchers must ensure the strata do not overlap. Each point in the population must only belong to one stratum so each point is mutually exclusive. Overlapping strata would increase the likelihood that some data are included, thus skewing the sample.
+ 
+The candy company may decide to use the random stratified sampling method by dividing its 100 customers into different age groups to help make determinations about the future of its production.
+ Portfolio managers can use stratified random sampling to create portfolios by replicating an index such as a bond index. 
+Stratified sampling offers some advantages and disadvantages compared to simple random sampling. Because it uses specific characteristics, it can provide a more accurate representation of the population based on what's used to divide it into different subsets. This often requires a smaller sample size, which can save resources and time. In addition, by including sufficient sample points from each stratum, the researchers can conduct a separate analysis on each individual stratum.
+ 
+But more work is required to pull a stratified sample than a random sample. Researchers must individually track and verify the data for each stratum for inclusion, which can take a lot more time compared with random sampling.

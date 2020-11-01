@@ -1,0 +1,20 @@
+
+The Directional Movement Index, or DMI, is an indicator developed by J. Welles Wilder in 1978 that identifies in which direction the price of an asset is moving. The indicator does this by comparing prior highs and lows and drawing two lines: a positive directional movement line (+DI) and a negative directional movement line (-DI). An optional third line, called directional movement (DX) shows the difference between the lines. When +DI is above -DI, there is more upward pressure than downward pressure in the price. If -DI is above +DI, then there is more downward pressure in the price. This indicator may help traders assess the trend direction. Crossovers between the lines are also sometimes used as trade signals to buy or sell.
+ 
+﻿+DI=(Smoothed +DMATR )×100-DI=(Smoothed -DMATR )×100DX=(∣+DI−-DI∣∣+DI+-DI∣)×100where:+DM (Directional Movement)=Current High−PHPH=Previous high-DM=Previous Low−Current LowSmoothed +/-DM=∑t=114DM−(∑t=114DM14)+CDMCDM=Current DMATR=Average True Range\begin{aligned} &\text{+DI} = \left ( \frac{ \text{Smoothed +DM} }{ \text{ATR } } \right ) \times 100 \\ &\text{-DI} = \left ( \frac{ \text{Smoothed -DM} }{ \text{ATR } } \right ) \times 100 \\ &\text{DX} = \left ( \frac{ \mid \text{+DI} - \text{-DI} \mid }{ \mid \text{+DI} + \text{-DI} \mid } \right ) \times 100 \\ &\textbf{where:}\\ &\text{+DM (Directional Movement)} = \text{Current High} - \text{PH} \\ &\text{PH} = \text{Previous high} \\ &\text{-DM} = \text{Previous Low} - \text{Current Low} \\ &\text{Smoothed +/-DM} = \textstyle{ \sum_{t=1}^{14} \text{DM} - \left ( \frac{ \sum_{t=1}^{14} \text{DM} }{ 14 } \right ) + \text{CDM} } \\ &\text{CDM} = \text{Current DM} \\ &\text{ATR} = \text{Average True Range} \\ \end{aligned}​+DI=(ATR Smoothed +DM​)×100-DI=(ATR Smoothed -DM​)×100DX=(∣+DI+-DI∣∣+DI−-DI∣​)×100where:+DM (Directional Movement)=Current High−PHPH=Previous high-DM=Previous Low−Current LowSmoothed +/-DM=∑t=114​DM−(14∑t=114​DM​)+CDMCDM=Current DMATR=Average True Range​﻿
+ 
+The Average Directional Movement Index, or ADX, is a smoothed average of DX.
+ 
+The DMI is primarily used to help asses trend direction and provide trade signals.
+ 
+Crossovers are the main trade signals. A long trade is taken when the +DI crosses above -DI and uptrend could be underway. A sell signal occurs when the -DI drops below -DI. A short trade is initiated when -DI drops below +DI because a downtrend could be underway.
+ 
+While this method may produce some good signals, it will also produce some bad ones since a trend may not necessarily develop after entry.
+ 
+The indicator can also be used as a trend or trade confirmation tool. If the +DI is well above -DI, the trend has strength to the upside and this would help confirm current long trades or new long trade signals based on other entry methods. If -DI is well above +DI this confirms the strong downtrend or short positions.
+ 
+The DMI indicator is composed of two lines, with an optional third line. The Aroon Indicator also has two lines. The two indicators both show positive and negative movement, helping to identify trend direction. The calculations are different though, so crossovers on each of the indicators will occur at different times.
+ 
+The directional movement index (DMI) is part of a larger system called the Average Directional Movement Index (ADX). The trend direction of DMI can be incorporated with the strength readings of the ADX. Readings above 20 on the ADX means the price is trending strongly. Whether using ADX or not, the indicator is still prone to producing lots of false signals.
+ 
++DI and -DI readings and crossovers are based on historical prices and don't necessarily reflect what will happen in the future. A crossover can occur, but the price may not respond, resulting in a losing trade. The lines may also crisscross, resulting in multiple signals but no trend in the price. This can be somewhat avoided by only taking trades in the larger trend direction based on long-term price charts, or incorporating ADX readings to help isolate strong trends.

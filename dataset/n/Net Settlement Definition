@@ -1,0 +1,22 @@
+
+Net settlement is a bank's routine resolution of the day's transactions at the end of the business day.
+ 
+Since many or most bank transactions are now sent electronically, this is no longer a matter of counting the cash in the drawer. Instead, the bank has to add up all of their electronic credits and debits.
+ 
+The bank then sends its settlement file to a Federal Reserve Bank, which credits it with any funds that are due to be paid to it via the interbank settlement system.
+ 
+The net settlement system permits banks to accumulate credits and debits with each other throughout the business day. Only at the end of the business day are the totals calculated and only the net differential needs to be transferred between the banks.
+ 
+Otherwise, a bank's net settlement is similar to an individual’s checkbook balancing chore. The chore gets complicated if you have money coming in as cash, checks, and direct deposits, and money going out as cash purchases, checks, and credit card purchases. All of those transactions, including purchases, returns, bills paid, and paychecks received, must be netted to get the full picture.
+ 
+Net settlement makes it easier for banks to manage their liquidity. That is, they need to know that they have enough real cash on hand to pay out to their customers over the counter and at the ATMs. There are two types of net settlement systems:
+ 
+In banking, gross settlement is not the same as net settlement. In particular, a real-time gross settlement system differs from a net settlement .
+ Large interbank transfers usually occur in real-time rather than as net settlements. 
+For example, the U.K.'s BACS Payment Schemes Limited (previously the Bankers' Automated Clearing Services or BACS) allows transactions among institutions to accumulate during the day. At the close of business, the central bank will adjust the active institutional accounts by the net amounts of the funds exchanged.
+ 
+Large-value interbank funds transfers usually use real-time gross settlement. These often require immediate and complete clearing, which are typically organized by the nation's central bank.
+ 
+Real-time gross settlement can reduce a bank's settlement risk overall as the interbank settlement occurs in real-time throughout the day, rather than all together at the end of the day as with net settlement. This type of gross settlement eliminates the risk of a lag in completing the transaction.
+ 
+Real-time gross settlement often incurs a higher charge than net settlement processes.

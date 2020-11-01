@@ -1,0 +1,16 @@
+
+Financial Information eXchange (FIX) is a vendor-neutral electronic communications protocol for the international real-time exchange of securities transaction information. The protocol is used by the FIX community which includes nearly 300 member firms including all major investment banks. FIX has become the de-facto messaging standard for pre-trade, trade, and post-trade communication, as well as for U.S. regulatory reporting. It is compatible with almost every commonly used network technology. FIX Protocol, Ltd. owns and maintains the FIX system. The company was formed entirely to fulfill that purpose and to ensure the system remains in the public domain.
+ 
+FIX communications include texting and email, securities trade allocations, news, order submissions and changing, advertising and execution reporting. Mostly used for business-to-business interactions, it is designed to improve business messages and transaction flow. FIX achieves this goal by minimizing redundancy and reducing time spent on telephone communications, written messages, transactions, and documentation. The benefits are particularly obvious to funds, investment managers, and investment banking firms. FIX systems transfer accurate and timely financial information concerning securities trades through and across security exchange houses.
+ 
+Introduced in 1992 for equity trading between Salomon Brothers and Fidelity Investments, the FIX protocol is similarly becoming a standard in options and futures exchanges. It was implemented to provide for more efficient and accountable transactions and record keeping, replacing a system that was handled mostly over the phone. Under the old system, indications of interest were often lost "on hold" or routed to the wrong trader. FIX has become the standard electronic protocol for pre-trade communications and trade execution.
+ 
+Of note, the Society for Worldwide Interbank Financial Telecommunication (SWIFT) is the standard for back office messaging, FIX is the standard for front office messaging.
+ 
+The FIX is popular among both the buy side (institutions) as well as the sell side (brokers/dealers) of the financial markets. Users include mutual funds, investment banks, brokers, stock exchanges, and other electronic communication networks (ECNs). It is mainly used for equity transactions, although it can handle bond, foreign exchange, and derivatives transactions.
+ 
+Collaborative efforts of the FIX Trading Community™ member firms maintain and continue to develop the FIX messaging standard. FIX community members include several leading financial institutions around the globe. Work done by these member firms ensures the standard continues to evolve to meet new and emerging trading requirements. Their actions also promote the adoption of FIX use worldwide. The FIX protocol itself is a non-proprietary, free, and open standard that is constantly being developed by its member firms.
+ 
+FIX is an ever-changing entity and seeks to stay current with changes in the industry and in technology. As of early 2018, members are discussing current issues and challenges which include cybersecurity, digital currencies and blockchain, execution transparency, and performance improvements.
+ 
+Any firm considering using FIX may wish to download the FIX implementation guide from the FIX Trading Community website.

@@ -1,0 +1,74 @@
+
+A take-profit order (T/P) is a type of limit order that specifies the exact price at which to close out an open position for a profit. If the price of the security does not reach the limit price, the take-profit order does not get filled.
+ 
+Most traders use take-profit orders in conjunction with stop-loss orders (S/L) to manage their open positions. If the security rises to the take-profit point, the T/P order is executed and the position is closed for a gain. If the security falls to the stop-loss point, the S/L order is executed and the position is closed for a loss. The difference between the market price and these two points helps define the trade's risk-to-reward ratio.
+ 
+The benefit of using a take-profit order is that the trader doesn't have to worry about manually executing a trade or second-guessing themselves. On the other hand, take-profit orders are executed at the best possible price regardless of the underlying security's behavior. The stock could start to breakout higher, but the T/P order might execute at the very beginning of the breakout, resulting in high opportunity costs.
+ 
+Take-profit orders are best used by short-term traders interested in managing their risk. This is because they can get out of a trade as soon as their planned profit target is reached and not risk a possible future downturn in the market. Traders with a long-term strategy do not favor such orders because it cuts into their profits.
+ 
+Take-profit orders are often placed at levels that are defined by other forms of technical analysis, including chart pattern analysis and support and resistance levels, or using money management techniques, such as the Kelly Criterion. Many trading system developers also use take-profit orders when placing automated trades since they can be well-defined and serve as a great risk management technique.
+ 
+Suppose that a trader spots an ascending triangle chart pattern and opens a new long position. If the stock has a breakout, the trader expects that it will rise to 15 percent from its current levels. If the stock doesn't breakout, the trader wants to quickly exit the position and move on to the next opportunity. The trader might create a take-profit order that is 15 percent higher than the market price in order to automatically sell when the stock reaches that level. At the same time, they may place a stop-loss order that's five percent below the current market price.
+ 
+The combination of the take-profit and stop-loss order creates a 5:15 risk-to-reward ratio, which is favorable assuming that the odds of reaching each outcome are equal, or if the odds are skewed toward the breakout scenario. 
+ 
+By placing the take-profit order, the trader doesn't have to worry about diligently tracking the stock throughout the day or second-guessing themselves with regards to how high the stock may go after the breakout. There is a well-defined risk-to-reward ratio and the trader knows what to expect before the trade even occurs.
+
+A tobacco or cigarette tax is imposed on all tobacco products by various levels of government to fund healthcare programs. The tax mainly contributes to cancer research and smoking prevention and cessation programs. The idea behind the cigarette tax is that it would lead to a reduction in the demand for tobacco products, especially among youths.
+ 
+Federal and state governments impose a tax on all tobacco products, which means that tobacco consumers are responsible for paying the tax. Types of tobacco products include cigarettes, pipe tobacco, cigars, hookah/shisha tobacco, snuff, etc.
+ 
+The terms "Tobacco Tax" and "Cigarette Tax" are used interchangeably. Cigarette tax includes excise tax, sales tax, value-added tax (VAT), and duty tax. Taxes on vices like tobacco and alcohol are also called sin taxes.
+ 
+The first excise tax within the U.S. was introduced in 1791 by the secretary of the Treasury, Alexander Hamilton. Since excise taxes are levied on the sale and production for sale of tobacco products, the price offered to buyers is higher relative to the price of other goods and services. This is because the producers, manufacturers, and wholesalers pay the excise tax and in a bid to recover the tax paid on these products, they inflate the price which is transferred to the final consumers. Each state has different prices due to varying state tax rates in addition to a different manufacturer, wholesaler, and retailer pricing and discounting practices.
+ 
+Of the 50 US States and District of Columbia, the 5 states with the highest excise tax (dollars) per cigarette pack as of 2018 are:
+ 
+The lowest state cigarette taxes are in:
+ 
+This data is as of January 2018.
+ 
+Critics of tobacco taxes state that since smoking is an addictive habit, increasing the price of tobacco products would do little to curb the number of sales made. Instead, the number of illegal sales of untaxed cigarettes that come into the city from low-tax states will increase.
+ 
+Most cities and counties do not have tobacco taxes. For example, the states of Michigan, Washington, and Hawaii have no local tobacco tax. Some states have multiple local taxes, while some others have only one. New York City, for example, is the only locality in the state of New York with cigarette taxes. Of the 8.5 million residents of NYC, it is estimated that about 900,000 smoke and that 12,000 die annually from tobacco-related illnesses. In April 2017, the city proposed a bill that would increase the taxes on cigarettes and other tobacco-related products with the hope that the number of smokers will be trimmed down to 160,000 within the following three years. The additional revenue collected from the price hikes is to be used to fund public housing in the city. In addition to increasing the price for all tobacco products, the bill will also ban pharmacies from selling tobacco products, reduce the number of tobacco retailers in the city, and require all residential buildings to have a non-smoking policy.
+ 
+There is some debate about whether high taxes on products like tobacco work — and that depends on who you ask. The Center for Tobacco Control Research and Education does admit that tobacco taxes contribute to the reduction of smoking and tobacco use in general but says it does not find them very effective. The reason being that since the tax affects the price, small increases will not necessarily dissuade consumers from buying tobacco products. And in these cases — with smaller tax hikes — cigarette companies may even lower their prices to compensate. The increase would, therefore, have to be so large that it would deter consumers from making future purchases and dissuade companies from lowering their prices. 
+ 
+But supporters of cigarette taxes say otherwise. According to the World Health Organization (WHO), these taxes are the most effective way to reduce consumption and demand. The organization says that higher prices have led to more people quitting and they reduce the chances of a former smoker relapsing. WHO says that, on average, a 10 percent increase in price (including taxes) would account for a 4 percent drop in demand in high-income countries and a 5 percent drop in low- and middle-income countries. 
+
+Trailing price-to-earnings (P/E) is a relative valuation multiple that is based on the last 12 months of actual earnings. It is calculated by taking the current stock price and dividing it by the trailing earnings per share (EPS) for the past 12 months.
+ 
+Trailing P/E can be contrasted with the forward P/E, which instead uses projected future earnings to calculate the price-to-earnings ratio. 
+ 
+The price-earnings ratio, or P/E ratio, is calculated by dividing a company's stock price by its earnings from the most recent fiscal year. When people refer to the P/E ratio generically, they are typically referring to the trailing P/E. It is calculated by dividing the current market value, or share price, by the earnings per share (EPS) over the previous 12 months.
+ 
+The earnings for the most recent fiscal year can be found on the income statement in the annual report. At the bottom of the income statement is a total EPS for the firm's entire fiscal year. Divide the company's current stock price by this number to get the trailing P/E ratio.
+ 
+This measure is considered the reliable since it is calculated based on actual performance rather than expected future performance. However, a company's past earnings are not necessarily always a good predictor of future earnings, and so caution is warranted
+ 
+Analysts like the P/E ratio because it creates an apples-to-apples evaluation of relative earnings. The P/E ratio can thus be used to look for relative bargains in the market or to determine when a stock is too expensive compared to others. Some companies deserve a higher P/E multiple because they have deeper economic moats, but some companies with high share price relative to earnings are simply overpriced. Likewise, some firms deserve a lower P/E because they represent a great bargain, while other company's are justified in a low P/E due to financial weakness. Trailing P/E helps analysts match time periods for a more accurate and up-to-date measure of relative value.
+ 
+A disadvantage of the P/E ratio is that stock prices are constantly moving, while earnings remain fixed. Analysts attempt to deal with this issue by using the trailing price-to-earnings ratio, which uses earnings from the most recent four quarters rather than earnings from the end of the last fiscal year.
+ 
+For example, a company with a stock price of $50 and 12 month trailing EPS of $2, thus has a trailing P/E ratio of 25x (read 25 times). This means that the company's stock is trading at 25x its trailing 12 month earnings.
+ 
+Using the same example, if the company's stock price falls to $40 midway through the year, the new P/E ratio is 20x, which means the stock's price is now trading at only 20x its earnings. Earnings have not changed, but the stock's price has dropped.
+ 
+Earnings for the last two quarters may have also dropped. In this case, analysts can substitute the first two-quarters of the fiscal year calculation with the most recent two quarters for a trailing P/E ratio. If earnings in the first half of the year, represented by the most recent two quarters, are trending lower, the P/E ratio will be higher than 20x. This tells analysts that the stock may actually be overvalued at the current price given its declining level of earnings.
+ 
+The trailing P/E ratio differs from the forward P/E, which uses earnings estimates or forecasts for the next four quarters or next projected 12 months of earnings. As a result, forward P/E can sometimes be more relevant to investors when evaluating a company. Nonetheless, as forward P/E relies on estimated future earnings, it is prone to miscalculation and/or the bias of analysts. Companies may also underestimate or mis-state earnings in order to beat consensus estimate P/E in the next quarterly earnings report.
+ 
+Both ratios are useful during acquisitions. The trailing P/E ratio is an indicator of past performance of the company being acquired. Forward P/E represents the company's guidance for the future. Typically valuations of the acquired company are based on the latter ratio. However, the buyer can use an earnout provision to lower the acquisition price, with the option of making an additional payout if the targeted earnings are achieved.
+
+The term 28/36 rule refers to a common-sense rule used to calculate the amount of debt an individual or household should assume. According to this rule, a household should spend a maximum of 28% of its gross monthly income on total housing expenses and no more than 36% on total debt service, including housing and other debt such as car loans and credit cards. Lenders often use this rule to assess whether to extend credit to borrowers.
+ 
+Lenders use different criteria to determine whether to approve credit applications. One of the main considerations is an individual's credit score. They usually require that a credit score falls within a certain range before considering credit approval. However, a credit score is not the only consideration. Lenders also consider a borrower’s income and debt-to-income (DTI) ratio.
+ 
+Another factor is the 28/36, which is an important calculation that determines a consumer's financial health. It helps determine how much debt a consumer can safely assume based on their income, other debts, and financial needs—the premise being that debt loads in excess of the 28/36 parameters are likely difficult for an individual or household to sustain and may eventually lead to default. This rule is a guide lenders use to structure underwriting requirements. Some lenders may vary these parameters based on a borrower’s credit score, potentially allowing high credit score borrowers to have slightly higher DTI ratios.
+ Most traditional lenders require a maximum household expense-to-income ratio of 28% and a maximum total debt to income ratio of 36% for loan approval. 
+Lenders that use the 28/36 rule in their credit assessment may include questions about housing expenses and comprehensive debt accounts in their credit application. Each lender establishes his or her own parameters for housing debt and total debt as a part of their underwriting program. This means that household expense payments, primarily rent or mortgage payments, can be no more than 28% of the monthly or annual income. Similarly, total debt payments cannot exceed 36% of income.
+ 
+Since the 28/36 rule is a standard that most lenders use before advancing any credit, consumers should be aware of the rule before they apply for any type of credit. That's because lenders pull credit checks for every application they receive. These hard inquiries show up on a consumer's credit report. Having multiple inquiries over a short period of time can affect a consumer's credit score and may hinder their chance of getting credit in the future.
+ 
+Here's a hypothetical example to show how the 28/36 rule actually works. Let's say an individual or family brings home a monthly income of $5,000. If they want to adhere to the 28/36 rule, they could budget $1,000 for a monthly mortgage payment and housing expenses. This would leave an additional $800 for making other types of loan repayments.

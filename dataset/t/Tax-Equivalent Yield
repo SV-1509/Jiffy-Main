@@ -1,0 +1,22 @@
+
+The tax-equivalent yield is the pretax yield that a taxable bond needs to possess for its yield to be equal to that of a tax-free municipal bond. This calculation can be used to fairly compare the yield of a tax-free bond to that of a taxable bond to see which bond has a higher applicable yield. It is also known as the after-tax yield.
+ 
+The tax-equivalent yield takes into account an individual investor's current tax rate to determine whether an investment in a municipal bond is equivalent to a corresponding investment in a given taxable bond. In some cases, when an investor is certain that he will be moving up or down to a different tax bracket, this calculation can also be used to make efficient investment decisions.
+ 
+The formula for a bond's tax-equivalent yield includes three variables:
+ 
+R(te) = the tax-equivalent yield for a given investor
+ 
+R(tf) = the tax-free investment's yield
+ 
+t = the investor's current marginal tax rate
+ 
+Given these variables, the formula for an investment's tax-equivalent yield is:
+ 
+R(te) = R(tf) / (1 - t)
+ 
+Even though tax-free investments such as municipal bonds generally have a low expected return, the full impact of investing in them due to tax savings is often not quantified completely. Tax implications, in general, are a complicated and important part of financial strategy, as well as on often overlooked part.
+ 
+An investor's tax rate plays a significant role in the resulting tax-equivalent yields. For example, assume there is a tax-free bond that is yielding 7%. A decision to invest in this particular bond or any of the many taxable choices available greatly depends on the investor's marginal tax bracket. In the United States, as of 2019, there are six different marginal tax-rate brackets: 10%, 12%, 22%, 24%, 32%, and 35%. The tax-equivalent yield calculations for these brackets are as follows:
+ 
+Given this information, assume there is a taxable bond that is yielding 9.75%. In this situation, investors in the first four marginal tax brackets would be better off investing in the taxable bond, because even after paying their tax liability, they would still earn more than a 7% non-taxable bond. Investors in the highest two brackets would be better off investing in the tax-free bond.

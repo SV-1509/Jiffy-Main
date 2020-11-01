@@ -1,0 +1,36 @@
+
+Amortization is an accounting technique used to periodically lower the book value of a loan or intangible asset over a set period of time. In relation to a loan, amortization focuses on spreading out loan payments over time. When applied to an asset, amortization is similar to depreciation.
+ 
+The term "amortization" refers to two situations. First, amortization is used in the process of paying off debt through regular principal and interest payments over time. An amortization schedule is used to reduce the current balance on a loan, for example, a mortgage or car loan, through installment payments.
+ 
+Second, amortization can also refer to the spreading out of capital expenses related to intangible assets over a specific duration—usually over the asset's useful life—for accounting and tax purposes.
+ 
+Amortization can refer to the process of paying off debt over time in regular installments of interest and principal sufficient to repay the loan in full by its maturity date. With mortgage and auto loan payments, a higher percentage of the flat monthly payment goes toward interest early in the loan. With each subsequent payment, a greater percentage of the payment goes toward the loan's principal.
+ 
+Amortization can be calculated using most modern financial calculators, spreadsheet software packages, such as Microsoft Excel, or online amortization charts. Amortization schedules begin with the outstanding loan balance. For monthly payments, the interest payment is calculated by multiplying the interest rate by the outstanding loan balance and dividing by twelve. The amount of principal due in a given month is the total monthly payment (a flat amount) minus the interest payment for that month.
+ 
+The next month, the outstanding loan balance is calculated as the previous month's outstanding balance minus the most recent principal payment. The interest payment is once again calculated off the new outstanding balance, and the pattern continues until all principal payments have been made and the loan balance is zero at the end of the loan term.
+ 
+The formula to calculate the monthly principal due on an amortized loan is as follows:
+ 
+Principal Payment = Total Monthly Payment – (Outstanding Loan Balance * (Interest Rate / 12 Months))
+ 
+Typically, the total monthly payment is specified when you take out a loan. However, if you are attempting to estimate or compare monthly payments based on a given set of factors, such as loan amount and interest rate, you may need to calculate the monthly payment as well. If you need to calculate the total monthly payment for any reason, the formula is as follows:
+ 
+Total Monthly Payment = Loan Amount [ i (1+i) ^ n / ((1+i) ^ n) - 1) ]
+ 
+where:
+ 
+Amortization can also refer to the amortization of intangibles. In this case, amortization is the process of expensing the cost of an intangible asset over the projected life of the asset. It measures the consumption of the value of an intangible asset, such as goodwill, a patent, or a copyright.
+ 
+Amortization is calculated in a similar manner to depreciation, which is used for tangible assets, and depletion, which is used for natural resources.
+ 
+When businesses amortize expenses over time, they help tie the cost of using an asset to the revenues it generates in the same accounting period, in accordance with generally accepted accounting principles (GAAP). For example, a company benefits from the use of a long-term asset over a number of years. Thus, it writes off the expense incrementally over the useful life of that asset.
+ The IRS has schedules dictating the total number of years in which to expense both tangible and intangible assets for tax purposes. 
+The amortization of intangibles is also useful in tax planning. The Internal Revenue Service (IRS) allows taxpayers to take a deduction for certain expenses: geological and geophysical expenses incurred in oil and natural gas exploration, atmospheric pollution control facilities, bond premiums, research and development (R&D), lease acquisition, forestation and reforestation, and intangibles, such as goodwill, patents, copyrights, and trademarks.
+ 
+For example, let's look at a four-year, $30,000 auto loan at 3% interest. The monthly payment is going to be $664.03 ($30,000 ((.0025 (1.0025 ^ 48) / (1.0025 ^ 48) - 1))).
+ 
+In the first month, $75.00 ($30,000 outstanding loan balance * 3% interest rate / 12 months) of the $664.03 monthly payment goes to interest while the remaining $589.03 ($664.03 total monthly payment - $75.00 interest payment) goes toward principal.
+ 
+Each month, the total payment stays the same, while the portion going to principal increases and the portion going to interest decreases. In the final month, only $1.66 is paid in interest because the outstanding loan balance at that point is very minimal compared to the starting loan balance.

@@ -1,0 +1,94 @@
+
+Return on investment (ROI) is a financial metric that is widely used to measure the probability of gaining a return from an investment. It is a ratio that compares the gain or loss from an investment relative to its cost. It is as useful in evaluating the potential return from a stand-alone investment as it is in comparing returns from several investments.
+ 
+In business analysis, ROI and other cash flow measures—such as internal rate of return (IRR) and net present value (NPV)—are key metrics that are used to evaluate and rank the attractiveness of a number of different investment alternatives. Although ROI is a ratio, it is typically expressed as a percentage rather than as a ratio.
+ 
+ROI can be calculated using two different methods.
+ 
+First method:
+ 
+﻿ROI=Net Return  on  InvestmentCost  of  Investment×100%ROI = \frac{\text{Net\ Return \ on \ Investment}}{\text{Cost \ of \ Investment}}\times 100\%ROI=Cost  of  InvestmentNet Return  on  Investment​×100%﻿
+ 
+Second method:
+ 
+﻿ROI=Final Value of Investment − Initial Value of InvestmentCost of Investment×100%ROI = \frac{\text{Final Value of Investment}\ -\ \text{Initial Value of Investment}}{\text{Cost of Investment}}\times100\%ROI=Cost of InvestmentFinal Value of Investment − Initial Value of Investment​×100%﻿
+ 
+When interpreting ROI calculations, it's important to keep a few things in mind. First, ROI is typically expressed as a percentage because it is intuitively easier to understand (as opposed to when expressed as a ratio). Second, the ROI calculation includes the net return in the numerator because returns from an investment can be either positive or negative.
+ 
+When ROI calculations yield a positive figure, it means that net returns are in the black (because total returns exceed total costs). Alternatively, when ROI calculations yield a negative figure, it means that net returns are in the red because total costs exceed total returns. (In other words, this investment produces a loss.) Finally, to calculate ROI with the highest degree of accuracy, total returns and total costs should be considered. For an apples-to-apples comparison between competing investments, annualized ROI should be considered.
+ 
+Assume an investor bought 1,000 shares of the hypothetical company Worldwide Wicket Co. at $10 per share. One year later, the investor sold the shares for $12.50. The investor earned dividends of $500 over the one-year holding period. The investor also spent a total of $125 on trading commissions in order to buy and sell the shares.
+ 
+The ROI for this investor can be calculated as follows:
+ 
+Here is a step-by-step analysis of the calculation:
+ 
+If you further dissect the ROI into its component parts, it is revealed that 23.75% came from capital gains and 5% came from dividends. This distinction is important because capital gains and dividends are taxed at different rates in most jurisdictions.
+ A positive ROI means that net returns are positive because total returns are greater than any associated costs; a negative ROI indicates that net returns are negative: total costs are greater than returns. 
+If, for example, commissions were split, there is an alternative method of calculating this hypothetical investor's ROI for their Worldwide Wicket Co. investment. Assume the following split in the total commissions: $50 when buying the shares and $75 when selling the shares.
+ 
+In this formula, IVI refers to the initial value of the investment (or the cost of the investment). FVI refers to the final value of the investment.
+ Annualized ROI helps account for a key omission in standard ROI—namely, how long an investment is held. 
+The annualized ROI calculation provides a solution for one of the key limitations of the basic ROI calculation; the basic ROI calculation does not take into account the length of time that an investment is held, also referred to as the holding period. The formula for calculating annualized ROI is as follows:
+ 
+﻿Annualized ROI=[(1+ROI)1/n−1]×100%where:\begin{aligned} &\text{Annualized } ROI = [(1 + ROI) ^{1/n} - 1]\times100\%\\ &\textbf{where:}\\ &\begin{aligned} n=\ &\text{Number of years for which the investment}\\ &\text{is held} \end{aligned} \end{aligned}​Annualized ROI=[(1+ROI)1/n−1]×100%where:​﻿  
+ 
+﻿Assume a hypothetical investment that generated an ROI of 50% over five years. The simple annual average ROI of 10%–which was obtained by dividing ROI by the holding period of five years–is only a rough approximation of annualized ROI. This is because it ignores the effects of compounding, which can make a significant difference over time. The longer the time period, the bigger the difference between the approximate annual average ROI, which is calculated by dividing the ROI by the holding period in this scenario, and annualized ROI. 
+ 
+﻿From the formula above,\begin{aligned} &\text{From the formula above,}\\ &\text{Annualized ROI}=[(1+0.50)^{1/5}-1]\times100\%=8.45\% \end{aligned}​From the formula above,​﻿
+ 
+This calculation can also be used for holding periods of less than a year by converting the holding period to a fraction of a year.
+ 
+Assume an investment that generated an ROI of 10% over six months.
+ 
+﻿Annualized ROI=[(1+0.10)1/0.5−1]×100%=21.00%\text{Annualized ROI}=[(1+0.10)^{1/0.5}-1]\times100\%=21.00\%Annualized ROI=[(1+0.10)1/0.5−1]×100%=21.00%﻿
+ 
+In the equation above, the numeral 0.5 years is equivalent to six months.
+ 
+Annualized ROI is especially useful when comparing returns between various investments or evaluating different investments.
+ 
+Assume that an investment in stock X generated an ROI of 50% over five years, while an investment in stock Y returned 30% over three years. You can determine what the better investment was in terms of ROI by using this equation:
+ 
+﻿AROIX=[(1+0.50)1/5−1]×100%=8.45%AROIY=[(1+0.30)1/3−1]×100%=9.14%where:AROIX=Annualized ROI for stock X\begin{aligned} &AROIX=[(1+0.50)^{1/5}-1]\times100\%=8.45\%\\ &AROIY=[(1+0.30)^{1/3}-1]\times100\%=9.14\%\\ &\textbf{where:}\\ &AROIX = \text{Annualized ROI for stock }X\\ &AROIY = \text{Annualized ROI for stock }Y \end{aligned}​AROIX=[(1+0.50)1/5−1]×100%=8.45%AROIY=[(1+0.30)1/3−1]×100%=9.14%where:AROIX=Annualized ROI for stock X​﻿
+ 
+According to this calculation, stock Y had a superior ROI compared to stock X.
+ 
+Leverage can magnify ROI if the investment generates gains. However, by the same token, leverage can also amplify losses if the investment proves to be a losing investment.
+ 
+Assume that an investor bought 1,000 shares of the hypothetical company Worldwide Wickets Co. at $10 per share. Assume also that the investor bought these shares on a 50% margin (meaning they invested $5,000 of their own capital and borrowed $5,000 from their brokerage firm as a margin loan). Exactly one year later, this investor sold their shares for $12.50. They earned dividends of $500 over the one-year holding period. They also spent a total of $125 on trading commissions when they bought and sold the shares. In addition, their margin loan carried an interest rate of 9%.
+ 
+When calculating the ROI on this specific, hypothetical investment, there are a few important things to keep in mind. First, in this example, the interest on the margin loan ($450) should be considered in total costs. Second, the initial investment is now $5,000 because of the leverage employed by taking the margin loan of $5,000. 
+ 
+Thus, even though the net dollar return was reduced by $450 on account of the margin interest, ROI is still substantially higher at 48.50% (compared with 28.75% if no leverage was employed).
+ 
+As an additional example, consider if the share price fell to $8.00 instead of rising to $12.50. In this situation, the investor decides to cut their losses and sell the full position. Here is the calculation for ROI in this scenario:
+ 
+﻿ROI=[($8.00−$10.00)×1,000]+$500−$125−$450($10.00×1,000)−($10.00×500)\begin{aligned} \text{ROI}=&\frac{[(\$8.00-\$10.00)\times1,000]+\$500-\$125-\$450}{(\$10.00\times1,000)-(\$10.00\times500)}\\ &\times100\%=-\frac{\$2,075}{\$5,000} =-41.50\% \end{aligned}ROI=​($10.00×1,000)−($10.00×500)[($8.00−$10.00)×1,000]+$500−$125−$450​​﻿
+ 
+In this case, the ROI of -41.50% is much worse than an ROI of -16.25%, which would have occurred if no leverage was employed.
+ 
+When evaluating a business proposal, it's possible that you will be contending with unequal cash flows. In this scenario, ROI may fluctuate from one year to the next.
+ 
+This type of ROI calculation is more complicated because it involves using the internal rate of return (IRR) function in a spreadsheet or calculator.
+ 
+Assume you are evaluating a business proposal that involves an initial investment of $100,000 (This figure is shown under the "Year 0" column in the "Cash Outflow" row in the following table). This investment will generate cash flows over the next five years; this is shown in the "Cash Inflow" row. The row called "Net Cash Flow" sums up the cash outflow and cash inflow for each year.
+ 
+Using the IRR function, the calculated ROI is 8.64%.
+ 
+The final column shows the total cash flows over the five-year period. Net cash flow over this five-year period is $25,000 on an initial investment of $100,000. If this $25,000 was spread out equally over five years, the cash flow table would then look like this:
+ 
+In this case, the IRR is now only 5.00%.
+ 
+The substantial difference in the IRR between these two scenarios—despite the initial investment and total net cash flows being the same in both cases—has to do with the timing of the cash inflows. In the first case, substantially larger cash inflows are received in the first four years. Because of the time value of money, these larger inflows in the earlier years have a positive impact on IRR.
+ 
+The biggest benefit of ROI is that it is a relatively uncomplicated metric; it is easy to calculate and intuitively easy to understand. ROI's simplicity means that it is often used as a standard, universal measure of profitability. As a measurement, it is not likely to be misunderstood or misinterpreted because it has the same connotations in every context.
+ 
+There are also some disadvantages of the ROI measurement. First, it does not take into account the holding period of an investment, which can be an issue when comparing investment alternatives. For example, assume investment X generates an ROI of 25%, while investment Y produces an ROI of 15%. One cannot assume that X is the superior investment unless the time-frame of each investment is also known. It's possible that the 25% ROI from investment X was generated over a period of five years, but the 15% ROI from investment Y was generated in only one year. Calculating annualized ROI can overcome this hurdle when comparing investment choices.
+ 
+Second, ROI does not adjust for risk. It is common knowledge that investment returns have a direct correlation with risk: the higher the potential returns, the greater the possible risk. This can be observed firsthand in the investment world, where small-cap stocks typically have higher returns than large-cap stocks (but are accompanied by significantly greater risk). An investor who is targeting a portfolio return of 12%, for example, would have to assume a substantially higher degree of risk than an investor whose goal is a return of only 4%. If an investor hones in on only the ROI number without also evaluating the concomitant risk, the eventual outcome of the investment decision may be very different from the expected result.
+ 
+Third, ROI figures can be exaggerated if all the expected costs are not included in the calculation. This can happen either deliberately or inadvertently. For example, in evaluating the ROI on a piece of real estate, all associated expenses should be considered. These include mortgage interest, property taxes, insurance, and all costs of maintenance. These expenses can subtract a large amount from the expected ROI; without including all of them in the calculation, a ROI figure can be grossly overstated.
+ 
+Finally, like many profitability metrics, ROI only emphasizes financial gains when considering the returns on an investment. It does not consider ancillary benefits, such as social or environmental goods. A relatively new ROI metric, known as Social Return on Investment (SROI), helps to quantify some of these benefits for investors.
+ 
+Return on investment (ROI) is a simple and intuitive metric of the profitability of an investment. There are some limitations to this metric, including that it does not consider the holding period of an investment and is not adjusted for risk. However, despite these limitations, ROI is still a key metric used by business analysts to evaluate and rank investment alternatives.

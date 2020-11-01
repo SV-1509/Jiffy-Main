@@ -1,0 +1,38 @@
+
+Money-weighted rate of return is a measure of the performance of an investment. The money-weighted rate of return is calculated by finding the rate of return that will set the present values of all cash flows equal to the value of the initial investment. The money-weighted rate of return (MWRR) is equivalent to the internal rate of return (IRR).
+ 
+﻿PVO=PVI=CF0+CF1(1+IRR)+CF2(1+IRR)2+CF3(1+IRR)3+...CFn(1+IRR)nwhere:PVO=PV OutflowsPVI=PV InflowsCF0=Initial cash outlay or investmentCF1,CF2,CF3,...CFn=Cash flowsN=Each periodIRR=Initial rate of return\begin{aligned} &PVO = PVI = CF_{0} \, +\, \frac{CF_{1}}{(1\, +\, IRR)}\, +\, \frac{CF_{2}}{(1\, +\, IRR)^{2}}\,\\ &\qquad\quad\, +\, \frac{CF_{3}}{(1\, +\, IRR)^{3}}\,\, +\,... \frac{CF_{n}}{(1\, +\, IRR)^{n}}\,\\ &\textbf{where:}\\ &PVO = \text{PV Outflows}\\ &PVI = \text{PV Inflows}\\ &CF_0 = \text{Initial cash outlay or investment}\\ &CF_1, CF_2, CF_3, ... CF_n = \text{Cash flows}\\ &N = \text{Each period}\\ &IRR = \text{Initial rate of return}\\ \end{aligned}​PVO=PVI=CF0​+(1+IRR)CF1​​+(1+IRR)2CF2​​+(1+IRR)3CF3​​+...(1+IRR)nCFn​​where:PVO=PV OutflowsPVI=PV InflowsCF0​=Initial cash outlay or investmentCF1​,CF2​,CF3​,...CFn​=Cash flowsN=Each periodIRR=Initial rate of return​﻿
+ 
+There are many ways to measure returns for assets, and it is important to know which method is being used when reviewing asset performance. The money-weighted rate of return incorporates the size and timing of cash flows, so it is an effective measure for returns on a portfolio. 
+ 
+The MWR sets the initial value of an investment to equal the future cash flows such as dividends added, withdrawals, deposits, and the sale proceeds. In other words, MWR helps determine the rate of return needed to start with the initial investment amount factoring all of the changes to cash flows during the investment period including the sale proceeds. 
+ 
+As stated earlier, a money-weighted rate of return for an investment is identical in concept to an internal rate of return. In other words, it is the discount rate on which the net present value (NPV) (NPV) = 0, or the present value of inflows = present value of outflows. 
+ 
+It’s important to identify the cash flows in and out of the portfolio including the sale of the asset or investment. Some of the cash flows that an investor might have in a portfolio include: 
+ 
+Example of the Money-Weighted Rate of Return 
+ 
+Each inflow or outflow must be discounted back to the present using a rate (r) that will make PV (inflows) = PV (outflows). 
+ 
+Let’s say an investor buys one share of a stock for $50 that pays an annual $2 dividend and sell it after two years for $65. Our money-weighted rate of return will be a rate that satisfies the following equation:
+ 
+﻿PV Outflows=PV Inflows=$21 + r + $2(1 + r)2 + $65(1 + r)3\begin{aligned} &PV \text{ Outflows}\\ &\qquad= PV \text{ Inflows} = \frac{\$2}{1\ +\ r}\ +\ \frac{\$2}{(1\ +\ r)^2}\ +\ \frac{\$65}{(1\ +\ r)^3}\\ &\qquad= \$50 \end{aligned}​PV Outflows=PV Inflows=1 + r$2​ + (1 + r)2$2​ + (1 + r)3$65​​﻿
+ 
+Solving for r using a spreadsheet or financial calculator, we have a money-weighted rate of return = 11.73%.
+ 
+The money-weighted rate of return is often compared to the time-weighted rate of return, but the two calculations have distinct differences. The time-weighted rate of return (TWR) is a measure of the compound rate of growth in a portfolio. The TWR measure is often used to compare the returns of investment managers because it eliminates the distorting effects on growth rates created by inflows and outflows of money.
+ 
+It can be difficult to determine how much money was earned on a portfolio because deposits and withdrawals distort the value of the return on the portfolio.
+ 
+Investors can't simply subtract the beginning balance, after the initial deposit, from the ending balance since the ending balance reflects both the rate of return on the investments and any deposits or withdrawals during the time invested in the fund. 
+ 
+The time-weighted return breaks up the return on an investment portfolio into separate intervals based on whether money was added or withdrawn from the fund. 
+ 
+MWR differs in that it takes into account investor behavior via the impact of fund inflows and outflows on performance but doesn’t separate the intervals where cash flows occurred like the TWR. Therefore, cash outlays or inflows can impact the MWR. If there are no cash flows, then both methods should deliver the same or similar results.
+ 
+The money-weighted rate of return considers all the cash flows from the fund or contribution, including withdrawals. Should an investment extend over several quarters, for example, the MWR lends more weight to the performance of the fund when it's at its largest size, hence the description "money-weighted." 
+ 
+The weighting can penalize fund managers because of cash flows that they have no control over. In other words, if an investor adds a large sum of money to a portfolio just before its performance rises, it equates to positive action. This is because the larger portfolio benefits more (in dollar terms) from the growth of the portfolio that if the contribution had not been made. 
+ 
+On the other hand, if an investor withdraws funds from a portfolio just prior to a surge in performance, it equates to a negative action. The now-smaller fund sees less benefit (in dollar terms) from the growth of the portfolio than if the withdrawal had not happened.

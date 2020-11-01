@@ -1,0 +1,26 @@
+
+Weighted average remaining term (WART) is a calculation used to compare the time to maturity of asset-backed securities (ABS), most commonly mortgages. A portfolio containing a large number of long-term securities will tend to have a higher WART than another pool with short-term maturities, depending on the relative principals of those securities. The weighted average remaining term is also known as weighted average maturity.
+ 
+The weighted average remaining term (WART) of a pool of debt securities is a function of two variables, time until maturity and remaining principal of those securities.
+ 
+To calculate the WART of a portfolio of mortgages, the investor will add together the outstanding value of the mortgages and determine the amount of each mortgage as a percentage of the entire pool.
+ 
+Next, they will weigh the remaining term of each mortgage according to the relative principal of the loan, assuming there will be no pre-payment. Finally, they will total the weighted mortgage terms for the WART of the entire portfolio.
+ 
+WART is most commonly used to compare the relative remaining timespans of various portfolios. Our example portfolio has a higher WART than another with a WART of five years and therefore would be more subject to market risks over its expected lifetime. 
+ 
+Risks affecting such a portfolio include prevailing interest rates and prepayment by borrowers. If market conditions led borrowers in our pool to pay off their loans earlier, lowering the outstanding principles on these loans, it is possible that the WART of our portfolio could dip below that of the portfolio with a WART of five years.
+ 
+Freddie Mac commonly uses WART in disclosure materials associated with securities backed by pooled mortgages. In this context, WART serves not to compare two securities but to demonstrate the effects of external forces such as prepayment on the WART of the security. 
+ 
+An investor considering a Freddie Mac security would consider these WART calculations when comparing it to an alternative investment or when seeking to construct a portfolio containing different WARTs.
+ 
+For example, consider the collection of mortgages where, loan 1 has $150,000 of remaining principal, due in 5 years, loan 2 has $200,000 due in 7 years, loan 3 has $50,000 due in 10 years, and loan 4 has $100,000 due in 20 years.
+ 
+Total remaining value of the loans is 150,000 + 200,000 + 50,000 + 100,000 = $500,000
+ 
+The amount of each mortgage as a percentage is 
+ 
+The remaining term of each mortgage according to the relative principal of the loan
+ 
+For this example, the weighted average remaining term (WART) for the example portfolio is, 1.5 + 2.8 + 1 + 4 = 9.3 years

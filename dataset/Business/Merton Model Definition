@@ -1,0 +1,20 @@
+
+The Merton model is an analysis model used to assess the credit risk of a company's debt. Analysts and investors utilize the Merton model to understand how capable a company is at meeting financial obligations, servicing its debt, and weighing the general possibility that it will go into credit default.
+ 
+In 1974, economist Robert C. Merton proposed this model for assessing the structural credit risk of a company by modeling the company's equity as a call option on its assets. This model was later extended by Fischer Black and Myron Scholes to develop the Nobel-prize winning Black-Scholes pricing model for options.
+ 
+﻿E=VtN(d1)−Ke−rΔTN(d2)where:d1=lnVtK+(r+σv22)ΔTσvΔTandd2=d1−σvΔtE = Theoretical value of a company’s equityVt=Value of the company’s assets in period tK = Value of the company’s debtt = Current time periodT = Future time periodr = Risk-free interest rateN = Cumulative standard normal distributione = Exponential term(i.e. 2.7183...)σ=Standard deviation of stock returns\begin{aligned} &E=V_tN\left(d_1\right)-Ke^{-r\Delta{T}}N\left(d_2\right)\\ &\textbf{where:}\\ &d_1=\frac{\ln{\frac{V_t}{K}}+\left(r+\frac{\sigma_v^2}{2}\right)\Delta{T}}{\sigma_v\sqrt{\Delta{T}}}\\ &\text{and}\\ &d_2=d_1-\sigma_v\sqrt{\Delta{t}}\\ &\text{E = Theoretical value of a company's equity}\\ &V_t=\text{Value of the company's assets in period t}\\ &\text{K = Value of the company's debt}\\ &\text{t = Current time period}\\ &\text{T = Future time period}\\ &\text{r = Risk-free interest rate}\\ &\text{N = Cumulative standard normal distribution}\\ &\text{e = Exponential term}\left(i.e. \text{ }2.7183...\right)\\ &\sigma=\text{Standard deviation of stock returns}\\ \end{aligned}​E=Vt​N(d1​)−Ke−rΔTN(d2​)where:d1​=σv​ΔT​lnKVt​​+(r+2σv2​​)ΔT​andd2​=d1​−σv​Δt​E = Theoretical value of a company’s equityVt​=Value of the company’s assets in period tK = Value of the company’s debtt = Current time periodT = Future time periodr = Risk-free interest rateN = Cumulative standard normal distributione = Exponential term(i.e. 2.7183...)σ=Standard deviation of stock returns​﻿
+ 
+Consider a company's shares sell for $210.59, stock price volatility is 14.04%, the interest rate is 0.2175%, the strike price is $205, and the expiration time is four days. With the given values, the theoretical call option value produced by the model is -8.13.
+ 
+Loan officers and stock analysts utilize the Merton model to analyze a corporation's risk of credit default. This model allows for easier valuation of the company and also helps analysts determine if the company will be able to retain solvency by analyzing maturity dates and debt totals.
+ 
+The Merton (or Black-Scholes) model calculates the theoretical pricing of European put and call options without considering dividends paid out during the life of the option. The model can, however, be adapted to consider these dividends by calculating the ex-dividend date value of underlying stocks.
+ 
+The Merton Model makes the following basic assumptions:
+ 
+Variables that were taken into consideration in the formula include options strike prices, present underlying prices, risk-free interest rates, and the amount of time before expiration.
+ 
+Robert C. Merton was a famed American economist and Nobel Memorial Prize laureate, who befittingly purchased his first stock at age 10. Later, he earned a Bachelor in Science at Columbia University, a Masters of Science at California Institute of Technology (Cal Tech), and a doctorate in economics at Massachusetts Institute of Technology (MIT), where he later become a professor until 1988. At MIT, he developed and published groundbreaking and precedent-setting ideas to be utilized in the financial world.
+ 
+Black and Scholes, during Merton’s time at MIT, developed a critical insight that by hedging an option, systematic risk is removed. Merton then developed a derivative showing that hedging an option would remove all risk. In their 1973 paper, "The Pricing of Options and Corporate Liabilities," Black and Scholes included Merton's report, which explained the derivative of the formula. Merton later changed the name of the formula to the Black-Scholes model.

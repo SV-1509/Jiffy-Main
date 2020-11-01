@@ -1,0 +1,22 @@
+
+Computing the internal rate of return (IRR) for a possible investment is time-consuming and inexact. IRR calculations must be performed via guesses, assumptions, and trial and error. Essentially, an IRR calculation begins with two random guesses at possible values and ends with either a validation or rejection. If rejected, new guesses are necessary.
+ 
+The IRR is the discount rate at which the net present value (NPV) of future cash flows from an investment is equal to zero. Functionally, the IRR is used by investors and businesses to find out if an investment is a good use of their money. An economist might say that it helps identify investment opportunity costs. A financial statistician would say that it links the present value of money and the future value of money for a given investment.
+ 
+This shouldn't be confused with the return on investment (ROI). Return on investment ignores the time value of money, essentially making it a nominal number rather than a real number. The ROI might tell an investor the actual growth rate from start to finish, but it takes the IRR to show the return necessary to take out all cash flows and receive all of the value back from the investment.
+ 
+One possible algebraic formula for IRR is:
+ 
+﻿IRR=R1+(NPV1×(R2−R1))(NPV1−NPV2)where:R1,R2=randomly selected discount ratesNPV1=higher net present valueNPV2=lower net present value\begin{aligned} &IRR = R_1 + \frac{(NPV_1 \times (R_2 - R_1))}{(NPV_1 - NPV_2)}\\ &\textbf{where:}\\ &R_1, R_2=\text{randomly selected discount rates}\\ &NPV_1=\text{higher net present value}\\ &NPV_2=\text{lower net present value}\\ \end{aligned}​IRR=R1​+(NPV1​−NPV2​)(NPV1​×(R2​−R1​))​where:R1​,R2​=randomly selected discount ratesNPV1​=higher net present valueNPV2​=lower net present value​﻿ 
+ 
+There are several important variables in play here: the amount of investment, the timing of the total investment, and the associated cash flow taken from the investment. More complicated formulas are necessary to distinguish between net cash inflow periods.
+ 
+The first step is to make guesses at the possible values for R1 and R2 to determine the net present values. Most experienced financial analysts have a feel for what the guesses should be.
+ 
+If the estimated NPV1 is close to zero, then the IRR is equal to R1. The entire equation is set up with the knowledge that at the IRR, NPV is equal to zero. This relationship is critical to understanding the IRR.
+ 
+There are other methods for estimating IRR. The same basic process is followed for each. However, if NPV is too materially distant from zero, take another guess and try again.
+ 
+IRR can be calculated and used for purposes that include mortgage analysis, private equity investments, lending decisions, expected return on stocks, or finding yield to maturity on bonds.
+ 
+IRR models do not take the cost of capital into consideration. They also assume that all cash inflows earned during the project life are reinvested at the same rate as IRR. These two issues are accounted for in the modified internal rate of return (MIRR).

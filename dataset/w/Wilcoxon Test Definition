@@ -1,0 +1,12 @@
+
+The Wilcoxon test, which can refer to either the Rank Sum test or the Signed Rank test version, is a nonparametric statistical test that compares two paired groups. The tests essentially calculate the difference between sets of pairs and analyzes these differences to establish if they are statistically significantly different from one another.
+ 
+The Rank Sum and Signed Rank tests were both proposed by American statistician Frank Wilcoxon in a groundbreaking research paper published in 1945. The tests laid the foundation for hypothesis testing of nonparametric statistics, which are used for population data that can be ranked but do not have numerical values, such as customer satisfaction or music reviews. Nonparametric distributions do not have parameters and cannot be defined by an equation as parametric distributions can.
+ 
+The types of questions that the Wilcoxon Test can help us answer include things like:
+ 
+These models assume that the data comes from two matched, or dependent, populations, following the same person or stock through time or place. The data is also assumed to be continuous as opposed to discrete. Because it is a non-parametric test it does not require a particular probability distribution of the dependent variable in the analysis.
+ 
+The steps for arriving at a Wilcoxon Signed-Ranks Test Statistic, W, are as follows:
+ 
+In practice, this test is easily performed using statistical analysis software or a spreadsheet.

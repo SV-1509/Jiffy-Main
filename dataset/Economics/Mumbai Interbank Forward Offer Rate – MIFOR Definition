@@ -1,0 +1,44 @@
+
+The Mumbai Interbank Forward Offer Rate (MIFOR) is the rate that Indian banks use as a benchmark for setting prices on forward-rate agreements and derivatives. It is a mix of the London Interbank Offered Rate (LIBOR) and a forward premium derived from Indian forex markets.
+ 
+The Reserve Bank of India (RBI) banned its use in 2005 in the hopes of curtailing currency speculation, but relaxed that decree a year later, limiting it to interbank transactions only.
+ 
+The Reserve Bank of India (RBI) publishes MIFOR on its website so that investors don't have to calculate the swap points, which is the interest rate differential between the U.S. and India for the particular settlement date such as one month, two months and so on.
+ 
+However, it's difficult to calculate MIFOR because it uses currency swap points in addition to the LIBOR interest rate plus an unknown credit spread added by the Reserve Bank of India.
+ 
+LIBOR is a reference rate and is comprised of the average of interest rates supplied by multiple banks. MIFOR compensates for the credit risk of those banks by having a risk premium in its calculation. The credit risk premium is added to the swap points between the U.S. and India to compensate for the banks involved that furnish the rates.
+ 
+In other words, MIFOR doesn't simply use the interest rate differential between the U.S. and India for the specified maturity when calculating the swap points. For example, let's say the three-month U.S. rate is 4% while the India three-month rate is 6%. The interest rate differential would be 2%, but MIFOR adds a risk premium to that differential, which changes frequently based on the banks contributing the interbank rates.
+ 
+MIFOR is a benchmark for setting rates for derivatives in India, but to better understand its function, we must understand how interbank interest rates relate to MIFOR.
+ 
+For review, LIBOR is an average value of interest-rates, which is calculated from estimates submitted by the leading global banks on a daily basis. It stands for London Interbank Offered Rate and serves as the first step to calculating interest rates on various loans throughout the world. For instance, a variable floating rate debt instrument might be quoted at 100 basis points over LIBOR.
+ 
+The Mumbai Interbank Offered Rate (MIBOR) is one iteration of India's interbank rate, which is the rate of interest charged by a bank on a short-term loan to another bank. Banks borrow and lend money to one another on the interbank market in order to maintain appropriate, legal liquidity levels, and to meet reserve requirements placed on them by regulators. Interbank rates are made available only to the largest and most creditworthy financial institutions.
+ 
+MIBOR is calculated every day by the National Stock Exchange of India (NSEIL) as a weighted average of lending rates of a group of major banks throughout India, on funds lent to first-class borrowers. This is the interest rate at which banks can borrow funds from other banks in the Indian interbank market.
+ 
+The Mumbai Interbank Offer Rate (MIBOR) is modeled closely on LIBOR. The rate is used currently for forward contracts and floating-rate debentures. Over time and with more use, MIBOR may become more significant.
+ 
+MIFOR is slightly different from LIBOR and MIBOR. Both MIFOR and MIBOR have similar uses in the Indian financial markets, but the difference is that MIFOR brings an element of currency exchange into the mix.
+ 
+MIFOR is configured by including the U.S. dollar overnight LIBOR rate published at 11:00 a.m. London time every day. MIFOR also includes the swap points of a currency swap between the U.S. dollar and Indian rupee (USD/INR) of the same maturity. The reason for this is that an Indian bank pays LIBOR to borrow dollars in the interbank market and then gets rupees via the currency swap. As stated earlier, there's a credit risk premium added to the swap points between the U.S. and India to compensate for the banks involved that furnish the rates.
+ 
+Initially, the intention of MIFOR was for hedging purposes. However, many corporate entities used MIFOR for currency speculation.
+ 
+The Reserve Bank of India (RBI) finally grew concerned over the potential economic downside risk by having an abundance of speculative off-balance-sheet entities (such as currency swaps). The RBI did ban the use of MIFOR, and other non-rupee denominated benchmarks on May 20, 2005, in hopes that doing so would lower the amount of currency speculation. However, the RBI did relax the ban somewhat the following May and allowed MIFOR to be only used in interbank related transactions.
+ 
+Because MIFOR uses LIBOR as its base, the global push to find a replacement for LIBOR as the benchmark for other rates will become an issue here. A new benchmark, called Sterling Overnight Index Average (SONIA), is the effective overnight interest rate paid by banks for unsecured transactions in the British sterling market. It is used for overnight funding for trades that occur in off-hours and represents 8the depth of overnight business in the marketplace. The key takeaway for financial institutions is that it offers an alternative to LIBOR as a benchmark interest rate for financial transactions. As such, the future of MIFOR is unclear.
+ 
+In April 2017, the Working Group on Sterling Risk-Free Reference Rates, which is a group of active, influential dealers in the sterling interest rate swap market, announced SONIA would be it's preferred, near risk-free interest rate benchmark. This change provides an alternative interest rate to the dominant London Interbank Offered Rate (LIBOR).
+ 
+To that end, the Financial Conduct Authority announced it would no longer require banks to submit LIBOR quotes after 2021. While LIBOR will likely exist after that, its viability as a reference rate will likely be curtailed.
+ 
+Below is a table from the Reserve Bank of India, which contains the MIFOR rates posted on February 25, 2019. Please note that the rates are changed and updated daily on the central bank's website:
+ 
+The Singapore Interbank Offered Rate, known by its abbreviation SIBOR, is the benchmark interest rate, stated in Singapore dollars, for lending between banks within the Asian market. The SIBOR is a reference rate for lenders and borrowers that participate directly or indirectly in the Asian economy. SIBOR is similar to MIBOR and LIBOR.
+ 
+However, MIFOR factors in a currency exchange element along with a credit risk premium added to the rate to compensate for any risk from the banks supplying the LIBOR rate.
+ 
+As with any interest rate and currency rate transaction, there is the potential for risk, particularly if not hedged properly. Both interest rates and currency rates can fluctuate widely. For example, if there is a credit risk issue with the banks involved the MIFOR rate will likely be impacted. As a result, MIFOR and any derivative that uses it in its calculation can have risk associated with it.

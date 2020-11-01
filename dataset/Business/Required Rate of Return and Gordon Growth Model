@@ -1,0 +1,14 @@
+
+The required rate of return is defined as the return, expressed as a percentage, that an investor needs to receive on an investment to purchase an underlying security. As an example, if an investor is looking for a return of 7 percent on an investment, then she would be willing to invest in, say, a T-bill that pays a 7 percent return or higher.
+ 
+But what happens when an investor's required rate of return increases, such as from 7 percent to 9 percent? The investor will no longer be willing to invest in a T-bill with a return of 7 percent and will have to invest in something else, like a bond with a return of 9 percent. But in terms of the dividend discount model (also known as the Gordon Growth Model), what does the required rate of return do to the price of a security?
+ 
+The required rate of return will adjust the price that an investor is willing to pay for a given security.
+ 
+For example, let's assume the following: an investor has a required rate of return of 10 percent; the assumed growth rate of dividends for a firm is 3 percent indefinitely (a very large assumption in itself), and the current dividend payment is $2.50 per year. According to the Gordon growth model, the maximum price the investor should pay is $35.71 ($2.50 / (0.1 - 0.03)).
+ 
+As the investor changes her required rate of return, the maximum price she is willing to pay for a security will also change. For example, if we assume the same data as before but we change the required rate of return to only 8 percent, the maximum price the investor would pay in this scenario is $50 ($2.50 / (0.08 - 0.03)).
+ 
+This example looks at the actions of a single investor. What would happen to stock prices if all investors changed their required rates of return?
+ 
+A market-wide change in the required rate of return would spark changes in the price of a security. Take the second example given above (the reduction to 8 percent in the required rate of return); if all investors in a market reduced their required rate of return, they would be willing to pay more for a security than before. In such a scenario, security prices would be driven upward until the price became too high for the remaining investors to purchase the security. Should the required rate of return increase instead of decrease, the opposite would hold true.

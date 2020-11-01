@@ -1,0 +1,26 @@
+
+A stablecoin is a new class of cryptocurrencies that attempts to offer price stability and are backed by a reserve asset. Stablecoins have gained traction as they attempt to offer the best of both world’s—the instant processing and security or privacy of payments of cryptocurrencies, and the volatility-free stable valuations of fiat currencies.
+ 
+While bitcoin remains the most popular cryptocurrency, it tends to suffer from high volatility in its valuations. For instance, it rose from the level of around $5,950 in November of last year to above $19,700 in December, and then declined by around two-thirds to the level of $6,900 by early February. Even its intraday price swings can be wild; it is common to see the cryptocurrency moving in excess of 10 percent in either direction within a span of a few hours.
+ 
+This kind of short-term volatility makes bitcoin and other popular cryptocurrencies unsuitable for everyday use by the public. Essentially, a currency should act as a medium of monetary exchange and a mode of storage of monetary value, and its value should remain relatively stable over longer time horizons. Users will refrain from adopting it if they are not sure of its purchasing power tomorrow.
+ 
+Ideally, a crypto coin should maintain its purchasing power and should have the lowest possible inflation, sufficient enough to encourage spending the tokens instead of saving them. Stablecoins provide a solution to achieve this ideal behavior.
+ 
+Two primary reasons for the price stability of fiat currencies are the reserves that back them and the timely market actions by the controlling authorities, like central banks. Since fiat currencies are pegged to an underlying asset, such as gold or forex reserves which act as collateral, their valuations remain free from wild swings.
+ 
+Even in certain extreme cases when a fiat currency’s valuations may move drastically, the controlling authorities jump in and manage the demand and supply of currency to maintain price stability. The bulk of cryptocurrencies lacks both these key features—they don’t have a reserve backing their valuations and they don’t have a central authority to control prices when required.
+ 
+Stablecoins attempt to bridge this gap between fiat currencies and cryptocurrencies. There are three categories of stablecoins, all based on their working mechanism.
+ 
+Fiat-collateralized stablecoins maintain a fiat currency reserve, like the U.S. dollar, as collateral to issue a suitable number of crypto coins. Other forms of collateral can include precious metals like gold or silver, as well as commodities like oil, but most of the present-day fiat-collateralized stablecoins use dollar reserves.
+ 
+Such reserves are maintained by independent custodians and are regularly audited for adherence to the necessary compliance. Tether (USDT) and TrueUSD are popular crypto coins that have a value equivalent to that of a single U.S. dollar and are backed by dollar deposits.
+ 
+Crypto-collateralized stablecoins are backed by other cryptocurrencies. Since the reserve cryptocurrency may also be prone to high volatility, such stablecoins are “over-collateralized”—that is, a larger number of cryptocurrency tokens is maintained as reserve for issuing a lower number of stablecoins.
+ 
+For example, $2,000 worth of ether may be held as reserves for issuing $1,000 worth of crypto-backed stablecoins which accommodates for up to 50% of swings in reserve currency (ether). More frequent audits and monitoring add to price stability. Backed by ethereum, MakerDAO’s DAI is pegged against the U.S. dollar and allows for using a basket of crypto-assets as a reserve.
+ 
+Non-collateralized stablecoins don’t use any reserve but include a working mechanism, like that of a central bank, to retain a stable price. For instance, the dollar-pegged basecoin uses a consensus mechanism to increase or decrease the supply of tokens on need basis.
+ 
+Such actions are similar to a central bank printing banknotes to maintain valuations of the fiat currency. It can be achieved by implementing a smart contract on a decentralized platform that can run in an autonomous manner.

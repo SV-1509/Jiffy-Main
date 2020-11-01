@@ -1,0 +1,24 @@
+
+Discounted cash flow (DCF) is a valuation method used to estimate the value of an investment based on its future cash flows. DCF analysis attempts to figure out the value of an investment today, based on projections of how much money it will generate in the future. This applies to both financial investments for investors and for business owners looking to make changes to their businesses, such as purchasing new equipment.
+ 
+The purpose of DCF analysis is to estimate the money an investor would receive from an investment, adjusted for the time value of money. The time value of money assumes that a dollar today is worth more than a dollar tomorrow because it can be invested. As such, a DCF analysis is appropriate in any situation where a person is paying money in the present with expectations of receiving more money in the future.
+ 
+For example, assuming a 5% annual interest rate, $1.00 in a savings account will be worth $1.05 in a year. Similarly, if a $1 payment is delayed for a year, its present value is $.95 because it cannot be put in your savings account to earn interest.
+ 
+DCF analysis finds the present value of expected future cash flows using a discount rate. Investors can use the concept of the present value of money to determine whether future cash flows of an investment or project are equal to or greater than the value of the initial investment. If the value calculated through DCF is higher than the current cost of the investment, the opportunity should be considered.
+ 
+In order to conduct a DCF analysis, an investor must make estimates about future cash flows and the ending value of the investment, equipment, or other asset. The investor must also determine an appropriate discount rate for the DCF model, which will vary depending on the project or investment under consideration. If the investor cannot access the future cash flows, or the project is very complex, DCF will not have much value and alternative models should be employed.
+ 
+The formula for DCF is:
+ 
+﻿DCF=CF11+r1+CF21+r2+CFn1+rnwhere:CF=The cash flow for the given year.CF1 is for year one,  is for year two,CF2CFn is for additional years\begin{aligned}&DCF=\frac{CF_1}{1+r}^1+\frac{CF_2}{1+r}^2+\frac{CF_n}{1+r}^n\\&\textbf{where:}\\&CF=\text{The cash flow for the given year.}\\&\qquad\quad\text{$CF_1$ is for year one, $CF_2$ is for year two,}\\&\qquad\quad\text{$CF_n$ is for additional years}\\&r=\text{The discount rate}\end{aligned}​DCF=1+rCF1​​1+1+rCF2​​2+1+rCFn​​nwhere:CF=The cash flow for the given year.CF1​ is for year one, CF2​ is for year two,CFn​ is for additional years​﻿
+ 
+When a company looks to analyze whether it should invest in a certain project or purchase new equipment, it usually uses its weighted average cost of capital (WACC) as the discount rate when evaluating the DCF. The WACC incorporates the average rate of return that shareholders in the firm are expecting for the given year.
+ 
+You are looking to invest in a project and your company's WACC is 5%, so you will use 5% as your discount rate. The initial investment is $11 million and the project will last for five years, with the following estimated cash flows per year:
+ 
+Therefore, the discounted cash flows for the project are:
+ 
+If we sum up all of the discounted cash flows, we get a value of $13,306,728. Subtracting the initial investment of $11 million, we get a net present value (NPV) of $2,306,728. Because this is a positive number, the cost of the investment today is worth it as the project will generate positive discounted cash flows above the initial cost. If the project had cost $14 million, the NPV would have been -$693,272, indicating that the cost of the investment would not be worth it.
+ Dividend discount models, such as the gordon growth model (GGM), for valuing stocks are examples of using discounted cash flows. 
+The main limitation of DCF is that it requires making many assumptions. For one, an investor would have to correctly estimate the future cash flows from an investment or project. The future cash flows would rely on a variety of factors, such as market demand, the status of the economy, unforeseen obstacles, and more. Estimating future cash flows too high could result in choosing an investment that might not pay off in the future, hurting profits. Estimating cash flows too low, making an investment appear costly, could result in missed opportunities. Choosing a discount rate for the model is also an assumption and would have to be estimated correctly for the model to be worthwhile.

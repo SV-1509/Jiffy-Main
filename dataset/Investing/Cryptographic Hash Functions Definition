@@ -1,0 +1,23 @@
+
+A cryptographic hash function is a mathematical function used in cryptography. Typical hash functions take inputs of variable lengths to return outputs of a fixed length.
+ 
+A cryptographic hash function combines the message-passing capabilities of hash functions with security properties.
+ 
+Hash functions are commonly used data structures in computing systems for tasks, such as checking the integrity of messages and authenticating information. While they are considered cryptographically "weak" because they can be solved in polynomial time, they are not easily decipherable.
+ 
+Cryptographic hash functions add security features to typical hash functions, making it more difficult to detect the contents of a message or information about recipients and senders. 
+ 
+In particular, cryptographic hash functions exhibit these three properties:
+ 
+The three properties outlined above are desirable but they cannot always be implemented in practice. For example, the disparity in sample spaces for input hashes and outputs ensures that collisions are possible. For example, in 2017, the MIT Digital Currency Initiative found collision vulnerability in IOTA.
+ 
+Cryptographic hash functions are widely used in cryptocurrencies to pass transaction information anonymously. For example, bitcoin, the original and largest cryptocurrency, uses the SHA-256 cryptographic hash function in its algorithm. Similarly, IOTA, a platform for the Internet of Things, has its own cryptographic hash function, called Curl.
+ 
+However, hashes have other applications in the real world. These are some of the most common cryptographic applications:
+ 
+Storing passwords in a regular text file is dangerous, so nearly all sites store passwords as hashes. When a user inputs their password, it is hashed and the result is compared to the list of hashed values stored on the company's servers. This is not a fool-proof practice, however, as the Collection #1 trove of 21 million stolen passwords, discovered in 2019, demonstrates.﻿﻿
+ 
+Verifying signatures is a mathematical process used to verify the authenticity of digital documents or messages. A valid digital signature, where the prerequisites are satisfied, gives its receiver strong proof that the message was created by a known sender and that the message was not altered in transit. A digital signature scheme typically consists of three algorithms: a key generation algorithm; a signing algorithm that, given a message and a private key, produces a signature; and a signature verifying algorithm. Merkle Trees, a technology used in cryptocurrencies, is a kind of digital signature.
+ 
+Hashes can be used to make sure messages and files transmitted from sender to receiver are not tampered with during transit. The practice builds a "chain of trust." For example, a user might publish a hashed version of their data and the key so that recipients can compare the hash value they compute to the published value to make sure they align.
+ Victoria Song, Mother of All Breaches Exposes 773 Million Emails, 21 Million Passwords. Gizmodo. https://gizmodo.com/mother-of-all-breaches-exposes-773-million-emails-21-m-1831833456

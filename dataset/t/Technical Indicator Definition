@@ -1,0 +1,18 @@
+
+Technical indicators are heuristic or pattern-based signals produced by the price, volume, and/or open interest of a security or contract used by traders who follow technical analysis.
+ 
+By analyzing historical data, technical analysts use indicators to predict future price movements. Examples of common technical indicators include the Relative Strength Index, Money Flow Index, Stochastics, MACD and Bollinger Bands®.
+ 
+Technical analysis is a trading discipline employed to evaluate investments and identify trading opportunities by analyzing statistical trends gathered from trading activity, such as price movement and volume. Unlike fundamental analysts, who attempt to evaluate a security's intrinsic value based on financial or economic data, technical analysts focus on patterns of price movements, trading signals and various other analytical charting tools to evaluate a security's strength or weakness.
+ 
+Technical analysis can be used on any security with historical trading data. This includes stocks, futures, commodities, fixed-income, currencies, and other securities. In this tutorial, we’ll usually analyze stocks in our examples, but keep in mind that these concepts can be applied to any type of security. In fact, technical analysis is far more prevalent in commodities and forex markets where traders focus on short-term price movements.
+ 
+Technical indicators, also known as "technicals," are focused on historical trading data, such as price, volume, and open interest, rather than the fundamentals of a business, like earnings, revenue, or profit margins. Technical indicators are commonly used by active traders, since they're designed to analyze short-term price movements, but long-term investors may also use technical indicators to identify entry and exit points.
+ 
+There are two basic types of technical indicators:
+ 
+Traders often use many different technical indicators when analyzing a security. With thousands of different options, traders must choose the indicators that work best for them and familiarize themselves with how they work. Traders may also combine technical indicators with more subjective forms of technical analysis, such as looking at chart patterns, to come up with trade ideas. Technical indicators can also be incorporated into automated trading systems given their quantitative nature.
+ 
+The following chart shows some of the most common technical indicators, including moving averages, the relative strength index (RSI), and the moving average convergence-divergence (MACD).
+ 
+In this example, the 50- and 200-day moving averages are plotted over the top of the prices to show where the current price stands relative to its historical averages. The 50-day moving averages is higher than the 200-day moving average in this case, which suggests that the overall trend has been positive. The RSI above the chart shows the strength of the current trend—a neutral 49.07 in this case—and the MACD below the chart shows how the two moving averages have converged or diverged - slightly bearish in this case.

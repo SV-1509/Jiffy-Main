@@ -1,0 +1,36 @@
+
+During the dotcom era, there were predictions of the Dow Jones Index soaring to 30,000. However, that was a time when the market lost itself to the hype. The dotcom bubble reminded everyone that it's time to get back to the fundamentals. Specifically, it was time to look at a key aspect of share valuations: the weighted average cost of capital (WACC).
+ 
+A company's capital funding is comprised of two components: debt and equity. Lenders and equityholders expect a certain return on the funds or capital they have provided. The cost of capital is the expected return to equity owners (or shareholders) and to debtholders; so, WACC tells us the return that both stakeholders can expect. WACC represents the investor's opportunity cost of taking on the risk of putting money into a company.
+ 
+To understand WACC, think of a company as a bag of money. The money in the bag comes from two sources: debt and equity. Money from business operations is not a third source because, after paying debt, the cash left over is not returned to shareholders in the form of dividends, but is kept in the bag on their behalf. If debtholders require a 10% return on their investment and shareholders require a 20% return, then, on average, projects funded by the bag will have to return 15% to satisfy debt and equity holders. Fifteen percent is the WACC.
+ 
+If the only money the bag held was $50 from debtholders, $50 from shareholders, and $100 invested in a project, the return from this project would have to return $5 a year to debtholders and $10 a year to shareholders to meet expectations. This would require a total return of $15 a year, or a 15% WACC.
+ 
+Securities analysts employ WACC when valuing and selecting investments. For instance, in discounted cash flow analysis, WACC is used as the discount rate applied to future cash flows for deriving a business's net present value. WACC can be used as a hurdle rate against which to assess ROIC performance. It also plays a key role in economic value added (EVA) calculations.
+ 
+Investors use WACC as a tool to decide whether to invest. The WACC represents the minimum rate of return at which a company produces value for its investors. Let's say a company produces a return of 20% and has a WACC of 11%. For every $1 the company invests into capital, the company is creating $0.09 of value. By contrast, if the company's return is less than its WACC, the company is shedding value, indicating that it's an unfavorable investment.
+ 
+WACC serves as a useful reality check for investors. To be blunt, the average investor probably wouldn't go to the trouble of calculating WACC because it requires a lot of detailed company information. Nonetheless, it helps investors understand the meaning of WACC when they see it in brokerage analysts' reports.
+ 
+To calculate WAAC, investors need to determine the company's cost of equity and cost of debt.
+ 
+The cost of equity can be a bit tricky to calculate as share capital carries no "explicit" cost. Unlike debt, equity does not have a concrete price that the company must pay. However, that does not mean that no cost of equity exists. Common shareholders expect a certain return on their equity investment in a company. The equity holders' required rate of return is oftentimes considered a cost because shareholders will sell their shares if the company does not deliver the expected return. As a result, the share price will drop. The cost of equity is basically what it costs the company to maintain a share price that is satisfactory to investors. On this basis, the most commonly accepted method for calculating the cost of equity comes from the Nobel Prize-winning capital asset pricing model (CAPM):
+ 
+﻿Re=Rf+β(Rm−Rf)where:Re=CAPMRf=Risk-free rateβ=BetaRm=Market rate\begin{aligned} &R_e = R_f + \beta(R_m - R_f) \\ &\textbf{where:}\\ &R_e=\text{CAPM}\\ &R_f=\text{Risk-free rate}\\ &\beta=\text{Beta}\\ &R_m = \text{Market rate}\\ \end{aligned}​Re​=Rf​+β(Rm​−Rf​)where:Re​=CAPMRf​=Risk-free rateβ=BetaRm​=Market rate​﻿
+ 
+​
+ 
+But what does that mean?
+ 
+Compared to the cost of equity, cost of debt is fairly straightforward to calculate. The cost of debt (Rd) should be the current market rate the company is paying on its debt. If the company is not paying market rates, an appropriate market rate payable by the company should be estimated.
+ 
+As companies benefit from the tax deductions available on interest paid, the net cost of the debt is actually the interest paid less the tax savings resulting from the tax-deductible interest payment. Therefore, the after-tax cost of debt is Rd (1 - corporate tax rate).
+ 
+The WACC is the weighted average of the cost of equity and the cost of debt based on the proportion of debt and equity in the company's capital structure. The proportion of debt is represented by D/V, a ratio comparing the company's debt to the company's total value. The proportion of equity is represented by E/V, a ratio comparing the company's equity to the company's total value. The WACC is represented by the following formula:
+ 
+﻿WACC=Re×EV+[Rd×DV×(1−corporate tax rate)]where:Re=total cost of equityE=market value total equityV=total market value of the company’s combined debt and equityRd=total cost of debtD=market value of total debt\begin{aligned} &WACC = R_e \times \frac{E}{V} + [\frac{R_d \times D}{V} \times (1 - \text{corporate tax rate})] \\ &\textbf{where:}\\ &R_e=\text{total cost of equity}\\ &E=\text{market value total equity}\\ &V=\text{total market value of the company’s combined debt and equity}\\ &R_d = \text{total cost of debt}\\ &D = \text{market value of total debt}\\ \end{aligned}​WACC=Re​×VE​+[VRd​×D​×(1−corporate tax rate)]where:Re​=total cost of equityE=market value total equityV=total market value of the company’s combined debt and equityRd​=total cost of debtD=market value of total debt​﻿
+ 
+A company's WACC is a function of the mix between debt and equity and the cost of that debt and equity. On one hand, in the past few years, falling interest rates have reduced the WACC of companies. On the other hand, the spate of corporate disasters like those at Enron and WorldCom have increased the perceived risk of equity investments. (Learn more in Analyzing AaCompany's Capital Structure.)
+ 
+Be warned: the WACC formula seems easier to calculate than it really is. Just as two people will hardly ever interpret a piece of art the same way, rarely will two people derive the same WACC. Even if two people reach the same WACC, all the other applied judgments and valuation methods will likely ensure that each has a different opinion regarding the components that comprise the company value.

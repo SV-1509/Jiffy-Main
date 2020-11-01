@@ -1,0 +1,63 @@
+
+Although mutual funds and hedge funds can be analyzed using very similar metrics and processes, hedge funds do require an additional level of depth to address their level of complexity and their asymmetric expected returns. Hedge funds are generally only accessible to accredited investors as they require compliance with fewer SEC regulations than other funds.﻿﻿
+ 
+This article will address some of the critical metrics to understand when analyzing hedge funds, and although there are many others that need to be considered, the ones included here are a good place to start for a rigorous analysis of hedge fund performance.
+ 
+Similar to mutual fund performance analysis, hedge funds should be evaluated for both absolute and relative return performance. However, because of the variety of hedge fund strategies and the uniqueness of each hedge fund, a good understanding of the different types of returns is necessary in order to identify them.﻿﻿
+ 
+Absolute returns give the investor an idea of where to categorize the fund in comparison to the more traditional types of investments. Also referred to as the total return, absolute return measures the gain or loss experienced by a fund.
+ 
+For example, a hedge fund with low and stable returns is probably a better substitute for fixed income investments than it would be for emerging market equities, which might be replaced by a high-return global macro fund.
+ 
+Relative returns, on the other hand, allow an investor to determine a fund's attractiveness compared to other investments. The comparables can be other hedge funds, mutual funds or even certain indexes that an investor is trying to mimic. The key to evaluating relative returns is to determine performance over several time periods, such as one-, three- and five-year annualized returns. In addition, these returns should also be considered relative to the risk inherent in each investment.
+ 
+The best method to evaluate relative performance is to define a list of peers, which could include a cross-section of traditional mutual funds, equity or fixed-income indexes and other hedge funds with similar strategies. A good fund should perform in the top quartiles for each period being analyzed in order to effectively prove its alpha-generating ability.
+ 
+Doing quantitative analysis without considering risk is akin to crossing a busy street while blindfolded. Basic financial theory indicates that outsized returns can be generated only by taking risks, so although a fund may exhibit excellent returns, an investor should incorporate risk into the analysis to determine the risk-adjusted performance of the fund and how it compares to other investments.
+ 
+There are several metrics used to measure risk:﻿﻿
+ 
+Among the advantages of using standard deviation as a measure of risk are its ease of calculation and the simplicity of the concept of a normal distribution of returns. Unfortunately, that is also the reason for its weakness in describing the inherent risks in hedge funds. Most hedge funds do not have symmetrical returns, and the standard deviation metric can also mask the higher-than-expected probability of large losses.﻿﻿
+ 
+Value at risk is a risk metric that is based on a combination of mean and standard deviation.﻿﻿ Unlike standard deviation, however, it does not describe risk in terms of volatility, but rather as the highest amount that is likely to be lost with a five percent probability. In a normal distribution, it is represented by the leftmost five percent of probable results. The drawback is that both the amount and probability can be underestimated because of the assumption of normally distributed returns. It should still be evaluated when performing quantitative analysis, but an investor should also consider additional metrics when evaluating risk.
+ 
+Skewness is a measure of the asymmetry of returns, and analyzing this metric can shed additional light on the risk of a fund.﻿﻿
+ 
+The figure below shows two graphs with identical means and standard deviations. The graph on the left is positively skewed. This means the mean > median > mode. Notice how the right tail is longer and the results on the left are bunched up towards the center. Although these results indicate a higher probability of a result that is less than the mean, it also indicates the probability, albeit low, of an extremely positive result as indicated by the long tail on the right side.
+ 
+A skewness of approximately zero indicates a normal distribution. Any skewness measure that is positive would more likely resemble the distribution on the left, while negative skewness resembles the distribution on the right. As you can see from the graphs, the danger of a negatively skewed distribution is the probability of a very negative result, even if the probability is low.
+ 
+Kurtosis is a measure of the combined weight of a distribution's tails relative to the rest of the distribution.﻿﻿
+ 
+In Figure 2 below, the distribution on the left exhibits negative kurtosis, indicating a lower probability of results around the mean, and lower probability of extreme values. A positive kurtosis, the distribution on the right, indicates a higher probability of results near the mean, but also a higher probability of extreme values. In this case, both distributions also have the same mean and standard deviation, so an investor can begin to get an idea of the importance of analyzing the additional risk metrics beyond standard deviation and VAR.
+ 
+One of the most popular measures of risk-adjusted returns used by hedge funds is the Sharpe ratio.﻿﻿ The Sharpe ratio indicates the amount of additional return obtained for each level of risk taken. A Sharpe ratio greater than 1 is good, while ratios below 1 can be judged based on the asset class or investment strategy used. In any case, the inputs to the calculation of the Sharpe ratio are mean, standard deviation and the risk-free rate, so Sharpe ratios may be more attractive during periods of low-interest rates and less attractive during periods of higher interest rates.
+ 
+To accurately measure fund performance, it is necessary to have a point of comparison against which to evaluate returns. These comparison points are known as benchmarks.
+ 
+There are several measures that can be applied to measure performance relative to a benchmark. These are three common ones:
+ 
+Beta is called systematic risk and is a measure of a fund's returns relative to the returns on an index.﻿﻿ A market or index being compared is assigned a beta of 1. A fund with a beta of 1.5, therefore, will tend to have a return of 1.5 percent for every 1 percent movement in the market/index. A fund with a beta of 0.5, on the other hand, will have a 0.5 percent return for every 1 percent return on the market.
+ 
+Beta is an excellent measure of determining how much equity exposure — to a particular asset class — a fund has and allows an investor to determine if and/or how large allocation to a fund is warranted. Beta can be measured relative to any benchmark index, including equity, fixed-income or hedge fund indexes, to reveal a fund's sensitivity to movements in the particular index. Most hedge funds calculate beta relative to the S&P 500 index since they are selling their returns based on their relative insensitivity/correlation to the broader equity market.
+ 
+Correlation is very similar to beta in that it measures relative changes in returns. However, unlike beta, which assumes that the market drives the performance of a fund to some extent, correlation measures how related the returns of two funds might be. Diversification, for example, is based on the fact that different asset classes and investment strategies react differently to systematic factors.
+ 
+Correlation is measured on a scale of -1 to +1, where -1 indicates a perfect negative correlation, zero indicates no apparent correlation at all, and +1 indicates a perfect positive correlation. A perfect negative correlation can be achieved by comparing the returns on a long S&P 500 position with a short S&P 500 position. Obviously, for every percent increase in one position, there will be an equal percent decrease in the other.
+ 
+The best use of correlation is to compare the correlation of each fund in a portfolio with each of the other funds in that portfolio. The lower the correlation these funds have to each other, the more likely the portfolio is well diversified. However, an investor should be wary of too much diversification, as returns may be dramatically reduced.
+ 
+Many investors assume that alpha is the difference between the fund return and the benchmark return, but alpha actually considers the difference in returns relative to the amount of risk taken. In other words, if the returns are 25 percent better than the benchmark, but the risk taken was 40 percent greater than the benchmark, alpha would actually be negative.
+ 
+Since this is what most hedge fund managers claim to add to returns, it's important to understand how to analyze it.
+ 
+Alpha is calculated using the CAPM model:﻿﻿
+ 
+﻿ERi=Rf+βi×(ERm−Rf)where:ERi=Expected return of the investmentRf=Risk-free rateβi=Beta of the investmentERm=Expected return of the market\begin{aligned} &\text{ER}_i = \text{R}_f + \beta_i \times ( \text{ER}_m - \text{R}_f ) \\ &\textbf{where:} \\ &\text{ER}_i = \text{Expected return of the investment} \\ &\text{R}_f = \text{Risk-free rate} \\ &\beta_i = \text{Beta of the investment} \\ &\text{ER}_m = \text{Expected return of the market} \\ \end{aligned}​ERi​=Rf​+βi​×(ERm​−Rf​)where:ERi​=Expected return of the investmentRf​=Risk-free rateβi​=Beta of the investmentERm​=Expected return of the market​﻿
+ 
+To calculate whether a hedge fund manager added alpha based on the risk taken, an investor can simply substitute the beta of the hedge fund into the above equation, which would result in an expected return on the hedge fund's performance. If the actual returns exceed the expected return, then the hedge fund manager added alpha based on the risk taken. If the actual return is lower than the expected return, then the hedge fund manager did not add alpha based on risk taken, even though the actual returns may have been higher than the relevant benchmark. Investors should want hedge fund managers who add alpha to returns with the risk they take, and who do not generate returns simply by taking additional risk.
+ 
+Performing quantitative analysis on hedge funds can be complex, time-consuming, and often challenging. However, this article has provided a brief description of additional metrics that add valuable information to the analysis. There is also a variety of other metrics that can be used, and even those discussed in this article may be more relevant for some hedge funds and less relevant for others.
+ 
+An investor should be able to understand more of the risks inherent in a particular fund by making the effort to perform a few additional calculations, many of which are automatically calculated by analytical software, including systems from providers like Morningstar, PerTrac, and Zephyr.
+ Securities and Exchange Commission. "Hedge Funds." Accessed June 8, 2020. Securities and Exchange Commission. "The Democratization of Hedge Funds: Hedge Fund Strategies in Open-End Mutual Funds," Page 3. Accessed June 8, 2020. Andrew W. Lo. "Hedge Funds: An Analytic Perspective - Updated Edition." Princeton University Press, 2010. The Journal of Alternative Investments. "Asymmetric Returns and Optimal Hedge Fund Portfolios," Page 1, 11. Accessed June 8, 2020. New York University Stern School of Business. "Value at Risk," Pages 1-2. Accessed June 8, 2020. Greg N. Gregoriou and Joe Zhu. "Evaluating Hedge Fund and CTA Performance: Data Envelopment Analysis Approach." Wiley, 2005. Stanford University. "The Sharpe Ratio." Accessed June 8, 2020. Brigham Young University. "What Is Beta?" Accessed June 8, 2020. Columbia University. "Capital Asset Pricing Model," Page 2. Accessed June 8, 2020.

@@ -1,0 +1,36 @@
+
+The future’s cars have long since moved from our imagination into the real world. High-profile successes and failures have created a polarized discussion surrounding the industry’s outlook, but no conclusions have emerged.
+ 
+As more automakers contemplate the direction of the industry, there are still too many unanswered questions. For one, companies continue to focus exclusively on their cars, and not on the ecosystem they drive in. Even so, the emergence of blockchain as a viable way to store and communicate data seamlessly are promising additions to the equation.
+ 
+The key ingredient in successful autonomous vehicle deployment is creating environments that foster two-way communication between cars and their supporting infrastructure. While the Internet of Things and smart cities have taken this in a positive direction, blockchain technology delivers a significant upgrade that could revolutionize the future of driving.
+ 
+One of the biggest barriers to autonomous cars entering the mainstream is the fact that they are still not connected enough to their surrounding environment. While cars can perceive millions of data points per second, they must view them in isolation and without context.
+ 
+Using IoT devices improves this functionality significantly as they can collect and communicate crucial contextual data to cars to improve their performance. This includes information about road conditions, traffic accidents, and other cars on the road that could affect a vehicle’s ability to drive.
+ 
+Even so, IoT devices remain bound by the limitations current technology imposes on them. Centralization makes data vulnerable, and the inability to communicate data rapidly between points reduces its usefulness in real-time situations. However, blockchain technology can significantly enhance the status quo.
+ 
+SAE International’s Levels of Driving Automation for On-Road Vehicles
+ 
+Source: SAE International
+ 
+An advantageous benefit blockchain brings to the table is the ability to spread data more efficiently and rapidly. Driverless cars must constantly be aware of a few key factors: the conditions on the road, their own condition, and the status of other cars. Traditional IoT makes this process complex because of its communication protocols.
+ 
+Blockchain’s decentralized ledger means that each node in the network—in this case each car and data point—has access to all data almost simultaneously, and more accurately. Companies like Oaken are already working on integrating better vehicle tracking and communication to improve overall connectivity. Creating decentralized networks that more seamlessly transfer data to all points is the first step towards building a safe driverless ecosystem.
+ 
+Another increasingly popular use case for blockchain technology in driverless cars is improving transactions that occur repeatedly between vehicles as well as vehicles and the infrastructure around them. It may not seem significant, but it could reduce friction at several points, advance communication, and reduce traffic bottlenecks.
+ 
+An important area where this will likely be employed relates to vehicle-to-vehicle (V2V) microtransactions. In this model, cars would use tokens such as Streamr’s DATAcoin to pay for data they require from other cars. This includes weather forecasts, gas prices nearby, congestion data, and more. Vehicles could then earn tokens simply by sharing their data or choosing to sell it to advertisers or manufacturers. With this strategy, blockchain creates a V2V closed ecosystem that incentivizes and rewards participation simultaneously.
+ 
+In terms of vehicle-to-infrastructure (V2I), blockchain offers cars a significantly streamlined payment ecosystem that is designed to simplify many aspects of driving. Instead of having to manually pay for multiple things—car maintenance, tolls, insurance, and more—blockchain could enable automated payments thanks to smart contracts.
+ 
+A shining example of an attribute smart contracts could improve is usage-based insurance (UBI). Instead of paying yearly insurance premiums that can vary thanks to murky factors, drivers can automate their insurance to be paid based on usage.
+ 
+These UBI systems require significant data input to ensure accurate quotes and premiums for drivers. However, by tapping into public blockchains, insurers could instantly calculate a driver’s premium and simply execute pre-existing smart contracts to automate payments.
+ 
+One other interesting application of blockchain-based microservices for vehicles relates to ride-sharing. The sector is currently controlled by ride-hailing applications like Uber and Lyft, but there is increasing competition emerging from popular ride-sharing services like Google’s RideWith, which instead emphasizes carpooling over taxis.
+ 
+The Toyota Research Institute (TRI) has already made some headway in terms of studying and planning for integrating the automotive sector with blockchain. TRI is currently working with several startups to create systems that improve ride-sharing via blockchain, possibly even including car sharing for seats and empty trunk space.
+ 
+Blockchain has been flexing its disruptive muscles in several industries, but the automotive sector offers immense potential. By changing smaller aspects of the driving experience and improving the security of drivers on the road, the technology could prove a revolutionary catalyst for a more autonomous experience. As more automakers and infrastructure businesses discover new ways to integrate blockchain, consumers will soon bear witness to the transportation transformation spurred by DLT.

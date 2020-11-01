@@ -1,0 +1,28 @@
+
+A covered call is a very popular options trading strategy. Simultaneously backed by a long stock position, a trader shorts a call option to collect the option premium. This provides a limited pre-determined profit on the upside and a varying loss on the downside. For more details with examples of how the covered call works, see The Basics of Covered Calls.  
+ 
+Since a covered call requires multiple positions to be taken at the same time, namely a long position for added security, many brokerage firms offer distinct features in their trading platforms to allow easy order placing for this strategy. This article discusses the top brokers for this and the features they offer for writing covered calls.
+ 
+Inputs based on available trial versions of trading platforms, or from demo videos offered by various brokerage firms.
+ 
+Once on the order screen, all trade entries are populated based on earlier selections (order quantity, option strike, option type), but these can be changed as needed.
+ 
+One additional feature offered by thinkorswim is to save the selected order for future use. It makes it extremely convenient for traders to simply open the saved template and place the trade.
+ 
+Going ahead with the order takes a trader to the confirmation screen that also explains the contract contents explicitly:
+ 
+Following this, the trader needs to click on the desired options contract from the options chain window (now available in the background) and select the sell order for writing the contract.
+ 
+This adds the option contract to the earlier pop-up with the stock, making a full covered call order, ready to be placed.
+ 
+The order quantity and other values are pre-populated in applicable multiples (1 call for 100 shares).
+ 
+Once selected, it offers the choice of selecting the strike price from the available option chain. It then moves a trader to the order confirmation page, which shows the risk profile, order contents and bid-ask spread.
+ 
+The order confirmation screen offers the available bid/ask prices and order submission:
+ 
+The next screen offers trade parameters, including quantitative details like spread quote, gain-loss potential, and position Greeks.
+ 
+The Bottom Line
+ 
+A covered call is a strategy that involves holding a long position in the underlying stock while simultaneously writing a call option. Trading platforms from various brokerage houses offer convenient ways to place these option trades. Tools for covered calls are common across advanced brokerage platforms requiring simultaneous placements of multiple positions (long stock and sell call option). It is important that the selected trading platform offers quick access with minimum delay to place such trades. This can also increase the potential for gains. Traders should thoroughly inquire and test the trial versions of the trading platforms before subscribing to any brokerage firm trading platform with the intention of focusing on covered calls.

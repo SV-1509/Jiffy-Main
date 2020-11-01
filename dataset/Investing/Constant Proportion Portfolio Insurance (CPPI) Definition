@@ -1,0 +1,16 @@
+
+Constant Proportion Portfolio Insurance (CPPI) is a type of portfolio insurance in which the investor sets a floor on the dollar value of their portfolio, then structures asset allocation around that decision. The two asset classes used in CPPI are a risky asset (usually equities or mutual funds) and a conservative asset of either cash, equivalents or treasury bonds. The percentage allocated to each depends on the "cushion" value, defined as current portfolio value minus floor value, and a multiplier coefficient, where a higher number denotes a more aggressive strategy.
+ 
+Constant Proportion Portfolio Insurance (CPPI) allows an investor to maintain exposure to the upside potential of a risky asset while providing a capital guarantee against downside risk. The outcome of the CPPI strategy is somewhat similar to that of buying a call option, but does not use option contracts. Thus, CPPI is sometimes referred to as a convex strategy, as opposed to a "concave strategy" like constant mix. Financial institutions sell CPPI products on a variety of risky assets, including equities and credit default swaps.
+ 
+The investor will make a beginning investment in the risky asset equal to the value of: (Multiplier) x (cushion value in dollars) and will invest the remainder in the conservative asset. The value of the multiplier is based on the investor's risk profile and is derived by first asking what the maximum one-day loss could be on the risky investment. The multiplier will be the inverse of that percentage. As the portfolio value changes over time, the investor will rebalance according to the same strategy.
+ 
+CPPI consists of two accounts: a risk account and a safety account. As their names indicate, both accounts serve specific purposes in an individual's overall investment strategy. The risk account is leveraged with futures holdings in order to protect from the downside of significant equity exposure. Funds are shifted dynamically between the two accounts based on the economic environment.
+ 
+The timetable for rebalancing is up to the investor, with monthly or quarterly being oft-cited examples. Typically, CPPI is implemented over five-year terms. Ideally, the cushion value will grow over time, allowing for more money to flow into the risky asset. If, however, the cushion drops, the investor may need to sell a portion of the risky asset in order to keep the asset allocation targets intact.
+ 
+One of the problems with implementing a CPPI strategy is that it does not immediately "de-risk" its holdings when markets move in the opposite direction. A hypothetical CPPI strategy over a five-year investment time horizon would have underperformed the S&P 500 for several years after the 2008 financial crisis.
+ 
+Consider a hypothetical portfolio of $100,000, of which the investor decides $90,000 is the absolute floor. If the portfolio falls to $90,000 in value, the investor would move all assets to cash to preserve capital.
+ 
+If one decides that 20 percent is the maximum "crash" possibility, the multiplier value will be (1/0.20), or 5. Multiplier values between 3 and 6 are very common. Based on the information provided, the investor would allocate 5 x ($100,000 - $90,000) or $50,000 to the risky asset, with the remainder going into cash or the conservative asset.

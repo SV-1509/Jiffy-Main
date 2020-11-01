@@ -1,0 +1,24 @@
+
+The volume weighted average price (VWAP) is a trading benchmark used by traders that gives the average price a security has traded at throughout the day, based on both volume and price. It is important because it provides traders with insight into both the trend and value of a security.
+ 
+VWAP is calculated by adding up the dollars traded for every transaction (price multiplied by the number of shares traded) and then dividing by the total shares traded.
+ 
+﻿VWAP=∑Price * Volume∑Volume\text{VWAP}=\frac{\sum\text{Price * Volume}}{\sum\text{Volume}}VWAP=∑Volume∑Price * Volume​﻿
+ 
+Adding the VWAP indicator to a chart will complete all calculations for you. To calculate the VWAP yourself, follow these steps. Assume a 5-minute chart; the calculation is same regardless of what intraday time frame is used.
+ 
+Large institutional buyers and mutual funds use the VWAP ratio to help move into or out of stocks with as small of a market impact as possible. Therefore, when possible, institutions will try to buy below the VWAP, or sell above it. This way their actions push the price back toward the average, instead of away from it.
+ 
+Traders may use VWAP as a trend confirmation tool, and build trading rules around it. For example, when the price is above VWAP they may prefer to initiate long positions. When the price is below VWAP they may prefer to initiate short positions.
+ 
+On a chart, VWAP and a moving average may look similar. These two indicators are calculating different things.
+ 
+VWAP is calculating the sum of price multiplied by volume, divided by total volume.
+ 
+A simple moving average is calculated by summing up closing prices over a certain period (say 10), and then dividing it by how many periods there are (10). Volume is not factored in.
+ 
+VWAP is a single-day indicator, and is restarted at the open of each new trading day. Attempting to create an average VWAP over many days could mean that the average becomes distorted from the true VWAP reading as described above.
+ 
+While some institutions may prefer to buy when the price of a security is below the VWAP, or sell when it is above, VWAP is not the only factor to consider. In strong uptrends, the price may continue to move higher for many days without dropping below the VWAP at all or only occasionally. Therefore, waiting for the price to fall below VWAP could mean a missed opportunity if prices are rising quickly.
+ 
+VWAP is based on historical values and does not inherently have predictive qualities or calculations. Because VWAP is anchored to the opening price range of the day, the indicator increases its lag as the day goes on. This can be seen in the way a 1-minute period VWAP calculation after 330 minutes (the length of a typical trading session) will often resemble a 390-minute moving average at the end of the trading day.

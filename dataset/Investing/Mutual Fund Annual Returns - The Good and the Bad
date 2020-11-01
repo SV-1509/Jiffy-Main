@@ -1,0 +1,30 @@
+
+Whether an annual return on a mutual fund is good is a relative judgment based on the investment goals of the individual investor and the overall economic and market conditions. Moreover, mutual funds are meant to be evaluated against a benchmark such as a broad index or other yardstick of value - so if the S&P 500 falls 3% in a year and a large-cap mutual fund only falls 2.5%, it can be considered a "good" return, relatively speaking. Here, we unpack how to evaluate mutual fund returns on both an annual and annualized basis.
+ 
+Most mutual funds are aimed at long-term investors and seek relatively smooth, consistent growth with less volatility than the market as a whole. Historically, mutual funds tend to underperform compared to the market average during bull markets, but they outperform the market average during bear markets. Long-term investors usually have a lower risk tolerance and are typically more concerned with minimizing risk in their mutual fund investments than they are with maximizing gains.
+ 
+For a mutual fund, a "good" return is largely defined by the individual investor's expectations and desired level of return. Most investors are likely to be satisfied by a return that roughly mirrors the average return of the overall market, and a number that meets or exceeds that goal would constitute a good annual return. However, investors seeking higher returns would be disappointed by that level of return on investment.
+ 
+Economic conditions and the performance of the market are also important considerations in determining a good return on investment. For example, in the event of a severe bear market during the year with stocks dropping on average 10 to 15%, a fund investor who realized a 3% profit for the year might consider that an excellent return. Under different and more positive market conditions, the investor would be dissatisfied with that same level of return.
+ 
+To get a clear picture of a mutual fund's return over time, investors should understand the difference between annual return and annualized return. Annual return is defined as the percentage change in an investment over a one-year period. Annualized return is the percentage change in an investment measured over periods shorter or longer than one year but stated as a yearly rate of return.
+ 
+Calculating the annual return of a company or other investment allows investors to analyze performance over any given year the investment is held. The annual return calculation is used more frequently among investors because it is relatively simple to calculate compared to annualized return. To calculate annual return, first determine the initial price of the investment at the beginning of the holding period and the price of the investment at the end of the one-year period. The initial price is subtracted from the end price to determine the investment's change in price over time.
+ 
+That change in price is then divided by the initial price of the investment. For example, an investment with a stock price of $50 on January 1 that increases to $75 by December 31 of the same year has a change in price of $25. That amount divided by the initial price of $50 results in a 0.5, or 50% increase for the year. Although the annual return provides investors with the total change in price over the one-year period, the calculation does not take into account the volatility of the stock price over the time horizon.
+ 
+In contrast, annualized return is used in a variety of ways to evaluate performance over time. To calculate the annualized rate of return, first determine the total return. This is the same calculation as annual return, which is the following:
+ 
+﻿Total return=(ending investment price−initial investment price)initial investment price\text{Total return} = \frac{\left(\text{ending investment price} - \text{initial investment price}\right)}{\text{initial investment price}}Total return=initial investment price(ending investment price−initial investment price)​﻿
+ 
+but is based on the full investment holding period regardless of whether it is shorter or longer than one year.
+ 
+From there, the annualized total return can be determined by plugging the corresponding values into the following equation:
+ 
+﻿annualized return=(1+TR)1N−1where:TR=the total return\begin{aligned} &\text{annualized return} = \left(1 + TR \right )^\frac{1}{N} - 1 \\ &\textbf{where:}\\ &TR=\text{the total return}\\ &N=\text{the number of years} \end{aligned}​annualized return=(1+TR)N1​−1where:TR=the total return​﻿
+ 
+The variable N represents the number of periods being measured, and the exponent 1 represents the unit of one year being measured. For example, a company with an initial price of $1,000 and an ending price of $2,500 over a seven-year period would have a total return of 150 percent (2,500 - 1,000 / 1,000). The annualized return equates to 14%, with 7 substituted for the variable N:
+ 
+﻿(1+1.5)17−1=0.14\left(1 + 1.5 \right )^\frac{1}{7} - 1 = 0.14(1+1.5)71​−1=0.14﻿
+ 
+Before investing in a mutual fund, investors should understand their individual goals for the investment over their specified time horizon. If an investor knows their expected return, they can measure the mutual fund's performance over specific time periods and determine whether or not the investment's performance is meeting their objectives.

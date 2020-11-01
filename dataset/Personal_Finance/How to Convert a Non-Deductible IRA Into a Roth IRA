@@ -1,0 +1,47 @@
+
+Undoubtedly, the Roth IRA has some substantial advantages over a traditional IRA. For example, the Roth IRA offers tax-free withdrawals of contributions and earnings upon retirement, and the required minimum distribution (RMD) is not applicable.﻿﻿ Fortunately, traditional IRAs can be converted to Roth IRAs.
+ 
+At one point, there were restrictions on conversions. However, in 2010, Congress eliminated the $100,000 income limit on Roth IRA conversions.﻿﻿ ﻿﻿ This means that traditional IRA owners in all tax brackets can convert their accounts. Basically, individuals can convert their traditional IRA contributions to a Roth IRA with one caveat; a portion of the amount converted is subject to income tax.
+ 
+First, a review of the basics. Within certain income limitations (these may change annually), taxpayers in lower tax brackets can receive an IRA contribution deduction on their federal tax returns for deposits made to traditional IRAs.﻿﻿ Taxpayers with incomes above IRS limits can still contribute to IRAs; however, they are not entitled to an IRA deduction on their tax return. These non-deductible contributions form the cost basis of the account. Therefore, upon withdrawal, they are not taxed. Taxpayers with these contributions must file Form 8606 with their tax return.﻿﻿ (IRS Form 8606 is used to help determine the taxable portion of a distribution or conversion and must be filed in the distribution year.)
+ 
+Note that a recharacterization (the reversal of an IRA conversion, such as from a Roth IRA back to a traditional IRA) was made illegal by the Tax Cuts and Jobs Act of 2017.﻿﻿ ﻿﻿
+ 
+When an individual's traditional IRA balance is composed of deductible and non-deductible contributions, any amount distributed or converted from the traditional IRA is pro-rated to include a taxable and nontaxable portion of the assets.﻿﻿
+ 
+The following formula is used to calculate the nontaxable amount:
+ 
+﻿Non-Taxable Amount=TDCTIB × DCwhere:TDC=Total deductible contributionTIB=Total IRA balanceD=DistributionC=Conversion amount\begin{aligned} &\textit{Non-Taxable Amount}=\dfrac{TDC}{TIB} \ \times\ \dfrac{D}{C}\\ &\textbf{where:}\\ &TDC = \text{Total deductible contribution}\\ &TIB = \text{Total IRA balance}\\ &D = \text{Distribution}\\ &C=\text{Conversion amount}\\ \end{aligned}​Non-Taxable Amount=TIBTDC​ × CD​where:TDC=Total deductible contributionTIB=Total IRA balanceD=DistributionC=Conversion amount​﻿
+ 
+As an example, if an individual has traditional IRA non-deductible contributions of $8,000 that have grown to $100,000, the taxable amount would be:
+ 
+﻿(8,000÷100,000)×8,000=640(8,000\div100,000)\times8,000=640(8,000÷100,000)×8,000=640﻿  
+ 
+Of the $8,000 that is converted, $7,360 would be taxable:
+ 
+﻿($8,000−640=$7,360)(\$8,000 - 640 = \$7,360)($8,000−640=$7,360)﻿ 
+ 
+This rule applies even if the deductible amounts and non-deductible amounts are held in separate traditional IRAs.﻿﻿ Also note that if someone has multiple traditional IRAs, their total balances must be combined in the formula above to determine the amount that can be excluded from income (i.e., the amount that is nontaxable).
+ 
+What if all of a person's IRA savings are composed of non-deductible IRA contributions? If so, they can convert their entire non-deductible IRA to a Roth IRA and will only have to pay taxes on the earnings.
+ 
+For example, Susan Smith is in a 30% tax bracket this year, and she only has one IRA worth $100,000. The IRA is composed of $90,000 in non-deductible contributions and $10,000 in earnings. If she decides to convert the entire IRA to a Roth, she would only have to pay taxes on the earnings portion ($10,000). At a 30% tax rate, she would owe $3,000 in taxes to convert the entire $100,000 to a Roth.
+ 
+If Susan had no earnings in this IRA, the entire $100,000 (all non-deductible contributions) could be converted with no tax liability. When earnings are present, the owner must consider if it would be more beneficial to pay the due taxes now, considering that the future benefit would be tax-free.﻿﻿
+ 
+For an IRA that contains normal contributions, non-deductible contributions, and earnings, the rules of conversions are more complex.﻿﻿ It would be fantastic if the non-deductible contributions could be singled out and only that portion be converted to the Roth tax-free. However, IRS rules prevent this strategy. Here is a look at the special tax treatment of partial conversions for owners with multiple IRA accounts or IRAs with both deductible and non-deductible contributions.
+ 
+John Doe, a 30% taxpayer, has a traditional IRA worth $200,000 on Dec. 31, 2020, of which $100,000 is non-deductible contributions. John wants to convert $100,000 of this IRA to a Roth. Because he has $100,000 of non-deductible contributions in this traditional IRA, the assumption might be that he could convert the $100,000 of non-deductible contributions tax-free. Unfortunately, the IRS has a special formula that must be followed for an IRA with normal contributions.
+ 
+Here's how it works:
+ 
+﻿Tax-Free Percentage=TND(YV+C)where:TND=Total non-deductible contributionsYV=Sum of year end value of all IRA accountsC=Conversion amount\begin{aligned} &\textit{Tax-Free Percentage}=\dfrac{TND}{(YV + C)}\\ &\textbf{where:}\\ &TND = \text{Total non-deductible contributions}\\ &YV = \text{Sum of year end value of all IRA accounts}\\ &C=\text{Conversion amount}\\ \end{aligned}​Tax-Free Percentage=(YV+C)TND​where:TND=Total non-deductible contributionsYV=Sum of year end value of all IRA accountsC=Conversion amount​﻿
+ 
+Thus, given the example above, John Doe would calculate the following:
+ 
+﻿$100,000 ÷ ($200,000 + $100,000)=$100,000 ÷ $300,000\begin{aligned} &\text{\$100,000}\ \div\ (\text{\$200,000}\ +\ \text{\$100,000})=\\ &\text{\$100,000}\ \div\ \text{\$300,000}\\ &\text{Tax-Free Amount of Conversion}\ = \ 33\% \ (\text{or }\text{\$33,333}) \end{aligned}​$100,000 ÷ ($200,000 + $100,000)=$100,000 ÷ $300,000​﻿
+ 
+Therefore, if John converts $100,000 to the Roth, he will have $33,333 ($100,000 x 33.3%) that is not taxed and $66,667 ($100,000 x 66.7%) that will be taxed at his 30% tax rate.
+ 
+The common misconception is that the non-deductible contributions can be singled out and converted tax-free. Another misconception is that the non-deductible contributions are simply divided by the total value of the IRAs to determine the tax-exempt amount percentage. However, the formula is a little more complex. Understanding the rules will keep the IRS at bay. Consult with your tax professional to ensure that the appropriate forms are filed, and the calculations are accurate.
+ Internal Revenue Service. "Retirement Topics — Required Minimum Distributions (RMDs)." Accessed Apr. 10, 2020. 109th Congress, 1st Session. "H.R.4297 - Tax Increase Prevention and Reconciliation Act of 2005." Accessed Apr. 10, 2020. Journal of Accountancy. "Using a Qualified Plan Account to Fund a Roth IRA Conversion." Accessed Apr. 10, 2020. Internal Revenue Service. "Amount of Roth IRA Contributions That You Can Make for 2020." Accessed Apr. 10, 2020. Internal Revenue Service. "Publication 590-A (2019), Contributions to Individual Retirement Arrangements (IRAs)." Accessed Apr. 10, 2020. 115th Congress, 1st Session. "Tax Cuts and Jobs Act," Page 1-112. Accessed Apr. 10, 2020. Internal Revenue Service. "Publication 590-A (2019), Contributions to Individual Retirement Arrangements (IRAs): No Recharacterizations of Conversions Made in 2018 or Later." Accessed Apr. 10, 2020. Internal Revenue Service. "Rollovers of After-Tax Contributions in Retirement Plans." Accessed Apr. 10, 2020. Internal Revenue Service. "Transcript for the Basics of Roth Conversions Retirement Planning Employee Plans," Page 5. Accessed Apr. 10, 2020. Internal Revenue Service. "Instructions for Form 8606 (2019)." Accessed Apr. 10, 2020.

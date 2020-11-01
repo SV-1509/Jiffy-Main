@@ -1,0 +1,37 @@
+
+A swap is a derivative contract through which two parties exchange the cash flows or liabilities from two different financial instruments. Most swaps involve cash flows based on a notional principal amount such as a loan or bond, although the instrument can be almost anything. Usually, the principal does not change hands. Each cash flow comprises one leg of the swap. One cash flow is generally fixed, while the other is variable and based on a benchmark interest rate, floating currency exchange rate or index price.
+ 
+The most common kind of swap is an interest rate swap. Swaps do not trade on exchanges, and retail investors do not generally engage in swaps. Rather, swaps are over-the-counter contracts primarily between businesses or financial institutions that are customized to the needs of both parties.
+ 
+In an interest rate swap, the parties exchange cash flows based on a notional principal amount (this amount is not actually exchanged) in order to hedge against interest rate risk or to speculate. For example, imagine ABC Co. has just issued $1 million in five-year bonds with a variable annual interest rate defined as the London Interbank Offered Rate (LIBOR) plus 1.3% (or 130 basis points). Also, assume that LIBOR is at 2.5% and ABC management is anxious about an interest rate rise.
+ 
+The management team finds another company, XYZ Inc., that is willing to pay ABC an annual rate of LIBOR​ plus 1.3% on a notional principal of $1 million for five years. In other words, XYZ will fund ABC's interest payments on its latest bond issue. In exchange, ABC pays XYZ a fixed annual rate of 5% on a notional value of $1 million for five years. ABC benefits from the swap if rates rise significantly over the next five years. XYZ benefits if rates fall, stay flat or rise only gradually. 
+ 
+Below are two scenarios for this interest rate swap: LIBOR rises 0.75% per year and LIBOR rises 0.25% per year. 
+ 
+If LIBOR rises by 0.75% per year, Company ABC's total interest payments to its bondholders over the five-year period amount to $225,000. Let's break down the calculation:
+ 
+In this scenario, ABC did well because its interest rate was fixed at 5% through the swap. ABC paid $15,000 less than it would have with the variable rate. XYZ's forecast was incorrect, and the company lost $15,000 through the swap because rates rose faster than it had expected.
+ 
+In the second scenario, LIBOR rises by 0.25% per year:
+ 
+In this case, ABC would have been better off by not engaging in the swap because interest rates rose slowly. XYZ profited $35,000 by engaging in the swap because its forecast was correct.
+ 
+This example does not account for the other benefits ABC might have received by engaging in the swap. For example, perhaps the company needed another loan, but lenders were unwilling to do that unless the interest obligations on its other bonds were fixed.
+ 
+In most cases, the two parties would act through a bank or other intermediary, which would take a cut of the swap. Whether it is advantageous for two entities to enter into an interest rate swap depends on their comparative advantage in fixed or floating-rate lending markets.
+ 
+The instruments exchanged in a swap do not have to be interest payments. Countless varieties of exotic swap agreements exist, but relatively common arrangements include commodity swaps, currency swaps, debt swaps, and total return swaps.
+ 
+Commodity swaps involve the exchange of a floating commodity price, such as the Brent Crude oil spot price, for a set price over an agreed-upon period. As this example suggests, commodity swaps most commonly involve crude oil.
+ 
+In a currency swap, the parties exchange interest and principal payments on debt denominated in different currencies. Unlike an interest rate swap, the principal is not a notional amount, but it is exchanged along with interest obligations. Currency swaps can take place between countries. For example, China has used swaps with Argentina, helping the latter stabilize its foreign reserves.﻿﻿ The U.S. Federal Reserve engaged in an aggressive swap strategy with European central banks during the 2010 European financial crisis to stabilize the euro, which was falling in value due to the Greek debt crisis.﻿﻿
+ 
+A debt-equity swap involves the exchange of debt for equity—in the case of a publicly-traded company, this would mean bonds for stocks. It is a way for companies to refinance their debt or reallocate their capital structure.
+ 
+In a total return swap, the total return from an asset is exchanged for a fixed interest rate. This gives the party paying the fixed-rate exposure to the underlying asset—a stock or an index. For example, an investor could pay a fixed rate to one party in return for the capital appreciation plus dividend payments of a pool of stocks.
+ 
+A credit default swap (CDS) consists of an agreement by one party to pay the lost principal and interest of a loan to the CDS buyer if a borrower defaults on a loan. Excessive leverage and poor risk management in the CDS market were a contributing cause of the 2008 financial crisis.﻿﻿
+ 
+A financial swap is a derivative contract where one party exchanges or "swaps" the cash flows or value of one asset for another. For example, a company paying a variable rate of interest may swap its interest payments with another company that will then pay the first company a fixed rate. Swaps can also be used to exchange other kinds of value or risk like the potential for a credit default in a bond.
+ The State Council of the People's Republic of China. "China extends currency swap deal with Argentina." Accessed July 29, 2020. Board of Governors of the Federal Reserve System. "FOMC statement: Federal Reserve, European Central Bank, Bank of Canada, Bank of England, and Swiss National Bank announce reestablishment of temporary U.S. dollar liquidity swap facilities." Accessed July 29, 2020. René M. Stulz. "Credit Default Swaps and the Credit Crisis," page 1. Journal of Economic Perspectives, 2010.

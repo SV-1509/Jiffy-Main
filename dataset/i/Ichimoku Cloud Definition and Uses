@@ -1,0 +1,35 @@
+
+The Ichimoku Cloud is a collection of technical indicators that show support and resistance levels, as well as momentum and trend direction. It does this by taking multiple averages and plotting them on the chart. It also uses these figures to compute a "cloud" which attempts to forecast where the price may find support or resistance in the future.
+ 
+The Ichimoku cloud was developed by Goichi Hosoda, a Japanese journalist, and published in the late 1960s.﻿﻿ It provides more data points than the standard candlestick chart. While it seems complicated at first glance, those familiar with how to read the charts often find it easy to understand with well-defined trading signals.
+ 
+The following are the five formulas for the lines that compose the Ichimoku cloud indicator.
+ 
+﻿Conversion Line (kenkan sen)=9-PH+9-PL2Base Line (kijun sen)=26-PH + 26-PL2Leading Span A (senkou span A)=CL + Base Line2Leading Span B (senkou span B)=52-PH + 52-PL2Lagging Span (chikou span)=Close plotted 26 periodsLagging Span (chikou span)=in the pastwhere:PH=Period highPL=Period lowCL=Conversion line\begin{aligned} &\text{Conversion Line (kenkan sen)} = \frac {\text{9-PH} + \text{9-PL}}{2} \\ &\text{Base Line (kijun sen)} = \frac{\text{26-PH + 26-PL}}{2} \\ &\text{Leading Span A (senkou span A)} = \frac{\text{CL + Base Line}}{2} \\ &\text{Leading Span B (senkou span B)}= \frac{\text{52-PH + 52-PL}}{2} \\ &\text{Lagging Span (chikou span)} = \text{Close plotted 26 periods} \\ &\phantom{\text{Lagging Span (chikou span)} =} \text{in the past} \\ &\textbf{where:} \\ &\text{PH} = \text{Period high} \\ &\text{PL} = \text{Period low} \\ &\text{CL} = \text{Conversion line} \\ \end{aligned}​Conversion Line (kenkan sen)=29-PH+9-PL​Base Line (kijun sen)=226-PH + 26-PL​Leading Span A (senkou span A)=2CL + Base Line​Leading Span B (senkou span B)=252-PH + 52-PL​Lagging Span (chikou span)=Close plotted 26 periodsLagging Span (chikou span)=in the pastwhere:PH=Period highPL=Period lowCL=Conversion line​﻿
+ 
+The highs and lows are the highest and lowest prices seen during the period. For example, the highest and lowest prices seen over the last nine days in the case of the conversion line. Adding the Ichimoku cloud indicator to your chart will do the calculations for you, but if you want to calculate it by hand here are the steps.
+ 
+The technical indicator shows relevant information at a glance using averages.
+ 
+The overall trend is up when price is above the cloud, down when price is below the cloud, and trendless or transitioning when price is in the cloud.
+ 
+When Leading Span A is rising and above Leading Span B, this helps confirm the uptrend and space between the lines is typically colored green. When Leading Span A is falling and below Leading Span B, this helps confirm the downtrend. The space between the lines is typically colored red, in this case.
+ 
+Traders will often use the Cloud as an area of support and resistance depending on the relative location of the price. The Cloud provides support/resistance levels that can be projected into the future. This sets the Ichimoku Cloud apart from many other technical indicators that only provide support and resistance levels for the current date and time.
+ 
+Traders should use the Ichimoku Cloud in conjunction with other technical indicators to maximize their risk-adjusted returns. For example, the indicator is often paired with the relative strength index (RSI), which can be used to confirm momentum in a certain direction. It's also important to look at the bigger trends to see how the smaller trends fit within them. For example, during a very strong downtrend, the price may push into the cloud or slightly above it, temporarily, before falling again. Only focusing on the indicator would mean missing the bigger picture that the price was under strong longer-term selling pressure.
+ 
+Crossovers are another way the indicator can be used. Watch for the conversion line to move above the base line, especially when price is above the cloud. This can be a powerful buy signal. One option is to hold the trade until the conversion line drops back below the base line. Any of the other lines could be used as exit points as well.
+ 
+While the Ichimoku Cloud uses averages, they are different than a typical moving average. Simple moving averages take closing prices, adds them up, and divide that total by how many closing prices there are. In a 10-period moving average, the closing prices for the last 10 periods are added, then divided by 10 to get the average.
+ 
+Notice how the calculations for the Ichimoku cloud are different? They are based on highs and lows over a period, and then divided by two. Therefore, Ichimoku averages will be different than traditional moving averages, even if the same number of periods are used.
+ 
+One indicator is not better than another, they just provide information in different ways.
+ 
+The indicator can make a chart look busy with all the lines. To remedy this, most charting software allows certain lines to be hidden. For example, all the lines can be hidden except for the Leading Span A and B which create the cloud. Each trader needs to focus on which lines provide the most information, and then consider hiding the rest if all the lines are distracting.
+ 
+Another limitation of the Ichimoku Cloud is that it is based on historical data. While two of these data points are plotted in the future, there is nothing in the formula that is inherently predictive. Averages are simply being plotted in the future.
+ 
+The cloud can also become irrelevant for long periods of time, as the price remains way above or below it. At times like these, the conversion line, base line, and their crossovers become more important, as they generally stick closer to the price.
+ Charles G. Koonitz. "Ichimoku Analysis & Strategies: The Visual Guide to Spot the Trends in Stock Market, Cryptocurrency and Forex Using Technical Analysis and Cloud Charts." Tripod Solutions, 2019.

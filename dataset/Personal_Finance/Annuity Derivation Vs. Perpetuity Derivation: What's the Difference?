@@ -1,0 +1,29 @@
+
+The difference between an annuity derivation and a perpetuity derivation is related to their distinct time periods. An annuity uses a compounding interest rate to calculate its present value or future value, while a perpetuity uses only the stated interest rate or discount rate. However, several different kinds of annuities exist, and some seek to replicate the features of a perpetuity.
+ 
+An annuity is an equal and annual series of payments made over a predetermined time period. Annuities can be used for a variety of purposes, but the most common one is providing a steady income for retirees. 
+ 
+In the case of retirees, a lump sum of money or assets is exchanged for a series of smaller payments in the future. This payment is often guaranteed for the life of the beneficiary, meaning that, for a fee, the seller of an annuity assumes the longevity risk, or the risk that the beneficiary will outlive the amount paid. 
+ 
+Annuities are generally sold by insurance companies. From the business standpoint, the lump sum gained by an insurance company upfront, followed by small payments made years later, can be a good complement for other insurance products, which generally take in small annual payments in the form of premiums, followed by large, unpredictable, payouts.
+ 
+The value of an annuity is derived as follows:
+ 
+﻿PV=Periodic Cash Flow×1−(1+r)−nrwhere:PV=Present valuer=Interest rate per time periodn=Number of time periods\begin{aligned} &\text{PV} = \text{Periodic Cash Flow} \times \frac{ 1 - (1 + r) ^{-n}}{ r } \\ &\textbf{where:}\\ &\text{PV} = \text{Present value} \\ &r = \text{Interest rate per time period} \\ &n = \text{Number of time periods} \\ \end{aligned}​PV=Periodic Cash Flow×r1−(1+r)−n​where:PV=Present valuer=Interest rate per time periodn=Number of time periods​﻿
+ 
+When deriving the value of an annuity, you must compound the stated interest rate. Every year, the annuity's owner receives a cash flow (plus the interest rate), which compounds every year as the annual cash flow and annual interest is earned.
+ 
+A perpetuity is an infinite series of periodic payments of equal face value. Therefore, a perpetuity's owner will receive constant payments forever.
+ 
+A perpetuity can be thought of as a kind of annuity that never ceases, though in the case of a perpetuity, interest is not used to calculate the value. 
+ 
+The concept of a perpetuity is used in numerous financial models. The British government issued perpetuities in the form of bonds called consols. Upon purchase, a consol pays a small coupon forever (or until the debtor decides to redeem it).﻿﻿
+ 
+A perpetuity calculation in finance is used in valuation methodologies to find the present value of a company's cash flows. This is done by discounting back at a certain rate.
+ 
+While the actual face value of a perpetuity is indeterminable because of its indefinite time period, its present value can be derived. The present value is equal to the sum of the discounted value of each periodic payment. The value of a perpetuity is derived as follows:
+ 
+﻿PV=Periodic Paymentrwhere:PV=Present value of a perpetuityPeriodic Payment=Payment per time periodr=Interest rate per time period\begin{aligned} &\text{PV} = \frac{ \text{Periodic Payment} }{ r } \\ &\textbf{where:}\\ &\text{PV} = \text{Present value of a perpetuity} \\ &\text{Periodic Payment} = \text{Payment per time period} \\ &r = \text{Interest rate per time period} \\ \end{aligned}​PV=rPeriodic Payment​where:PV=Present value of a perpetuityPeriodic Payment=Payment per time periodr=Interest rate per time period​﻿
+ 
+By using the actual interest rate, and not adding the interest rate compounded, a perpetuity can be derived as an infinite stream of payments.
+ Federal Reserve Economic Data. "Consols: The Never-Ending Bonds." Acessed June 9, 2020.

@@ -1,0 +1,12 @@
+
+A call market, or call auction, is a type of market mechanism in which each transaction takes place at predetermined time intervals. Bid and ask orders are aggregated and transacted at specified times, as opposed to one at a time continuously. The exchange determines the market clearing price based on the number of securities offered by sellers and bid on by buyers.
+ 
+A call market is contrasted to an auction market, where orders are filled as soon as a buyer and seller are found for any given order at an agreed upon price.
+ 
+An auctioneer "calls" for buy and sell orders for a security and groups them for execution at specified times during a trading day. The auctioneer's job is to best match supply and demand of a security to arrive at a clearing price. All market orders for purchase and sale will be executed at that clearing price. The auctioneer will execute limit orders to buy at the clearing price or below and limit orders to sell at the clearing price or above.
+ 
+Call markets are seldom used relative to auction markets, where price discovery and trade transactions are continuous among many buyers and sellers. However, call markets are useful for an illiquid security by nature of the security itself or because there are few buyers and sellers to create an active market. The downside is that traders in a call market subject themselves to greater price uncertainty. They submit their orders and then await the outcome. They are protected, though, by limits on deviations from the prior executed price in the call market.
+ 
+A call is made for an illiquid stock to be traded at 1:00 pm EST. The auctioneer gathers the following buy and sell orders beforehand:
+ 
+The best match is $870 per share. This is the call price that is executed for all orders at that moment.

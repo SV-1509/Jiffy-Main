@@ -1,0 +1,14 @@
+
+A very small aperture terminal (VSAT) is a two-way ground station that transmits and receives data from satellites. A VSAT is less than three meters tall and is capable of both narrow and broadband data to satellites in orbit in real-time. The data can then redirected to other remote terminals or hubs around the planet.
+ 
+VSAT networks have a number of commercial applications, including perhaps most notably, enterprise resource management. The use of VSAT to track inventory was one of the many innovations Walmart pioneered in retail to effectively manage its vast inventory in real-time and reduce delivery costs between the warehouse and stores.
+ 
+Combined with the hub system of inventory storage, VSAT allowed Walmart to stock its stores more precisely and reduce how many times a product had to move between locations before being sold. Other manufacturers use VSAT to relay orders, check production figures real-time as well as other functions that are otherwise handled over a wired network.
+ 
+In fact, the National Stock Exchange (NSE) of India has one of the largest VSAT networks in the world and offers it as one of its connectivity options. VSAT offered the NSE a way to offer access in areas where wired options are limited. With the exception of the occasional sun outage due to solar radiation distorting signals from the satellite, the VSAT network has held up.
+ 
+VSAT networks have a big advantage when it comes to deployment. Because the ground station is communicating with satellites, there is less infrastructure required to service remote locations. This was one of the reasons Walmart chose VSAT as it started out heavily leveraged to rural America where telecommunications infrastructure was less dense than in the cities.
+ 
+This has made VSAT networks an ideal choice for providing connectivity to remote work sites like exploratory drilling sites that need to relay daily drill logs back to headquarters. VSAT is also independent of local telecommunications networks, making it an ideal system to back up wired systems and reduce business recovery risk. If the wired network goes down, a business can still go on using the VSAT network. 
+ 
+However, VSAT does have limitations. The most obvious is latency, as it takes time for information to reach the dish and the station due to one part of the system being way up in geosynchronous orbit above the earth. So protocols that require a lot of back and forth communication rather than one-way data transfer experience lag. The signal quality can also be affected by the weather and other buildings getting in the way.

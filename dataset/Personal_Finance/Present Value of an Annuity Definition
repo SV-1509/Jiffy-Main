@@ -1,0 +1,26 @@
+
+The present value of an annuity is the current value of future payments from an annuity, given a specified rate of return, or discount rate. The higher the discount rate, the lower the present value of the annuity.
+ 
+Because of the time value of money, money received today is worth more than the same amount of money in the future because it can be invested in the meantime. By the same logic, $5,000 received today is worth more than the same amount spread over five annual installments of $1,000 each.
+ 
+The future value of money is calculated using a discount rate. The discount rate refers to an interest rate or an assumed rate of return on other investments over the same duration as the payments. The smallest discount rate used in these calculations is the risk-free rate of return. U.S. Treasury bonds are generally considered to be the closest thing to a risk-free investment, so their return is often used for this purpose.
+ 
+The formula for the present value of an ordinary annuity, as opposed to an annuity due is below. (An ordinary annuity pays interest at the end of a particular period, rather than at the beginning, as is the case with an annuity due.)
+ 
+﻿P=PMT×1−(1(1+r)n)rwhere:P=Present value of an annuity streamPMT=Dollar amount of each annuity paymentr=Interest rate (also known as discount rate)n=Number of periods in which payments will be made\begin{aligned} &\text{P} = \text{PMT} \times \frac { 1 - \Big ( \frac { 1 }{ ( 1 + r ) ^ n } \Big ) }{ r } \\ &\textbf{where:} \\ &\text{P} = \text{Present value of an annuity stream} \\ &\text{PMT} = \text{Dollar amount of each annuity payment} \\ &r = \text{Interest rate (also known as discount rate)} \\ &n = \text{Number of periods in which payments will be made} \\ \end{aligned}​P=PMT×r1−((1+r)n1​)​where:P=Present value of an annuity streamPMT=Dollar amount of each annuity paymentr=Interest rate (also known as discount rate)n=Number of periods in which payments will be made​﻿
+ 
+Assume a person has the opportunity to receive an ordinary annuity that pays $50,000 per year for the next 25 years, with a 6% discount rate, or take a $650,000 lump-sum payment. Which is the better option? Using the above formula, the present value of the annuity is:
+ 
+﻿Present value=$50,000×1−(1(1+0.06)25)0.06=$639,168\begin{aligned} \text{Present value} &= \$50,000 \times \frac { 1 - \Big ( \frac { 1 }{ ( 1 + 0.06 ) ^ {25} } \Big ) }{ 0.06 } \\ &= \$639,168 \\ \end{aligned}Present value​=$50,000×0.061−((1+0.06)251​)​=$639,168​﻿
+ 
+Given this information, the annuity is worth $10,832 less on a time-adjusted basis, so the person would come out ahead by choosing the lump-sum payment over the annuity.
+ An ordinary annuity makes payments at the end of each time period, while an annuity due makes them at the beginning. All else being equal, the annuity due will be worth more in the present. 
+With an annuity due, in which payments are made at the beginning of each period, the formula is slightly different. To find the value of an annuity due, simply multiply the above formula by a factor of (1 + r):
+ 
+﻿P=PMT×1−(1(1+r)n)r×(1+r)\begin{aligned} &\text{P} = \text{PMT} \times \frac { 1 - \Big ( \frac { 1 }{ ( 1 + r ) ^ n } \Big ) }{ r } \times ( 1 + r ) \\ \end{aligned}​P=PMT×r1−((1+r)n1​)​×(1+r)​﻿
+ 
+So, if the example above referred to an annuity due, rather than an ordinary annuity, its value would be as follows:
+ 
+﻿Present value=$50,000×1−(1(1+0.06)25)0.06×(1+.06)=$677,518\begin{aligned} \text{Present value} &= \$50,000 \times \frac { 1 - \Big ( \frac { 1 }{ ( 1 + 0.06 ) ^ {25} } \Big ) }{ 0.06 } \times ( 1 + .06 ) \\ &= \$677,518 \\ \end{aligned}Present value​=$50,000×0.061−((1+0.06)251​)​×(1+.06)=$677,518​﻿
+ 
+In this case, the person should choose the annuity due option because it is worth $27,518 more than the $650,000 lump sum.

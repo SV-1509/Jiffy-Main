@@ -1,0 +1,24 @@
+
+Annual turnover is the percentage rate at which a mutual fund or an exchange-traded fund (ETF) replaces its investment holdings on a yearly basis. Portfolio turnover is the comparison of assets under management (AUM) to the inflow, or outflow, of a fund's holdings. The figure is useful to determine how actively the fund changes the underlying positions in its holdings.
+ 
+High figure turnover rates indicate an actively managed fund. Other funds are more passive and have a lower percentage of holding turnovers. An index fund is an example of a passive holding fund.
+ 
+To calculate the portfolio turnover ratio for a given fund, first determine the total amount of assets purchased or sold (whichever happens to be greater), during the year. Then, divide that amount by the average assets held by the fund over the same year.
+ 
+﻿portfolio turnover = max&ApplyFunction;{fund purchasesfund salesaverage assets\begin{aligned}&\text{portfolio turnover}\ =\ \frac{\operatorname{max}\begin{cases} \text{fund purchases}\\ \quad \text{fund sales}\end{cases}}{\text{average assets}}\end{aligned}​portfolio turnover = average assetsmax{fund purchasesfund sales​​​﻿
+ 
+For example, if a mutual fund held US$100 million in assets under management (AUM) and $75 million of those assets were liquidated at some point during the measurement period, the calculation is:
+ 
+﻿$75m$100m=0.75where:\begin{aligned}&\frac{\$75\text{m}}{\$100\text{m}}=0.75\\&\textbf{where:}\\&\text{m}=\text{million}\end{aligned}​$100m$75m​=0.75where:​﻿
+ 
+It is important to note that a fund turning over at 100% annually has not necessarily liquidated all positions with which it began the year. Instead, the complete turnover accounts for the frequent trading in and out of positions and the fact that sales of securities equal total AUM for the year. Also, using the same formula, the turnover rate is also measured by the number of securities bought in the measurement period.
+ 
+Annualized turnover is a future projection based on one month—or another shorter period of time—of investment turnover. For example, suppose that an ETF has a 5% turnover rate for the month of February. Using that figure, an investor may estimate annual turnover for the coming year by multiplying the one-month turnover by 12. This calculation provides an annualized holdings turnover rate of 60%.
+ 
+Growth funds rely on trading strategies and stock selection from seasoned professional managers who set their sights on outperforming the index against which the portfolio benchmarks. Owning large equity positions is less about a commitment to corporate governance than it is a means to positive shareholder results. Managers who consistently beat the indices stay on the job and attract significant capital inflows.
+ 
+While the passive versus active management argument persists, high volume approaches can realize moderate success. Consider the Alger Capital Appreciation Fund, a four-star rated Morningstar fund with a frantic 141% turnover rate which outperformed the S&P 500 Index in six of the last 10 years through 2015.
+ 
+Index funds such as the Fidelity Spartan 500 Index Fund adopt a buy-and-hold strategy. Following this system, the fund owns positions in equities as long as they remain components of the benchmark. The funds maintain a perfect, positive correlation to the index, and thus, the portfolio turnover rate is 5%. Trading activity is limited to purchasing securities from inflows and infrequently selling issues removed from the index. More than 60% of the time, indices have historically outpace managed funds.
+ 
+Also, it is important to note, a high turnover rate judged in isolation is never an indicator of fund quality or performance. The Fidelity Spartan 500 Index Fund, after expenses, returned nine basis points less than the 1.4% mark of S&P 500 in 2015 with dividends reinvested.

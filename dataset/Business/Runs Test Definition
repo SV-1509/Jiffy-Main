@@ -1,0 +1,16 @@
+
+A runs test is a statistical procedure that examines whether a string of data is occurring randomly from a specific distribution. The runs test analyzes the occurrence of similar events that are separated by events that are different.
+ 
+In investing, a runs test can be important for investors to determine if the data set they are using is randomly generated or if it is impacted by an underlying variable. Traders who focus on technical analysis can use a runs test to help analyze the price action of a security.
+ 
+A run is a series of increasing or decreasing values, often represented on a chart by plus (+) or minus (-) symbols. In statistics, a runs test helps determine the randomness of data by uncovering any variables that might impact data patterns.
+ 
+For example, a list of truly random single-digit numbers should only have a few instances where a sequence of numbers is ascending numerically. However, in many cases, it is difficult to assert the randomness of data in which there are thousands of sequences in a string of data. Thus, the runs test was created as an objective method of determining randomness.
+ 
+The runs test is a shortened version of the full name: the Wald–Wolfowitz runs test, so named after mathematicians Abraham Wald and Jacob Wolfowitz. The Wald-Wolfowitz test is a nonparametric statistical test, which means the data being analyzed does not have to meet certain assumptions or parameters. The Wald-Wolfowitz test can be used to examine the hypothesis that the variables in the data string are mutually independent.
+ 
+Some statisticians believe another type of runs test—the Kolmogorov–Smirnov test—is a better tool than the Wald-Wolfowitz test for detecting differences between distributions. The Kolmogorov–Smirnov test is a type of goodness-of-fit test that demonstrates if the sample data being tested represents normal distribution patterns or if the data is somehow skewed. The test establishes the discrepancy between the values in the sample data and the normal distribution model.
+ 
+The runs test model is important in determining whether an outcome of a trial is truly random, especially in cases where random versus sequential data has implications for subsequent theories and analysis. A runs test can be a valuable tool for investors who employ technical analysis to make their trading decisions. These traders analyze statistical trends, such as price movement and volume, to spot potentially profitable trading opportunities. It's important for these traders to understand the underlying variables that could be impacting price movement and a runs test can help with this.
+ 
+Two powerful ways traders can use a runs test include:

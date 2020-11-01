@@ -1,0 +1,6 @@
+
+Microsoft Excel is an extraordinarily handy bookkeeping software program. But did you know Excel can also be used to perform the Rule of 72 calculation? For the uninitiated, this rule is a simple mathematical shortcut that helps investors estimate the number of years it would take to double their money, given a known interest rate, or a known compounding annual rate of return. For investors standing at a crossroads, who are faced with deciding between two or more investment options, the Rule of 72 can help them make more educated decisions that best align with their risk tolerance, time horizons, and long-term investment goals.
+ 
+Let us assume you wish to compare the approximate number of years it would take for five separate investments to double, with expected rates of return of 5%, 10%, 13%, 15%, and 20%. Using Microsoft Excel, this exercise may be achieved by taking the following iterative steps:
+ 
+The values in cells A2 through A6 must be expressed in percentage terms to calculate the actual number of years it would take for the investments to double. Therefore, the values must be divided by 100. To accomplish this, take the following steps:

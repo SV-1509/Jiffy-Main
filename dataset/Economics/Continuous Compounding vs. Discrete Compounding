@@ -1,0 +1,24 @@
+
+People invest with the expectation of receiving more than what they invested. That added amount is commonly referred to as interest. Depending on the investment, interest can compound differently. The most common ways interest accrues is through discrete compounding, which includes simple and compounding, and continuous compounding.
+ 
+Discrete compounding and continuous compounding are closely related terms. Discretely compounded interest is calculated and added to the principal at specific intervals (e.g., annually, monthly, or weekly). Continuous compounding uses a natural log-based formula to calculate and add back accrued interest at the smallest possible intervals.
+ 
+Interest can be compounded discretely at many different time intervals. Discrete compounding explicitly defines the number of and the distance between compounding periods. For example, an interest that compounds on the first day of every month is discrete.
+ 
+There is only one way to perform continuous compounding – continuously. The distance between compounding periods is so small (smaller than even nanoseconds) that it is mathematically equal to zero.
+ 
+Even if it occurs every minute or even every single second, compounding is still discrete. If it isn't continuous, it's discrete. For example, simple interest is discrete.
+ 
+If the interest rate is simple (no compounding takes place), then the future value of any investment can be written as:
+ 
+﻿FV=P(1+rm)mtwhere:FV=Future valueP=Principal(r/m)=Interest ratemt=Time period\begin{aligned} &FV = P (1+ \frac{r}{m})^{mt}\\ &\textbf{where:}\\ &FV = \text{Future value}\\ &P = \text{Principal}\\ &(r/m) = \text{Interest rate}\\ &mt = \text{Time period}\\ \end{aligned}​FV=P(1+mr​)mtwhere:FV=Future valueP=Principal(r/m)=Interest ratemt=Time period​﻿
+ 
+Compounding interest calculates interest on the principal and accrued interest. When interest is compounded discretely, its formula is:
+ 
+﻿FV=P(1+rm)mtwhere:t=The term of the contract (in years)m=The number of compounding periods per year\begin{aligned} &\text{FV} = \text{P} (1+ \frac{r}{m})^{mt}\\ &\textbf{where:}\\ &t = \text{The term of the contract (in years)}\\ &m = \text{The number of compounding periods per year}\\ \end{aligned}​FV=P(1+mr​)mtwhere:t=The term of the contract (in years)m=The number of compounding periods per year​﻿
+ 
+Continuous compounding introduces the concept of the natural logarithm. This is the constant rate of growth for all naturally growing processes. It's a figure that developed out of physics.
+ 
+The natural log is typically represented by the letter e. To calculate continuous compounding for an interest-generating contract, the formula needs to be written as:
+ 
+﻿FV=P∗ertFV = P*e^{rt}FV=P∗ert﻿

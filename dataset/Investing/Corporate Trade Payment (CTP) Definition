@@ -1,0 +1,15 @@
+
+The corporate trade payment (CTP) was a form of transferring funds electronically, that is no longer in use today. The CTP system was utilized by corporate and governmental entities to pay creditors using the automated clearing house (ACH) system. The CTP payment network became obsolete due to its lack of flexibility and since been replaced by more modern systems and was shuttered in 1996.
+ 
+The corporate trade payment (CTP) system was introduced in 1983 to address the limitations of the automated clearing house (ACH) system, which had been in place since 1974. The ACH system used a 94-character format to encode payment data in electronic form. Data encoded in this format typically included the institutions and account numbers of both payor and payee, as well as the relevant dates, payment amounts and processing codes.﻿﻿
+ 
+The ACH system left 30 to 34 of the 94 available characters for messages, which was found to be insufficient. Further problems with the ACH system included the lack of standardized rules or procedures for passing any included messages on to the recipient of the transaction. Neither were there any standardized procedures for encoding message data or processing it.﻿﻿
+ 
+When the CTP system was introduced, it expanded the message attachment capability of an electronic payment to up to 4,999 additional 94-character messages. In theory, this allowed the payor to include with their payment information any necessary payment advice, or information that served to identify the reason for a payment and explain the amount of the payment.﻿﻿
+ 
+Benefits of the CTP system for both payor and payee included the elimination of postage and handling costs and the reduction of bank fees. However, the costs of the CTP system meant that it was not ideal for sending or receiving simple, single-invoice payments, but was better suited to more complex remittances.﻿﻿
+ 
+The CTP system was discontinued in 1996. It failed in part because of the requirements of its format, which made it difficult to package payment advice information into the addenda records. The CTP system also lacked a data content standard that would have made it easier for corporations to automate accounts receivable information.﻿﻿
+ 
+The corporate trade exchange (CTX) system replaced the CTP system, with features that have sought to rectify the CTP's flaws. The CTX system provides for easier tracking of payments, and allows for the addition of more extensive and adequate payment advice records with each payment. The CTX system also corrects the problem of a data content standard that plagued the CTP, using ANSI X12 to automate the receipt of payments.﻿﻿
+ Federal Reserve Bank of St. Louis. "Corporate Trade Payments: Hard Lessons in Product Design," Pages 10–11. Accessed Sept. 1, 2020. Barron's Dictionary. "Corporate Trade Payment (CTP)." Accessed Sept. 1, 2020. Treasury Software. "CTX—Corporate Trade Exchange." Accessed Sept. 1, 2020.

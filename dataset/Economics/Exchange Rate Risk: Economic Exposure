@@ -1,0 +1,46 @@
+
+In the present era of increasing globalization and heightened currency volatility, changes in exchange rates have a substantial influence on companies’ operations and profitability. Exchange rate volatility affects not just multinationals and large corporations, but it also affects small and medium-sized enterprises, including those who only operate in their home country. While understanding and managing exchange rate risk is a subject of obvious importance to business owners, investors should also be familiar with it because of the huge impact it can have on their holdings.
+ 
+Companies are exposed to three types of risk caused by currency volatility:
+ 
+Note that economic exposure deals with unexpected changes in exchange rates – which by definition are impossible to predict – since a company’s management bases their budgets and forecasts on certain assumptions, which represents their expected change in currency rates. In addition, while transaction and translation exposure can be accurately estimated and therefore hedged, economic exposure is difficult to quantify precisely and as a result, is challenging to hedge.
+ 
+Here’s a hypothetical example of economic exposure. Consider a large U.S. pharmaceutical with subsidiaries and operations in a number of countries around the world. The company’s largest export markets are Europe and Japan, which together account for 40% of its annual revenues. Management had factored in an average decline of 3% for the dollar versus the euro and Japanese yen for the current year and next two years.
+ 
+Their bearish view on the dollar was based on issues such as the recurring U.S. budget deadlock, as well as the nation’s growing fiscal and current account deficits, which they expected would weigh on the greenback going forward.
+ 
+However, a rapidly improving U.S. economy has triggered speculation that the Federal Reserve may be poised to tighten monetary policy much sooner than expected. The dollar has been rallying, as a result, and over the past few months has gained about 5% against the euro and yen. The outlook for the next two years suggests further gains in store for the dollar, as monetary policy in Japan remains very stimulative and the European economy is just emerging out of recession.
+ 
+The U.S. pharmaceutical company is faced not just with transaction exposure (because of its large export sales) and translation exposure (as it has subsidiaries worldwide), but also with economic exposure. Recall that management had expected the dollar to decline about 3% annually against the euro and yen over a three-year period, but the greenback has already gained 5% versus these currencies, a variance of eight percentage points and growing. This will obviously have a negative effect on the company’s sales and cash flows. Savvy investors have already cottoned on to the challenges facing the company due to these currency fluctuations and the stock has declined 7% in recent months.
+ 
+The value of a foreign asset or overseas cash flow fluctuates as the exchange rate changes. From your Statistics 101 class, you would know that a regression analysis of the asset value (P) versus the spot exchange rate (S) should produce the following regression equation:
+ 
+﻿Asset Value(P)=a+(b×S)+ewhere:a=Regression constantb=Regression coefficientS=Spot exchange rate\begin{aligned} &\text{Asset Value}(P)=a+(b\times S)+e\\ &\textbf{where:}\\ &a=\text{Regression constant}\\ &b=\text{Regression coefficient}\\ &S=\text{Spot exchange rate}\\ &e=\text{Random error term with mean of zero} \end{aligned}​Asset Value(P)=a+(b×S)+ewhere:a=Regression constantb=Regression coefficientS=Spot exchange rate​﻿
+ 
+The regression coefficient b is a measure of economic exposure and measures the sensitivity of the asset’s dollar value to the exchange rate.
+ 
+The regression coefficient is defined as the ratio of the covariance between the asset value and the exchange rate, to the variance of the spot rate. Mathematically it is defined as:
+ 
+﻿b=Cov(P,S)Var(S)b =\frac{Cov(P,S)}{Var(S)}b=Var(S)Cov(P,S)​﻿
+ 
+A U.S. pharmaceutical – call it USMed – has a 10% stake in a fast-growing European company – let’s call it EuroMax. USMed is concerned about a potential long-term decline in the euro, and since it wants to maximize the dollar value of its EuroMax stake, would like to estimate its economic exposure.
+ 
+USMed thinks the possibility of a stronger or weaker euro is even, i.e. 50-50. In the strong-euro scenario, the currency would appreciate to 1.50 against the dollar, which would have a negative impact on EuroMax (as it exports most of its products). As a result, EuroMax would have a market value of €800 million, valuing USMed’s 10% stake at €80 million (or $120 million). In the weak-euro scenario, the currency would decline to 1.25; EuroMax would have a market value of €1.2 billion, valuing USMed’s 10% stake at €120 million (or $150 million).
+ 
+If P represents the value of USMed’s 10% stake in EuroMax in dollar terms, and S represents the euro spot rate, then the covariance between P and S (i.e., the way they move together) is:
+ 
+Cov (P,S) = - 1.875
+ 
+Var (S) = 0.015625
+ 
+USMed’s economic exposure is, therefore, negative €120 million, which means that the value of its stake in EuroMed goes down as the euro gets stronger, and goes up as the euro weakens.
+ 
+In this example, we have used a 50-50 possibility (of a stronger or weaker euro) for the sake of simplicity. However, different probabilities can also be used, in which case the calculations would be a weighted average of these probabilities.
+ 
+A company’s operating exposure is primarily determined by two factors:
+ 
+The risks of operating or economic exposure can be alleviated either through operational strategies or currency risk mitigation strategies.
+ 
+The most common strategies in this regard are listed below.
+ 
+An awareness of the potential impact of economic exposure can help business owners take steps to mitigate this risk. While economic exposure is a risk that is not readily apparent to investors, identifying companies and stocks that have the biggest such exposure can help them make better investment choices during times of heightened exchange rate volatility.

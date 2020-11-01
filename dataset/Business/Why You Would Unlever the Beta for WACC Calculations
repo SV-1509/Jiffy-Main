@@ -1,0 +1,30 @@
+
+Companies and investors review the weighted average cost of capital (WACC) to evaluate the returns that a firm needs to realize to meet all of its capital obligations, including those of creditors and stockholders. Beta is critical to WACC calculations, where it helps 'weight' the cost of equity by accounting for risk. WACC is calculated as:
+ 
+WACC = (weight of equity) x (cost of equity) + (weight of debt) x (cost of debt).
+ 
+However, since not all capital obligations involve debt (and therefore default or bankruptcy risk), comparisons between different obligations require a beta calculation that is stripped of the impact of debt. This process is called "unlevering the beta."
+ 
+The equity beta is the volatility of a company’s stock compared to the broader market. A beta of 2 theoretically means a company’s stock is twice as volatile as the broader market. The number that shows up on most financial sites, such as Yahoo! or Google Finance, is the levered beta.
+ 
+Levered beta is characterized by two components of risk: business and financial. Business risk includes company-specific issues, while the financial risk is debt or leverage related. If the company has zero debt, then unlevered and levered beta are the same.
+ 
+WACC calculations incorporate levered and unlevered beta, but it does so at different stages when being calculated. Unlevered beta shows the volatility of returns without financial leverage. Unlevered beta is known as asset beta, while the levered beta is known as equity beta. Unlevered beta is calculated as:
+ 
+Unlevered beta = Levered beta / [1 + (1 - Tax rate) * (Debt / Equity)]
+ 
+Unlevered beta is essentially the unlevered weighted average cost. This is what the average cost would be without using debt or leverage. To account for companies with different debts and capital structure, it’s necessary to unlever the beta. That number is then used to find the cost of equity.
+ 
+To calculate the unlevered beta, an investor must gather a list of comparable company betas, take the average and re-lever it based on the company’s capital structure that they’re analyzing.
+ 
+After finding an unlevered beta, WACC then re-levers beta to the real or ideal capital structure. The ideal capital structure comes into play when looking to purchase the company, meaning the capital structure will change. Re-levering the beta is done as follows:
+ 
+In a sense, the calculations have taken apart all of the capital obligations for a firm and then reassembled them to understand each part's relative impact. This allows the company to understand the cost of equity, showing how much interest the company is required to pay per dollar of finance. WACC is very useful in determining the feasibility of future capital expansion.
+ 
+Company ABC is looking to figure out its cost of equity. The company operates in the construction business where, based on a list of comparable firms, the average beta is 0.9. The comparable firms have an average debt-to-equity ratio of 0.5. Company ABC has a debt-to-equity ratio of 0.25 and a 30% tax rate.
+ 
+The unlevered beta is calculated as follows:
+ 
+Then to re-lever the beta we calculate the levered beta using the unlevered beta above and the company’s debt-to-equity ratio:
+ 
+Now, the company would use the levered beta figure above, along with the risk-free rate and the market risk premium, to calculate its cost of equity.

@@ -1,0 +1,10 @@
+
+In statistics, a spurious correlation, or spuriousness, refers to a connection between two variables that appears causal but is not. Spurious relationships often have the appearance of one variable affecting another. This spurious correlation is often caused by a third factor that is not apparent at the time of examination, sometimes called a confounding factor.
+ 
+When two random variables track each other closely on a graph, it is easy to suspect correlation, or a relationship between the two factors, where a change affects the other. Setting aside "causation," another topic, this observation can lead the reader of the chart to believe that the movement of variable A is linked to the movement in variable B or vice versa. but sometimes, upon closer statistical examination, the aligned movements are coincidental or caused by a third factor that affects the first two. This is a spurious correlation. Research done with small sample sizes or arbitrary endpoints is particularity susceptible to spuriousness.
+ 
+It is not too challenging to discover interesting correlations. Many will turn out to be spurious, though. For the male species on Wall Street, two popular spurious correlations involve women and sports. Originating in the 1920s is the skirt length theory, which holds that skirt lengths and stock market direction are correlated. If skirt lengths are long, that means the stock market is going down; if they are short, the market is going up. Around late January there is talk about the so-called Super Bowl indicator, which suggests that a win by the AFC team likely means that the stock market will go down in the coming year, whereas a victory by the NFC team portends a rise in the market. Since 1966, the indicator has had an accuracy rate of 80%. It is a fun conversation piece but probably not something a serious financial advisor would recommend as an investment strategy for clients.
+ 
+Here are some more examples of common spurious correlations:
+ 
+Statisticians and other scientists who analyze data must be on the lookout for spurious relationships all the time. There are numerous methods that they use, including:

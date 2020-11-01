@@ -1,0 +1,18 @@
+
+The marginal rate of technical substitution (MRTS) is an economic theory that illustrates the rate at which one factor must decrease so that the same level of productivity can be maintained when another factor is increased.
+ 
+The MRTS reflects the give-and-take between factors, such as capital and labor, that allow a firm to maintain a constant output. MRTS differs from the marginal rate of substitution (MRS) because MRTS is focused on producer equilibrium and MRS is focused on consumer equilibrium.
+ 
+﻿MRTS(L, K)=−ΔKΔL=MPLMPKwhere:K=CapitalL=LaborMP=Marginal products of each inputΔKΔL=Amount of capital that can be reducedwhen labor is increased (typically by one unit)\begin{aligned} &\text{MRTS(\textit{L}, \textit{K})} = - \frac{ \Delta K }{ \Delta L } = \frac{ \text {MP}_L }{ \text {MP}_K } \\ &\textbf{where:} \\ &K = \text{Capital} \\ &L = \text{Labor} \\ &\text{MP} = \text{Marginal products of each input} \\ &\frac{ \Delta K }{ \Delta L } = \text{Amount of capital that can be reduced}\\ &\text{when labor is increased (typically by one unit)} \\ \end{aligned}​MRTS(L, K)=−ΔLΔK​=MPK​MPL​​where:K=CapitalL=LaborMP=Marginal products of each inputΔLΔK​=Amount of capital that can be reducedwhen labor is increased (typically by one unit)​﻿
+ 
+The MRTS is the slope of a graph with one factor represented on each axis. The MRTS slope is an isoquant or a curve that connects the two input points as long as the output remains the same.
+ 
+For example, an MRTS graph that has capital (represented with K on its Y-axis and labor (represented with L) on its X-axis is calculated as dL / dK. The isoquant shape is dependent upon whether input values are exact substitutes, which results in a straight line, or complements, which creates an L shape. When input values are not exact substitutes, the line is curved.
+ 
+The isoquants on an MRTS graph show the rate at which a given input, either labor or capital, can be substituted for the other while keeping the same output level. The MRTS is represented by the absolute value of an isoquant's slope at a chosen point.
+ 
+A decline in MRTS along an isoquant for producing the same level of output is called the diminishing marginal rate of substitution. The figure below shows that when a firm moves down from point (a) to point (b) and it uses one additional unit of labor, the firm gives up 4 units of capital (K) and yet remains on the same isoquant at point (b). So the MRTS is 4. If the firm hires another unit of labor and moves from point (b) to (c), the firm can reduce its capital (K) by 3 units but remains on the same isoquant, and the MRTS is 3.
+ 
+Producer equilibrium is a concept where all producers strive to generate the maximum amount of profit for the minimum amount of cost. The producer obtains equilibrium by putting together factors of production in a combination that requires the least amount of money. Thus, the producer is responsible for determining the combination of production factors that best achieve this result.
+ 
+The decision the producer makes involves the MRTS and the principle of substitution. Consider that a producer has only two production factors, factor A and factor B. If factor A can produce a greater amount of output than factor B, with an equal amount of capital being spent on both, this would lead to the producer choosing to substitute factor A for factor B.

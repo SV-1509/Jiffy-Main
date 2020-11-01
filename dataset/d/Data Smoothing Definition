@@ -1,0 +1,20 @@
+
+Data smoothing is done by using an algorithm to remove noise from a data set. This allows important patterns to stand out. Data smoothing can be used to help predict trends, such as those found in securities prices.
+ Smoothed data is preferred because it generally identifies changes in the economy compared to unsmoothed data. 
+When data is compiled, it can be manipulated to remove or reduce any volatility, or any other type of noise. This is called data smoothing.
+ 
+The idea behind data smoothing is that it can identify simplified changes in order to help predict different trends and patterns. It acts as an aid for statisticians or traders who need to look at a lot of data—that can often be complicated to digest—to find patterns they would not otherwise see.
+ 
+To explain with a visual representation, imagine a one-year chart for Company X's stock. Each individual high point on the chart for the stock can be reduced while raising all the lower points. This would make a smoother curve, thus helping an investor make predictions about how the stock may perform in the future.
+ 
+There are different methods in which data smoothing can be done. Some of these include the random method, random walk, moving average, simple exponential, linear exponential, and seasonal exponential smoothing.
+ A smoothed moving average places equal weight to both recent prices and historical ones. 
+The random walk model is commonly used to describe the behavior of financial instruments such as stocks. Some investors believe that there is no relationship between past movement in a security's price and its future movement. Random walk smoothing assumes that future data points will equal the last available data point plus a random variable. Technical and fundamental analysts disagree with this idea; they believe future movements can be extrapolated by examining past trends.
+ 
+Often used in technical analysis, the moving average smooths out price action while it filters out volatility from random price movements. This process is based on past prices, making it a trend-following—or lagging—indicator.
+ 
+Data smoothing can be used to help identify trends in the economy, securities such as stocks, consumer sentiment, or for other business purposes.
+ 
+For example, an economist can smooth out data to make seasonal adjustments for certain indicators like retail sales by reducing the variations that may occur each month like holidays or gas prices.
+ 
+There are downfalls to using this tool, however. Data smoothing doesn't always provide an explanation of the trends or patterns it helps identify. It also may lead to certain data points being ignored by emphasizing others.

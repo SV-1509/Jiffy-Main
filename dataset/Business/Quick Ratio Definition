@@ -1,0 +1,35 @@
+
+The quick ratio is an indicator of a company’s short-term liquidity position and measures a company’s ability to meet its short-term obligations with its most liquid assets. Since it indicates the company’s ability to instantly use its near-cash assets (assets that can be converted quickly to cash) to pay down its current liabilities, it is also called the acid test ratio. An acid test is a quick test designed to produce instant results—hence, the name.
+ 
+The quick ratio measures the dollar amount of liquid assets available against the dollar amount of current liabilities of a company. Liquid assets are the assets that can be quickly converted into cash with minimal impact on the price received in the open market, while current liabilities are a company's debts or obligations that are due to be paid to creditors within one year.
+ 
+A result of 1 is considered to be the normal quick ratio. It indicates that the company is fully equipped with exactly enough assets to be instantly liquidated to pay off its current liabilities. A company that has a quick ratio of less than 1 may not be able to fully pay off its current liabilities in the short term, while a company having a quick ratio higher than 1 can instantly get rid of its current liabilities. For instance, a quick ratio of 1.5 indicates that a company has $1.50 of liquid assets available to cover each $1 of its current liabilities.
+ 
+While such numbers-based ratios offer insight into the viability and certain aspects of a business, they may not provide a complete picture of the overall health of the business. It is important to look at other associated measures to assess the true picture.
+ 
+The formula to calculate the quick ratio is:﻿﻿
+ 
+﻿QR=CE+MS+ARCLOrQR=CA−I−PECLwhere:QR=Quick ratioCE=Cash & equivalentsMS=Marketable securitiesAR=Accounts receivableCL=Current LiabilitiesCA=Current AssetsI=Inventory\begin{aligned} &QR=\frac{CE+MS+AR}{CL}\\ &\text{Or}\\ &QR=\frac{CA-I-PE}{CL}\\ &\textbf{where:}\\ &QR=\text{Quick ratio}\\ &CE=\text{Cash } \&\text{ equivalents}\\ &MS=\text{Marketable securities}\\ &AR=\text{Accounts receivable}\\ &CL=\text{Current Liabilities}\\ &CA=\text{Current Assets}\\ &I=\text{Inventory}\\ &PE=\text{Prepaid expenses} \end{aligned}​QR=CLCE+MS+AR​OrQR=CLCA−I−PE​where:QR=Quick ratioCE=Cash & equivalentsMS=Marketable securitiesAR=Accounts receivableCL=Current LiabilitiesCA=Current AssetsI=Inventory​﻿
+ 
+To calculate the quick ratio, locate each of the formula components on a company's balance sheet in the current assets and current liabilities sections. Plug the corresponding balance into the equation and perform the calculation.
+ 
+While calculating the quick ratio, double-check the constituents you're using in the formula. The numerator of liquid assets should include the assets that can be easily converted to cash in the short-term (within 90 days or so) without compromising on their price. Inventory is not included in the quick ratio because many companies, in order to sell through their inventory in 90 days or less, would have to apply steep discounts to incentivize customers to buy quickly. Inventory includes raw materials, components, and finished products.
+ 
+Similarly, only accounts receivables that can be collected within about 90 days should be considered. Accounts receivable refers to the money that is owed to a company by its customers for goods or services already delivered.
+ 
+A business may have a large amount of money as accounts receivable, which may bump up the quick ratio. However, if the payment from the customer is delayed due to unavoidable circumstances, or if the payment has a due date that is a long period out, such as 120 days based on terms of sale, the company may not be able to meet its short-term liabilities. This may include essential business expenses and accounts payable that need immediate payment. Despite having a healthy healthy accounts receivable balance, the quick ratio might actually be too low, and the business could be at risk of of running out of cash.
+ 
+On the other hand, a company could negotiate rapid receipt of payments from its customers and secure longer terms of payment from its suppliers, which would keep liabilities on the books longer. By converting accounts receivable to cash faster, it may have a healthier quick ratio and be fully equipped to pay off its current liabilities.
+ 
+Whether accounts receivable is a source of quick ready cash remains a debatable topic, and depends on the credit terms that the company extends to its customers. A company that needs advance payments or allows only 30 days to the customers for payment will be in a better liquidity position than the one that gives 90 days. Additionally, a company’s credit terms with its suppliers also affect its liquidity position. If a company gives its customers 60 days to pay but has 120 days to pay its suppliers, its liquidity position will be healthy as long as its receivables match or exceed its payables.
+ 
+The other two components: cash, and marketable securities, are usually free from such time-bound dependencies. However, to maintain precision in the calculation, one should consider only the amount to be actually received in 90 days or less under normal terms. Early liquidation or premature withdrawal of assets like interest-bearing securities may lead to penalties or discounted book value.
+ 
+Publicly traded companies generally report the quick ratio figure under the “Liquidity/Financial Health” heading in the “Key Ratios” section of their quarterly reports.
+ 
+Below is the calculation of the quick ratio based on the figures that appear on the respective balance sheets of two leading competitors operating in the personal care industrial sector for the fiscal year ending 2019:
+  (in millions) Procter & Gamble Johnson & Johnson Quick Assets (A) $15,238 $33,862 Current Liabilities (B) $30,011 $35,964 Quick Ratio (A/B) 0.51 0.94 
+With a quick ratio of 0.94, Johnson & Johnson appears to be in a decent position to cover its current liabilities, though its liquid assets aren't quite able to meet each dollar of short-term obligations. Procter & Gamble, on the other hand, may not be able to pay off its current obligations using only quick assets as its quick ratio is well below 1, at 0.51.
+ 
+The quick ratio is more conservative than the current ratio because it excludes inventory and other current assets, which are generally more difficult to turn into cash. The quick ratio considers only assets that can be converted to cash very quickly. The current ratio, on the other hand, considers inventory and prepaid expense assets. In most companies, inventory takes time to liquidate, although a few rare companies can turn their inventory fast enough to consider it a quick asset. Prepaid expenses, though an asset, cannot be used to pay for current liabilities, so they're omitted from the quick ratio.
+ InvestingAnswers. "Quick Ratio." Accessed Sept. 12, 2020.

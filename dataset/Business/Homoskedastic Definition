@@ -1,0 +1,16 @@
+
+Homoskedastic (also spelled "homoscedastic") refers to a condition in which the variance of the residual, or error term, in a regression model is constant. That is, the error term does not vary much as the value of the predictor variable changes. However, the lack of homoskedasticity may suggest that the regression model may need to include additional predictor variables to explain the performance of the dependent variable.
+ 
+Homoskedasticity is one assumption of linear regression modeling. If the variance of the errors around the regression line varies much, the regression model may be poorly defined. The opposite of homoskedasticity is heteroskedasticity just as the opposite of "homogenous" is "heterogeneous." Heteroskedasticity (also spelled “heteroscedasticity”) refers to a condition in which the variance of the error term in a regression equation is not constant.
+ When considering that variance is the measured difference between the predicted outcome and the actual outcome of a given situation, determining homoskedasticity can help to determine which factors need to be adjusted for accuracy. 
+A simple regression model, or equation, consists of four terms. On the left side is the dependent variable. It represents the phenomenon the model seeks to "explain." On the right side are a constant, a predictor variable, and a residual, or error, term. The error term shows the amount of variability in the dependent variable that is not explained by the predictor variable.
+ 
+For example, suppose you wanted to explain student test scores using the amount of time each student spent studying. In this case, the test scores would be the dependent variable and the time spent studying would be the predictor variable. 
+ 
+The error term would show the amount of variance in the test scores that was not explained by the amount of time studying. If that variance is uniform, or homoskedastic, then that would suggest the model may be an adequate explanation for test performance—explaining it in terms of time spent studying.
+ 
+But the variance may be heteroskedastic. A plot of the error term data may show a large amount of study time corresponded very closely with high test scores but that low study time test scores varied widely and even included some very high scores. So the variance of scores would not be well-explained simply by one predictor variable—the amount of time studying. In this case, some other factor is probably at work, and the model may need to be enhanced in order to identify it or them.
+ 
+Further investigation may reveal that some students had seen the answers to the test ahead of time or that they had previously taken a similar test, and therefore didn't need to study for this particular test.
+ 
+To improve on the regression model, the researcher would, therefore, add another explanatory variable indicating whether a student had seen the answers prior to the test. The regression model would then have two explanatory variables: time studying, and whether the student had prior knowledge of the answers. With these two variables, more of the variance of the test scores would be explained and the variance of the error term might then be homoskedastic, suggesting that the model was well-defined.

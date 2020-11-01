@@ -1,0 +1,20 @@
+
+Arc elasticity is the elasticity of one variable with respect to another between two given points. It is used when there is no general function to define the relationship between the two variables.
+ 
+Arc elasticity is also defined as the elasticity between two points on a curve. The concept is used in both mathematics and economics.
+ 
+﻿﻿PEd=% Change in Qty% Change in PricePE_d = \dfrac{\text{\% Change in Qty}}{\text{\% Change in Price}}PEd​=% Change in Price% Change in Qty​﻿﻿
+ 
+If the price of a product decreases from $10 to $8, leading to an increase in quantity demanded from 40 to 60 units, then the price elasticity of demand can be calculated as:
+ 
+Since we’re concerned with the absolute values in price elasticity, the negative sign is ignored. You can conclude that the price elasticity of this good, when the price decreases from $10 to $8, is 2.5.
+ 
+In economics, there are two possible ways of calculating elasticity of demand—price (or point) elasticity of demand and arc elasticity of demand. The arc price elasticity of demand measures the responsiveness of quantity demanded to a price. It takes the elasticity of demand at a particular point on the demand curve, or between two points on the curve.
+ 
+One of the problems with the price elasticity of demand formula is that it gives different values depending on whether price rises or falls. If you were to use different start and end points in our example above—that is, if you assume the price increased from $8 to $10—and the quantity demanded decreased from 60 to 40, the Ped will be:
+ 
+To eliminate this problem, the arc elasticity can be used. Arc elasticity measures elasticity at the midpoint between two selected points on the demand curve by using a midpoint between the two points. The arc elasticity of demand can be calculated as:
+ 
+Let’s calculate the arc elasticity following the example presented above:
+ 
+When you use arc elasticities you do not need to worry about which point is the starting point and which point is the ending point since the arc elasticity gives the same value for elasticity whether prices rise or fall. Therefore, the arc elasticity is more useful than the price elasticity when there is a considerable change in price.

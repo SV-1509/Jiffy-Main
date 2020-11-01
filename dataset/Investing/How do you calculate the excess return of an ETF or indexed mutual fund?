@@ -1,0 +1,24 @@
+
+For exchange-traded funds (ETFs), the excess return should be equal to the risk-adjusted (or beta) measure that exceeds the instrument's benchmark or annual expense ratio. It's easy to assess index mutual funds against the benchmark index: Just subtract the benchmark's total return from the fund's net asset value to find excess return. Due to mutual fund expenses, the excess return for an index fund is typically negative.
+ 
+As a general rule, investors prefer index mutual funds and ETFs that outperform their benchmarks and have positive excess returns. Some investors and analysts believe it is almost impossible to generate excess returns over an extended time period for managed mutual funds due to the prevalence of high fees and market uncertainty. (For related reading, see "Index Mutual Funds Versus Index ETFs.")
+ 
+Similar to most index mutual funds, most ETFs underperform relative to their benchmark indexes. ETFs tend to have higher excess returns on average than index mutual funds.
+ 
+Think of the expected return for an ETF as the ETF's alpha for a given price and risk profile. Several different measures of risk can be used to pair up an ETF with a benchmark; one common example is to use the weighted average cost of equity. If you don't have or don't want to use the annual expense ratio or a simple benchmark when calculating an ETF's excess return, use total return in excess of the expected return based on the capital asset pricing model formula.
+ 
+The CAPM formula can be written as follows:
+ 
+﻿TEFTR=RFRR+(ETFb×(MR−RFRR))+ERwhere:TEFTR=Total ETF returnRFRR=Risk-free rate of returnETFb=ETF betaMR=Market returnER=Excess return\begin{aligned} &\text{TEFTR} = \text{RFRR} + ( \text{ETFb} \times ( \text{MR} - \text{RFRR} ) ) + \text{ER} \\ &\textbf{where:} \\ &\text{TEFTR} = \text{Total ETF return} \\ &\text{RFRR} = \text{Risk-free rate of return} \\ &\text{ETFb} = \text{ETF beta} \\ &\text{MR} = \text{Market return} \\ &\text{ER} = \text{Excess return} \\ \end{aligned}​TEFTR=RFRR+(ETFb×(MR−RFRR))+ERwhere:TEFTR=Total ETF returnRFRR=Risk-free rate of returnETFb=ETF betaMR=Market returnER=Excess return​﻿
+ 
+Rearranged, the formula looks like this:
+ 
+﻿ER=RFRR+(ETFb×(MR−RFRR))−TEFTR\begin{aligned} &\text{ER} = \text{RFRR} + ( \text{ETFb} \times ( \text{MR} - \text{RFRR} ) ) - \text{TEFTR} \\ \end{aligned}​ER=RFRR+(ETFb×(MR−RFRR))−TEFTR​﻿
+ 
+Using the CAPM method, you can compare two portfolios or ETFs with equal or highly similar risk profiles (beta) to see which produces the most excess returns. (For related reading, see "Capital Asset Pricing Model: An Overview.")
+ 
+Index funds are designed to avoid large positive or negative excess returns relative to their index. Index fund creators use risk-control techniques and passive management to minimize the expected deviation from the benchmark.
+ 
+Calculating the excess returns for an index fund is easy. To take a simple case, compare an S&P 500 index mutual fund's total returns to the S&P 500 performance. It is possible, though unlikely, for the indexed fund to outperform the S&P 500. In this case, the excess returns will be positive. It is more likely that the administrative fees associated with mutual funds will produce a slightly negative excess return.
+ 
+(For related reading, see "Understanding Mutual Fund Returns.")

@@ -1,0 +1,24 @@
+
+Market depth refers to a market's ability to sustain relatively large market orders without much impacting the price of the security. Market depth considers the overall level and breadth of open orders, bids, and offers, and usually refers to trading within an individual security. The more buy and sell orders that exist, the greater the depth of the market is.
+ 
+Market depth can be evaluated by looking at the order book of a security, which consists of a list of pending orders to buy or sell at various price levels.
+ 
+Market depth, or depth of market, is closely related to liquidity and volume within a security, but does not mean that every stock showing a high volume of trades has good market depth. On any given day, there may be an imbalance of orders large enough to create high volatility, even for stocks with the highest daily volumes. The decimalization of ticks on the major U.S. exchanges has been said to increase overall market depth, as evidenced by the decreased importance of market makers, a position needed in the past to prevent order imbalances.
+ 
+Market depth is a property of the orders that are contained in the limit order book at a given time. It is the amount that will be traded for a limit order with a given price (if it is not limited by size), or the least favorable price that will be obtained by a market order with a given size (or a limit order that is limited by size and not price). Although a change in price may, in turn, attract subsequent orders, this is not included in market depth since it is not known.
+ 
+For example, if the market for a stock is "deep," there will be a sufficient volume of pending orders on both the bid and ask side, preventing a large order from significantly moving the price.
+ 
+Depth of market also refers to the number of shares which can be bought of a particular corporation without causing price appreciation. If the stock is extremely liquid and has a large number of buyers and sellers, purchasing a bulk of shares typically will not result in noticeable stock price movements.
+ 
+Market depth data helps traders determine where the price of a particular security could be heading. For example, a trader may use market depth data to understand the bid-ask spread for a security, along with the volume accumulating above both figures. Securities with strong market depth will usually have strong volume and be quite liquid, allowing traders to place large orders without significantly affecting market price. Meanwhile, securities with poor depth could be moved if a buy or sell order is large enough.
+ 
+Market depth data usually exists in the form of an electronic list of buy and sell orders known as the order book. These are organized by price level and updated in real-time to reflect current activity. While at times, the data is available for a fee, most trading platforms now offer some form of market depth display. This allows all parties trading in a security to see a full list of buy and sell orders pending execution, along with their sizes—instead of simply the best ones.
+ 
+Real-time market depth data allows traders to profit from short-term price volatility. For example, if a company goes public (begins trading for the first time), traders can stand by for strong buying demand, signaling the price of the newly public firm could continue an upward trajectory.
+ 
+As an example, consider the order book information displayed in the image below, which displays the current bid-ask spread on the left, along with the market depth on the right. This type of quote is also known as level 2 market data.
+ 
+The current quote in the security, MEOW shares, is $13.62 – $13.68, with 3,000 shares on the bid and 500 shares on the offer. The right panel indicates the depth of bids on the left. If all 3,000 shares were sold at $13.62, the next best bid would be $13.45, but only for 16 shares. Say if you have an order to sell 10,000 MEOW shares at the market, you would sell all the available bids down to $13.35, where there is a standing order to buy 43,500 shares.
+ 
+Selling 10,000 shares would thus move the market down nearly 30 cents, or about 2%. This indicates a low level of market depth.

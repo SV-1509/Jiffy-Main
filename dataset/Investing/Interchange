@@ -1,0 +1,14 @@
+
+An interchange is the transfer of digital information from one computer to another. In business, this typically refers to an electronic data interchange (EDI), a system used to communicate strictly formatted messages that represent documents other than monetary instruments.
+ 
+An interchange should not be confused with the interchange rate, or "swipe fees", which are fees that a merchant is required to pay with every credit card and debit card transaction.
+ 
+An interchange of electronic data can be transmitted using certain telecommunications or transported via electronic storage media. Many EDI transactions use the extensible markup language (XML) format instead of traditional EDI data formats such as X12 or EDIFACT. These transactions are sent via the Internet using standard https protocol.
+ 
+In the coming years, it may be interesting to follow how the development of blockchain technology affects traditional EDI applications. While some may think the blockchain, a digitized, decentralized, public data ledger, originally used to power cryptocurrencies like bitcoin, may supplant EDI, it could actually boost its capabilities. Consider that transactions through EDI systems typically involve a buyer, a seller, and a third-party. EDI systems depend on one-way, point-to-point communication, meaning that a third party is always left out. However, blockchain’s shared ledger would enable participation from all parties involved, making it easier to share information and increase efficiency.
+ 
+Advantages to the electronic data exchange include its cost-effective nature. For example, digitizing data transmission reduces paper waste and all that goes into paper processing. EDI, buffeted by the development of cloud computing and machine learning, can dramatically eliminate the risk of human error and redundancies. EDI also enhances transparency in terms of real-time visibility into transactions. This enables companies to make decisions faster and improve their responses to changing market dynamics. EDI can also shorten lead times for product enhancements and new product delivery.
+ 
+In addition, EDI may be able to help companies adhere to environmental, social and governance (ESG) standards and promote corporate social responsibility.
+ 
+Drawbacks to EDI exist and can make certain processes more cumbersome, perhaps necessitating the exploration of different solutions. For one, EDI uses multiple standards, which can often limit how many devices can be connected to the network. Another issue with the XML web-text language EDI uses is that it does not have strict standardization and allows for multiple programmers to contribute to the coding. Too many document formats can lead to cross-compatibility issues that affect performance as well. For some businesses, the cost of EDI can be a barrier to entry. For others, EDI may limit the types of partnerships they can cultivate.

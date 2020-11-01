@@ -1,0 +1,57 @@
+
+As the majority of businesses run on borrowed funds, the cost of capital becomes an important parameter in assessing a firm’s potential of net profitability. Analysts and investors use weighted average cost of capital (WACC) to assess an investor’s returns on an investment in a company.
+ 
+Companies often run their business using the capital they raise through various sources. They include raising money through listing their shares on the stock exchange (equity), or by issuing interest-paying bonds or taking commercial loans (debt). All such capital comes at a cost, and the cost associated with each type varies for each source.
+ 
+WACC is the average after-tax cost of a company’s various capital sources, including common stock, preferred stock, bonds, and any other long-term debt. In other words, WACC is the average rate a company expects to pay to finance its assets. 
+ 
+Since a company’s financing is largely classified into two types—debt and equity—WACC is the average cost of raising that money, which is calculated in proportion to each of the sources.
+ 
+﻿WACC=(EV×Re)+(DV×Rd×(1−Tc))where:E=Market value of the firm’s equityD=Market value of the firm’s debtV=E+DRe=Cost of equityRd=Cost of debtTc=Corporate tax rate\begin{aligned} &\text{WACC} = \left ( \frac{ E }{ V} \times Re \right ) + \left ( \frac{ D }{ V} \times Rd \times ( 1 - Tc ) \right ) \\ &\textbf{where:} \\ &E = \text{Market value of the firm's equity} \\ &D = \text{Market value of the firm's debt} \\ &V = E + D \\ &Re = \text{Cost of equity} \\ &Rd = \text{Cost of debt} \\ &Tc = \text{Corporate tax rate} \\ \end{aligned}​WACC=(VE​×Re)+(VD​×Rd×(1−Tc))where:E=Market value of the firm’s equityD=Market value of the firm’s debtV=E+DRe=Cost of equityRd=Cost of debtTc=Corporate tax rate​﻿
+ 
+WACC is calculated by multiplying the cost of each capital source (debt and equity) by its relevant weight, and then adding the products together to determine the value.
+ 
+In the above formula, E/V represents the proportion of equity-based financing, while D/V represents the proportion of debt-based financing.
+ 
+WACC formula is the summation of two terms:
+ 
+﻿(EV×Re)\left ( \frac{ E }{ V} \times Re \right )(VE​×Re)﻿
+ 
+﻿(DV×Rd×(1−Tc))\left ( \frac{ D }{ V} \times Rd \times ( 1 - Tc ) \right )(VD​×Rd×(1−Tc))﻿
+ 
+The former represents the weighted value of equity-linked capital, while the latter represents the weighted value of debt-linked capital.
+ 
+It's a common misconception that equity capital has no concrete cost that the company must pay after it has listed its shares on the exchange. In reality, there is a cost of equity.
+ 
+The shareholders' expected rate of return is considered a cost from the company's perspective. That's because if the company fails to deliver this expected return, shareholders will simply sell off their shares, which will lead to a decrease in share price and the company’s overall valuation. The cost of equity is essentially the amount that a company must spend in order to maintain a share price that will keep its investors satisfied and invested.
+ 
+One can use the CAPM (capital asset pricing model) to determine the cost of equity. CAPM is a model that established the relationship between the risk and expected return for assets and is widely followed for the pricing of risky securities like equity, generating expected returns for assets given the associated risk and calculating costs of capital.
+ 
+The debt-linked component in the WACC formula, [(D/V) * Rd * (1-Tc)], represents the cost of capital for company-issued debt. It accounts for interest a company pays on the issued bonds or commercial loans taken from bank.
+ 
+Let's calculate the WACC for retail giant Walmart (WMT).
+ 
+In October 2018, the risk-free rate as represented by the annual return on a 20-year treasury bond was 3.3 percent. Beta value for Walmart stood at 0.51. Meanwhile, the average market return, represented by average annualized total return for the S&P 500 index over the past 90 years, was 9.8 percent.
+ 
+The total shareholder equity for Walmart for the 2018 fiscal year was $77.87 billion (E), and the long term debt stood at $36.83 billion (D).﻿﻿ The total for overall capital for Walmart comes to:
+ 
+﻿V=E+D=$114.7 billion\begin{aligned} &V = E + D = \$114.7 \text{ billion} \\ \end{aligned}​V=E+D=$114.7 billion​﻿
+ 
+The equity-linked cost of capital for Walmart is:
+ 
+﻿(E/V)×Re=77.87114.7×6.615%=0.0449\begin{aligned} &( E / V ) \times Re = \frac{ 77.87 }{ 114.7 } \times 6.615\% = 0.0449 \\ \end{aligned}​(E/V)×Re=114.777.87​×6.615%=0.0449​﻿
+ 
+The debt component is:
+ 
+﻿(D/V)×Rd×(1−Tc)=36.83114.7×6.5%×(1−21%)=0.0165\begin{aligned} ( D / V) \times Rd \times ( 1 - Tc ) &= \frac{ 36.83 }{ 114.7 } \times 6.5\% \times ( 1 - 21\% ) \\ &= 0.0165 \\ \end{aligned}(D/V)×Rd×(1−Tc)​=114.736.83​×6.5%×(1−21%)=0.0165​﻿
+ 
+Using the above two computed figures, WACC for Walmart can be calculated as:
+ 
+﻿0.0449+0.016=0.0609 or 6.1%\begin{aligned} &0.0449 + 0.016 = 0.0609 \text{ or } 6.1\% \\ \end{aligned}​0.0449+0.016=0.0609 or 6.1%​﻿
+ 
+On average, Walmart is paying around 6.1% per annum as the cost of overall capital raised via a combination of debt and equity.
+ 
+The above example is a simple illustration to calculate WACC. One may need to compute it in a more elaborate manner if the company is having multiple forms of capital with each having a different cost.
+ 
+For instance, if the preferred shares are trading at a different price than common shares, if the company issued bonds of varying maturity are offering different returns, or if the company has a (combination of) commercial loan(s) at different interest rate(s), then each such component needs to be accounted for separately and added together in proportion of the capital raised.
+ Walmart. "2018 Annual Report," page 57. Accessed July 29, 2020.

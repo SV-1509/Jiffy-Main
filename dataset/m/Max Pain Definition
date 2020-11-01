@@ -1,0 +1,20 @@
+
+Max pain, or the max pain price, is the strike price with the most open contract puts and calls and the price at which the stock would cause financial losses for the largest number of option holders at expiration.
+ 
+The term max pain stems from the Maximum Pain theory, which states that most traders who buy and hold options contracts until expiration will lose money. According to the theory, this is due to the tendency for the price of an underlying stock to gravitate towards its "maximum pain strike price" - the price where the greatest number of options (in dollar value) will expire worthless.
+ 
+Max pain theory says that the option writers will hedge the contracts they have written. In the case of the market maker, the hedging is done to remain neutral in the stock. Consider the market maker's position if he must write an option contract without wanting a position in the stock.
+ 
+As the option expiration approaches, option writers will try to buy or sell shares of stock to drive the price toward a closing price that is profitable for them, or at least to hedge their payouts to option holders. Call writers sell shares to drive share price down and put holders buy shares to drive share price up. The max pain strike price exists somewhere in the middle.
+ 
+About 60% of options are traded out, 30% of options expire worthless, and 10% of options are exercised. Max pain is the point where option owners (buyers) feel "maximum pain," or will stand to lose the most money. Option sellers, on the other hand, may stand to reap the most rewards.
+ 
+The Maximum Pain theory is controversial. Critics of the theory are divided whether the tendency for the underlying stock's price to gravitate towards the maximum pain strike price is a matter of chance or a case of market manipulation.
+ 
+Max pain is a simple but time consuming calculation. Essentially, it is the sum of the outstanding put and call dollar value of each in-the-money strike price.
+ 
+For each in-the-money strike price for both puts and calls:
+ 
+Because the max pain price can change daily, if not from hour to hour, using it as a trading tool is not easy. However, it is sometimes valuable to note when there is a large difference between the current stock price and the max pain price. There could be a tendency for the stock to move closer to max pain, but the effects may not be meaningful until expiration approaches.
+ 
+For example, suppose options of stock ABC are trading at a strike price on $48. However, there is significant open interest on ABC options at strike prices of $51 and $52. Then the max pain price will settle at either one of these two values because they will cause the maximum number of ABC's options to expire worthless.

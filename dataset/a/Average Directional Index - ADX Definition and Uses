@@ -1,0 +1,24 @@
+
+The average directional index (ADX) is a technical analysis indicator used by some traders to determine the strength of a trend. The trend can be either up or down, and this is shown by two accompanying indicators, the Negative Directional Indicator (-DI) and the Positive Directional Indicator (+DI). Therefore, ADX commonly includes three separate lines. These are used to help assess whether a trade should be taken long or short, or if a trade should be taken at all.
+ 
+The ADX requires a sequence of calculations due to the multiple lines in the indicator.
+ 
+﻿+DI=(Smoothed +DMATR )×100-DI=(Smoothed -DMATR )×100DX=(∣+DI−-DI∣∣+DI+-DI∣)×100ADX=(Prior ADX×13)+Current ADX14where:+DM (Directional Movement)=Current High−PHPH=Previous High-DM=Previous Low−Current LowSmoothed +/-DM=∑t=114DM−(∑t=114DM14)+CDMCDM=Current DMATR=Average True Range\begin{aligned} &\text{+DI} = \left ( \frac{ \text{Smoothed +DM} }{ \text{ATR } } \right ) \times 100 \\ &\text{-DI} = \left ( \frac{ \text{Smoothed -DM} }{ \text{ATR } } \right ) \times 100 \\ &\text{DX} = \left ( \frac{ \mid \text{+DI} - \text{-DI} \mid }{ \mid \text{+DI} + \text{-DI} \mid } \right ) \times 100 \\ &\text{ADX} = \frac{ ( \text{Prior ADX} \times 13 ) + \text{Current ADX} }{ 14 } \\ &\textbf{where:}\\ &\text{+DM (Directional Movement)} = \text{Current High} - \text{PH} \\ &\text{PH} = \text{Previous High} \\ &\text{-DM} = \text{Previous Low} - \text{Current Low} \\ &\text{Smoothed +/-DM} = \textstyle{ \sum_{t=1}^{14} \text{DM} - \left ( \frac{ \sum_{t=1}^{14} \text{DM} }{ 14 } \right ) + \text{CDM} } \\ &\text{CDM} = \text{Current DM} \\ &\text{ATR} = \text{Average True Range} \\ \end{aligned}​+DI=(ATR Smoothed +DM​)×100-DI=(ATR Smoothed -DM​)×100DX=(∣+DI+-DI∣∣+DI−-DI∣​)×100ADX=14(Prior ADX×13)+Current ADX​where:+DM (Directional Movement)=Current High−PHPH=Previous High-DM=Previous Low−Current LowSmoothed +/-DM=∑t=114​DM−(14∑t=114​DM​)+CDMCDM=Current DMATR=Average True Range​﻿
+ 
+The Average Directional Index (ADX) along with the Negative Directional Indicator (-DI) and the Positive Directional Indicator (+DI) are momentum indicators. The ADX helps investors determine trend strength while -DI and +DI help determine trend direction.
+ 
+The ADX identifies a strong trend when the ADX is over 25 and a weak trend when the ADX is below 20.
+ 
+Crossovers of the -DI and +DI lines can be used to generate trade signals. For example, if the +DI line crosses above the -DI line and the ADX is above 20, or ideally above 25, then that is a potential signal to buy.
+ 
+If the -DI crosses above the +DI, and ADX is above 20 or 25, then that is an opportunity to enter a potential short trade.
+ 
+Crosses can also be used to exit current trades. For example, if long, exit when the -DI crosses above the +DI.
+ 
+When ADX is below 20 the indicator is signaling that the price is trendless, and therefore may not be an ideal time to enter a trade.
+ 
+The ADX indicator is composed of a total of three lines. The Aroon Indicator is composed of two. The two indicators are similar in that they both have lines representing positive and negative movement, which helps to identify trend direction. The Aroon reading/level also helps determine trend strength, like the ADX does. The calculations are different though, so crossovers on each of the indicators will occur at different times.
+ 
+Crossovers can occur frequently. Sometimes too frequently, resulting in confusion and potentially lost money on trades that quickly go the other way. These are called false signals. This is more common when ADX values are below 25. That said, sometimes the ADX reaches above 25, but is only there temporarily and then reverses along with the price.
+ 
+Like any indicator, the ADX should be combined with price analysis and potentially other indicators to help filter signals and control risk.

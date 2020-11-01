@@ -1,0 +1,40 @@
+
+Both the current ratio and quick ratio measure a company's short-term liquidity, or its ability to generate enough cash to pay off all debts should they become due at once. Although they're both measures of a company's financial health, they're slightly different. The quick ratio is considered more conservative than the current ratio because its calculation factors in fewer items. Here's a look at both ratios, how to calculate them, and their key differences.
+ 
+The current ratio measures a company's ability to pay current, or short-term, liabilities (debt and payables) with its current, or short-term, assets (cash, inventory, and receivables).
+ 
+Current assets on a company's balance sheet represent the value of all assets that can reasonably be converted into cash within one year. Examples of current assets include:
+ 
+Current liabilities are the company's debts or obligations on its balance sheet that are due within one year. Examples of current liabilities include:
+ 
+You can calculate the current ratio of a company by dividing its current assets by current liabilities as shown in the formula below:
+ 
+﻿Current Ratio=Current AssetsCurrent Liabilities\text{Current Ratio}= \frac{\text{Current Assets}}{\text{Current Liabilities}}Current Ratio=Current LiabilitiesCurrent Assets​﻿
+ 
+If a company has a current ratio of less than one then it has fewer current assets than current liabilities. Creditors would consider the company a financial risk because it might not be able to easily pay down its short-term obligations.
+ 
+If a company has a current ratio of more than one then it is considered less of a risk because it could liquidate its current assets more easily to pay down short-term liabilities.
+ 
+The quick ratio also measures the liquidity of a company by measuring how well its current assets could cover its current liabilities. However, the quick ratio is a more conservative measure of liquidity because it doesn't include all of the items used in the current ratio. The quick ratio, often referred to as the acid-test ratio, includes only assets that can be converted to cash within 90 days or less.
+ 
+Current assets used in the quick ratio include: 
+ 
+Current liabilities used in the quick ratio are the same as the ones used in the current ratio: 
+ 
+The quick ratio is calculated by adding cash and equivalents, marketable investments, and accounts receivable, and dividing that sum by current liabilities as shown in the formula below:
+ 
+﻿Quick Ratio=Cash+Cash Equivalents +Current Receivables+Short-Term InvestmentsCurrent Liabilities\begin{aligned} \text{Quick Ratio}= \frac{ \begin{array}{c} \text{Cash}+\text{Cash Equivalents }+\\ \text{Current Receivables}+\text{Short-Term Investments} \end{array} }{\text{Current Liabilities}} \end{aligned}Quick Ratio=Current LiabilitiesCash+Cash Equivalents +Current Receivables+Short-Term Investments​​​﻿
+ 
+If a company's financials don't provide a breakdown of their quick assets, you can still calculate the quick ratio. You can subtract inventory and current prepaid assets from current assets, and divide that difference by current liabilities.
+ 
+Similar to the current ratio, a company that has a quick ratio of more than one is usually considered less of a financial risk than a company that has a quick ratio of less than one.
+ 
+The quick ratio offers a more conservative view of a company’s liquidity or ability to meet its short-term liabilities with its short-term assets because it doesn't include inventory and other current assets that are more difficult to liquidate (i.e., turn into cash). By excluding inventory, and other less liquid assets, the quick ratio focuses on the company’s more liquid assets.
+ 
+Both ratios include accounts receivable, but some receivables might not be able to be liquidated very quickly. As a result, even the quick ratio may not give an accurate representation of liquidity if the receivables are not easily collected and converted to cash. 
+ 
+Since the current ratio includes inventory, it will be high for companies that are heavily involved in selling inventory. For example, in the retail industry, a store might stock up on merchandise leading up to the holidays, boosting its current ratio. However, when the season is over, the current ratio would come down substantially. As a result, the current ratio would fluctuate throughout the year for retailers and similar types of companies.
+ 
+On the other hand, removing inventory might not reflect an accurate picture of liquidity for some industries. For example, supermarkets move inventory very quickly, and their stock would likely represent a large portion of their current assets. To strip out inventory for supermarkets would make their current liabilities look inflated relative to their current assets under the quick ratio. 
+ 
+When analyzing a company's liquidity, no single ratio will suffice in every circumstance. It's important to include other financial ratios in your analysis, including both the current ratio and the quick ratio, as well as others. More importantly, it's critical to understand what areas of a company's financials the ratios are excluding or including to understand what the ratio is telling you.

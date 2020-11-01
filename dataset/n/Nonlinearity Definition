@@ -1,0 +1,22 @@
+
+Nonlinearity is a term used in statistics to describe a situation where there is not a straight-line or direct relationship between an independent variable and a dependent variable. In a nonlinear relationship, the output does not change in direct proportion to a change in any of the inputs.
+ 
+While a linear relationship creates a straight line when plotted on a graph, a nonlinear relationship does not create a straight line but instead creates a curve. Some investments, such as options, exhibit high levels of nonlinearity and require investors to pay special attention to the numerous variables that could impact their return on investment (ROI).
+ 
+Nonlinearity is a common issue when examining cause and effect relationships. Such instances require complex modeling and hypothesis testing to offer explanations of nonlinear events. Nonlinearity without explanation can lead to random, erratic outcomes.
+ 
+In investing, we can see examples of nonlinearity in certain investment classes. Options are nonlinear derivatives because the input variables associated with options do not create proportional changes in output. Investments with high nonlinearity may appear more chaotic or unpredictable.
+ 
+Investors who include nonlinear derivatives in their portfolio will frequently use different pricing simulations to estimate the value at risk (VaR) of their investments. These estimations can help investors manage their risk and help time the entry and exit points of their trades.
+ 
+In contrast to a nonlinear relationship, a linear relationship refers to a situation where there is a direct correlation between an independent variable and a dependent variable. A change affecting an independent variable will produce a corresponding change in the dependent variable. When plotted on a graph, this linear relationship between independent and dependent variables will create a straight line.
+ 
+For example, let's suppose management at a shoe factory decides to increase its workforce (the independent variable in this scenario) by 10%. If the company's workforce and production (the dependent variable) have a linear relationship, then management should expect to see a corresponding 10% increase in the production of shoes.
+ 
+The multiple variables that can impact an option investment's return make options an example of an investment with high nonlinearity. When trading options, investors may have many variables to consider, such as the underlying asset price, implied volatility, time to maturity, and the current interest rate.
+ 
+For investments with a high degree of linearity, investors generally use a standard value at risk technique to estimate the amount of potential loss the investment might incur over a specified time period. However, using a standard value at risk technique is generally not sufficient for options because of their higher degree of nonlinearity. Instead, options investors might use a more advanced technique, such as a Monte Carlo simulation, which enables the investor to model for a wide variety of variables with different parameters to assess possible investment returns and risks.
+ 
+Nonlinear regression is a common form of regression analysis used in the financial industry to model nonlinear data against independent variables in an attempt to explain their relationship. Although the model's parameters are nonlinear, nonlinear regression can fit data using methods of successive approximations to offer explanatory outputs.
+ 
+Nonlinear regression models are more complicated to create than linear models because they often take considerable trial-and-error to define the outputs. However, they can be valuable tools for investors who are attempting to determine the potential risks associated with their investments based on different variables.

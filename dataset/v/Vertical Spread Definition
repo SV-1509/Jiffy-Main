@@ -1,0 +1,20 @@
+
+A vertical spread involves the simultaneous buying and selling of options of the same type (puts or calls) and expiry, but at different strike prices. The term 'vertical' comes from the position of the strike prices. This is in contrast to a calendar spread, which is the simultaneous purchase and sale of the same option type with the same strike price, but different expiration dates.
+ 
+Traders will use a vertical spread when they expect a moderate move in the price of the underlying asset. Vertical spreads are mainly directional plays and can be tailored to reflect the traders view, bearish or bullish, on the underlying asset. Depending on the type of vertical spread deployed, the trader's account can either be credited or debited.
+ 
+Since a vertical spread involves the sale, or writing, of an option, the proceeds should partially, or fully, offset the premium required to purchase the other leg of this strategy, namely buying the option. The result is a lower cost, lower risk trade. However, in return for the lower risk, the trading strategy will cap the profit potential as well. If an investor expects a substantial, trend-like move in the price of the underlying asset then a vertical spread is not an appropriate strategy.
+ 
+There are several varieties of vertical spreads. Bullish traders will use bull call spreads, also known as long call vertical spreads, and bull put spreads. For both strategies, the trader buys the option with the lower strike price and sells the options with the higher strike price. Aside from the difference in the option types, the main variation is in the timing of the cash flows. The bull call spread results in a net debit, while the bull put spread results in a net credit at the outset.
+ 
+Bearish traders utilize bear call spreads or bear put spreads, also known as a bear put debit spread. For these strategies, the trader sells the option with the lower strike price and buys the option with the higher strike price. Here, the bear put spread results in a net debit, while the bear call spread results in a net credit to the trader's account.
+ 
+All examples do not include commissions.
+ 
+Bull call spread: (premiums result in a net debit)
+ 
+Bear call spread: (premiums result in a net credit)
+ 
+Bull put spread: (premiums result in a net credit)
+ 
+Bear put spread: (premiums result in a net debit)

@@ -1,0 +1,20 @@
+
+In options trading, time value refers to the portion of an option's premium that is attributable to the amount of time remaining until the expiration of the option contract. The premium of any option consists of two components: its intrinsic value and its time value. The total premium of an option is equal to the intrinsic value plus the option's time value.
+ 
+Time value is also known as extrinsic value.
+ 
+The price (or cost) of an option is an amount of money known as the premium. An option buyer pays this premium to an option seller in exchange for the right granted by the option: the choice to exercise the option to buy or sell an asset or to allow it to expire worthless.
+ 
+The intrinsic value is the difference between the price of the underlying asset (for example, the stock or commodity or whatever the option is being taken out on) and the strike price of the option. The intrinsic value for a call option (the right but not the obligation to buy an asset) is equal to the underlying price minus the strike price; the intrinsic value for a put option (the right to sell an asset) is equal to the strike price minus the underlying price. So, an option's time value is equal to its premium (the cost of the option) minus its intrinsic value (the difference between the strike price and the price of the underlying asset).
+ 
+As an equation, time value might be expressed as:
+ 
+Or, to put it another way: The amount of a premium that is in excess of the option's intrinsic value is referred to as its time value. For example, if Alphabet Inc. (GOOG) stock is priced at $1,044 per share and the Alphabet Inc. $950 call option is trading at $97, then the option has an intrinsic value of $94 ($1,044 - $950) and a time value of $3 ($97 - $94).
+ 
+As a general rule, the more time that remains until expiration, the greater the time value of the option. The rationale is simple: Investors are willing to pay a higher premium for more time since the contract will have longer to become profitable due to a favorable move in the underlying asset. Conversely, the less time that remains on an option, the less of a premium investors are willing to pay, because the probability of the option having the chance to be profitable is shrinking. For this reason, it's safer to sell or hold an option that still has time value left, rather than exercising it; otherwise, that remaining time value would be lost.
+ 
+In general, an option loses one-third of its time value during the first half of its life, and the remaining two-thirds of its time value during the second half. Time value decreases over time at an accelerating pace, a phenomenon known as time decay or time-value decay.
+ 
+Along with the countdown to expiration, another factor can influence an option's time value—implied volatility, or the amount an underlying asset is likely to move over a specified time period. If the implied volatility increases, the time value will also rise. For example, if an investor purchases a call option with an annualized implied volatility of 30% and the implied volatility jumps to 45% the next day, the option's time value would increase. Investors would figure that dramatic moves bode well for their chances for the asset to move their way.
+ 
+Whatever the influences, an option's time value eventually decays to zero at its expiration date.

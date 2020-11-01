@@ -1,0 +1,18 @@
+
+Gas refers to the fee, or pricing value, required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform. Priced in small fractions of the cryptocurrency ether, commonly referred to as gwei or sometimes nanoeth, the gas is used to allocate resources of the ethereum virtual machine (EVM) so that decentralized applications such as smart contracts can self-execute is a secured fashion.
+ 
+The exact price of the gas is determined by the network's miners, who can decline to process a transaction if the gas price does not meet their threshold.
+ 
+The concept of gas was introduced to keep a distinct value that solely indicates the consumption toward computational expenses on the Ethereum network. Having a separate unit allows maintaining a distinction between the actual valuation of the cryptocurrency, and the computational cost. Here, gas refers to Ethereum network transaction fees, not the gasoline for your car.
+ 
+Gas fees are payments made by users to compensate for the computing energy required to process and validate transactions on the Ethereum blockchain. "Gas limit" refers to the maximum amount of gas (or energy) that you're willing to spend on a particular transaction. A higher gas limit means that you must do more work to execute a transaction using ether or a smart contract.
+ 
+To draw an analogy, running a real-world car for X miles may require Y gallons of fuel, or moving X amount of money from your bank account to your friend’s credit card account may cost you Y dollars in a processing fee. In both cases, X indicates the utility value, while Y indicates the cost of performing the process of the car trip or financial transaction.
+ 
+Similarly, a contract or transaction on Ethereum may be worth 50 ether (X), and the gas price to process this transaction at that particular time might be, say, 1/100,000 ether (Y).
+ 
+Ethereum miners, who perform all the important tasks of verifying and processing a transaction, are awarded this particular fee for their computational services. If the gas price limit is too low, miners can choose to ignore such transactions.
+ 
+The Ethereum Virtual Machine (EVM) is capable of running smart contracts that can represent financial agreements such as options contracts, swaps, or coupon-paying bonds. It can also be used to execute bets and wagers, to fulfill employment contracts, to act as a trusted escrow for the purchase of high-value items, and to maintain a legitimate decentralized gambling facility. These are just a few examples of what is possible with smart contracts, and the potential to replace all sorts of legal, financial, and social agreements is exciting. 
+ 
+Within the Ethereum ecosystem, ether exists as the internal cryptocurrency, which is used to settle the outcomes of smart contracts executed within the protocol. Ether can be mined for and traded on cryptocurrency exchanges with bitcoin or fiat currencies such as US dollars and is also used to pay for computational effort employed by nodes on its blockchain. Soon, however, Ethereum plans to move to a Proof of Stake based blockchain. In this model,

@@ -1,0 +1,46 @@
+
+Capital expenditures (CapEx) are funds used by a company to acquire, upgrade, and maintain physical assets such as property, plants, buildings, technology, or equipment. CapEx is often used to undertake new projects or investments by a company. Making capital expenditures on fixed assets can include repairing a roof, purchasing a piece of equipment, or building a new factory. This type of financial outlay is also made by companies to maintain or increase the scope of their operations.
+ 
+﻿CapEx=ΔPP&E+Current Depreciationwhere:CapEx=Capital expendituresΔPP&E=Change in property, plant, and equipment\begin{aligned} &\text{CapEx} = \Delta \text{PP\&E} + \text{Current Depreciation} \\ &\textbf{where:}\\ &\text{CapEx} = \text{Capital expenditures} \\ &\Delta \text{PP\&E} = \text{Change in property, plant, and equipment} \\ \end{aligned}​CapEx=ΔPP&E+Current Depreciationwhere:CapEx=Capital expendituresΔPP&E=Change in property, plant, and equipment​﻿
+ 
+CapEx can tell you how much a company is investing in existing and new fixed assets to maintain or grow the business. Put differently, CapEx is any type of expense that a company capitalizes, or shows on its balance sheet as an investment, rather than on its income statement as an expenditure. Capitalizing an asset requires the company to spread the cost of the expenditure over the useful life of the asset.
+ 
+The amount of capital expenditures a company is likely to have is dependent on the industry. Some of the most capital intensive industries have the highest levels of capital expenditures including oil exploration and production, telecommunication, manufacturing, and utility industries.
+ 
+CapEx can be found in the cash flow from investing activities in a company's cash flow statement. Different companies highlight CapEx in a number of ways, and an analyst or investor may see it listed as capital spending, purchases of property, plant, and equipment (PP&E), or acquisition expense.
+ 
+You can also calculate capital expenditures by using data from a company's income statement and balance sheet. On the income statement, find the amount of depreciation expense recorded for the current period. On the balance sheet, locate the current period's property, plant, and equipment (PP&E) line-item balance.
+ 
+Locate the company's prior-period PP&E balance, and take the difference between the two to find the change in the company's PP&E balance. Add the change in PP&E to the current-period depreciation expense to arrive at the company's current-period CapEx spending.
+ 
+Capital expenditure should not be confused with operating expenses (OpEx). Operating expenses are shorter-term expenses required to meet the ongoing operational costs of running a business. Unlike capital expenditures, operating expenses can be fully deducted on the company's taxes in the same year in which the expenses occur.
+ 
+In terms of accounting, an expense is considered to be CapEx when the asset is a newly purchased capital asset or an investment that has a life of more than one year, or which improves the useful life of an existing capital asset. If, however, the expense is one that maintains the asset at its current condition, such as a repair, the cost is typically deducted fully in the year the expense is incurred.
+ 
+Aside from analyzing a company's investment in its fixed assets, the CapEx metric is used in several ratios for company analysis. The cash-flow-to-capital-expenditures (CF-to-CapEx) ratio, relates to a company's ability to acquire long term assets using free cash flow. The CF-to-CapEx ratio will often fluctuate as businesses go through cycles of large and small capital expenditures.
+ 
+A ratio greater than 1 could mean that the company's operations are generating the cash needed to fund its asset acquisitions. On the other hand, a low ratio may indicate that the company is having issues with cash inflows and, hence, its purchase of capital assets. A company with a ratio of less than one may need to borrow money to fund its purchase of capital assets.
+ 
+For example, Ford Motor Company, for the fiscal year ended 2016, had $7.46 billion in capital expenditures, compared to Medtronic which purchased PPE worth $1.25 billion for the same fiscal year. CF-to-CapEx is calculated as follows:
+ 
+﻿CF/CapEx=Cash Flow from OperationsCapExwhere:CF/CapEx=Cash flow to capital expenditure ratio\begin{aligned} &\text{CF/CapEx} = \frac { \text{Cash Flow from Operations} }{ \text{CapEx} } \\ &\textbf{where:}\\ &\text{CF/CapEx} = \text{Cash flow to capital expenditure ratio} \\ \end{aligned}​CF/CapEx=CapExCash Flow from Operations​where:CF/CapEx=Cash flow to capital expenditure ratio​﻿
+ 
+Using this formula, Ford Motor Company's CF-to-CapEx is as follows:
+ 
+﻿$14.51 Billion$7.46 Billion=1.94\begin{aligned} &\frac { \$14.51\ \text{Billion} }{ \$7.46\ \text{Billion} } = 1.94 \\ \end{aligned}​$7.46 Billion$14.51 Billion​=1.94​﻿
+ 
+Medtronic's CF-to-CapEx is as follows:
+ 
+﻿$6.88 Billion$1.25 Billion=5.49\begin{aligned} &\frac { \$6.88\ \text{Billion} }{ \$1.25\ \text{Billion} } = 5.49 \\ \end{aligned}​$1.25 Billion$6.88 Billion​=5.49​﻿
+ 
+It is important to note that this is an industry-specific ratio and should only be compared to a ratio derived from another company that has similar CapEx requirements.
+ 
+Capital expenditures are also used in calculating free cash flow to equity (FCFE). FCFE is the amount of cash available to equity shareholders. The formula FCFE is:
+ 
+﻿FCFE=EP−(CE−D)×(1−DR)−ΔC×(1−DR)where:FCFE=Free cash flow to equityEP=Earnings per shareCE=CapExD=DepreciationDR=Debt ratioΔC=ΔNet capital, change in net working capital\begin{aligned} &\text{FCFE} = \text{EP} - ( \text{CE} - \text{D} ) \times ( 1 - \text{DR} ) - \Delta \text{C} \times ( 1 - \text{DR} ) \\ &\textbf{where:}\\ &\text{FCFE} = \text{Free cash flow to equity} \\ &\text{EP} = \text{Earnings per share} \\ &\text{CE} = \text{CapEx} \\ &\text{D} = \text{Depreciation} \\ &\text{DR} = \text{Debt ratio} \\ &\Delta \text{C} = \Delta \text{Net capital, change in net working capital} \\ \end{aligned}​FCFE=EP−(CE−D)×(1−DR)−ΔC×(1−DR)where:FCFE=Free cash flow to equityEP=Earnings per shareCE=CapExD=DepreciationDR=Debt ratioΔC=ΔNet capital, change in net working capital​﻿
+ 
+Or, alternatively, it can be calculated as: 
+ 
+﻿FCFE=NI−NCE−ΔC+ND−DRwhere:NI=Net incomeNCE=Net CapExND=New debtDR=Debt repayment\begin{aligned} &\text{FCFE} = \text{NI} - \text{NCE} - \Delta \text{C} + \text{ND} - \text{DR} \\ &\textbf{where:}\\ &\text{NI} = \text{Net income} \\ &\text{NCE} = \text{Net CapEx} \\ &\text{ND} = \text{New debt} \\ &\text{DR} = \text{Debt repayment} \\ \end{aligned}​FCFE=NI−NCE−ΔC+ND−DRwhere:NI=Net incomeNCE=Net CapExND=New debtDR=Debt repayment​﻿
+ 
+The greater the CapEx for a firm, the lower the FCFE.

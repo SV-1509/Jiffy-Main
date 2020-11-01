@@ -1,0 +1,20 @@
+
+The fiscal multiplier measures the effect that increases in fiscal spending will have on a nation's economic output, or gross domestic product (GDP).
+ 
+The fiscal multiplier is a Keynesian idea first proposed by John Maynard Keynes's student Richard Kahn in a 1931 paper and is depicted as a ratio to show the causality between the controlled variable (changes in fiscal policy) and the outcome (GDP). At the core of fiscal multiplier theory lies the idea of marginal propensity to consume (MPC), which quantifies the increase in consumer spending, as opposed to saving, due to an increase in the income of an individual, household, or society.
+ 
+Fiscal multiplier theory posits that as long as a country's overall MPC is greater than zero, then an initial infusion of government spending should lead to a disproportionately larger increase in national income. The fiscal multiplier expresses how much greater or, if stimulus turns out to be counterproductive, smaller the overall gain in national income is than the amount of extra spending. The formula for the fiscal multiplier is:
+ 
+﻿Fiscal Multiplier=11−MPCwhere:MPC=marginal propensity to consume\begin{aligned} &\text{Fiscal Multiplier} = \frac { 1 }{ 1 - \text{MPC} } \\ &\textbf{where:} \\ &\text{MPC} = \text{marginal propensity to consume} \\ \end{aligned}​Fiscal Multiplier=1−MPC1​where:MPC=marginal propensity to consume​﻿
+ 
+For example, say that a national government enacts a $1 billion fiscal stimulus and that its consumers' MPC is 0.75. Consumers who receive the initial $1 billion will save $250 million and spend $750 million, effectively initiating another, smaller round of stimulus. The recipients of that $750 million will spend $562.5 million, and so on. 
+ 
+The total change in national income is the initial increase in government, or "autonomous," spending times the fiscal multiplier. Since the marginal propensity to consume is 0.75, the fiscal multiplier would be four. Keynesian theory would, therefore, predict an overall boost to national income of $4 billion as a result of the initial $1 billion fiscal stimulus.
+ 
+Empirical evidence suggests that the actual relationship between spending and growth is messier than theory would suggest. Not all members of society have the same MPC. For instance, lower-income households tend to spend a much greater share of a windfall than higher-income ones. MPC also depends on the form in which fiscal stimulus is received. Different policies can, therefore, have drastically different fiscal multipliers.
+ 
+In 2008, Mark Zandi, then chief economist of Moody's, estimated the following fiscal multipliers for different policy options, expressed as the one-year dollar increase in real GDP per dollar increase in spending or decrease in federal tax revenue:
+ 
+By far the most effective policy options, according to this analysis, are temporarily increasing food stamps (1.73) and extending unemployment insurance benefits (1.64). Both of these policies target groups with low incomes and, as a result, high marginal propensities to consume. Permanent tax cuts benefiting mostly higher-income households, by contrast, have fiscal multipliers below 1: for every dollar "spent" (given up in tax revenue), only a few cents are added to real GDP. 
+ 
+The idea of the fiscal multiplier has seen its influence on policy wax and wane. Keynesian theory was extremely influential into the 1960s, but a period of stagflation, which Keynesians were largely unable to explain, caused faith in fiscal stimulus to wane. Beginning in the 1970s many policymakers began to favor monetarist policies, believing that regulating the money supply was at least as effective as government spending. Following the 2008 financial crisis, however, the fiscal multiplier has regained some of its lost popularity. The U.S., which invested heavily in fiscal stimulus, saw a quicker and sturdier recovery than Europe, where bailouts were preconditioned on fiscal austerity.

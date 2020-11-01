@@ -1,0 +1,18 @@
+
+Compound probability is a mathematical term relating to the likeliness of two independent events occurring. Compound probability is equal to the probability of the first event multiplied by the probability of the second event. Compound probabilities are used by insurance underwriters to assess risks and assign premiums to various insurance products.
+ 
+The most basic example of compound probability is flipping a coin twice. If the probability of getting heads is 50 percent, then the chances of getting heads twice in a row would be (.50 X .50), or .25 (25 percent). A compound probability combines at least two simple events, also known as a compound event. The probability that a coin will show heads when you toss only one coin is a simple event.
+ 
+As it relates to insurance, underwriters may wish to know, for example, if both members of a married couple will reach the age of 75, given their independent probabilities. Or, the underwriter may want to know the odds that two major hurricanes hit a given geographical region within a certain time frame. The results of their math will determine how much to charge for insuring people or property.
+ 
+There are two types of compound events: mutually exclusive compound events and mutually inclusive compound events. A mutually exclusive compound event is when two events cannot happen at the same time. If two events, A and B, are mutually exclusive, then the probability that either A or B occurs is the sum of their probabilities. Meanwhile, mutually inclusive compound events are situations where one event cannot occur with the other. If two events (A and B) are inclusive, then the probability that either A or B occurs is the sum of their probabilities, subtracting the probability of both events occurring.
+ 
+There are different formulas for calculating the two types of compound events: Say A and B are two events, then for mutually exclusive events: P(A or B) = P (A) + P(B). For mutually inclusive events, P (A or B) = P(A) + P(B) -  P(A and B).
+ 
+Using the organized list method, you would list all the different possible outcomes that could occur. For example, if you flip a coin and roll a die, what is the probability of getting tails and an even number? First, we need to start by listing all the possible outcomes we could get. (H1 means flipping heads and rolling a 1.)
+ 
+The other method is the area model. To illustrate, consider again the coin flip and roll of the die. What is the compound probability of getting tails and an even number?
+ 
+Start by making a table with the outcomes of one event listed on the top and the outcomes of the second event listed on the side. Fill in the cells of the table with the corresponding outcomes for each event. Shade in the cells that fit the probability.
+ 
+In this example, there are twelve cells and three are shaded. So the probability is: P = 3/12 = 1/4 = 25 percent.

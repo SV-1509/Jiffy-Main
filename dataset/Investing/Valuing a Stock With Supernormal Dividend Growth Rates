@@ -1,0 +1,84 @@
+
+One of the most important skills an investor can learn is how to value a stock. It can be a big challenge though, especially when it comes to stocks that have supernormal growth rates. These are stocks that go through rapid growth for an extended period of time, say, for a year or more.
+ 
+Many formulas in investing, though, are a little too simplistic given the constantly changing markets and evolving companies. Sometimes when you're presented with a growth company, you can't use a constant growth rate. In these cases, you need to know how to calculate value through both the company's early, high growth years, and its later, lower constant growth years. It can mean the difference between getting the right value or losing your shirt.
+ 
+The supernormal growth model is most commonly seen in finance classes or more advanced investing certificate exams. It is based on discounting cash flows. The purpose of the supernormal growth model is to value a stock that is expected to have higher than normal growth in dividend payments for some period in the future. After this supernormal growth, the dividend is expected to go back to normal with constant growth.
+ 
+To understand the supernormal growth model we will go through three steps:
+ 
+Preferred equity will usually pay the stockholder a fixed dividend, unlike common shares. If you take this payment and find the present value of the perpetuity, you will find the implied value of the stock.
+ 
+For example, if ABC Company is set to pay a $1.45 dividend during the next period and the required rate of return is 9%, then the expected value of the stock using this method would be $1.45/0.09 = $16.11. Every dividend payment in the future was discounted back to the present and added together.
+ 
+We can use the following formula to determine this model:
+ 
+﻿V=D1(1+k)+D2(1+k)2+D3(1+k)3+⋯+Dn(1+k)nwhere:V=ValueDn=Dividend in the next periodk=Required rate of return\begin{aligned} &\text{V} = \frac{ D_1 }{ (1 + k) } + \frac{ D_2 }{ (1 + k)^2 } + \frac{ D_3 }{ (1 + k)^3 } + \cdots + \frac{ D_n }{ (1 + k)^n }\\ &\textbf{where:}\\ &\text{V} = \text{Value}\\ &D_n = \text{Dividend in the next period}\\ &k = \text{Required rate of return}\\ \end{aligned}​V=(1+k)D1​​+(1+k)2D2​​+(1+k)3D3​​+⋯+(1+k)nDn​​where:V=ValueDn​=Dividend in the next periodk=Required rate of return​﻿
+ 
+For example:
+ 
+﻿V=$1.45(1.09)+$1.45(1.09)2+$1.45(1.09)3+⋯+$1.45(1.09)n\begin{aligned} &\text{V} = \frac{ \$1.45 }{ (1.09) } + \frac{ \$1.45} { (1.09)^2 } + \frac{ \$1.45 }{ (1.09)^3 } + \cdots + \frac{ \$1.45 }{ (1.09)^n }\\ \end{aligned}​V=(1.09)$1.45​+(1.09)2$1.45​+(1.09)3$1.45​+⋯+(1.09)n$1.45​​﻿
+ 
+﻿V=$1.33+1.22+1.12+⋯=$16.11\begin{aligned} &\text{V} = \$1.33 + 1.22 + 1.12 + \cdots = \$16.11\\ \end{aligned}​V=$1.33+1.22+1.12+⋯=$16.11​﻿
+ 
+Because every dividend is the same we can reduce this equation down to:
+ 
+﻿V=Dk\begin{aligned} &\text{V} = \frac{ D }{ k } \\ \end{aligned}​V=kD​​﻿
+ 
+﻿V=$1.45(1.09)\begin{aligned} &\text{V} = \frac{ \$1.45 }{ (1.09) } \\ \end{aligned}​V=(1.09)$1.45​​﻿
+ 
+﻿V=$16.11\begin{aligned} &\text{V} = \$16.11\\ \end{aligned}​V=$16.11​﻿
+ 
+With common shares you will not have the predictability in the dividend distribution. To find the value of a common share, take the dividends you expect to receive during your holding period and discount it back to the present period. But there is one additional calculation: When you sell the common shares, you will have a lump sum in the future which will have to be discounted back as well.
+ 
+We will use "P" to represent the future price of the shares when you sell them. Take this expected price (P) of the stock at the end of the holding period and discount it back at the discount rate. You can already see there are more assumptions you need to make which increases the odds of miscalculating.
+ 
+For example, if you were thinking about holding a stock for three years and expected the price to be $35 after the third year, the expected dividend is $1.45 per year. 
+ 
+﻿V=D1(1+k)+D2(1+k)2+D3(1+k)3+P(1+k)3\begin{aligned} &\text{V} = \frac{ D_1 }{ (1 + k) } + \frac{ D_2 }{ (1 + k)^2 } + \frac{ D_3 }{ (1 + k)^3 } + \frac{ P }{ (1 + k)^3 }\\ \end{aligned}​V=(1+k)D1​​+(1+k)2D2​​+(1+k)3D3​​+(1+k)3P​​﻿
+ 
+﻿V=$1.451.09+$1.451.092+$1.451.093+$351.093\begin{aligned} &\text{V} = \frac{ \$1.45 }{ 1.09 } + \frac{ \$1.45} { 1.09^2 } + \frac{ \$1.45 }{ 1.09^3 } + \frac{ \$35 }{ 1.09^3 }\\ \end{aligned}​V=1.09$1.45​+1.092$1.45​+1.093$1.45​+1.093$35​​﻿
+ 
+Next, let's assume there is a constant growth in the dividend. This would be best suited for evaluating larger, stable dividend-paying stocks. Look to the history of consistent dividend payments and predict the growth rate given the economy the industry and the company's policy on retained earnings.
+ 
+Again, we base the value on the present value of future cash flows:
+ 
+﻿V=D1(1+k)+D2(1+k)2+D3(1+k)3+⋯+Dn(1+k)n\begin{aligned} &\text{V} = \frac{ D_1 }{ (1 + k) } + \frac{ D_2 }{ (1 + k)^2 } + \frac{ D_3 }{ (1 + k)^3 } + \cdots + \frac{ D_n }{ (1 + k)^n }\\ \end{aligned}​V=(1+k)D1​​+(1+k)2D2​​+(1+k)3D3​​+⋯+(1+k)nDn​​​﻿
+ 
+But we add a growth rate to each of the dividends (D1, D2, D3, etc.) In this example, we will assume a 3% growth rate.
+ 
+﻿So D1 would be $1.45×1.03=$1.49\begin{aligned} &\text{So } D_1 \text{ would be } \$1.45 \times 1.03 = \$1.49 \\ \end{aligned}​So D1​ would be $1.45×1.03=$1.49​﻿
+ 
+﻿D2=$1.45×1.032=$1.54\begin{aligned} &D_2 = \$1.45 \times 1.03^2 = \$1.54 \\ \end{aligned}​D2​=$1.45×1.032=$1.54​﻿
+ 
+﻿D3=$1.45×1.033=$1.58\begin{aligned} &D_3 = \$1.45 \times 1.03^3 = \$1.58 \\ \end{aligned}​D3​=$1.45×1.033=$1.58​﻿
+ 
+This changes our original equation to :
+ 
+﻿V=D1×1.03(1+k)+D2×1.032(1+k)2+⋯+Dn×1.03n(1+k)n\begin{aligned} &\text{V} = \frac{ D_1 \times 1.03 }{ (1 + k) } + \frac{ D_2 \times 1.03^2 }{ (1 + k)^2 } + \cdots + \frac{ D_n \times 1.03^n }{ (1 + k)^n }\\ \end{aligned}​V=(1+k)D1​×1.03​+(1+k)2D2​×1.032​+⋯+(1+k)nDn​×1.03n​​﻿
+ 
+﻿V=$1.45×1.03$1.09+$1.45×1.0321.092+⋯+$1.45×1.03n1.09n\begin{aligned} &\text{V} = \frac{ \$1.45 \times 1.03 }{ \$1.09 } + \frac{ \$1.45 \times 1.03^2 }{ 1.09^2 } + \cdots + \frac{ \$1.45 \times 1.03^n }{ 1.09^n }\\ \end{aligned}​V=$1.09$1.45×1.03​+1.092$1.45×1.032​+⋯+1.09n$1.45×1.03n​​﻿
+ 
+﻿V=$1.37+$1.29+$1.22+⋯\begin{aligned} &\text{V} = \$1.37 + \$1.29 + \$1.22 + \cdots\\ \end{aligned}​V=$1.37+$1.29+$1.22+⋯​﻿
+ 
+﻿V=$24.89\begin{aligned} &\text{V} = \$24.89\\ \end{aligned}​V=$24.89​﻿
+ 
+This reduces down to:
+ 
+﻿V=D1(k−g)where:V=ValueD1=Dividend in the first periodk=Required rate of returng=Dividend growth rate\begin{aligned} &\text{V} = \frac{ D_1 }{ (k - g) } \\ &\textbf{where:}\\ &\text{V} = \text{Value}\\ &D_1 = \text{Dividend in the first period}\\ &k = \text{Required rate of return}\\ &g = \text{Dividend growth rate}\\ \end{aligned}​V=(k−g)D1​​where:V=ValueD1​=Dividend in the first periodk=Required rate of returng=Dividend growth rate​﻿
+ 
+Now that we know how to calculate the value of a stock with a constantly growing dividend, we can move on to a supernormal growth dividend.
+ 
+One way to think about the dividend payments is in two parts: A and B. Part A has a higher growth dividend, while Part B has a constant growth dividend.
+ 
+This part is pretty straight forward. Calculate each dividend amount at the higher growth rate and discount it back to the present period. This takes care of the supernormal growth period. All that is left is the value of the dividend payments which will grow at a continuous rate.
+ 
+Still working with the last period of higher growth, calculate the value of the remaining dividends using the V = D1 ÷ (k - g) equation from the previous section. But D1, in this case, would be next year's dividend, expected to be growing at the constant rate. Now the discount goes back to the present value through four periods.
+ 
+A common mistake is discounting back five periods instead of four. But we use the fourth period because the valuation of the perpetuity of dividends is based on the end of year dividend in period four, which takes into account dividends in year five and on.
+ 
+The values of all discounted dividend payments are added up to get the net present value. For example, if you have a stock that pays a $1.45 dividend which is expected to grow at 15% for four years, then at a constant 6% into the future, the discount rate is 11%.
+ 
+When doing a discount calculation, you are usually attempting to estimate the value of the future payments. Then you can compare this calculated intrinsic value to the market price to see if the stock is over or undervalued compared to your calculations. In theory, this technique would be used on growth companies expecting higher than normal growth, but the assumptions and expectations are hard to predict. Companies could not maintain a high growth rate over long periods of time. In a competitive market, new entrants and alternatives will compete for the same returns thus bringing the return on equity (ROE) down.
+ 
+Calculations using the supernormal growth model are difficult because of the assumptions involved, such as the required rate of return, growth or length of higher returns. If this is off it could drastically change the value of the shares. In most cases, such as tests or homework, these numbers will be given. But in the real world, we are left to calculate and estimate each of the metrics and evaluate the current asking price for shares. Supernormal growth is based on a simple idea, but can even give veteran investors trouble.

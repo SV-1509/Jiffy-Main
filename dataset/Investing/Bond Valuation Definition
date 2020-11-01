@@ -1,0 +1,46 @@
+
+Bond valuation is a technique for determining the theoretical fair value of a particular bond. Bond valuation includes calculating the present value of a bond's future interest payments, also known as its cash flow, and the bond's value upon maturity, also known as its face value or par value. Because a bond's par value and interest payments are fixed, an investor uses bond valuation to determine what rate of return is required for a bond investment to be worthwhile.
+ 
+A bond is a debt instrument that provides a steady income stream to the investor in the form of coupon payments. At the maturity date, the full face value of the bond is repaid to the bondholder. The characteristics of a regular bond include:
+ 
+Since bonds are an essential part of the capital markets, investors and analysts seek to understand how the different features of a bond interact in order to determine its intrinsic value. Like a stock, the value of a bond determines whether it is a suitable investment for a portfolio and hence, is an integral step in bond investing.
+ 
+Bond valuation, in effect, is calculating the present value of a bond’s expected future coupon payments. The theoretical fair value of a bond is calculated by discounting the present value of its coupon payments by an appropriate discount rate. The discount rate used is the yield to maturity, which is the rate of return that an investor will get if s/he reinvested every coupon payment from the bond at a fixed interest rate until the bond matures. It takes into account the price of a bond, par value, coupon rate, and time to maturity.
+ The size of the U.S. bond market, or the total amount of debt outstanding, at the end of 2018, according to the Securities Industry and Financial Markets Association (SIFMA), an industry group 
+Calculating the value of a coupon bond factors in the annual or semi-annual coupon payment and the par value of the bond.
+ 
+The present value of expected cash flows is added to the present value of the face value of the bond as seen in the following formula:
+ 
+﻿Vcoupons=∑C(1+r)tVface value=F(1+r)Twhere:C=future cash flows, that is, coupon paymentsr=discount rate, that is, yield to maturityF=face value of the bondt=number of periods\begin{aligned} &V_{\text{coupons}}=\sum\frac{C}{(1+r)^t}\\ &V_{\text{face value}}=\frac{F}{(1+r)^T}\\ &\textbf{where:}\\ &C=\text{future cash flows, that is, coupon payments}\\ &r=\text{discount rate, that is, yield to maturity}\\ &F=\text{face value of the bond}\\ &t=\text{number of periods}\\ &T=\text{time to maturity} \end{aligned}​Vcoupons​=∑(1+r)tC​Vface value​=(1+r)TF​where:C=future cash flows, that is, coupon paymentsr=discount rate, that is, yield to maturityF=face value of the bondt=number of periods​﻿
+ 
+For example, let’s find the value of a corporate bond with an annual interest rate of 5%, making semi-annual interest payments for 2 years, after which the bond matures and the principal must be repaid. Assume a YTM of 3%.
+ 
+F = $1000 for corporate bond
+ 
+Coupon rateannual = 5%, therefore, Coupon ratesemi-annual = 5%/2 = 2.5%
+ 
+C = 2.5% x $1000 = $25 per period
+ 
+t = 2 years x 2 = 4 periods for semi-annual coupon payments
+ 
+T = 4 periods
+ 
+Present value of semi-annual payments = 25/(1.03)1 + 25/(1.03)2 + 25/(1.03)3 + 25/(1.03)4
+ 
+= 24.27 + 23.56 + 22.88 + 22.21
+ 
+= 92.93
+ 
+Present value of face value = 1000/(1.03)4
+ 
+= 888.49
+ 
+Therefore, value of bond = $92.93 + $888.49 = $981.42
+ 
+A zero-coupon bond makes no annual or semi-annual coupon payments for the duration of the bond. Instead, it is sold at a deep discount to par when issued. The difference between the purchase price and par value is the investor’s interest earned on the bond. To calculate the value of a zero-coupon bond, we only need to find the present value of the face value.
+ 
+Following our example above, if the bond paid no coupons to investors, its value will simply be:
+ 
+$1000/(1.03)4 = $888.49
+ 
+Under both calculations, a coupon-paying bond is more valuable than a zero-coupon bond.

@@ -1,0 +1,46 @@
+
+The internal rate of return (IRR) is the discount rate providing a net value of zero for a future series of cash flows. The IRR and net present value (NPV) are used when selecting investments based on the returns.
+ 
+The main difference between the IRR and NPV is that NPV is an actual amount while the IRR is the interest yield as a percentage expected from an investment.
+ 
+Investors typically select projects with an IRR that is greater than the cost of capital. However, selecting projects based on maximizing the IRR as opposed to the NPV could increase the risk of realizing a return on investment greater than the weighted average cost of capital (WACC) but less than the present return on existing assets.
+ 
+IRR represents the actual annual return on investment only when the project generates zero interim cash flows—or if those investments can be invested at the current IRR. Therefore, the goal should not be to maximize NPV. 
+ 
+NPV is the difference between the present value of cash inflows and the present value of cash outflows over time.
+ 
+The net present value of a project depends on the discount rate used. So when comparing two investment opportunities, the choice of discount rate, which is often based on a degree of uncertainty, will have a considerable impact.
+ 
+In the example below, using a 20% discount rate, investment #2 shows higher profitability than investment #1. When opting instead for a discount rate of 1%, investment #1 shows a return bigger than investment #2. Profitability often depends on the sequence and importance of the project's cash flow and the discount rate applied to those cash flows.
+ 
+The IRR is the discount rate that can bring an investment's NPV to zero. When the IRR has only one value, this criterion becomes more interesting when comparing the profitability of different investments.
+ 
+In our example, the IRR of investment #1 is 48% and, for investment #2, the IRR is 80%. This means that in the case of investment #1, with an investment of $2,000 in 2013, the investment will yield an annual return of 48%. In the case of investment #2, with an investment of $1,000 in 2013, the yield will bring an annual return of 80%.
+ 
+If no parameters are entered, Excel starts testing IRR values differently for the entered series of cash flows and stops as soon as a rate is selected that brings the NPV to zero. If Excel does not find any rate reducing the NPV to zero, it shows the error "#NUM."
+ 
+If the second parameter is not used and the investment has multiple IRR values, we will not notice because Excel will only display the first rate it finds that brings the NPV to zero.
+ 
+In the image below, for investment #1, Excel does not find the NPV rate reduced to zero, so we have no IRR. 
+ 
+The image below also shows investment #2. If the second parameter is not used in the function, Excel will find an IRR of 10%. On the other hand, if the second parameter is used (i.e., = IRR ($ C $ 6: $ F $ 6, C12)), there are two IRRs rendered for this investment, which are 10% and 216%.
+ 
+If the cash flow sequence has only a single cash component with one sign change (from + to - or - to +), the investment will have a unique IRR. However, most investments begin with a negative flow and a series of positive flows as first investments come in. Profits then, hopefully, subside, as was the case in our first example.
+ 
+In the image below, we calculate the IRR.
+ 
+To do this, we simply use the Excel IRR function:
+ 
+When a company uses different borrowing rates of reinvestment, the modified internal rate of return (MIRR) applies.
+ 
+In the image below, we calculate the IRR of the investment as in the previous example but taking into account that the company will borrow money to plow back into the investment (negative cash flows) at a rate different from the rate at which it will reinvest the money earned (positive cash flow). The range C5 to E5 represents the investment's cash flow range, and cells E10 and E11 represent the rate on corporate bonds and the rate on investments.
+ 
+The image below shows the formula behind the Excel MIRR. We calculate the MIRR found in the previous example with the MIRR as its actual definition. This yields the same result: 56.98%. 
+ 
+﻿(−NPV(rrate, values[positive])×(1+rrate)nNPV(frate, values[negative])×(1+frate))1n−1−1\begin{aligned}\left(\frac{-\text{NPV}(\textit{rrate, values}[\textit{positive}])\times(1+\textit{rrate})^n}{\text{NPV}(\textit{frate, values}[\textit{negative}])\times(1+\textit{frate})}\right)^{\frac{1}{n-1}}-1\end{aligned}(NPV(frate, values[negative])×(1+frate)−NPV(rrate, values[positive])×(1+rrate)n​)n−11​−1​﻿        
+ 
+In the example below, the cash flows are not disbursed at the same time each year – as is the case in the above examples. Rather, they are happening at different time periods. We use the XIRR function below to solve this calculation. We first select the cash flow range (C5 to E5) and then select the range of dates on which the cash flows are realized (C32 to E32).
+ 
+.
+ 
+For investments with cash flows received or cashed at different moments in time for a firm that has different borrowing rates and reinvestments, Excel does not provide functions that can be applied to these situations although they are probably more likely to occur.

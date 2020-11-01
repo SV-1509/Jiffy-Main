@@ -1,0 +1,22 @@
+
+Proof of activity is one of the many blockchain consensus algorithms used to ensure that all the transactions occurring on the blockchain are genuine and all users arrive at a consensus on the precise status of the public ledger. Proof of activity is a mixed approach that marries the other two commonly used algorithms—namely, proof of work (POW) and proof of stake (POS).
+ 
+The most popular cryptocurrency, Bitcoin, uses the POW algorithm which has an inherent feature of increasing the difficulty level of mining as time passes by. Though this method prevents spamming and hacking attacks on the bitcoin network, it leads to more and more computing power to be used for mining which also increases the cost towards energy consumption and the cost towards use of new-age mining hardware devices. A person can mine or validate block transactions depending on how much effective work he or she has contributed to on the blockchain.
+ 
+As the energy and hardware costs spiraled upwards with increasing mining difficulty in POW networks, POS emerged as an alternative. It grants more weight to the participant to mine or authenticate block transactions depending on how many cryptocoins he or she holds. Though POS achieves the purpose of reducing the electricity bills and uses low cost hardware, it promotes cryptocoin hoarding instead or spending.
+ 
+Both POW and POS prevent the chances of a 51% attack—a hypothetical situation where a group of participants may gain more than half the network's mining computing power. It would then allow them full control of the network, including power to halt new transactions from getting confirmed, stop payments between various blockchain users, and even reverse the transactions completed in the past during their control of the network, allowing them to double-spend the cryptocoins.
+ 
+Enter Proof of activity (POA), which is a hybrid of POW and POS, and attempts to bring the best of both. In POA, the mining process starts as a standard POW process with various miners trying to outpace each other with higher computing power to find a new block. When a new block is found (mined), the system switches to POS, with the newly found block containing only a header and the miner's reward address.
+ 
+Based on the header details, a new random group of validators from the blockchain network is selected who are required to validate or sign the new block. The more cryptocoins a validator owns, the more chances he or she has for being selected as a signer.
+ 
+Once all validators sign the newly found block, it gains the status of a complete block, gets identified and added to the blockchain network, and transactions start getting recorded on it.
+ 
+In case some of the selected signers are unavailable to sign the block to completion, the process moves to the next winning block with a new set of validators being chosen at random depending on their coin stake, and the process continues till a winning block receives the required number of signers and becomes a complete block. The mining fees/rewards are split among the miner and the various validators who contributed in their respective roles to sign off on the block.
+ 
+Since POA marries POW and POS, it draws criticism for its partial use of both. Too much power is still needed to mine blocks during the POW phase, and coin hoarders still have more chances of getting on the signers' list and accumulating more virtual currency rewards.
+ 
+POA also prevents the chance of a 51% attack like in POW and POS, as it is impossible to predict who the signing peer would be in the future, and coin saving competition among signers does not allow the computing power to be accumulated within a group.
+ 
+Decred is the autonomous cryptocurrency that uses the POA consensus mechanism.

@@ -1,0 +1,12 @@
+
+Man-In-The-Middle Fraud is a crime where an unauthorized third party obtains a consumer’s or business’s sensitive data as it is being sent over the Internet. This fraud can be accomplished fairly easily over an unsecured network, such as public WiFi, or a poorly protected home network. It can also be carried out through installing malware on the target’s computer.
+ 
+You could become a victim of man-in-the-middle fraud if a criminal “eavesdrops” on your login credentials when you log in to your bank account through an unsecured wireless network. You’ll have no idea that anything unusual is happening. Later, with your login name and password, the thief can clean out your bank account.
+ 
+Criminals can also set up fake public WiFi networks that innocent users then log onto and send data over. The criminal has access to all the information that the users send over that network and can steal any valuable data. A criminal could also conduct a man-in-the-middle attack by setting up a fake website that pretends to be a legitimate website, then stealing consumers’ information when they try to use the fake website. Yet another strategy involves intercepting emails between two parties and creating spoofed emails that cause those parties to provide sensitive data to the man in the middle.
+ 
+Fraudwatch International recommends "that you use strong mutual authentication between the client and the server. For instance: the server authenticates the client’s request by presenting a digital certificate, and only then can a connection be established. Another method for preventing a MITM attack is never to connect to open Wi-Fi routers directly. If you need to do this, you should use a browser plug-in, such as HTTPS Everywhere or ForceTLS. These plugins will help you establish a secure connection whenever the option is available."
+ 
+You can avoid man-in-the-middle attacks by:
+ 
+There is no complete foolproof way to avoid becoming a victim of a sophisticated man-in-the-middle attack, but taking these basic precautions will lower your risk.

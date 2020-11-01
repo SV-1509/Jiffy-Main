@@ -1,0 +1,82 @@
+
+First things first. If you're only interested in owning litecoin, you should probably buy it from an exchange such as Coinbase. If, on the other hand, you want to try your hand at mining litecoin – because you think you have the time and resources necessary to make a profit, because you want to help keep the litecoin network decentralized, or out of a sense of curiosity – this guide will give you a sense of the concepts, an introduction to the vocabulary, and suggestions for further research. 
+ 
+Because the nitty-gritty of litecoin mining depends so much on your hardware, software, operating system and pool, this is not a step-by-step tutorial. If you've gotten those variables figured out, there are good guides available online and helpful forums for when search engines fail you. Depending on your level of expertise, you may want to pass over certain sections of this guide. Use the links in the table below to skip to a section.
+ Investing in cryptocurrencies and other Initial Coin Offerings ("ICOs") is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or other ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein. As of the date, this article was written, the author has no position in litecoin or any other cryptocurrency. 
+Skip to top
+ 
+In proof-of-work cryptocurrencies like bitcoin and litecoin, mining is the process by which the blockchain – a distributed ledger of all transactions ever made on the network – is maintained. Miners receive transaction data broadcast by the various participants in the network since the last block was found, they assemble those transactions into structures called Merkle trees, and they work to find an acceptable hash.
+ 
+(See also, How Does Bitcoin Mining Work?)
+ 
+A hash is a result of running a one-way cryptographic algorithm on a chunk of data: a given dataset will only ever return one hash, but the hash cannot be used to recreate the data. Instead, it serves the purpose of efficiently ensuring that the data has not been tampered with. Change even one number in an arbitrarily long string of transactions, and the hash will come out unrecognizably different. Since every block contains the previous block's hash, the network can know instantly if someone has tried to insert a bogus transaction anywhere into the ledger, without having to comb through it in its entirety every 2.5 minutes. 
+ 
+The mining process illustrated. This image comes from our bitcoin infographic, but litecoin miners follow the same process.
+ 
+Why must miners run these hash functions over and over again, if doing it once – a near-instantaneous process for a modern computer – would do the trick? The reason is that, by harnessing a lot of hash power, an attacker could spend some coins, then pile a huge number of spam transactions on top of it – ones that do not reference the attacker's original spend. In this way they could spend their coins and have them too; this is known as a double-spend attack. By requiring the network to plug through millions or billions of hash functions, the blockchain generates so much "work" that undoing it or overwhelming it would be too expensive. (Since a given set of data only generates one hash output, miners must append meaningless numbers known as nonces to the end and run the function again.)
+ 
+Mining is competitive. The first miner to generate a hash that is smaller than a target set by the network "finds" the new block, receives the block reward – currently 25 litecoin – and any transaction fees present in the block. Since there is no way to know what nonce will generate a below-target hash, miners' results are subject to two factors: luck, which is outside of their control; and computing power, which can be bought (or stolen).
+ 
+To maximize their computing power, miners have developed specialized gear to plow through hash functions as fast as possible. They have assembled enormous collections of these machines, pooled their resources, and concentrated in places where electricity is cheap, so as to maximize profits. These trends have led to the increasing centralization and professionalization of mining. 
+ 
+Skip to top
+ 
+In October 2011 Charlie Lee, then a software engineer at Google, announced the creation of litecoin, a clone of bitcoin with modifications intended to help it scale more effectively. A little over seven years later, the cryptocurrency has demonstrated the kind of staying power other early bitcoin alternatives couldn't. (Remember SolidCoin?)
+ 
+Litecoin's price at the time of writing is just under $180, down precipitously from a high of $420 in December, but orders of magnitude above the sub-$4 levels it traded at 12 months ago. According to BitInfoCharts, average transaction fees in dollar terms are much lower ($0.25) than those for bitcoin ($11.30). With a new block mined every 2.5 minutes – four times faster than bitcoin – litecoin transactions require much less time to gain confirmations. Litecoin can hardly claim to have scaled the way that centralized payment systems like Visa have, but Lee's claim to have created the "silver to Bitcoin's gold" has some merit to it.
+ 
+(See also, Bitcoin vs. Litecoin: What's the Difference?)
+ 
+Skip to top
+ 
+One of Lee's initial claims has not held up, however: the ability to mine litecoin using a computer's central processing unit (CPU). Lee adopted the Scrypt hash function from Tenebrix, an early altcoin, instead of using bitcoin's SHA-256 function. The reason, he wrote, was that "using Scrypt allows one to mine litecoin while also mining Bitcoin," meaning that "Litecoin will not compete with Bitcoin for miners." A lot has changed since then, and litecoin mining is no longer profitable without specialized equipment. 
+ 
+In the early days, even bitcoin could be mined using a CPU. By 2011, the competition had ramped up, and the only way to mine bitcoin profitably was using a graphics processing unit (GPU). By choosing Scrypt, Lee allowed litecoin to be mined on CPUs, but that didn't last long either. Soon GPUs were being used to mine litecoin as well. Then application-specific integrated circuits (ASICs) were developed to run SHA-256, and bitcoin miners moved away from GPUs. 
+ 
+Lee said in March 2017 that this transition partly explains his creation's success: litecoin "got lucky where, when bitcoin mining went from GPUs to ASIC, all the bitcoin GPUs were looking for a coin to mine, and litecoin just happened to have transitioned from CPU to GPU at that time." Soon enough, however, ASICs were developed for Scrypt, and today it would be difficult if not impossible to turn a profit using anything but ASICs. One popular ASIC for Scrypt mining is Bitmain's Antminer L3+, but batches tend to sell out almost immediately, meaning you have to watch Twitter like a hawk; the company only accepts bitcoin cash and USD wire transfers (for some batches it only takes the former). Innosilicon is accepting pre-orders for a competitor, the A4+ LTCMaster. Other options are available, but the newest ASICs tend to run at least $2,000 and sell out quickly. Older ASICs may not be competitive, making it hard to turn a profit.
+ 
+Note that Scrypt ASICs can also be used to mine other coins based on the same algorithm; you can choose the most profitable coin to mine based on relative price and difficulty (a parameter the network sets to make sure a new block is mined every 2.5 minutes on average, whatever the total hash power). 
+ 
+As long as you're aware that you won't make money, you might have your reasons for mining with a CPU or GPU. It's a way to get exposure to the process, to familiarize yourself with the vocabulary and concepts, and to avoid dropping thousands of dollars on a pursuit you find out doesn't interested you.
+ 
+And if you're an altruist, offering your tiny sliver of hash-power to the network is a way to reduce its centralization. "Centralized mining is pretty bad for bitcoin and litecoin," Lee says, "because mining is supposed to be anonymous, where you don't know who the miners are, and they're all individually acting selfishly to make the money, which indirectly makes the coin secure." On the other hand, a laptop's worth of hash power won't make a dent in the big miners' market share, and you're likely to inflict wear and tear on your equipment. 
+ 
+Skip to top
+ 
+If you are ASIC mining, your hardware likely comes pre-installed with mining software. If you are CPU or GPU mining, you will need to choose your own software, keeping security in mind. A software package could contain malware. You should also watch out for other tricky, if not outright malicious, behavior. It's easy enough to find yourself accidentally mining on behalf of the software's developer because their system configures their worker as the default.
+ 
+GUI versions of mining software are not always available, so you may have to use the command line. The software's provider and your pool (see next section) should explain the necessary steps. Don't follow instructions from sources you don't trust: it's easy to wreak havoc on your system using the command line, and tricking the inexperienced into doing so is some people's idea of a good time.
+ 
+Skip to top
+ 
+Once you've decided what equipment you'll use to mine, you need to decide how to mine: solo or in a pool. Mining alone, you risk going long periods of time without finding a block. When you do find a block mining solo, however, you keep it all – the whole 25 litecoin plus fees. To be clear, this tradeoff exists only if you have a lot of hash power (multiple ASICs). If you're solo mining using GPU or CPU, you have essentially zero chance of ever earning any litecoin.
+ 
+Pool mining, in which large numbers of miners combine and distribute the proceeds according to the hash power contributed, is still subject to the vagaries of chance: your pool might find three blocks out of 10, then wait for 200 blocks to find another one. Even so, your earnings are almost certain to be more steady with a pool; the tradeoff is that you only earn a small cut of each block the pool finds.
+ 
+Another aspect of pools to consider is security. Some pools have excellent reputations, but others fall on the spectrum from questionably managed to outright scams. Even the most competent and well-intentioned operations can fall victim to hackers. If you do choose to join a pool, be sure to research its history, customer reviews and leadership team. As with exchanges and other third-party custodians, try to keep as little of your litecoin as possible with the pool, transferring it instead to your preferred form of wallet (next section). 
+ 
+Finally, keep in mind the market concentration of the pool you want to join. It can be tempting to join the biggest pool since it likely offers the greatest chance of finding blocks frequently and turning a profit. If your pool reaches half the network's hashing power, though, it represents a risk to the litecoin network itself. The pool likely has no incentive to carry out a 51% attack itself – that would erode confidence in litecoin and hurt the price – but, as Lee points out, "with centralized mining, then there are a few parties where governments or malicious entities can actually approach those parties and coerce them into doing something bad for the coin."
+ 
+Skip to top
+ 
+You'll need a place to store your litecoin, known as a wallet. You have a range of options, which impose tradeoffs in terms of security and convenience. The best balance is probably to download the Litecoin Core client. This will take up around 15 gigabytes of space since the client downloads the entire litecoin blockchain (unlike with ethereum, you can change where these files are stored, so it's possible to keep them on an external hard drive). 
+ 
+The core is the most reputable wallet software for litecoin, suggesting that it's relatively secure. It can be used to send and receive litecoin, making it relatively convenient. As long as it's kept synced with the network, it also contributes to litecoin's overall health: running "full nodes" (full, synced copies of the blockchain) helps to keep litecoin decentralized, whether you are mining or not.
+ 
+On the other hand, if your priority is security, it's best to keep your litecoin stored in one or more cold wallets – ones that have never been connected to the internet. People dealing with large sums of cryptocurrency sometimes generate key pairs on fully air-gapped computers. Others use paper wallets, storing their keys in physical form as QR codes or strings of numbers and letters. Some even advocate "brain wallets": remembering a series of random "seed" words that can be used to recreate a private key.
+ 
+At the other extreme are the exchanges, which provide the most convenient experience available to cryptocurrency holders. By keeping your litecoin on an exchange, you're able to swap it quickly for fiat currency. Relatively, that is. Even the best exchanges experience frequent trading outages. Historically, cryptocurrency exchanges have been prone to massive hacks and spectacular collapse. Exchanges keep your private keys in custody, so while you might legally or notionally control your litecoin, you cannot move it. You can only ask the exchange to do so.
+ 
+Skip to top
+ 
+Choosing a pool can be stressful. So can choosing a wallet. Litecoin itself is just about unhackable, so long as no pool gains more than 50% of the network's hash power, but every additional layer between you and the litecoin network requires a measure of trust and potentially threatens your security.
+ 
+Which is why the process for setting up a worker is such a nice respite: basically no precautions are required. A worker represents a computer or mining rig on a pool. You might have just one, or you might want to set up several, each corresponding to a different machine. Each worker will have a username (all housed under your username at the mining pool) and a password. You can make the password "1234" or "password," if you want. If someone compromises your worker, all they can do is mine cryptocurrency for you. 
+ 
+Skip to top
+ 
+Calculating the profitability of your litecoin mining operation depends on a number of factors: your hash-rate, the fees your pool charges, the cost of your electricity, the upfront cost of your equipment, and the price of litecoin. A number of mining profitability calculators are available online to help you make these calculations. CoinWarz is one example.
+ 
+Skip to top
+ 
+Hopefully, this guide has helped you get a grasp of the concepts involved in litecoin mining, the decisions you'll have to make, and some of the considerations that should factor into those decisions. Once you get started, though, you're almost certain to have specific questions regarding your pool, your hardware, your software, and your exchange. Forums are the best place to get answers: your question has probably already been asked, but if it hasn't, you can pose it yourself. Litecoin mining and litecoin subreddits are great places to start. 

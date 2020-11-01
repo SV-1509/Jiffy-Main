@@ -1,0 +1,566 @@
+
+The price-to-earnings ratio (P/E ratio) is the ratio for valuing a company that measures its current share price relative to its per-share earnings (EPS). The price-to-earnings ratio is also sometimes known as the price multiple or the earnings multiple.
+ 
+P/E ratios are used by investors and analysts to determine the relative value of a company's shares in an apples-to-apples comparison. It can also be used to compare a company against its own historical record or to compare aggregate markets against one another or over time.
+ 
+Analysts and investors review a company's P/E ratio when they determine if the share price accurately represents the projected earnings per share. The formula and calculation used for this process follow.
+ 
+﻿P/E Ratio=Market value per shareEarnings per share\text{P/E Ratio} = \frac{\text{Market value per share}}{\text{Earnings per share}}P/E Ratio=Earnings per shareMarket value per share​﻿
+ 
+To determine the P/E value, one simply must divide the current stock price by the earnings per share (EPS). The current stock price (P) can be gleaned by plugging a stock’s ticker symbol into any finance website, and although this concrete value reflects what investors must currently pay for a stock, the EPS is a slightly more nebulous figure.
+ 
+EPS comes in two main varieties. The first is a metric listed in the fundamentals section of most finance sites; with the notation "P/E (TTM)," where “TTM” is a Wall Street acronym for “trailing 12 months.” This number signals the company's performance over the past 12 months. The second type of EPS is found in a company's earnings release, which often provides EPS guidance. This is the company's best-educated guess of what it expects to earn in the future.
+ 
+Sometimes, analysts are interested in long term valuation trends and consider the P/E 10 or P/E 30 measures, which average the past 10 or past 30 years of earnings, respectively. These measures are often used when trying to gauge the overall value of a stock index, such as the S&P 500 since these longer term measures can compensate for changes in the business cycle. The P/E ratio of the S&P 500 has fluctuated from a low of around 6x (in 1949) to over 120x (in 2009). The long-term average P/E for the S&P 500 is around 15x, meaning that the stocks that make up the index collectively command a premium 15 times greater than their weighted average earnings.﻿﻿
+ 
+These two types of EPS metrics factor into the most common types of P/E ratios: the forward P/E and the trailing P/E. A third and less common variation uses the sum of the last two actual quarters and the estimates of the next two quarters.
+ 
+The forward (or leading) P/E uses future earnings guidance rather than trailing figures. Sometimes called "estimated price to earnings," this forward-looking indicator is useful for comparing current earnings to future earnings and helps provide a clearer picture of what earnings will look like – without changes and other accounting adjustments.
+ 
+However, there are inherent problems with the forward P/E metric – namely, companies could underestimate earnings in order to beat the estimate P/E when the next quarter's earnings are announced. Other companies may overstate the estimate and later adjust it going into their next earnings announcement. Furthermore, external analysts may also provide estimates, which may diverge from the company estimates, creating confusion.
+ 
+The trailing P/E relies on past performance by dividing the current share price by the total EPS earnings over the past 12 months. It's the most popular P/E metric because it's the most objective – assuming the company reported earnings accurately. Some investors prefer to look at the trailing P/E because they don't trust another individual’s earnings estimates. But the trailing P/E also has its share of shortcomings – namely, a company’s past performance doesn’t signal future behavior.
+ 
+Investors should thus commit money based on future earnings power, not the past. The fact that the EPS number remains constant, while the stock prices fluctuate, is also a problem. If a major company event drives the stock price significantly higher or lower, the trailing P/E will be less reflective of those changes.
+ 
+The trailing P/E ratio will change as the price of a company’s stock moves, since earnings are only released each quarter while stocks trade day in and day out. As a result, some investors prefer the forward P/E. If the forward P/E ratio is lower than the trailing P/E ratio, it means analysts are expecting earnings to increase; if the forward P/E is higher than the current P/E ratio, analysts expect a decrease in earnings.
+ 
+The price-to-earnings ratio or P/E is one of the most widely-used stock analysis tools used by investors and analysts for determining stock valuation. In addition to showing whether a company's stock price is overvalued or undervalued, the P/E can reveal how a stock's valuation compares to its industry group or a benchmark like the S&P 500 Index.
+ 
+In essence, the price-to-earnings ratio indicates the dollar amount an investor can expect to invest in a company in order to receive one dollar of that company’s earnings. This is why the P/E is sometimes referred to as the price multiple because it shows how much investors are willing to pay per dollar of earnings. If a company was currently trading at a P/E multiple of 20x, the interpretation is that an investor is willing to pay $20 for $1 of current earnings.
+ 
+The P/E ratio helps investors determine the market value of a stock as compared to the company's earnings. In short, the P/E ratio shows what the market is willing to pay today for a stock based on its past or future earnings. A high P/E could mean that a stock's price is high relative to earnings and possibly overvalued. Conversely, a low P/E might indicate that the current stock price is low relative to earnings. 
+ 
+As a historical example, let's calculate the P/E ratio for Walmart Stores Inc. (WMT) as of November 14, 2017, when the company's stock price closed at $91.09.﻿﻿ The company's profit for the fiscal year ending January 31, 2017, was US$13.64 billion, and its number of shares outstanding was 3.1 billion. Its EPS can be calculated as $13.64 billion / 3.1 billion = $4.40.﻿﻿
+ 
+Walmart's P/E ratio is, therefore, $91.09 / $4.40 = 20.70x.
+ 
+In general, a high P/E suggests that investors are expecting higher earnings growth in the future compared to companies with a lower P/E. A low P/E can indicate either that a company may currently be undervalued or that the company is doing exceptionally well relative to its past trends. When a company has no earnings or is posting losses, in both cases P/E will be expressed as “N/A.” Though it is possible to calculate a negative P/E, this is not the common convention.
+ 
+The price-to-earnings ratio can also be seen as a means of standardizing the value of one dollar of earnings throughout the stock market. In theory, by taking the median of P/E ratios over a period of several years, one could formulate something of a standardized P/E ratio, which could then be seen as a benchmark and used to indicate whether or not a stock is worth buying.
+ 
+The inverse of the P/E ratio is the earnings yield (which can be thought of like the E/P ratio). The earnings yield is thus defined as EPS divided by the stock price, expressed as a percentage.
+ 
+If Stock A is trading at $10, and its EPS for the past year was 50 cents (TTM), it has a P/E of 20 (i.e., $10 / 50 cents) and an earnings yield of 5% (50 cents / $10). If Stock B is trading at $20 and its EPS (TTM) was $2, it has a P/E of 10 (i.e., $20 / $2) and an earnings yield of 10% ($2 / $20).
+ 
+The earnings yield as an investment valuation metric is not as widely used as its P/E ratio reciprocal in stock valuation. Earnings yields can be useful when concerned about the rate of return on investment. For equity investors, however, earning periodic investment income may be secondary to growing their investments' values over time. This is why investors may refer to value-based investment metrics such as P/E ratio more often than earnings yield when making stock investments.
+ 
+The earnings yield is also useful in producing a metric when a company has zero or negative earnings. Since such a case is common among high-tech, high growth, or start-up companies, EPS will be negative producing an undefined P/E ratio (sometimes denoted as N/A). If a company has negative earnings, however, it will produce a negative earnings yield, which can be interpreted and used for comparison.
+ 
+A P/E ratio, even one calculated using a forward earnings estimate, don't always tell you whether or not the P/E is appropriate for the company's forecasted growth rate. So, to address this limitation, investors turn to another ratio called the PEG ratio.
+ 
+A variation on the forward P/E ratio is the price-to-earnings-to-growth ratio, or PEG. The PEG ratio measures the relationship between the price/earnings ratio and earnings growth to provide investors with a more complete story than the P/E on its own. In other words, the PEG ratio allows investors to calculate whether a stock's price is overvalued or undervalued by analyzing both today's earnings and the expected growth rate for the company in the future. The PEG ratio is calculated as a company’s trailing price-to-earnings (P/E) ratio divided by the growth rate of its earnings for a specified time period. The PEG ratio is used to determine a stock's value based on trailing earnings while also taking the company's future earnings growth into account, and is considered to provide a more complete picture than the P/E ratio. For example, a low P/E ratio may suggest that a stock is undervalued and therefore should be bought – but factoring in the company's growth rate to get its PEG ratio can tell a different story. PEG ratios can be termed “trailing” if using historic growth rates or “forward” if using projected growth rates.
+ 
+Although earnings growth rates can vary among different sectors, a stock with a PEG of less than 1 is typically considered undervalued since its price is considered to be low compared to the company's expected earnings growth. A PEG greater than 1 might be considered overvalued since it might indicate the stock price is too high as compared to the company's expected earnings growth.
+ 
+Analysts may also make a distinction between absolute P/E and relative P/E ratios in their analysis.
+ 
+The numerator of this ratio is usually the current stock price, and the denominator may be the trailing EPS (TTM), the estimated EPS for the next 12 months (forward P/E) or a mix of the trailing EPS of the last two quarters and the forward P/E for the next two quarters. When distinguishing absolute P/E from relative P/E, it is important to remember that absolute P/E represents the P/E of the current time period. For example, if the price of the stock today is $100, and the TTM earnings are $2 per share, the P/E is 50 ($100/$2).
+ 
+The relative P/E compares the current absolute P/E to a benchmark or a range of past P/Es over a relevant time period, such as the past 10 years. The relative P/E shows what portion or percentage of the past P/Es the current P/E has reached. The relative P/E usually compares the current P/E value to the highest value of the range, but investors might also compare the current P/E to the bottom side of the range, measuring how close the current P/E is to the historic low.
+ 
+The relative P/E will have a value below 100% if the current P/E is lower than the past value (whether the past high or low). If the relative P/E measure is 100% or more, this tells investors that the current P/E has reached or surpassed the past value.
+ 
+Like any other fundamental designed to inform investors on whether or not a stock is worth buying, the price-to-earnings ratio comes with a few important limitations that are important to take into account, as investors may often be led to believe that there is one single metric that will provide complete insight into an investment decision, which is virtually never the case. Companies that aren't profitable, and consequently have no earnings—or negative earnings per share, pose a challenge when it comes to calculating their P/E. Opinions vary on how to deal with this. Some say there is a negative P/E, others assign a P/E of 0, while most just say the P/E doesn't exist (not available—N/A) or is not interpretable until a company becomes profitable for purposes of comparison.
+ 
+One primary limitation of using P/E ratios emerges when comparing P/E ratios of different companies. Valuations and growth rates of companies may often vary wildly between sectors due both to the differing ways companies earn money and to the differing timelines during which companies earn that money.
+ 
+As such, one should only use P/E as a comparative tool when considering companies in the same sector, as this kind of comparison is the only kind that will yield productive insight. Comparing the P/E ratios of a telecommunications company and an energy company, for example, may lead one to believe that one is clearly the superior investment, but this is not a reliable assumption.
+ 
+An individual company’s P/E ratio is much more meaningful when taken alongside P/E ratios of other companies within the same sector. For example, an energy company may have a high P/E ratio, but this may reflect a trend within the sector rather than one merely within the individual company. An individual company’s high P/E ratio, for example, would be less cause for concern when the entire sector has high P/E ratios.
+ 
+Moreover, because a company’s debt can affect both the prices of shares and the company’s earnings, leverage can skew P/E ratios as well. For example, suppose there are two similar companies that differ primarily in the amount of debt they take on. The one with more debt will likely have a lower P/E value than the one with less debt. However, if business is good, the one with more debt stands to see higher earnings because of the risks it has taken.
+ 
+Another important limitation of price-to-earnings ratios is one that lies within the formula for calculating P/E itself. Accurate and unbiased presentations of P/E ratios rely on accurate inputs of the market value of shares and of accurate earnings per share estimates. The market determines the prices of shares through its continuous auction. The printed prices are available from a wide variety of reliable sources. However, the source for earnings information is ultimately the company themselves.This single source of data is more easily manipulated, so analysts and investors place trust the company's officers to provide accurate information. If that trust is perceived to be broken the stock will be considered more risky and therefore less valuable.
+ 
+To reduce the risk of inaccurate information, the P/E ratio is but one measurement that analysts scrutinize. If the company were to intentionally manipulate the numbers to look better, and thus deceive investors, they would have to work strenuously to be certain that all metrics were manipulated in a coherent manner, which is difficult to do. That's why the P/E ratio continues to be one of the centrally referenced points of data to analyze a company, but by no means the only one.
+ Macro Trends. "S&P 500 PE Ratio - 90 Year Historical Chart." Accessed August 14, 2020. Yahoo Finance. "Walmart Inc. (WMT)." Accessed August 14, 2020. Walmart. "Annual Report 2017," Page 36. Accessed August 14, 2020.
+The EV/EBITDA multiple and the price-to-earnings (P/E) ratio are used together to provide a fuller, more complete analysis of a company's financial health and prospects for future revenues and growth. Both ratios use a different approach when analyzing a company and offer different perspectives on its financial health.
+ 
+EBITDA stands for earnings before interest, taxes, depreciation, and amortization. EBITDA is calculated before other factors, such as interest and taxes, are considered. It also excludes depreciation and amortization, which are non-cash expenses. Therefore, the metric can provide a clearer picture of the financial performance of a company. In some circumstances, it's used as an alternative to net income when evaluating a company's profitability.
+ 
+The other component of the EV/EBITDA ratio is enterprise value (EV). This is the sum of a company's equity value or market capitalization plus its debt less cash. EV is typically used when evaluating a company for a potential buyout or takeover. The EV/EBITDA ratio is calculated by dividing EV by EBITDA to achieve an earnings multiple that is more comprehensive than the P/E ratio.
+ 
+The EV/EBITDA ratio compares a company’s enterprise value to its earnings before interest, taxes, depreciation, and amortization. This metric is widely used as a valuation tool; it compares the company’s value, including debt and liabilities, to true cash earnings. Lower ratio values indicate that a company is undervalued.
+ 
+However, the EV/EBITDA ratio has its drawbacks. The ratio does not include capital expenditures, which for some industries can be significant. As a result, it may produce a more favorable multiple by not including those expenditures. By not reflecting changes in capital structure, however, the ratio allows analysts and investors to make more accurate comparisons of companies with different capital structures.
+ 
+EV/EBITDA is also exclusive of non-cash expenses such as amortization and depreciation. Investors are often less concerned with non-cash expenses and more focused on cash flow and available working capital.
+ 
+The price-to-earnings (P/E) ratio is a ratio of market price per share to earnings per share (EPS). The P/E ratio is one of the most used and accepted valuation metrics and provides investors with a comparison of the current per-share price of a company to the amount the company earns per share. The P/E ratio is most useful when comparing only companies within the same industry or comparing companies against the general market.
+ 
+Ultimately, this metric is ideal for helping investors understand exactly what the market is willing to pay for the company’s earnings. Thus, the P/E ratio represents the market's overall consensus on the company's future prospects. A low P/E ratio indicates that the market is expecting lower growth in a company and its industry or perhaps macroeconomic conditions that might be detrimental to the company. In this case, a stock with a low P/E ratio typically sells off because investors don't think the current price justifies the earnings estimate.
+ 
+A high P/E ratio generally indicates the market expects share prices to continue to rise. When comparing companies, investors may favor those with a high P/E ratio over those with a low ratio. However, the ratio can also be misleading. High ratios may also be the result of overly optimistic projections and corresponding overpricing of shares. Also, earnings figures are easy to manipulate because the P/E ratio takes non-cash items into consideration.
+ 
+Additionally, a low P/E ratio could mean a company is undervalued and represents an opportunity for the shrewd investor to buy while the price is low.
+ 
+Successful stock analysts rarely look at just one metric to determine if a company is a good investment. As we've seen with the EV/EBITDA and P/E ratios, there are pros and cons to each metric. The numbers these ratios produce mean little without some interpretation and reflection on a variety of other factors that can affect a company's profitability and future performance. Used in conjunction, however, both metrics can give an investor a good starting point and some valuable insights as part of a comprehensive stock analysis.
+
+The price-to-earnings (P/E) ratio is one of the most popular and widely used financial metrics, but it has a number of inherent flaws for which the enterprise value to EBITDA (EV/EBITDA) ratio compensates. Investors who understand how both ratios work and how to evaluate their results give themselves an advantage when trying to determine which stocks offer the best wealth-building opportunities.
+ 
+The P/E ratio is a valuation metric that compares a company’s stock earnings per share (EPS) to its current market price. This metric is widely known and used as an indicator of a company's future growth potential. The P/E ratio does not reveal a full picture, and it is most useful when comparing only companies within the same industry or comparing companies against the general market.
+ 
+A high P/E ratio typically means that the market is willing to pay a higher price relative to earnings because there is an expectation of future growth in the company. Tech stocks, for example, usually carry high P/E ratios. A low P/E ratio indicates that the market is expecting lower growth in the company or perhaps less favorable macroeconomic conditions that might hurt the company. As a result, despite its earnings, the stock typically sells off somewhat if it has a low P/E since investors don't think the current price justifies the earnings outlook.
+ 
+There are problems that arise for investors with the use of the P/E ratio. The stock price can get run up if investors are overly optimistic causing an overvalued P/E ratio. Also, the earnings portion of the metric can be manipulated somewhat if, for example, a company's earnings are flat, but the company's management reduces their outstanding shares, thus boosting the company's earnings on a per share basis.
+ 
+The EV/EBITDA ratio helps to allay some of the P/E ratio's downfalls and is a financial metric that measures the return a company makes on its capital investments. EBITDA stands for earnings before interest, taxes, depreciation, and amortization. In other words, EBITDA provides a clearer picture of the financial performance of a company since it strips out debt costs, taxes, and accounting measures like depreciation, which spreads the costs of fixed assets out for many years.
+ One of the most effective ways to use EV/EBITDA is in a comparison valuation where the metric is used to evaluate similar companies in the same industry. 
+The other component is enterprise value (EV) and is the sum of a company's equity value or market capitalization plus its debt less cash. EV is typically used in buyouts. The EV/EBITDA ratio is calculated by dividing EV by EBITDA to achieve an earnings multiple that is more comprehensive than the P/E ratio.
+ 
+However, the EV/EBITDA ratio has its drawbacks, such as the fact that it doesn't include capital expenditures, which for some industries can be significant. As a result, it may produce a more favorable multiple by not including those expenditures.
+ 
+Though the calculation of this ratio can be complex, EV and EBITDA for publicly traded companies are widely available on most financial websites. The ratio is often preferred to other return metrics because it evens out differences in taxation, capital structure (debt), and asset counting.
+ 
+The P/E ratio has been established as a prime market valuation metric, and the sheer volume of current and historical data gives the metric weight in regard to stock analysis. Some analysts contend that using the EV/EBITDA ratio versus the P/E ratio as a valuation method produces better investment returns.
+ 
+Both metrics have inherent advantages and disadvantages. As with any financial metric, it's important to consider several financial ratios including the P/E ratio and the EV/EBITDA ratio in determining whether a company is fairly valued, overvalued, or undervalued.
+
+Investors have many different tools available to help them evaluate companies, their performance, and how viable they are as investment opportunities. Among those tools is the price-to-earnings ratio (P/E ratio). Benjamin Graham, the father of value investing, described this tool as one the quickest ways to determine a stock's viability and potential for growth.﻿ But what happens when a company doesn't have a P/E ratio? How should you analyze this as an investor?
+ 
+Investors and analysts will often look at a company's P/E ratio to gauge if a stock is overvalued or undervalued relative to its competitors and the broader market. In simple terms, the P/E ratio is what an investor pays for $1 of a company's earnings.
+ 
+The P/E ratio is calculated as the stock's current price in the market divided by its earnings per share (EPS):
+ 
+P/E ratio = Market value per share ÷ Earnings per share
+ 
+The P/E ratio allows for quick apples-to-apples comparisons across stocks that are in the same industry sector or within the same stock over different periods.
+ A high P/E ratio generally means investors anticipate a company's growth will be higher in the future. 
+A P/E ratio is typically expressed as a multiple. For example, if a company has a P/E ratio of 15x, this indicates its shares are trading at 15 times its earnings. If a direct competitor of that company has a P/E ratio of 10x, it may be safe to assume that this company is a better value to buy than the higher-priced 15x P/E stock.
+ 
+But sometimes, these ratios don't exist and are expressed as N/A.
+ 
+An "N/A," which stands for not applicable or not available, will sometimes be reported as a stock's P/E ratio. You'll often notice these on a chart for a security. This can mean one of two things.
+ 
+The first and simplest explanation is that there is simply no data available at the time of reporting. This will be the case with a newly listed company like an initial public offering (IPO) that has yet to release its earnings report.
+ 
+The second (and more common) reason is that the P/E ratio of a stock when calculated is a negative number. Negative P/E ratios are mathematically possible, but because they are generally not accepted by the financial community, they are usually reported as "N/A" or not applicable.
+ 
+A stock can't have a negative price in the market. The negative part of the P/E ratio comes from the fact that the EPS of the company is negative. If a company's earnings are exactly $0 for the period, an NA will also appear since you cannot divide by zero.
+ 
+So what should you do when you come across a company with a P/E ratio that reads N/A?
+ 
+Investors can interpret seeing "N/A" as the company reporting a net loss. They should be aware they are buying shares of a company that has lost money. Of course, this is not always a reason to worry.
+ 
+High-growth companies in the semiconductor, biotech, or internet sectors often lose money in the first few years as they experience rapid expansion or growth, grow their customer base, and develop new products and markets. The expectation is that the company will turn a profit, but in the short-term they have to burn cash to accelerate growth and revenue. Amazon is a prime example of a company that lost money year after year, yet remains a high flyer on the market in terms of its share price and market capitalization.
+ 
+Companies with an N/A for their P/E ratio, however, may also indicate a sign of trouble. If a company has historically had a track record of profits and then turns negative, it could mean they are in financial trouble or in a dying industry.
+ 
+When an investor sees that a company has a P/E ratio that reads N/A, it may be a warning sign that a company is in financial trouble. It may also mean it's too new to the investment world. Frankly, the P/E ratio is just one of several metrics used for fundamental analysis. Its interpretation should be taken in conjunction with other financial ratios, industry trends, historical performance across peers, and the market as a whole.
+
+The enterprise value (EV) to the earnings before interest, taxes, depreciation, and amortization (EBITDA) ratio varies by industry. However, the EV/EBITDA for the S&P 500 has typically averaged from 11 to 14 over the last few years.﻿﻿ EBITDA measures a firm's overall financial performance, while EV determines the firm's total value.
+ 
+As of Jan. 2020, the average EV/EBITDA for the S&P 500 was 14.20. As a general guideline, an EV/EBITDA value below 10 is commonly interpreted as healthy and above average by analysts and investors. To gain a better understanding of how investors can use the EV/EBITDA metric to analyze stocks, we'll take a closer look at each component of the metric and discuss some of the metric's advantages.
+ 
+Investors and analysts use the enterprise value (EV) metric to calculate a company's total monetary value or assessed worth. While some investors simply look at a company's market capitalization to determine a company's worth, other investors believe the enterprise value metric gives a more complete picture of a company's true value. That's because the enterprise value also takes into consideration the amount of debt the company carries and its cash reserves.
+ 
+To calculate enterprise value, determine the company's market capitalization by multiplying the company's outstanding shares by the current market price of one share. To this number, add the company's total long-term and short-term debt. Lastly, subtract the company's cash and cash equivalents. You now have the company's enterprise value.
+ 
+This result shows how much money would be needed to buy an entire company. The enterprise value calculates the theoretical takeover price one company would need to pay to acquire another company. While there are other factors that might play into a final acquisition price, enterprise value gives a more comprehensive alternative to determine a company's worth than market capitalization alone.
+ 
+Investors use EBITDA as a useful way to measure a company's overall financial performance and profitability. EBITDA is a straightforward metric that investors can calculate using numbers found on a company's balance sheet and income statement. EBITDA helps investors compare a company against industry averages and against other companies.
+ 
+To calculate EBITDA for a company, you'll need to first find the earnings, tax, and interest figures on the company's income statement. You can find the depreciation and amortization amounts in the company's cash flow statement. However, a useful shortcut to calculate EBITDA is to begin with the company's operating profit, also known as earnings before interest and taxes (EBIT). From there you can add back depreciation and amortization.
+ 
+The EV/EBITDA ratio is a popular metric used as a valuation tool to compare the value of a company, debt included, to the company’s cash earnings less non-cash expenses. It's ideal for analysts and investors looking to compare companies within the same industry.
+ 
+The enterprise-value-to-EBITDA ratio is calculated by dividing EV by EBITDA or earnings before interest, taxes, depreciation, and amortization. Typically, EV/EBITDA values below 10 are seen as healthy. However, the comparison of relative values among companies within the same industry is the best way for investors to determine companies with the healthiest EV/EBITDA within a specific sector.
+ 
+Just like the P/E ratio (price-to-earnings), the lower the EV/EBITDA, the cheaper the valuation for a company. Although the P/E ratio is typically used as the go-to-valuation tool, there are benefits to using the P/E ratio along with the EV/EBITDA. For example, many investors look for companies that have both low valuations using P/E and EV/EBITDA and solid dividend growth.
+ Siblis Research. "EV/EBITDA Multiple by GICS Sector (Large Cap U.S. Companies)." Accessed Aug. 24, 2020.
+The EBIT/EV multiple, shorthand for earnings before interest and taxes (EBIT) divided by enterprise value (EV), is a financial ratio used to measure a company's "earnings yield."
+ 
+The concept of the EBIT/EV multiple as a proxy for earnings yield and value was introduced by Joel Greenblatt, a noteworthy value investor and professor at Columbia Business School.
+ 
+Enterprise value (EV) is a measure used to value a company. Investors often use EV when comparing companies against one another for possible investment because EV provides a clearer picture of the real value of a company as opposed to simply considering market capitalization.
+ 
+EV is an important component of several ratios investors can use to compare companies, such as the EBIT/EV multiple and EV/Sales. The EV of a business can be calculated using the following formula:  
+ 
+The EV result shows how much money would be needed to buy the whole company. Some EV calculations include the addition of minority interest and preferred stock. However, for the vast majority of companies, minority interest and preferred stock in the capital structure is uncommon. Thus, EV is generally calculated without them.
+ 
+EBIT/EV is supposed to be an earnings yield, so the higher the multiple, the better for an investor. There is an implicit bias toward companies with lower levels of debt and higher amounts of cash. A company with a leveraged balance sheet, all else being equal, is riskier than a company with less leverage. The company with modest amounts of debt and/or greater cash holdings will have a smaller EV, which would produce a higher earnings yield.
+ 
+The EBIT/EV ratio can provide a better comparison than more conventional profitability ratios, such as return on equity (ROE) or return on invested capital (ROIC). While the EBIT/EV ratio is not commonly used, it does have a couple of key advantages in comparing companies.
+ 
+First, employing EBIT as a measure of profitability, as opposed to net income (NI), eliminates the potentially distorting effects of differences in tax rates. Second, using EBIT/EV normalizes for effects of different capital structures.
+ 
+Greenblatt states that EBIT "allows us to put companies with different levels of debt and different tax rates on an equal footing when comparing earnings yields." In his eyes, EV is more appropriate as the denominator because it takes into account the value of debt, as well as the market capitalization.
+ A downside to the EBIT/EV ratio is that it does not normalize for depreciation and amortization costs. Thus, there are still potential distorting effects when companies use different methods of accounting for fixed assets. 
+Say Company X has:
+ 
+Company Z has:
+ 
+EBIT/EV for Company X would be approximately 7.7%, while the earnings yield for Company Z would be approximately 4.4%. Company X's earnings yield is superior not only because it has greater EBIT, but also because it has lower leverage.
+
+A debt/equity swap is a transaction in which the obligations or debts of a company or individual are exchanged for something of value, namely, equity. In the case of a publicly-traded company, this generally entails an exchange of bonds for stock. The value of the stocks and bonds being exchanged is typically determined by the market at the time of the swap.
+ 
+A debt/equity swap is a refinancing deal in which a debt holder gets an equity position in exchange for the cancellation of the debt. The swap is generally done to help a struggling company continue to operate. The logic behind this is an insolvent company cannot pay its debts or improve its equity standing. However, sometimes a company may simply wish to take advantage of favorable market conditions. Covenants in the bond indenture may prevent a swap from happening without consent.
+ 
+In cases of bankruptcy, the debt holder does not have a choice about whether he wants to make the debt/equity swap. However, in other cases, he may have a choice in the matter. To entice people into debt/equity swaps, businesses often offer advantageous trade ratios. For example, if the business offers a 1:1 swap ratio, the bondholder receives stocks worth exactly the same amount as his bonds, not a particularly advantageous trade. However, if the company offers a 1:2 ratio, the bondholder receives stocks valued at twice as much as his bonds, making the trade more enticing.
+ 
+Debt/equity swaps can offer debt holders equity because the business does not want to or cannot pay the face value of the bonds it has issued. To delay repayment, it offers stock instead.
+ 
+In other cases, businesses have to maintain certain debt/equity ratios and invite debt holders to swap their debts for equity if the company helps to adjust that balance. These debt/equity ratios are often part of financing requirements imposed by lenders. In other cases, businesses use debt/equity swaps as part of their bankruptcy restructuring.
+ 
+If a company decides to declare bankruptcy, it has a choice between Chapter 7 and Chapter 11. Under Chapter 7, all of the business's debts are eliminated, and the business no longer operates. Under Chapter 11, the business continues its operations while restructuring its finances. In many cases, Chapter 11 reorganization cancels the company's existing equity shares. It then reissues new shares to the debt holders, and the bondholders and creditors become the new shareholders in the company.
+ 
+An equity/debt swap is the opposite of a debt/equity swap. Instead of trading debt for equity, shareholders swap equity for debt. Essentially, they exchange stocks for bonds. Generally, Equity/Debt swaps are conducted in order to facilitate smooth mergers or restructuring in a company.
+ 
+Suppose company ABC has a $100 million debt that it is unable to service. The company offers 25% percent ownership to its two debtors in exchange for writing off the entire debt amount. This is a debt-for-equity swap in which the company has exchanged its debt holdings for equity ownership by two lenders.
+
+The price-to-earnings ratio (P/E ratio) is the ratio for valuing a company that measures its current share price relative to its per-share earnings (EPS). The price-to-earnings ratio is also sometimes known as the price multiple or the earnings multiple.
+ 
+P/E ratios are used by investors and analysts to determine the relative value of a company's shares in an apples-to-apples comparison. It can also be used to compare a company against its own historical record or to compare aggregate markets against one another or over time.
+ 
+Analysts and investors review a company's P/E ratio when they determine if the share price accurately represents the projected earnings per share. The formula and calculation used for this process follow.
+ 
+﻿P/E Ratio=Market value per shareEarnings per share\text{P/E Ratio} = \frac{\text{Market value per share}}{\text{Earnings per share}}P/E Ratio=Earnings per shareMarket value per share​﻿
+ 
+To determine the P/E value, one simply must divide the current stock price by the earnings per share (EPS). The current stock price (P) can be gleaned by plugging a stock’s ticker symbol into any finance website, and although this concrete value reflects what investors must currently pay for a stock, the EPS is a slightly more nebulous figure.
+ 
+EPS comes in two main varieties. The first is a metric listed in the fundamentals section of most finance sites; with the notation "P/E (TTM)," where “TTM” is a Wall Street acronym for “trailing 12 months.” This number signals the company's performance over the past 12 months. The second type of EPS is found in a company's earnings release, which often provides EPS guidance. This is the company's best-educated guess of what it expects to earn in the future.
+ 
+Sometimes, analysts are interested in long term valuation trends and consider the P/E 10 or P/E 30 measures, which average the past 10 or past 30 years of earnings, respectively. These measures are often used when trying to gauge the overall value of a stock index, such as the S&P 500 since these longer term measures can compensate for changes in the business cycle. The P/E ratio of the S&P 500 has fluctuated from a low of around 6x (in 1949) to over 120x (in 2009). The long-term average P/E for the S&P 500 is around 15x, meaning that the stocks that make up the index collectively command a premium 15 times greater than their weighted average earnings.﻿﻿
+ 
+These two types of EPS metrics factor into the most common types of P/E ratios: the forward P/E and the trailing P/E. A third and less common variation uses the sum of the last two actual quarters and the estimates of the next two quarters.
+ 
+The forward (or leading) P/E uses future earnings guidance rather than trailing figures. Sometimes called "estimated price to earnings," this forward-looking indicator is useful for comparing current earnings to future earnings and helps provide a clearer picture of what earnings will look like – without changes and other accounting adjustments.
+ 
+However, there are inherent problems with the forward P/E metric – namely, companies could underestimate earnings in order to beat the estimate P/E when the next quarter's earnings are announced. Other companies may overstate the estimate and later adjust it going into their next earnings announcement. Furthermore, external analysts may also provide estimates, which may diverge from the company estimates, creating confusion.
+ 
+The trailing P/E relies on past performance by dividing the current share price by the total EPS earnings over the past 12 months. It's the most popular P/E metric because it's the most objective – assuming the company reported earnings accurately. Some investors prefer to look at the trailing P/E because they don't trust another individual’s earnings estimates. But the trailing P/E also has its share of shortcomings – namely, a company’s past performance doesn’t signal future behavior.
+ 
+Investors should thus commit money based on future earnings power, not the past. The fact that the EPS number remains constant, while the stock prices fluctuate, is also a problem. If a major company event drives the stock price significantly higher or lower, the trailing P/E will be less reflective of those changes.
+ 
+The trailing P/E ratio will change as the price of a company’s stock moves, since earnings are only released each quarter while stocks trade day in and day out. As a result, some investors prefer the forward P/E. If the forward P/E ratio is lower than the trailing P/E ratio, it means analysts are expecting earnings to increase; if the forward P/E is higher than the current P/E ratio, analysts expect a decrease in earnings.
+ 
+The price-to-earnings ratio or P/E is one of the most widely-used stock analysis tools used by investors and analysts for determining stock valuation. In addition to showing whether a company's stock price is overvalued or undervalued, the P/E can reveal how a stock's valuation compares to its industry group or a benchmark like the S&P 500 Index.
+ 
+In essence, the price-to-earnings ratio indicates the dollar amount an investor can expect to invest in a company in order to receive one dollar of that company’s earnings. This is why the P/E is sometimes referred to as the price multiple because it shows how much investors are willing to pay per dollar of earnings. If a company was currently trading at a P/E multiple of 20x, the interpretation is that an investor is willing to pay $20 for $1 of current earnings.
+ 
+The P/E ratio helps investors determine the market value of a stock as compared to the company's earnings. In short, the P/E ratio shows what the market is willing to pay today for a stock based on its past or future earnings. A high P/E could mean that a stock's price is high relative to earnings and possibly overvalued. Conversely, a low P/E might indicate that the current stock price is low relative to earnings. 
+ 
+As a historical example, let's calculate the P/E ratio for Walmart Stores Inc. (WMT) as of November 14, 2017, when the company's stock price closed at $91.09.﻿﻿ The company's profit for the fiscal year ending January 31, 2017, was US$13.64 billion, and its number of shares outstanding was 3.1 billion. Its EPS can be calculated as $13.64 billion / 3.1 billion = $4.40.﻿﻿
+ 
+Walmart's P/E ratio is, therefore, $91.09 / $4.40 = 20.70x.
+ 
+In general, a high P/E suggests that investors are expecting higher earnings growth in the future compared to companies with a lower P/E. A low P/E can indicate either that a company may currently be undervalued or that the company is doing exceptionally well relative to its past trends. When a company has no earnings or is posting losses, in both cases P/E will be expressed as “N/A.” Though it is possible to calculate a negative P/E, this is not the common convention.
+ 
+The price-to-earnings ratio can also be seen as a means of standardizing the value of one dollar of earnings throughout the stock market. In theory, by taking the median of P/E ratios over a period of several years, one could formulate something of a standardized P/E ratio, which could then be seen as a benchmark and used to indicate whether or not a stock is worth buying.
+ 
+The inverse of the P/E ratio is the earnings yield (which can be thought of like the E/P ratio). The earnings yield is thus defined as EPS divided by the stock price, expressed as a percentage.
+ 
+If Stock A is trading at $10, and its EPS for the past year was 50 cents (TTM), it has a P/E of 20 (i.e., $10 / 50 cents) and an earnings yield of 5% (50 cents / $10). If Stock B is trading at $20 and its EPS (TTM) was $2, it has a P/E of 10 (i.e., $20 / $2) and an earnings yield of 10% ($2 / $20).
+ 
+The earnings yield as an investment valuation metric is not as widely used as its P/E ratio reciprocal in stock valuation. Earnings yields can be useful when concerned about the rate of return on investment. For equity investors, however, earning periodic investment income may be secondary to growing their investments' values over time. This is why investors may refer to value-based investment metrics such as P/E ratio more often than earnings yield when making stock investments.
+ 
+The earnings yield is also useful in producing a metric when a company has zero or negative earnings. Since such a case is common among high-tech, high growth, or start-up companies, EPS will be negative producing an undefined P/E ratio (sometimes denoted as N/A). If a company has negative earnings, however, it will produce a negative earnings yield, which can be interpreted and used for comparison.
+ 
+A P/E ratio, even one calculated using a forward earnings estimate, don't always tell you whether or not the P/E is appropriate for the company's forecasted growth rate. So, to address this limitation, investors turn to another ratio called the PEG ratio.
+ 
+A variation on the forward P/E ratio is the price-to-earnings-to-growth ratio, or PEG. The PEG ratio measures the relationship between the price/earnings ratio and earnings growth to provide investors with a more complete story than the P/E on its own. In other words, the PEG ratio allows investors to calculate whether a stock's price is overvalued or undervalued by analyzing both today's earnings and the expected growth rate for the company in the future. The PEG ratio is calculated as a company’s trailing price-to-earnings (P/E) ratio divided by the growth rate of its earnings for a specified time period. The PEG ratio is used to determine a stock's value based on trailing earnings while also taking the company's future earnings growth into account, and is considered to provide a more complete picture than the P/E ratio. For example, a low P/E ratio may suggest that a stock is undervalued and therefore should be bought – but factoring in the company's growth rate to get its PEG ratio can tell a different story. PEG ratios can be termed “trailing” if using historic growth rates or “forward” if using projected growth rates.
+ 
+Although earnings growth rates can vary among different sectors, a stock with a PEG of less than 1 is typically considered undervalued since its price is considered to be low compared to the company's expected earnings growth. A PEG greater than 1 might be considered overvalued since it might indicate the stock price is too high as compared to the company's expected earnings growth.
+ 
+Analysts may also make a distinction between absolute P/E and relative P/E ratios in their analysis.
+ 
+The numerator of this ratio is usually the current stock price, and the denominator may be the trailing EPS (TTM), the estimated EPS for the next 12 months (forward P/E) or a mix of the trailing EPS of the last two quarters and the forward P/E for the next two quarters. When distinguishing absolute P/E from relative P/E, it is important to remember that absolute P/E represents the P/E of the current time period. For example, if the price of the stock today is $100, and the TTM earnings are $2 per share, the P/E is 50 ($100/$2).
+ 
+The relative P/E compares the current absolute P/E to a benchmark or a range of past P/Es over a relevant time period, such as the past 10 years. The relative P/E shows what portion or percentage of the past P/Es the current P/E has reached. The relative P/E usually compares the current P/E value to the highest value of the range, but investors might also compare the current P/E to the bottom side of the range, measuring how close the current P/E is to the historic low.
+ 
+The relative P/E will have a value below 100% if the current P/E is lower than the past value (whether the past high or low). If the relative P/E measure is 100% or more, this tells investors that the current P/E has reached or surpassed the past value.
+ 
+Like any other fundamental designed to inform investors on whether or not a stock is worth buying, the price-to-earnings ratio comes with a few important limitations that are important to take into account, as investors may often be led to believe that there is one single metric that will provide complete insight into an investment decision, which is virtually never the case. Companies that aren't profitable, and consequently have no earnings—or negative earnings per share, pose a challenge when it comes to calculating their P/E. Opinions vary on how to deal with this. Some say there is a negative P/E, others assign a P/E of 0, while most just say the P/E doesn't exist (not available—N/A) or is not interpretable until a company becomes profitable for purposes of comparison.
+ 
+One primary limitation of using P/E ratios emerges when comparing P/E ratios of different companies. Valuations and growth rates of companies may often vary wildly between sectors due both to the differing ways companies earn money and to the differing timelines during which companies earn that money.
+ 
+As such, one should only use P/E as a comparative tool when considering companies in the same sector, as this kind of comparison is the only kind that will yield productive insight. Comparing the P/E ratios of a telecommunications company and an energy company, for example, may lead one to believe that one is clearly the superior investment, but this is not a reliable assumption.
+ 
+An individual company’s P/E ratio is much more meaningful when taken alongside P/E ratios of other companies within the same sector. For example, an energy company may have a high P/E ratio, but this may reflect a trend within the sector rather than one merely within the individual company. An individual company’s high P/E ratio, for example, would be less cause for concern when the entire sector has high P/E ratios.
+ 
+Moreover, because a company’s debt can affect both the prices of shares and the company’s earnings, leverage can skew P/E ratios as well. For example, suppose there are two similar companies that differ primarily in the amount of debt they take on. The one with more debt will likely have a lower P/E value than the one with less debt. However, if business is good, the one with more debt stands to see higher earnings because of the risks it has taken.
+ 
+Another important limitation of price-to-earnings ratios is one that lies within the formula for calculating P/E itself. Accurate and unbiased presentations of P/E ratios rely on accurate inputs of the market value of shares and of accurate earnings per share estimates. The market determines the prices of shares through its continuous auction. The printed prices are available from a wide variety of reliable sources. However, the source for earnings information is ultimately the company themselves.This single source of data is more easily manipulated, so analysts and investors place trust the company's officers to provide accurate information. If that trust is perceived to be broken the stock will be considered more risky and therefore less valuable.
+ 
+To reduce the risk of inaccurate information, the P/E ratio is but one measurement that analysts scrutinize. If the company were to intentionally manipulate the numbers to look better, and thus deceive investors, they would have to work strenuously to be certain that all metrics were manipulated in a coherent manner, which is difficult to do. That's why the P/E ratio continues to be one of the centrally referenced points of data to analyze a company, but by no means the only one.
+ Macro Trends. "S&P 500 PE Ratio - 90 Year Historical Chart." Accessed August 14, 2020. Yahoo Finance. "Walmart Inc. (WMT)." Accessed August 14, 2020. Walmart. "Annual Report 2017," Page 36. Accessed August 14, 2020.
+The EV/EBITDA multiple and the price-to-earnings (P/E) ratio are used together to provide a fuller, more complete analysis of a company's financial health and prospects for future revenues and growth. Both ratios use a different approach when analyzing a company and offer different perspectives on its financial health.
+ 
+EBITDA stands for earnings before interest, taxes, depreciation, and amortization. EBITDA is calculated before other factors, such as interest and taxes, are considered. It also excludes depreciation and amortization, which are non-cash expenses. Therefore, the metric can provide a clearer picture of the financial performance of a company. In some circumstances, it's used as an alternative to net income when evaluating a company's profitability.
+ 
+The other component of the EV/EBITDA ratio is enterprise value (EV). This is the sum of a company's equity value or market capitalization plus its debt less cash. EV is typically used when evaluating a company for a potential buyout or takeover. The EV/EBITDA ratio is calculated by dividing EV by EBITDA to achieve an earnings multiple that is more comprehensive than the P/E ratio.
+ 
+The EV/EBITDA ratio compares a company’s enterprise value to its earnings before interest, taxes, depreciation, and amortization. This metric is widely used as a valuation tool; it compares the company’s value, including debt and liabilities, to true cash earnings. Lower ratio values indicate that a company is undervalued.
+ 
+However, the EV/EBITDA ratio has its drawbacks. The ratio does not include capital expenditures, which for some industries can be significant. As a result, it may produce a more favorable multiple by not including those expenditures. By not reflecting changes in capital structure, however, the ratio allows analysts and investors to make more accurate comparisons of companies with different capital structures.
+ 
+EV/EBITDA is also exclusive of non-cash expenses such as amortization and depreciation. Investors are often less concerned with non-cash expenses and more focused on cash flow and available working capital.
+ 
+The price-to-earnings (P/E) ratio is a ratio of market price per share to earnings per share (EPS). The P/E ratio is one of the most used and accepted valuation metrics and provides investors with a comparison of the current per-share price of a company to the amount the company earns per share. The P/E ratio is most useful when comparing only companies within the same industry or comparing companies against the general market.
+ 
+Ultimately, this metric is ideal for helping investors understand exactly what the market is willing to pay for the company’s earnings. Thus, the P/E ratio represents the market's overall consensus on the company's future prospects. A low P/E ratio indicates that the market is expecting lower growth in a company and its industry or perhaps macroeconomic conditions that might be detrimental to the company. In this case, a stock with a low P/E ratio typically sells off because investors don't think the current price justifies the earnings estimate.
+ 
+A high P/E ratio generally indicates the market expects share prices to continue to rise. When comparing companies, investors may favor those with a high P/E ratio over those with a low ratio. However, the ratio can also be misleading. High ratios may also be the result of overly optimistic projections and corresponding overpricing of shares. Also, earnings figures are easy to manipulate because the P/E ratio takes non-cash items into consideration.
+ 
+Additionally, a low P/E ratio could mean a company is undervalued and represents an opportunity for the shrewd investor to buy while the price is low.
+ 
+Successful stock analysts rarely look at just one metric to determine if a company is a good investment. As we've seen with the EV/EBITDA and P/E ratios, there are pros and cons to each metric. The numbers these ratios produce mean little without some interpretation and reflection on a variety of other factors that can affect a company's profitability and future performance. Used in conjunction, however, both metrics can give an investor a good starting point and some valuable insights as part of a comprehensive stock analysis.
+
+The price-to-earnings (P/E) ratio is one of the most popular and widely used financial metrics, but it has a number of inherent flaws for which the enterprise value to EBITDA (EV/EBITDA) ratio compensates. Investors who understand how both ratios work and how to evaluate their results give themselves an advantage when trying to determine which stocks offer the best wealth-building opportunities.
+ 
+The P/E ratio is a valuation metric that compares a company’s stock earnings per share (EPS) to its current market price. This metric is widely known and used as an indicator of a company's future growth potential. The P/E ratio does not reveal a full picture, and it is most useful when comparing only companies within the same industry or comparing companies against the general market.
+ 
+A high P/E ratio typically means that the market is willing to pay a higher price relative to earnings because there is an expectation of future growth in the company. Tech stocks, for example, usually carry high P/E ratios. A low P/E ratio indicates that the market is expecting lower growth in the company or perhaps less favorable macroeconomic conditions that might hurt the company. As a result, despite its earnings, the stock typically sells off somewhat if it has a low P/E since investors don't think the current price justifies the earnings outlook.
+ 
+There are problems that arise for investors with the use of the P/E ratio. The stock price can get run up if investors are overly optimistic causing an overvalued P/E ratio. Also, the earnings portion of the metric can be manipulated somewhat if, for example, a company's earnings are flat, but the company's management reduces their outstanding shares, thus boosting the company's earnings on a per share basis.
+ 
+The EV/EBITDA ratio helps to allay some of the P/E ratio's downfalls and is a financial metric that measures the return a company makes on its capital investments. EBITDA stands for earnings before interest, taxes, depreciation, and amortization. In other words, EBITDA provides a clearer picture of the financial performance of a company since it strips out debt costs, taxes, and accounting measures like depreciation, which spreads the costs of fixed assets out for many years.
+ One of the most effective ways to use EV/EBITDA is in a comparison valuation where the metric is used to evaluate similar companies in the same industry. 
+The other component is enterprise value (EV) and is the sum of a company's equity value or market capitalization plus its debt less cash. EV is typically used in buyouts. The EV/EBITDA ratio is calculated by dividing EV by EBITDA to achieve an earnings multiple that is more comprehensive than the P/E ratio.
+ 
+However, the EV/EBITDA ratio has its drawbacks, such as the fact that it doesn't include capital expenditures, which for some industries can be significant. As a result, it may produce a more favorable multiple by not including those expenditures.
+ 
+Though the calculation of this ratio can be complex, EV and EBITDA for publicly traded companies are widely available on most financial websites. The ratio is often preferred to other return metrics because it evens out differences in taxation, capital structure (debt), and asset counting.
+ 
+The P/E ratio has been established as a prime market valuation metric, and the sheer volume of current and historical data gives the metric weight in regard to stock analysis. Some analysts contend that using the EV/EBITDA ratio versus the P/E ratio as a valuation method produces better investment returns.
+ 
+Both metrics have inherent advantages and disadvantages. As with any financial metric, it's important to consider several financial ratios including the P/E ratio and the EV/EBITDA ratio in determining whether a company is fairly valued, overvalued, or undervalued.
+
+Investors have many different tools available to help them evaluate companies, their performance, and how viable they are as investment opportunities. Among those tools is the price-to-earnings ratio (P/E ratio). Benjamin Graham, the father of value investing, described this tool as one the quickest ways to determine a stock's viability and potential for growth.﻿ But what happens when a company doesn't have a P/E ratio? How should you analyze this as an investor?
+ 
+Investors and analysts will often look at a company's P/E ratio to gauge if a stock is overvalued or undervalued relative to its competitors and the broader market. In simple terms, the P/E ratio is what an investor pays for $1 of a company's earnings.
+ 
+The P/E ratio is calculated as the stock's current price in the market divided by its earnings per share (EPS):
+ 
+P/E ratio = Market value per share ÷ Earnings per share
+ 
+The P/E ratio allows for quick apples-to-apples comparisons across stocks that are in the same industry sector or within the same stock over different periods.
+ A high P/E ratio generally means investors anticipate a company's growth will be higher in the future. 
+A P/E ratio is typically expressed as a multiple. For example, if a company has a P/E ratio of 15x, this indicates its shares are trading at 15 times its earnings. If a direct competitor of that company has a P/E ratio of 10x, it may be safe to assume that this company is a better value to buy than the higher-priced 15x P/E stock.
+ 
+But sometimes, these ratios don't exist and are expressed as N/A.
+ 
+An "N/A," which stands for not applicable or not available, will sometimes be reported as a stock's P/E ratio. You'll often notice these on a chart for a security. This can mean one of two things.
+ 
+The first and simplest explanation is that there is simply no data available at the time of reporting. This will be the case with a newly listed company like an initial public offering (IPO) that has yet to release its earnings report.
+ 
+The second (and more common) reason is that the P/E ratio of a stock when calculated is a negative number. Negative P/E ratios are mathematically possible, but because they are generally not accepted by the financial community, they are usually reported as "N/A" or not applicable.
+ 
+A stock can't have a negative price in the market. The negative part of the P/E ratio comes from the fact that the EPS of the company is negative. If a company's earnings are exactly $0 for the period, an NA will also appear since you cannot divide by zero.
+ 
+So what should you do when you come across a company with a P/E ratio that reads N/A?
+ 
+Investors can interpret seeing "N/A" as the company reporting a net loss. They should be aware they are buying shares of a company that has lost money. Of course, this is not always a reason to worry.
+ 
+High-growth companies in the semiconductor, biotech, or internet sectors often lose money in the first few years as they experience rapid expansion or growth, grow their customer base, and develop new products and markets. The expectation is that the company will turn a profit, but in the short-term they have to burn cash to accelerate growth and revenue. Amazon is a prime example of a company that lost money year after year, yet remains a high flyer on the market in terms of its share price and market capitalization.
+ 
+Companies with an N/A for their P/E ratio, however, may also indicate a sign of trouble. If a company has historically had a track record of profits and then turns negative, it could mean they are in financial trouble or in a dying industry.
+ 
+When an investor sees that a company has a P/E ratio that reads N/A, it may be a warning sign that a company is in financial trouble. It may also mean it's too new to the investment world. Frankly, the P/E ratio is just one of several metrics used for fundamental analysis. Its interpretation should be taken in conjunction with other financial ratios, industry trends, historical performance across peers, and the market as a whole.
+
+The enterprise value (EV) to the earnings before interest, taxes, depreciation, and amortization (EBITDA) ratio varies by industry. However, the EV/EBITDA for the S&P 500 has typically averaged from 11 to 14 over the last few years.﻿﻿ EBITDA measures a firm's overall financial performance, while EV determines the firm's total value.
+ 
+As of Jan. 2020, the average EV/EBITDA for the S&P 500 was 14.20. As a general guideline, an EV/EBITDA value below 10 is commonly interpreted as healthy and above average by analysts and investors. To gain a better understanding of how investors can use the EV/EBITDA metric to analyze stocks, we'll take a closer look at each component of the metric and discuss some of the metric's advantages.
+ 
+Investors and analysts use the enterprise value (EV) metric to calculate a company's total monetary value or assessed worth. While some investors simply look at a company's market capitalization to determine a company's worth, other investors believe the enterprise value metric gives a more complete picture of a company's true value. That's because the enterprise value also takes into consideration the amount of debt the company carries and its cash reserves.
+ 
+To calculate enterprise value, determine the company's market capitalization by multiplying the company's outstanding shares by the current market price of one share. To this number, add the company's total long-term and short-term debt. Lastly, subtract the company's cash and cash equivalents. You now have the company's enterprise value.
+ 
+This result shows how much money would be needed to buy an entire company. The enterprise value calculates the theoretical takeover price one company would need to pay to acquire another company. While there are other factors that might play into a final acquisition price, enterprise value gives a more comprehensive alternative to determine a company's worth than market capitalization alone.
+ 
+Investors use EBITDA as a useful way to measure a company's overall financial performance and profitability. EBITDA is a straightforward metric that investors can calculate using numbers found on a company's balance sheet and income statement. EBITDA helps investors compare a company against industry averages and against other companies.
+ 
+To calculate EBITDA for a company, you'll need to first find the earnings, tax, and interest figures on the company's income statement. You can find the depreciation and amortization amounts in the company's cash flow statement. However, a useful shortcut to calculate EBITDA is to begin with the company's operating profit, also known as earnings before interest and taxes (EBIT). From there you can add back depreciation and amortization.
+ 
+The EV/EBITDA ratio is a popular metric used as a valuation tool to compare the value of a company, debt included, to the company’s cash earnings less non-cash expenses. It's ideal for analysts and investors looking to compare companies within the same industry.
+ 
+The enterprise-value-to-EBITDA ratio is calculated by dividing EV by EBITDA or earnings before interest, taxes, depreciation, and amortization. Typically, EV/EBITDA values below 10 are seen as healthy. However, the comparison of relative values among companies within the same industry is the best way for investors to determine companies with the healthiest EV/EBITDA within a specific sector.
+ 
+Just like the P/E ratio (price-to-earnings), the lower the EV/EBITDA, the cheaper the valuation for a company. Although the P/E ratio is typically used as the go-to-valuation tool, there are benefits to using the P/E ratio along with the EV/EBITDA. For example, many investors look for companies that have both low valuations using P/E and EV/EBITDA and solid dividend growth.
+ Siblis Research. "EV/EBITDA Multiple by GICS Sector (Large Cap U.S. Companies)." Accessed Aug. 24, 2020.
+The EBIT/EV multiple, shorthand for earnings before interest and taxes (EBIT) divided by enterprise value (EV), is a financial ratio used to measure a company's "earnings yield."
+ 
+The concept of the EBIT/EV multiple as a proxy for earnings yield and value was introduced by Joel Greenblatt, a noteworthy value investor and professor at Columbia Business School.
+ 
+Enterprise value (EV) is a measure used to value a company. Investors often use EV when comparing companies against one another for possible investment because EV provides a clearer picture of the real value of a company as opposed to simply considering market capitalization.
+ 
+EV is an important component of several ratios investors can use to compare companies, such as the EBIT/EV multiple and EV/Sales. The EV of a business can be calculated using the following formula:  
+ 
+The EV result shows how much money would be needed to buy the whole company. Some EV calculations include the addition of minority interest and preferred stock. However, for the vast majority of companies, minority interest and preferred stock in the capital structure is uncommon. Thus, EV is generally calculated without them.
+ 
+EBIT/EV is supposed to be an earnings yield, so the higher the multiple, the better for an investor. There is an implicit bias toward companies with lower levels of debt and higher amounts of cash. A company with a leveraged balance sheet, all else being equal, is riskier than a company with less leverage. The company with modest amounts of debt and/or greater cash holdings will have a smaller EV, which would produce a higher earnings yield.
+ 
+The EBIT/EV ratio can provide a better comparison than more conventional profitability ratios, such as return on equity (ROE) or return on invested capital (ROIC). While the EBIT/EV ratio is not commonly used, it does have a couple of key advantages in comparing companies.
+ 
+First, employing EBIT as a measure of profitability, as opposed to net income (NI), eliminates the potentially distorting effects of differences in tax rates. Second, using EBIT/EV normalizes for effects of different capital structures.
+ 
+Greenblatt states that EBIT "allows us to put companies with different levels of debt and different tax rates on an equal footing when comparing earnings yields." In his eyes, EV is more appropriate as the denominator because it takes into account the value of debt, as well as the market capitalization.
+ A downside to the EBIT/EV ratio is that it does not normalize for depreciation and amortization costs. Thus, there are still potential distorting effects when companies use different methods of accounting for fixed assets. 
+Say Company X has:
+ 
+Company Z has:
+ 
+EBIT/EV for Company X would be approximately 7.7%, while the earnings yield for Company Z would be approximately 4.4%. Company X's earnings yield is superior not only because it has greater EBIT, but also because it has lower leverage.
+
+A debt/equity swap is a transaction in which the obligations or debts of a company or individual are exchanged for something of value, namely, equity. In the case of a publicly-traded company, this generally entails an exchange of bonds for stock. The value of the stocks and bonds being exchanged is typically determined by the market at the time of the swap.
+ 
+A debt/equity swap is a refinancing deal in which a debt holder gets an equity position in exchange for the cancellation of the debt. The swap is generally done to help a struggling company continue to operate. The logic behind this is an insolvent company cannot pay its debts or improve its equity standing. However, sometimes a company may simply wish to take advantage of favorable market conditions. Covenants in the bond indenture may prevent a swap from happening without consent.
+ 
+In cases of bankruptcy, the debt holder does not have a choice about whether he wants to make the debt/equity swap. However, in other cases, he may have a choice in the matter. To entice people into debt/equity swaps, businesses often offer advantageous trade ratios. For example, if the business offers a 1:1 swap ratio, the bondholder receives stocks worth exactly the same amount as his bonds, not a particularly advantageous trade. However, if the company offers a 1:2 ratio, the bondholder receives stocks valued at twice as much as his bonds, making the trade more enticing.
+ 
+Debt/equity swaps can offer debt holders equity because the business does not want to or cannot pay the face value of the bonds it has issued. To delay repayment, it offers stock instead.
+ 
+In other cases, businesses have to maintain certain debt/equity ratios and invite debt holders to swap their debts for equity if the company helps to adjust that balance. These debt/equity ratios are often part of financing requirements imposed by lenders. In other cases, businesses use debt/equity swaps as part of their bankruptcy restructuring.
+ 
+If a company decides to declare bankruptcy, it has a choice between Chapter 7 and Chapter 11. Under Chapter 7, all of the business's debts are eliminated, and the business no longer operates. Under Chapter 11, the business continues its operations while restructuring its finances. In many cases, Chapter 11 reorganization cancels the company's existing equity shares. It then reissues new shares to the debt holders, and the bondholders and creditors become the new shareholders in the company.
+ 
+An equity/debt swap is the opposite of a debt/equity swap. Instead of trading debt for equity, shareholders swap equity for debt. Essentially, they exchange stocks for bonds. Generally, Equity/Debt swaps are conducted in order to facilitate smooth mergers or restructuring in a company.
+ 
+Suppose company ABC has a $100 million debt that it is unable to service. The company offers 25% percent ownership to its two debtors in exchange for writing off the entire debt amount. This is a debt-for-equity swap in which the company has exchanged its debt holdings for equity ownership by two lenders.
+
+Debt/EBITDA—earnings before interest, taxes, depreciation, and amortization—is a ratio measuring the amount of income generated and available to pay down debt before covering interest, taxes, depreciation, and amortization expenses. Debt/EBITDA measures a company's ability to pay off its incurred debt. A high ratio result could indicate a company has a too-heavy debt load.
+ 
+Banks often include a certain debt/EBITDA target in the covenants for business loans, and a company must maintain this agreed-upon level or risk having the entire loan become due immediately. This metric is commonly used by credit rating agencies to assess a company's probability of defaulting on issued debt, and firms with a high debt/EBITDA ratio may not be able to service their debt in an appropriate manner, leading to a lowered credit rating.
+ 
+﻿Debt to EBITDA=DebtEBITDA\text{Debt to EBITDA}= \frac{\text{Debt}}{\text{EBITDA}}Debt to EBITDA=EBITDADebt​﻿
+ 
+where:
+ 
+Debt = Long-term and short-term debt obligations
+ 
+EBITDA = Earnings before interest, taxes, depreciation, and amortization
+ 
+To determine the debt/EBITDA ratio, add the company's long-term and short-term debt obligations. You can find these numbers in the company's quarterly and annual financial statements. Divide this by the company's EBITDA. You can calculate EBITDA using data from the company's income statement. The standard method to calculate EBITDA is to start with operating profit, also called earnings before interest and taxes (EBIT), and then add back depreciation and amortization.
+ 
+The debt/EBITDA ratio is similar to the net debt/EBITDA ratio. The main difference is the net debt/EBITDA ratio subtracts cash and cash equivalents while the standard ratio does not.
+ 
+The debt/EBITDA ratio compares a company's total obligations, including debt and other liabilities, to the actual cash the company brings in and reveals how capable the firm is of paying its debt and other liabilities.
+ 
+When lenders and analysts look at a company's debt/EBITDA ratio, they want to know how well the firm can cover its debts. EBITDA represents a company's earnings or income, and it's an acronym for earnings before interest, taxes, depreciation, and amortization. It's calculated by adding back interest, taxes, depreciation, and amortization expenses to net income.
+ 
+Analysts often look at EBITDA as a more accurate measure of earnings from the firm's operations, rather than net income. Some analysts see interest, taxes, depreciation, and amortization as an impediment to real cash flows. In other words, they see EBITDA as a cleaner representation of the real cash flows available to pay off debt.
+ 
+Analysts like the debt/EBITDA ratio because it is easy to calculate. Debt can be found on the balance sheet and EBITDA can be calculated from the income statement. The issue, however, is that it may not provide the most accurate measure of earnings. More than earnings, analysts want to gauge the amount of actual cash available for debt repayment.
+ 
+Depreciation and amortization are non-cash expenses that do not really impact cash flows, but interest on debt can be a significant expense for some companies. Banks and investors looking at the current debt/EBITDA ratio to gain insight on how well the company can pay for its debt may want to consider the impact of interest on debt-repayment ability, even if that debt will be included in new issuance. For this reason, net income minus capital expenditures, plus depreciation and amortization may be the better measure of cash available for debt repayment.
+ 
+As an example, if company A has $100 million in debt and $10 million in EBITDA, the debt/EBITDA ratio is 10. If company A pays off 50% of that debt in the next five years, while increasing EBITDA to $25 million, the debt/EBITDA ratio falls to two.
+ 
+A declining debt/EBITDA ratio is better than an increasing one because it implies the company is paying off its debt and/or growing earnings. Likewise, an increasing debt/EBITDA ratio means the company is increasing debt more than earnings.
+ 
+Some industries are more capital intensive than others, so a company's debt/EBITDA ratio should only be compared to the same ratio for other companies in the same industry. In some industries, a debt/EBITDA of 10 could be completely normal, while in other industries a ratio of three to four is more appropriate.
+
+S&P 500/Citigroup Growth Index is a market-capitalization-weighted index developed by Standard and Poor's in conjunction with Citigroup. It consists of stocks within the S&P 500 Index that exhibit strong growth characteristics. The S&P 500/Citigroup Growth Index is the outcome of a numerical ranking system based on three growth factors and four value factors to determine the constituents and their weightings.
+ 
+The index is determined by the basic growth and value factors below.
+ 
+Growth factors:
+ 
+Value factors:
+ 
+The S&P 500/Citigroup Growth Index is the basis for iShares S&P 500 Growth ETF (exchange-traded fund), whose ticker symbol is IVW. In the five-year period from 2012-2017, IVW had risen 162%, compared to the most common benchmark, S&P 500 Index, which had increased 139%. The primary reason for the outperformance of the growth index was the fact that the growth index contained (and continues to contain) companies like Apple, Amazon, Microsoft, Facebook and Google, all high-octane growth companies during that period.
+ 
+Investors who buy into passive vehicles like ETFs must be aware that they are inherently momentum-driven because they are tied to underlying assets that are weighted by market capitalization. If a group of technology stocks in an index increases rapidly in market value, the passive funds and ETFs are forced to buy the stocks to keep in line with the index. The demand pressure bids up prices of the shares, resulting in additional gains of the growth index. The "benign circle" of increasing prices, however, can suddenly and unexpectedly break and potentially devolve into a vicious cycle in which share prices fall, decreasing the index value and causing more selling by passive vehicles to maintain balance with the underlying index.
+
+The EV/2P ratio is a ratio used to value oil and gas companies. It consists of the enterprise value (EV) divided by the proven and probable (2P) reserves. The enterprise value reflects the company's total value. Proven and probable (2P) refers to energy reserves, such as oil, that are likely to be recovered.
+ 
+﻿EV/2P=Enterprise Value2P Reserveswhere:2P Reserves=Total proven and probable reservesEnterprise Value=MC+Total Debt−TCMC=Market capitalizationTC=Total cash and cash equivalents\begin{aligned} &\text{EV/2P} = \frac{ \text{Enterprise Value} }{ \text{2P Reserves} } \\ &\textbf{where:} \\ &\text{2P Reserves} = \text{Total proven and probable reserves} \\ &\text{Enterprise Value} = \text{MC} + \text{Total Debt} - \text{TC} \\ &\text{MC} = \text{Market capitalization} \\ &\text{TC} = \text{Total cash and cash equivalents} \\ \end{aligned}​EV/2P=2P ReservesEnterprise Value​where:2P Reserves=Total proven and probable reservesEnterprise Value=MC+Total Debt−TCMC=Market capitalizationTC=Total cash and cash equivalents​﻿
+ 
+2P reserves are the total of proven and probable reserves. Proved reserves are likely to be recovered, whereas probable reserves are less likely to be recovered than proved reserves. The sum of proved and probable reserves is represented by 2P.
+ 
+Enterprise value compared to proven and probable reserves is a metric that helps analysts understand how well a company's resources will support its operations and growth. Ideally, the EV/2P ratio should not be used in isolation, as not all reserves are the same. However, it can still be an important metric if little is known about the company's cash flow.
+ 
+Reserves can be proven, probable, or possible reserves. The proven reserves are typically known as 1P, with many analysts referring to it as P90, or having a 90% probability of being produced. Probable reserves are referred to as P50 or having a 50% certainty of being produced. When used in conjunction with one another, it is referred to as 2P.
+ 
+When the EV/2P multiple is high, it means the company is trading at a premium for a given amount of oil in the ground. Conversely, a low value would suggest a potentially undervalued company.
+ 
+The EV/2P ratio is comparable to other more common ratios used in valuation such as enterprise value or P/E ratios. These ratios express a company's value as a multiple of earnings or assets.
+ 
+It's important to compare a company's EV/2P ratio with those of similar companies and with the historical values of the ratio. Using historical and industry comparisons can help investors determine if a company is undervalued, overvalued, or fairly valued.
+ 
+Let us assume that an oil company has an enterprise value of $2 billion and proven and probable reserves of 100 million barrels:
+ 
+﻿EV/2P=$2 Billion$100 Million=20\begin{aligned} &\text{EV/2P} = \frac{ \$2 \text{ Billion} }{ \$100 \text{ Million} } = 20 \\ \end{aligned}​EV/2P=$100 Million$2 Billion​=20​﻿
+ 
+The EV/2P ratio = 20 or the company has a 20 multiple. In other words, the company is valued at 20 times its enterprise value to 2P reserves.
+ 
+Whether the 20 multiple is high, low, or fairly valued depends on other oil companies within the same industry.
+ 
+ Enterprise value compared to earnings before interest, tax, depreciation, and amortization is also referred to as the enterprise multiple. The EV/EBITDA ratio compares the oil and gas business, free of debt, to EBITDA. This is an important metric as oil and gas firms typically have a great deal of debt and the EV includes the cost of paying it off. By stripping out debt, analysts can see how well the company is valued.
+ 
+The EV/2P ratio on the other hand also uses enterprise value in its formula, but instead of using EBITDA, the ratio includes proven and probable (2P) reserves. The EV/2P ratio is important when judging the potential or possible growth of an oil company since proven and probable (2P) reserves are likely to be recovered.
+ 
+As mentioned earlier, the EV/2P ratio includes total debt in its calculation because enterprise value also includes total debt. Oil companies typically carry significant amounts of debt on their balance sheets, which is normal for the industry. Debt is used to top finance oil rigs, equipment, and the cost of exploration.
+ 
+As a result, the extra debt would put the EV of oil companies at a much higher valuation than most other industries that carry less debt. Investors should be aware of the unique capital structures of oil and gas companies when using any valuation metric including the EV/2P ratio.
+
+Barrels of oil equivalent per day (BOE/D) is a term that is used often in conjunction with the production or distribution of crude oil and natural gas. Many oil companies produce both of these commodities, but the unit of measure for each is different. Oil is measured in barrels and natural gas is measured in cubic feet. To help facilitate like-for-like comparisons, the industry standardized natural gas production into "equivalent barrels" of oil. One barrel of oil is generally deemed to have the same amount of energy content as 6,000 cubic feet of natural gas. So this quantity of natural gas is "equivalent" to one barrel of oil.
+ 
+When measuring a company's natural gas production output, management often wants to know how many equivalent barrels of oil they are producing. This makes it easier to compare themselves to other industry participants. The Society of Petroleum Engineers provides conversion tables that help illustrate unit equivalencies and some of the factors that affect comparison and conversion.
+ 
+Large oil producers are evaluated and refer to their production by the number of cubic feet of natural gas, and/or by the barrels of oil equivalent, they produce per day. This is an industry standard and a way that investors can compare the production and/or the reserves of two oil/gas companies.
+ 
+​BOE/D is important to the financial community because it is used as a way to help determine the value of a company. There are several different metrics equity and bond analysts use to evaluate the performance of an oil company. First is a company's total production, which is calculated on a total equivalent barrel basis. This helps to determine the scale of the business. Companies that produce little oil and a lot of natural gas could be unfairly evaluated if equivalent barrels were not counted.
+ 
+​Another important measure of a company is the size of its reserves. Equivalent barrels play an important role here too because excluding natural gas reserves can unfairly impact the size of a company. When banks are determining the size of a loan to extend, it is important to consider the total size of the company's reserve base. Converting natural gas reserves to equivalent barrels is an easy to understand like-for-like metric that helps to determine the amount of debt a company has relative to its reserve base. If this isn't evaluated correctly, a company can be unfairly impacted with higher borrowing costs.
+
+Barrels per day (B/D) is a measure of oil output, represented by the number of barrels of oil produced in a single day. For example, you might hear "country ABC has the potential to produce five million barrels per day." The abbreviation "bbl/d" can also be used to represent this production measure. Oftentimes there is an inverse correlation between the number of barrels produced on a daily basis and the price of oil.
+ 
+The barrels-per-day (B/D) measure is commonly used in the oil spot markets, as prices are usually quoted in terms of dollars per barrel. One barrel of oil contains approximately 42 U.S. gallons, or 35 imperial gallons, and weighs approximately 0.134 tons.﻿﻿
+ 
+Just because a country has the capacity to produce X number of barrels per day, it doesn't always mean they are producing that much. The price of oil is largely influenced by the currently available supply.
+ 
+The currently available supply is driven by the number of barrels per day each oil-producing company creates. When the price of oil starts to fall, the world's oil-producing countries may make agreements with each other to limit production until the price of oil stabilizes and returns to a higher level.
+ 
+The Organization of the Petroleum Exporting Countries, or OPEC, is an entity founded in 1960 that consists of 13 member countries that cooperate with each other when producing and exporting their oil to the rest of the world. The Organization of the Petroleum Exporting Countries has a large amount of influence over global barrels per day oil production and the price of oil worldwide.﻿﻿
+ 
+The reason oil production is referred to barrels is that when oil was first discovered in Pennsylvania, it was stored in whiskey barrels. The amount in a barrel specifically refers to crude oil.﻿﻿
+ 
+Barrels per day (B/D) is the base measurement when referring to how much oil is produced. The oil industry also uses other measurements, such as million barrels per day (MMB/D). Similarly, the oil industry measures a thousand barrels per day (KBPD). Depending on the region, the abbreviations can be slightly different, so when evaluating the oil industry or any elements of it, it is in good interest to familiarize yourself with the different terminology.
+ 
+Another common measurement is a barrel of oil equivalent (BOE). This is used when converting the energy found in nonoil products, such as natural gas, into the equivalent of a barrel of oil. This makes it easier for analysts and investors to understand the production value of an energy company.
+ U.S. Energy Information Association. "Frequently Asked Questions: How many gallons of gasoline and diesel fuel are made from one barrel of oil?" Accessed Sept. 7, 2020. Organization of the Petroleum Exporting Countries. "Brief History." Accessed Sept. 7, 2020. The Atlantic. "Oil Barrels Aren't Real Anymore." Accessed Sept. 7, 2020.
+The gold/silver ratio represents the number of ounces of silver required to purchase one ounce of gold. Investors use the fluctuating ratio to ascertain the relative value of silver compared to gold. This comparison allows the trader to determine the optimal time to purchase one metal over the other. It also helps investors diversify their precious-metal holdings. 
+ 
+Today, the gold/silver ratio continually floats as prices shift. However, when currencies were gold- and silver-based holdings, the ratio was fixed. Governments who recognize gold and silver coins as legal tender follow the bimetallic standard as their monetary system. Central banks were in charge of setting or fixing, the gold/silver ratio which provides stability to the currency markets. For example, during the Roman Empire, the gold/silver ratio was fixed at 12/1, or 12 pieces of silver to one gold piece. By the 19th Century, the ratio saw a general setting of 15/1.
+ 
+As an example, imagine gold is trading at $300 per ounce, and silver is trading at $20 per ounce. The gold/silver ratio would be 15/1, as it would take 15 ounces of silver to buy one ounce of gold. If next week the price of gold falls to $250 an ounce and the price of silver rises to $25 per ounce, the ratio drops to 10/1.
+ 
+However, the era of the fixed ratio ended in the twentieth century as nations moved away from the bi-metallic standard and, eventually, off the gold standard entirely. With the gold standard, countries agreed to convert paper money into a fixed amount of gold.
+ 
+Britain stopped using the gold standard in 1931, and the U.S. followed suit in 1933, finally abandoning the remnants of the system in 1971. The gold standard was replaced entirely by fiat money in 1973. Fiat money describes a currency used due to a government order, or fiat, that the currency is acceptable as a means of payment.
+ 
+In the modern era, the gold/silver ratio can swing wildly. Over the last 100 years, it has shifted even more, from low of 17.73 in April 1919 to a high of 80.61 in January 1980. Traders track the volatile ratio on a minute by minute basis. The ratio can change even if both gold and silver rise or fall in price, so long as they move at different rates.
+ 
+The ratio swings illustrate the value of gold, silver and other precious metals, such as platinum and palladium, these metals dependence on their relative scarcity as commodities. The metal markets are speculative, unlike stocks or bonds, they do not have a basis on underlying performance measures.
+ 
+However, unlike other speculative commodity markets such as the oil market, gold and silver are non-consumable. Even when used in such things as jewelry, their value can be recovered. In part, because they don’t go away, precious metals have traditionally been viewed as a haven for investors when other markets are experiencing high rates of volatility.
+ 
+Hard asset investors can take advantage of the ratio swings by trading the ratio. They will exchange gold for silver when the ratio rises, meaning silver is cheaper than gold. Investors will swap silver for gold when the ratio drops and gold becomes less expensive.
+
+Inflation affects equity prices in several ways. Most importantly, investors are willing to pay less for a certain level of earnings when inflation is high and more for a certain level of earnings when inflation is low (and expected to remain so).
+ 
+Let's review the two concepts involved: the price-to-earnings (P/E) ratio and inflation. The P/E ratio is a valuation measure showing how much investors are willing to pay for a company's earnings. For example, if the price of a stock is $50 and earnings per share is $2, then the P/E ratio is 25 ($50/$2). This shows that investors are willing to pay 25 times the company's earnings for a share. Inflation is a measure of the rate of price increases in the economy.
+ 
+Stable and moderate inflation means a higher probability of continued economic expansion. Modest inflation usually means that the central bank won't be raising interest rates to slow economic growth. When inflation and interest rates are low, there is a greater opportunity for higher real earnings growth, increasing the amount people will pay for a company's earnings. The more people are willing to pay, the higher the P/E.
+ 
+When inflation levels are stable and moderate, investors have lower expectations of high market returns. Conversely, expectations rise when inflation is high. When inflation rises, so do prices in the economy, leading investors to require a higher rate of return to maintain their purchasing power.
+ 
+If investors demand a higher rate of return, the P/E ratio has to fall. Historically, the lower the P/E, the higher the return. When you pay a lower P/E, you're paying less for more earnings and, as earnings grow, the return you achieve is higher. In periods of low inflation, the return demanded by investors is lower and the P/E higher. The higher the P/E, the higher the price for earnings, which lowers your expectations of healthy returns.
+ 
+During times of low inflation, the quality of earnings is considered to be high. This refers to the amount of earnings that can be attributed to actual growth in the company and not to outside factors like inflation.
+ 
+For example, say inflation is 10% per year (which is high), and a company purchases a widget for $100. In one year, the company will be able to sell that same widget for at least $110 because of inflation. Because its cost for the widget remains $100, it appears to have increased its profit margin, when really the growth is all inflation's doing. In general, investors are more willing to pay a premium, or a higher multiple, for actual growth compared to artificial growth caused by inflation.
+ 
+Examining historical returns data during periods of high and low inflation can provide some clarity for investors. Numerous studies have looked at the impact of inflation on stock returns.
+ 
+Unfortunately, these studies have produced conflicting results when several factors are taken into account, namely geography and time period. Most studies conclude that expected inflation can either positively or negatively impact stocks, depending on the investor's ability to hedge and the government’s monetary policy.
+ 
+Unexpected inflation showed more conclusive findings, most notably being a strong positive correlation to stock returns during economic contractions, demonstrating that the timing of the economic cycle is particularly important for investors gauging the impact on stock returns. This correlation is also thought to stem from the fact that unexpected inflation contains new information about future prices. Similarly, greater volatility of stock movements was correlated with higher inflation rates.
+ 
+The data has proven this in emerging countries, where the volatility of stocks is greater than in developed markets. Since the 1930s, the research suggests that almost every country suffered its worst real returns during high inflation periods. Real returns are actual returns minus inflation. When examining S&P 500 returns by decade and adjusting for inflation, the results show the highest real returns occur when inflation is 2% to 3%.
+ 
+Inflation greater than or less than this range tends to signal a U.S. macroeconomic environment with larger issues that have varying impacts on stocks. Perhaps more important than the actual returns are the volatility of returns inflation causes and knowing how to invest in that environment.
+ 
+History has shown that investors realize this phenomenon and take inflation into account when valuing stocks. When inflation is high, P/E ratios are low; when inflation is low, P/E ratios are high.

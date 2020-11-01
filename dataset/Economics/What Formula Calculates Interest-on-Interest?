@@ -1,0 +1,32 @@
+
+Interest-on-interest—also referred to as compound interest—is the interest earned when interest payments are reinvested. Compound interest is used in the context of bonds. Coupon payments from bonds are assumed to be reinvested at some interest rate and held until the bond is sold or matures.
+ 
+Compound interest refers to the interest owed or received on an investment, and it grows at a faster rate than simple interest.
+ 
+U.S. Savings bonds are financial securities that pay interest-on-interest to investors. The bonds are a tool to raise funds from the public to fund capital projects and the economy. The savings bonds are zero-coupon bonds that do not pay interest until they are redeemed or until the maturity date. The interest compounds semi-annually and accrues monthly every year for 30 years.
+ 
+Interest-on-interest differs from simple interest. Simple interest is only charged on the original principal amount while interest-on-interest applies to the principal amount of the bond or loan and to any other interest that has previously accrued.
+ 
+When calculating interest-on-interest, the compound interest formula determines the amount of accumulated interest on the principal amount invested or borrowed. The principal amount, the annual interest rate, and the number of compounding periods are used to calculate the compound interest on a loan or deposit.
+ 
+The formula to calculate compound interest is to add 1 to the interest rate in decimal form, raise this sum to the total number of compound periods, and multiply this solution by the principal amount. The original principal amount is subtracted from the resulting value.
+ 
+Compound interest:
+ 
+﻿I=[P(1+i)n]−Pwhere:I=Compound interestP=Principali=Nominal interest rate per periodn=Number of compounding periods\begin{aligned} &I = \left[P\left(1+i\right)^n\right] - P\\ &\textbf{where:}\\ &I = \text{Compound interest}\\ &P = \text{Principal}\\ &i = \text{Nominal interest rate per period}\\ &n = \text{Number of compounding periods}\\ \end{aligned}​I=[P(1+i)n]−Pwhere:I=Compound interestP=Principali=Nominal interest rate per periodn=Number of compounding periods​﻿
+ 
+Where:
+ 
+For example, assume you want to calculate the compound interest on a $1 million deposit. The principal is compounded annually at a rate of 5%. The total number of compounding periods is five, representing five one-year periods.
+ 
+The resulting compounded interest on the deposit is as follows:
+ 
+﻿$1,000,000∗(1+0.05)5−$1,000,000\begin{aligned} &\text{\$1,000,000}*(1 + 0.05)^5 - \text{\$1,000,000}\\ &=\text{\$276,281.60} \end{aligned}​$1,000,000∗(1+0.05)5−$1,000,000​﻿
+ 
+Assume you want to calculate the compound interest on a $1 million deposit. However, this particular deposit is compounded monthly. The annual interest rate is 5%, and the interest accrues at a compounding rate for five years.
+ 
+To calculate the monthly interest, simply divide the annual interest rate by 12 months. The resulting monthly interest rate is 0.417%. The total number of periods is calculated by multiplying the number of years by 12 months since the interest is compounding at a monthly rate. In this case, the total number of periods is 60, or 5 years x 12 months.
+ 
+The resulting interest, compounded monthly, is as follows:
+ 
+﻿$1,000,000∗(1+0.00417)60−$1,000,000\begin{aligned} &\text{\$1,000,000}*(1 + 0.00417)^{60} - \text{\$1,000,000}\\ &=\text{\$283,614.31} \end{aligned}​$1,000,000∗(1+0.00417)60−$1,000,000​﻿

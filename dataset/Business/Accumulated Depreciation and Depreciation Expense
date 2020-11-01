@@ -1,0 +1,32 @@
+
+Accumulated depreciation is the total amount a company depreciates its assets, while depreciation expense is the amount a company's assets are depreciated for a single period. Essentially, accumulated depreciation is the total amount of a company's cost that has been allocated to depreciation expense since the asset was put into use.
+ 
+The accumulated depreciation account is a contra asset account on a company's balance sheet, meaning it has a credit balance. It appears on the balance sheet as a reduction from the gross amount of fixed assets reported.
+ 
+The amount of accumulated depreciation for an asset or group of assets will increase over time as depreciation expenses continue to be credited against the assets. When an asset is eventually sold or put out of use, the accumulated depreciation associated with that asset will be reversed, eliminating all record of the asset from the company's balance sheet.
+ 
+Depreciation expenses, on the other hand, are the allocated portion of the cost of a company's fixed assets that are appropriate for the period. Depreciation expense is recognized on the income statement as a non-cash expense that reduces the company's net income. For accounting purposes, the depreciation expense is debited, and the accumulated depreciation is credited.
+ 
+It is considered a non-cash expense because the recurring monthly depreciation entry does not involve a cash transaction. Because of this, the statement of cash flows prepared under the indirect method adds the depreciation expense back to calculate cash flow from operations. Typical depreciation methods can include straight line, double-declining balance, and units of production.
+ 
+The straight line method charges the same amount every year as depreciation, calculated as:
+ 
+﻿SLD=Asset Cost−Salvage ValueUseful Lifewhere:SLD = Straight Line Depreciation\begin{aligned} &\text{SLD} = \dfrac{\text{Asset Cost} - \text{Salvage Value}}{\text{Useful Life}}\\ &\textbf{where:}\\ &\text{SLD = Straight Line Depreciation}\\ \end{aligned}​SLD=Useful LifeAsset Cost−Salvage Value​where:SLD = Straight Line Depreciation​﻿
+ 
+As an example, Company ABC bought a piece of equipment for $250,000 at the start of the year. The equipment's residual value is $25,000, with an expected useful life of 10 years. The yearly depreciation expense using straight-line depreciation would be $22,500 per year.
+ 
+Each year, $22,500 is added to the accumulated depreciation account. At the end of year five, the accumulated depreciation amount would equal $112,500, or $22,500 in yearly depreciation multiplied by five years.
+ 
+Accumulated depreciation is used in calculating an asset’s net book value. This is the amount a company carries an asset on its balance sheet. Net book value is the cost of an asset subtracted by its accumulated depreciation. For example, a company purchased a piece of printing equipment for $100,000 and the accumulated depreciation is $35,000, then the net book value of the printing equipment is $65,000.
+ 
+Accumulated depreciation cannot exceed an asset’s cost. If an asset is sold or disposed of, the asset’s accumulated depreciation is removed from the balance sheet. Net book value, however, isn’t necessarily reflective of the market value of an asset.  
+ 
+Beyond the straight-line method, there's also the declining balance method. This is the only other depreciation method allowed by the Internal Revenue Service (IRS) for tax purposes. The declining balance method is calculated as:
+ 
+﻿DBD = (NBV - SV)×1UL×DRwhere:NBV = Net book valueSV = Salvage valueUL = Useful lifeDR = Depreciation rate\begin{aligned} &\text{DBD = (NBV - SV)} \times \dfrac{1}{\text{UL}} \times \text{DR}\\ &\textbf{where:}\\ &\text{NBV = Net book value}\\ &\text{SV = Salvage value}\\ &\text{UL = Useful life}\\ &\text{DR = Depreciation rate}\\ \end{aligned}​DBD = (NBV - SV)×UL1​×DRwhere:NBV = Net book valueSV = Salvage valueUL = Useful lifeDR = Depreciation rate​﻿
+ 
+If using the double-declining balance method (DDB), which is arguably the most popular, the depreciation rate in the above formula is 2. For example, a company purchases a piece of printing equipment for $100,000. The salvage value is $20,000 and its useful life is 10 years.
+ 
+Year 1 depreciation expense using the DDB method would be: ($100,000 - $20,000) x (1 / 10) x 2 = $16,000. Year 2 depreciation expense would be: ($84,000 - $20,000) x (1 / 10) x 2 = $12,800.
+ 
+Meanwhile, under the straight-line method, the depreciation expense in the above example would be $8,000 per year, or ($100,000 - $20,000) / 10. At the end of Year 2, the accumulated depreciation under the DDB method would be $28,800 while under the straight-line method it would be $16,000. However, the annual depreciation amount under the DDB method is smaller in later years. It's generally used for assets that lose their value quickly, such as computers.

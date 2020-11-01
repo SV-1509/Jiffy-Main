@@ -1,0 +1,34 @@
+
+While there are many ways to measure investment performance, few metrics are more popular and meaningful than return on investment (ROI) and internal rate of return (IRR). Across all types of investments, ROI is more common than IRR, largely because IRR is more confusing and difficult to calculate.
+ 
+Companies use both metrics when budgeting for capital, and the decision on whether to undertake a new project often comes down to the projected ROI or IRR. Software makes calculating IRR much easier, so deciding which metric to use boils down to which additional costs need to be considered.
+ 
+Another important difference between IRR and ROI is that ROI indicates total growth, start to finish, of the investment. IRR identifies the annual growth rate. The two numbers should normally be the same over the course of one year (with some exceptions), but they will not be the same for longer periods.
+ 
+Return on investment—sometimes called the rate of return (ROR)—is the percentage increase or decrease in an investment over a set period. It is calculated by taking the difference between the current or expected value and the original value divided by the original value and multiplied by 100.
+ 
+For example, suppose an investment was initially made at $200 and is now worth $300. The ROI for this investment is 50% [((300 - 200) / 200) * 100].
+ 
+This calculation works for any period, but there is a risk in evaluating long-term investment returns with ROI—an ROI of 80% sounds impressive for a five-year investment but less impressive for a 35-year investment.
+ 
+While ROI figures can be calculated for nearly any activity into which an investment has been made and an outcome can be measured, the outcome of an ROI calculation will vary depending on which figures are included as earnings and costs. The longer an investment horizon, the more challenging it may be to accurately project or determine earnings, costs, and other factors, such as the rate of inflation or the tax rate.
+ 
+It can also be difficult to make accurate estimates when measuring the monetary value of the results and costs for project-based programs or processes. An example would be calculating the ROI for a Human Resource department within an organization. These costs may be difficult to quantify in the near-term and especially so in the long-term as the activity or program evolves and factors change. Due to these challenges, ROI may be less meaningful for long-term investments.
+ 
+Before computers, few people took the time to calculate IRR. The formula for IRR is the following:
+ 
+﻿IRR=NPV=∑t=1TCt(1+r)t=C0=0where:IRR=Internal rate of return\begin{aligned} &IRR=NPV=\sum^T_{t=1}\frac{C_t}{(1+r)^t}=C_0=0\\ &\textbf{where:}\\ &IRR=\text{Internal rate of return}\\ &NPV=\text{Net present value} \end{aligned}​IRR=NPV=t=1∑T​(1+r)tCt​​=C0​=0where:IRR=Internal rate of return​﻿
+ 
+To calculate IRR using the formula, one would set NPV equal to zero and solve for the discount rate (r), which is the IRR. Because of the nature of the formula, however, IRR cannot be calculated analytically and must be calculated either through trial-and-error or using software programmed to calculate IRR.
+ 
+The ultimate goal of IRR is to identify the rate of discount, which makes the present value of the sum of annual nominal cash inflows equal to the initial net cash outlay for the investment.
+ 
+Before calculating IRR, the investor should understand the concepts of discount rate and net present value (NPV). Consider the following problem—a man offers an investor $10,000, but that investor must wait one year to receive it. How much money would the investor optimally pay today to receive that $10,000 in a year?
+ 
+In other words, the investor must calculate the present value equivalent of a guaranteed $10,000 in one year. This calculation is done by estimating a reverse interest rate (discount rate) that works like a backward time value of money calculation. For example, using a 10% discount rate, $10,000 in one year would be worth $9,090.90 today (10,000 / 1.1).
+ 
+The IRR equals the discount rate that makes the NPV of future cash flows equal to zero. The IRR indicates the annualized rate of return for a given investment—no matter how far into the future—and a given expected future cash flow.
+ 
+For example, suppose an investor needs $100,000 for a project, and the project is estimated to generate $35,000 in cash flows each year for three years. The IRR is the rate at which those future cash flows can be discounted to equal $100,000.
+ 
+IRR assumes that dividends and cash flows are reinvested at the discount rate, which is not always the case. If the reinvestment rate is not as robust, IRR will make a project look more attractive than it actually is. That is why there may be an advantage in using the modified internal rate of return (MIRR) instead.

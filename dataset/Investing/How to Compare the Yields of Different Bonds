@@ -1,0 +1,54 @@
+
+Comparing bond yields can be daunting, mainly because they can have varying frequencies of coupon payments. And, because fixed-income investments use a variety of yield conventions, you have to convert the yield to a common basis when comparing different bonds.
+ 
+Taken separately, these conversions are straightforward. But when a problem contains both compounding period and day-count conversions, the correct solution is harder to reach.
+ 
+U.S. Treasury bills (T-bills) and corporate commercial paper investments are quoted and traded in the market on a discount basis. The investor does not receive any coupon interest payments. The profit is in the difference between its current purchase price and its face value at maturity. That is the implicit interest payment.
+ 
+The amount of the discount is stated as a percentage of the face value, which is then annualized over a 360-day year.
+ 
+There are baked-in problems with rates quoted on a discount basis. For one thing, discount rates understate the true rate of return over the term to maturity. This is because the discount is stated as a percentage of face value.
+ 
+It is more reasonable to think of a rate of return as the interest earned divided by the current price, not the face value. Since the T-bill is purchased at less than its face value, the denominator is overly high and the discount rate is understated.
+ 
+The second problem is that the rate is based on a hypothetical year that has only 360 days.
+ 
+The returns of bank certificates of deposit historically were quoted on a 360-day year also, and some are to this day. However, since the rate is modestly higher using a 365-day year, most retail CDs are now quoted using a 365-day year.
+ 
+The returns are posted with their annual percentage yield (APY). This is not to be confused with the annual percentage rate (APR), which is the rate which most banks quote with their mortgages.
+ 
+In APR calculations, the interest rates received during the period are simply multiplied by the number of periods in a year. But the effect of compounding is not included with APR calculations—unlike APY, which takes the effects of compounding into account.
+ 
+A six-month CD that pays 3% interest has an APR of 6%. However, the APY is 6.09%, calculated as follows:
+ 
+﻿APY=(1+0.03)2−1=6.09%APY = (1 + 0.03)^2 - 1 = 6.09\%APY=(1+0.03)2−1=6.09%﻿
+ 
+Yields on Treasury notes and bonds, corporate bonds, and municipal bonds are quoted on a semi-annual bond basis (SABB) because their coupon payments are made semi-annually. Compounding occurs twice per year, using a 365-day year.
+ 
+In order to properly compare the yields on different fixed-income investments, it’s essential to use the same yield calculation. The first and easiest conversion changes a 360-day yield to a 365-day yield. To change the rate, simply "gross up" the 360-day yield by the factor 365/360. A 360-day yield of 8% is equal to a 365-day yield of 8.11%. That is:
+ 
+﻿8%×365360=8.11%8\% \times \frac{365}{360} = 8.11\%8%×360365​=8.11%﻿                                         
+ 
+Discount rates, commonly used on T-bills, are generally converted to a bond-equivalent yield (BEY), sometimes called a coupon-equivalent or an investment yield. The conversion formula for "short-dated" bills with a maturity of 182 or fewer days is the following:
+ 
+﻿BEY=365×DR360−(N×DR)where:BEY=the bond-equivalent yieldDR=the discount rate (expressed as a decimal)N=# of days between settlement and maturity\begin{aligned} &BEY = \frac{365 \times DR}{360 - (N \times DR)}\\ &\textbf{where:}\\ &BEY=\text{the bond-equivalent yield}\\ &DR=\text{the discount rate (expressed as a decimal)}\\ &N=\text{\# of days between settlement and maturity}\\ \end{aligned}​BEY=360−(N×DR)365×DR​where:BEY=the bond-equivalent yieldDR=the discount rate (expressed as a decimal)N=# of days between settlement and maturity​﻿
+ 
+So-called "long-dated" T-bills have a maturity of more than 182 days. In this case, the usual conversion formula is a little more complicated because of compounding. The formula is:
+ 
+﻿BEY=−2N365+2[(N365)2+(2N365−1)(N×DR360−(N×DR))]1/2÷2N−1BEY = \frac{-2N}{365} + 2[(\frac{N}{365})^2 + (\frac{2N}{365} - 1)(\frac{N \times DR}{360 - (N \times DR)})]^{1/2} \div 2N - 1BEY=365−2N​+2[(365N​)2+(3652N​−1)(360−(N×DR)N×DR​)]1/2÷2N−1﻿
+ 
+For short-dated T-bills, the implicit compounding period for the BEY is the number of days between settlement and maturity. But the BEY for a long-dated T-bill does not have any well-defined compounding assumption, which makes its interpretation difficult.
+ 
+BEYs are systematically less than the annualized yields for semi-annual compounding. In general, for the same current and future cash flows, more frequent compounding at a lower rate corresponds to less frequent compounding at a higher rate.
+ 
+A yield for more frequent than semiannual compounding (such as is implicitly assumed with both short-dated and long-dated BEY conversions) must be lower than the corresponding yield for actual semiannual compounding.
+ 
+BEYs reported by the Federal Reserve and financial market institutions should not be used as a comparison to the yields on longer-maturity bonds. The problem isn’t that the widely used BEYs are inaccurate. They serve a different purpose—namely, to facilitate comparison of yields on T-bills, T-notes, and T-bonds maturing on the same date.
+ 
+To make an accurate comparison, discount rates should be converted to a semiannual bond basis (SABB), because that is the basis commonly used for longer maturity bonds.
+ 
+To calculate SABB, the same formula to calculate APY is used. The only difference is that compounding happens twice a year. Therefore, APYs using a 365-day year can be directly compared to yields based on SABB.
+ 
+A discount rate (DR) on an N-day T-bill can be converted directly to a SABB with the following formula:
+ 
+﻿SABB=360360−(N×DR)×182.5N−1×2SABB = \frac{360}{360-\left ( N \times DR \right )} \times \frac{182.5}{N-1} \times 2SABB=360−(N×DR)360​×N−1182.5​×2﻿

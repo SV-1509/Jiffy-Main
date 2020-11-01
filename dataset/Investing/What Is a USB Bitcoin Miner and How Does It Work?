@@ -1,0 +1,24 @@
+
+Bitcoin can be earned by purchasing them using dollars or other currencies, by selling goods or services and receiving payments via bitcoin or, by one of the more skillful methods, bitcoin mining.
+ 
+Bitcoin mining is performed using dedicated electronic devices called miners that have high computing capacity. As cryptocurrency mania spreads around the world, USB-powered mining devices are becoming popular for their ease of use, seamless connectivity, and lower power consumption.
+ 
+Bitcoin mining is the only way to validate and release new cryptocurrency into circulation. Individuals or groups get incentives to participate in the system and validate the related transactions, which makes bitcoin mining an attractive activity.
+ 
+A USB bitcoin miner, when connected to a computer with suitable software, performs the mining function at a certain speed of hashing. To enhance the hashing output, multiple miners can be plugged in together. For example, attaching six miners that offer 335 megahashes per second (MH/s) can generate a cumulative 2 gigahashes of mining power.
+ The bitcoin mining process involves verification of transactions and their addition to the blockchain through which new bitcoins are released. 
+Since a standard computer usually has only 2 to 4 USB ports, a USB hub is used to plug in the multiple USB miners. The USB hub assembly is then connected to a computer that is installed with software capable of controlling the USB miners and their mining operations. The software also facilitates real-time monitoring of the performance of the USB miners. Commonly used software includes MacMiner, Asteroid, MinePeon, and BFGMiner.
+ 
+Instead of connecting to a standard PC or laptop, the USB bitcoin miner setup can be connected to other smaller, low-cost computer devices like Raspberry Pi, which offers suitable capacity to run the miners.
+ 
+The rapidly evolving technology has made the bitcoin mining process a reality on home computers, though certain challenges—like excessive power consumption and limited profit potential—remain. Over the years, the mining process and efficiency have improved with the use of better hardware.
+ 
+Bitcoin mining started with the standard Central Processing Unit (CPUs), an integral part of a standard computer. The mining efficiency was enhanced with the use of comparatively faster Graphic Processing Units (GPUs).
+ 
+Then came the Field Programmable Gate Arrays (FPGAs), which scored better than both CPUs and GPUs at performing the hash calculations, an essential function to blockchain management in cryptocurrency.
+ 
+FPGAs turned the concept of concentrated mining farms into reality and were also the first kind of mining devices that supported USB connectivity. FPGAs are now superseded by the new-age Application-Specific Integrated Circuits (ASICs), which consume less power and offer faster processing speeds compared to the former three.
+ 
+With lower setup costs, USB miners offer an easy and fun way to learn about the nuances of cryptocurrency mining. However, there are concerns about the possibility of reaping profits, as high power consumption still dents a blow to achieving net profits from the operation.
+ 
+Investing in cryptocurrencies and other Initial Coin Offerings ("ICOs") is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or other ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein.

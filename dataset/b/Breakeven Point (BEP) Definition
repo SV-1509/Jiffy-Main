@@ -1,0 +1,36 @@
+
+In accounting, the break-even point formula is determined by dividing the total fixed costs associated with production by the revenue per individual unit minus the variable costs per unit. In this case, fixed costs refer to those which do not change depending upon the number of units sold. Put differently, the breakeven point is the production level at which total revenues for a product equal total expenses.
+ 
+The term is also used in investing. The breakeven point formula for a stock or futures trade is determined by comparing the market price of an asset to the original cost; the break even point is when the two prices are equal. For options trading, the breakeven point is the market price that an underlying asset must reach for an option buyer to avoid a loss if they exercise the option. For a call buyer, the breakeven point is when the underlying is equal to the strike price plus the premium paid, while the BEP for a put position is when the underlying is equal to the strike price minus the premium paid. The breakeven point doesn't typically factor in commission costs, although these fees could be included if desired.
+ 
+Traders have a BEP on trades, and businesses also have breakeven points. A company's breakeven is calculated by taking fixed costs and dividing it by the gross profit margin percentage.
+ 
+﻿Business Breakeven=Fixed CostsGross Profit Margin\begin{aligned} &\text{Business Breakeven} = \frac { \text{Fixed Costs} }{ \text{Gross Profit Margin} } \\ \end{aligned}​Business Breakeven=Gross Profit MarginFixed Costs​​﻿
+ 
+The breakeven formula provides a dollar figure they need to breakeven. This can be converted into units by calculating the contribution margin (unit sale price less variable costs). Dividing the fixed costs by the contribution margin will provide how many units are needed to breakeven.
+ 
+Assume an investor buys Microsoft stock at $110. That is now their breakeven point on the trade. If the price moves above $110, the investor is making money. If the stock drops below $110, they are losing money. If the price stays right at $110, they are at the BEP, because they are not making or losing anything. 
+ 
+Assume that an investor pays a $5 premium for an Apple stock call option with a $170 strike price. That means the investor has the right to buy 100 shares of Apple at $170 per share at any time before the options expires. The breakeven point for the call option is the $170 strike price plus the $5 call premium, or $175. If the stock is trading below this, the benefit of the option has not exceeded its cost. 
+ 
+If the stock is trading at $190 per share, the call owner buys Apple at $170 and sells the securities at the $190 market price. The profit is $190 less the $175 breakeven price, or $15 per share.
+ 
+Assume an investor pays a $4 premium for a Facebook put option with a $180 strike price. That allows the put buyer to sell 100 shares of Facebook stock at $180 per share until the option's expiration date. The put position's breakeven price is $180 minus the $4 premium, or $176. If the stock is trading above that price, the benefit of the option has not exceeded its cost.
+ 
+If the stock is trading at a market price of $170, for example, the trader has a profit of $6 (breakeven of $176 minus the current market price of $170). 
+ 
+The information required to calculate a business's BEP can be found on their financial statements.
+ 
+The first pieces of information required are the fixed costs and the gross margin percentage.
+ 
+Assume a company has $1 million in fixed costs and a gross margin of 37%.
+ 
+Their breakeven point is $2.7 million ($1 million / 0.37). In this break even point example, the company must generate $2.7 million in revenue to cover their fixed and variable costs. If they generate more sales, the company will have a profit. If they generate fewer sales, they will have a loss.
+ 
+It is also possible to calculate how many units need to be sold to cover the fixed costs, which will result in the company breaking even.
+ 
+To do this, calculate the contribution margin, which is the sale price of the product less variable costs.
+ 
+Assume a company has a $50 sale price for their product and variable costs of $10. The contribution margin is $40 ($50 - $10).
+ 
+Divide the fixed costs by the contribution margin to determine how many units the company has to sell: $1 million / $40 = 25,000 units. If the company sells more units than this they will have profit. If they sell less, they will have a loss.

@@ -1,0 +1,26 @@
+
+An option class is all the call options or all the put options listed on an exchange for a particular underlying asset. For example, all the calls available for trade on Apple Inc. (APPL) stock would be part of the same option class. All the puts would be part of another class. The number of options available for purchase or sale within a given option class will depend on the size and trading volume of the underlying asset, as well as overall market conditions.
+ 
+Option classes are used to categorize options on an exchange for investors. All major public market exchanges use option classes to list the option available for trade on a given underlying asset. Quite often exchanges and financial sites will break the class up into series. An option series is all the call or puts for various strike prices and the same expiry for a given underlying asset.
+ 
+For example, all the calls or puts that expire in June would be an option series. An option series is a part of the larger option class. Therefore, when viewing options quotes, some sites may show the entire option class, but quite often it will be sorted by expiry date (series).
+ 
+Other markets, such as over the counter (OTC) or institutional markets may not always use option classes because of the complexity and customized structuring of the options being traded.
+ 
+Just like with stocks, exchange-traded options must be traded through a broker who connects with market makers to help facilitate trading. Option exchanges use standard bid-ask pricing models. While option prices are generated from advanced analytics, their daily trading prices are still influenced by supply and demand in the market.
+ 
+Broker-dealers generally require a minimum of $2,000 in capital for approval of an options trading account. Rules and regulations for options trading are overseen by the Options Clearing Corporation.
+ An option chain is all the put and calls options for a given underlying asset. 
+Generally, once access to an options trading platform is established, investors will be able to view the full listing of option classes for their preferred underlying security. Options are usually listed and classified by the ticker on the instrument’s underlying asset.
+ 
+An options brokerage trading platform will segregate calls and puts on underlying securities. Calls and puts are usually the two broadest option classes available. Within each of these classes, investors will find a list of available strike prices and expirations.
+ 
+The amount of information provided on each option class will typically be based on an investor’s subscription preferences. Some options quotes include advanced analytics such as greeks, while other platforms/subscriptions may only show the basic contract name, strike, expiry, bid, ask, last price, last trade time/date, percent change, volume, open interest, and often implied volatility is included as well.
+ 
+Some option classes are large, while others are relatively small depending on how popular the options market is for a given underlying asset.
+ 
+For example, all the calls available for trade on the SPDR S&P 500 Trust (SPY) number in the hundreds.
+ 
+On the other hand, the option class for Barnes Group Inc. (B) was relatively small as of June 2019, with several options available for trade with two available expiry dates. At the time, the stock was trading at $54.46.
+ 
+All the calls above represent the call option class for this stock, while the puts represent the put option class for this stock at the time of writing. Option classes can grow or shrink depending on whether more or fewer options become available due to increased or decreased interest.

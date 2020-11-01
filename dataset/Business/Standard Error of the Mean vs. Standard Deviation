@@ -1,0 +1,16 @@
+
+The standard deviation (SD) measures the amount of variability, or dispersion, from the individual data values to the mean, while the standard error of the mean (SEM) measures how far the sample mean of the data is likely to be from the true population mean. The SEM is always smaller than the SD.
+ 
+Standard deviation and standard error are both used in all types of statistical studies, including those in finance, medicine, biology, engineering, psychology, etc. In these studies, the standard deviation (SD) and the estimated standard error of the mean (SEM) are used to present the characteristics of sample data and to explain statistical analysis results. However, some researchers occasionally confuse the SD and SEM. Such researchers should remember that the calculations for SD and SEM include different statistical inferences, each of them with its own meaning. SD is the dispersion of individual data values. In other words, SD indicates how accurately the mean represents sample data. However, the meaning of SEM includes statistical inference based on the sampling distribution. SEM is the SD of the theoretical distribution of the sample means (the sampling distribution).
+ 
+﻿standard deviation σ=∑i=1n(xi−x¯)2n−1variance=σ2standard error (σx¯)=σnwhere:x¯=the sample’s meann=the sample size\begin{aligned} &\text{standard deviation } \sigma = \sqrt{ \frac{ \sum_{i=1}^n{\left(x_i - \bar{x}\right)^2} }{n-1} } \\ &\text{variance} = {\sigma ^2 } \\ &\text{standard error }\left( \sigma_{\bar x} \right) = \frac{{\sigma }}{\sqrt{n}} \\ &\textbf{where:}\\ &\bar{x}=\text{the sample's mean}\\ &n=\text{the sample size}\\ \end{aligned}​standard deviation σ=n−1∑i=1n​(xi​−x¯)2​​variance=σ2standard error (σx¯​)=n​σ​where:x¯=the sample’s meann=the sample size​﻿
+ 
+SEM is calculated by taking the standard deviation and dividing it by the square root of the sample size.
+ 
+The formula for the SD requires a few steps:
+ 
+Standard error gives the accuracy of a sample mean by measuring the sample-to-sample variability of the sample means. The SEM describes how precise the mean of the sample is as an estimate of the true mean of the population. As the size of the sample data grows larger, the SEM decreases versus the SD; hence, as the sample size increases, the sample mean estimates the true mean of the population with greater precision. In contrast, increasing the sample size does not make the SD necessarily larger or smaller, it just becomes a more accurate estimate of the population SD.
+ 
+In finance, the standard error of the mean daily return of an asset measures the accuracy of the sample mean as an estimate of the long-run (persistent) mean daily return of the asset.
+ 
+On the other hand, the standard deviation of the return measures deviations of individual returns form the mean. Thus SD is a measure of volatility and can be used as a risk measure for an investment. Assets with greater day-to-day price movements have a higher SD than assets with lesser day-to-day movements. Assuming a normal distribution, around 68% of daily price changes are within one SD of the mean, with around 95% of daily price changes within two SDs of the mean.

@@ -1,0 +1,27 @@
+
+A circuit breaker is a kind of regulatory measure that is used to temporarily halt all trading on an exchange. Circuit breakers are in place to curb panic-selling. They are used both in broad market indexes, such as the S&P 500, as well as for individual securities. They exist in the United States, as well as in other countries around the world.
+ 
+Circuit breakers function automatically by stopping trading when prices hit predefined levels. For example, for the S&P 500, a circuit breaker may be triggered after a 7%, 13%, and 20% intraday move.
+ 
+Regulators put the first circuit breakers into place following the market crash that occurred on October 19, 1987. On this day, the Dow Jones Industrial Average (DJIA) shed 508 points–falling by approximately 22.6%–in a single day.﻿﻿ The crash, which began in Hong Kong and soon impacted markets worldwide, came to be known as Black Monday.
+ 
+A second incident, the so-called flash crash of May 6, 2010, saw the DJIA drop almost 1,000 points (over 9%) in just ten minutes. Prices mostly recovered by the market close, but the failure of the post-1987 circuit breakers to halt the crash caused the regulators to update the circuit breaker system at that time.
+ 
+Today, the circuit breaker system applies to both individual securities and market indexes. For example, since February 2013, there have been market-wide circuit breakers that respond to single-day declines in the S&P 500 index. When the index falls by 7% below its previous close, it is considered a Level 1 decline. A Level 2 decline refers to a drop of 13%. Finally, a Level 3 decline refers to a drop of 20%.﻿﻿
+ 
+Some analysts believe that circuit breakers are disruptive and keep the market artificially volatile because they cause orders to build at the limit level and decrease liquidity. Critics of circuit breakers argue that if the market were allowed to move freely, without any halts, they would settle into a more consistent equilibrium.
+ 
+A recent example of circuit breaker activity occurred on March 9, 2020, and again on March 12, 2020. On both of these days, circuit breakers were triggered at the New York Stock Exchange (NYSE). In one instance, the DJIA fell more than 7% at the open, likely in response to the severity of the growing global coronavirus pandemic.﻿﻿
+ For individual securities, circuit breakers can be triggered if the price is increasing or decreasing. By contrast, circuit breakers that relate to broad market indices are only triggered based on downward price movements. 
+Level 1 or 2 circuit breakers halt trading on all exchanges for 15 minutes, unless they are triggered at or after 3:25 PM (in which case trading is allowed to continue). Level 3 circuit breakers halt trading for the remainder of the trading day (from 9:30 A.M. to 4:00 P.M.).﻿﻿
+ 
+In addition to these market-level circuit breakers, there are also circuit breakers for individual securities. Unlike their market-wide counterparts, these individual circuit breakers are triggered whether the price moves up or down. Importantly, exchange-traded funds (ETFs) are treated as an “individual security” under the circuit breaker system, even though they represent portfolios of several securities.
+ 
+The following table outlines the acceptable trading ranges used to regulate individual securities within the current system of circuit breakers:
+ 
+If trading outside of these bands persists for 15 seconds, trading is halted for five minutes. The reference price is calculated using the average price over the previous five minutes; the maximum allowed pause is 10 minutes.﻿﻿ 
+ 
+To accommodate the higher volumes generally associated with the opening and closing periods of the trading day, the bands are doubled during those periods (9:30 A.M. to 9:45 A.M. and 3:35 P.M. to 4:00 P.M., respectively).
+ 
+Since October 2013, the Securities and Exchange Commission (SEC) has used a “limit-up limit-down” (LULD) mechanism to determine the thresholds for acceptable trading. In this framework, halts are triggered by up-or-down moves outside of certain bands, determined based on the security’s price and listing.﻿﻿
+ The Street. "History of Notable Market Halts." Accessed Oct. 4, 2020. NYSE. "Trading Information." Accessed Oct. 4, 2020. NYSE. "Market-Wide Circuit Breakers FAQ," Page 1. Accessed Oct. 4, 2020. SEC. "'Limit Up-Limit Down' Pilot Plan and Associated Events." Accessed Oct. 4, 2020.

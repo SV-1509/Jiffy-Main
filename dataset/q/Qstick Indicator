@@ -1,0 +1,10 @@
+
+The Qstick Indicator is a technical analysis indicator developed by Tushar Chande to numerically identify trends in candlestick charting. It is calculated by taking an 'n' period moving average of the difference between the open and closing prices. A Qstick value greater than zero means that the majority of the last 'n' days have been up, indicating that buying pressure has been increasing. In summary, the measure provides an approximation for a security’s exponential moving average (or EMA), opening price, closing price, and their difference, as well as these values simple moving averages (or SMA).
+ 
+The Qstick Indicator is also called the Quick Stick at times.
+ 
+Transaction signals come from when the Qstick Indicator crosses through the zero line. Crossing above zero is used as the entry signal because it is indicating that buying pressure is increasing, while sell signals come from the indicator crossing down through zero. In addition, an 'n' period moving average of the Qstick values can be drawn to act as a signal line. Transaction signals are then generated when the Qstick value crosses through the trigger line.
+ 
+As a rather versatile technical analysis technique, there are various other applications for the Qstick Indicator. Beyond using the exponential moving average as a signal line, it is also useful in highlighting certain market conditions, such as market strengths, weaknesses and other trends developing in financial markets.
+ 
+Common rules of thumb when using the Qstick Indicator include:

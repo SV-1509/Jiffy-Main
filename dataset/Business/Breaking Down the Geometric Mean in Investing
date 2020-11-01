@@ -1,0 +1,76 @@
+
+Understanding portfolio performance, whether for a self-managed, discretionary portfolio or a non-discretionary portfolio, is vital to determining if the portfolio strategy is working or needs to be amended. There are numerous ways to measure performance and determine whether the strategy is successful. One way is using the geometric mean. 
+ 
+Geometric mean, sometimes referred to as compounded annual growth rate or time-weighted rate of return, is the average rate of return of a set of values calculated using the products of the terms. What does that mean? Geometric mean takes several values and multiplies them together and sets them to the 1/nth power. For example, the geometric mean calculation can be easily understood with simple numbers, such as 2 and 8. If you multiply 2 and 8, then take the square root (the ½ power since there are only 2 numbers), the answer is 4. However, when there are many numbers, it is more difficult to calculate unless a calculator or computer program is used.
+ 
+Geometric mean is an important tool for calculating portfolio performance for many reasons, but one of the most significant is it takes into account the effects of compounding.
+ 
+The arithmetic mean is commonly used in many facets of everyday life, and it is easily understood and calculated. The arithmetic mean is achieved by adding all values and dividing by the number of values (n). For example, finding the arithmetic mean of the following set of numbers: 3, 5, 8,-1, and 10 is achieved by adding all the numbers and dividing by the quantity of numbers. 
+ 
+                                   3 + 5 + 8 + -1 + 10 = 25/5 = 5
+ 
+This is easily accomplished using simple math, but the average return fails to take into account compounding. Conversely, if the geometric mean is used, the average takes into account the impact of compounding, providing a more accurate result.
+ 
+Example 1:
+ 
+An investor invests $100 and receives the following returns:
+ 
+Year 1: 3%  
+ 
+Year 2: 5%
+ 
+Year 3: 8%
+ 
+Year 4: -1%
+ 
+Year 5: 10%
+ 
+The $100 grew each year as follows:
+ 
+Year 1: $100 x 1.03 = $103.00
+ 
+Year 2: $103 x 1.05 = $108.15
+ 
+Year 3: $108.15 x 1.08 = $116.80
+ 
+Year 4: $116.80 x 0.99 = $115.63
+ 
+Year 5: $115.63 x 1.10 = $127.20
+ 
+The geometric mean is: [(1.03*1.05*1.08*.99*1.10) ^ (1/5 or .2)]-1= 4.93%. 
+ 
+The average return per year is 4.93%, slightly less than the 5% computed using the arithmetic mean. Actually, as a mathematical rule, the geometric mean will always be equal to or less than the arithmetic mean. 
+ 
+In the above example the returns did not show very high variation from year to year. However, if a portfolio or stock does show a high degree of variation each year, the difference between the arithmetic and geometric mean is much greater.
+ 
+Example 2:
+ 
+An investor holds a stock that has been volatile with returns that varied significantly from year to year. His initial investment was $100 in stock A, and it returned the following:
+ 
+Year 1: 10%
+ 
+Year 2: 150%
+ 
+Year 3: -30%
+ 
+Year 4: 10%
+ 
+In this example the arithmetic mean would be 35% [(10+150-30+10)/4].
+ 
+However, the true return is as follows:
+ 
+Year 1: $100 x 1.10 = $110.00
+ 
+Year 2: $110 x 2.5 = $275.00
+ 
+Year 3: $275 x 0.7 = $192.50
+ 
+Year 4: $192.50 x 1.10 = $211.75
+ 
+The resulting geometric mean, or a compounded annual growth rate (CAGR), is 20.6%, much lower than the 35% calculated using the arithmetic mean.
+ 
+One problem with using the arithmetic mean, even to estimate the average return, is that the arithmetic mean tends to overstate the actual average return by a greater and greater amount the more the inputs vary. In the above Example 2, the returns increased by 150% in year 2 and then decreased by 30% in year 3, a year-over-year difference of 180%, which is an astoundingly large variance. However, if the inputs are close together and do not have a high variance, then the arithmetic mean could be a quick way to estimate the returns, especially if the portfolio is relatively new. But the longer the portfolio is held, the higher the chance the arithmetic mean will overstate the actual average return.
+ 
+Measuring portfolio returns is the key metric in making buy/sell decisions. Using the appropriate measurement tool is critical to ascertaining the correct portfolio metrics. Arithmetic mean is easy to use, quick to calculate, and can be useful when trying to find the average for many things in life. However, it is an inappropriate metric to use to determine the actual average return of an investment. The geometric mean is a more difficult metric to use and understand. However, it is an exceedingly more useful tool for measuring portfolio performance.
+ 
+When reviewing the annual performance returns provided by a professionally managed brokerage account or calculating the performance to a self-managed account, you need to be aware of several considerations. First, if the return variance is small from year to year, then the arithmetic mean can be used as a quick and dirty estimate of the actual average annual return. Second, if there is great variation each year, then the arithmetic average will overstate the actual average annual return by a large amount. Third, when performing the calculations, if there is a negative return make sure to subtract the return rate from 1, which will result in a number less than 1. Last, before accepting any performance data as accurate and true, be critical and check that the average annual return data presented is calculated using the geometric average and not the arithmetic average, since the arithmetic average will always be equal to or higher than the geometric average.

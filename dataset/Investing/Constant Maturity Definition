@@ -1,0 +1,19 @@
+
+Constant maturity is an adjustment for equivalent maturity, used by the Federal Reserve Board to compute an index based on the average yield of various Treasury securities maturing at different periods. Constant maturity yields are used as a reference for pricing various kinds of debt or fixed-income securities.
+ 
+The most common such adjustment is the one-year constant maturity Treasury (CMT), which represents the one-year yield equivalent of the most recently auctioned Treasury securities.﻿﻿
+ 
+Constant maturity is the theoretical value of a U.S. Treasury that is based on recent values of auctioned U.S. Treasuries. The value is obtained by the U.S. Treasury on a daily basis through interpolation of the Treasury yield curve which, in turn, is based on closing bid-yields of actively-traded Treasury securities. It is calculated using the daily yield curve of U.S. Treasury securities.
+ 
+Constant maturity yields are often used by lenders to determine mortgage rates. The one-year constant maturity Treasury index is one of the most widely used, and is mainly used as a reference point for adjustable-rate mortgages (ARMs) whose rates are adjusted annually.
+ 
+Since constant maturity yields are derived from Treasuries, which are considered risk-free securities, an adjustment for risk is made by lenders by means of a risk premium charged to borrowers in the form of a higher interest rate. For example, if the one-year constant maturity rate is 4%, the lender may charge 5% for a one-year loan to a borrower. The 1% spread is the lender's compensation for risk and is the gross profit margin on the loan.
+ 
+A type of interest rate swaps, known as constant maturity swaps (CMS), allows the purchaser to fix the duration of received flows on a swap. Under a CMS, the rate on one leg of the constant maturity swap is either fixed or reset periodically at or relative to LIBOR or another floating reference index rate. The floating leg of a constant maturity swap fixes against a point on the swap curve on a periodic basis so that the duration of the received cash flows is held constant.
+ 
+In general, a flattening or an inversion of the yield curve after the swap is in place will improve the constant maturity rate payer's position relative to a floating rate payer. In this scenario, long-term rates decline relative to short-term rates. While the relative positions of a constant maturity rate payer and a fixed rate payer are more complex, in general, the fixed rate payer in any swap will benefit primarily from an upward shift of the yield curve. For example, an investor believes that the general yield curve is about to steepen where the six-month LIBOR rate will fall relative to the three-year swap rate. To take advantage of this change in the curve, the investor buys a constant maturity swap paying the six-month LIBOR rate and receiving the three-year swap rate.
+ 
+A constant maturity credit default swap (CMCDS) is a credit default swap which has a floating premium that resets on a periodical basis, and provides a hedge against default losses. The floating payment relates to the credit spread on a CDS of the same initial maturity at periodic reset dates. The CMCDS differs from a plain vanilla credit default spread in that the premium paid by the protection buyer to provider is floating under the CMCDS, not fixed as with a regular CDS.
+ 
+The one-year constant maturity Treasury (CMT) is the interpolated one-year yield of the most recently auctioned 4-, 13-, and 26-week U.S. Treasury bills (T-bills); the most recently auctioned 2-, 3-, 5-, and 10-year U.S. Treasury notes (T-notes); the most recently auctioned U.S. Treasury 30-year bond (T-bond); and the off-the-run Treasuries in the 20-year maturity range.﻿﻿
+ Federal reserve Bank of St. Louis. "1-Year Treasury Constant Maturity Rate." Accessed Sept. 15, 2020. U.S. Department of the Treasury. "Daily Treasury Yield Curve Rates." Accessed Sept. 15, 2020.

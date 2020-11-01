@@ -1,0 +1,104 @@
+
+Loan repayment is the act of paying back money previously borrowed from a lender, typically through a series of periodic payments that include principal plus interest. Did you know you can use the software program Excel to calculate your loan repayments?
+ 
+This article is a step-by-step guide to setting up loan calculations.
+ 
+Using Excel, you can get a better understanding of your mortgage in three simple steps. The first step determines the monthly payment. The second step calculates the interest rate, and the third step determines the loan schedule.
+ 
+You can build a table in Excel that will tell you the interest rate, the loan calculation for the duration of the loan, the decomposition of the loan, the amortization, and the monthly payment.
+ 
+First, here's how to calculate the monthly payment for a mortgage. Using the annual interest rate, the principal, and the duration, we can determine the amount to be repaid monthly.
+ 
+The formula, as shown in the screenshot above, is written as follows:
+ 
+=-PMT(rate;length;present_value;[future_value];[type])
+ 
+The minus sign in front of PMT is necessary as the formula returns a negative number. The first three arguments are the rate of the loan, the length of the loan (number of periods), and the principal borrowed. The last two arguments are optional, the residual value defaults to zero; payable in advance (for one) or at the end (for zero), is also optional.
+ 
+The Excel formula used to calculate the monthly payment of the loan is:
+ 
+=-PMT((1+B2)^(1/12)-1;B4*12;B3) = PMT((1+3,10%)^(1/12)-1;10*12;120000)
+ 
+Explanation: For the rate, we use the monthly rate (period of rate), then we calculate the number of periods (120 for 10 years multiplied by 12 months) and, finally, we indicate the principal borrowed. Our monthly payment will be $1,161.88 over 10 years.
+ 
+We have seen how to set up the calculation of a monthly payment for a mortgage. But we may want to set a maximum monthly payment that we can afford that also displays the number of years over which we would have to repay the loan. For that reason, we would like to know the corresponding annual interest rate. 
+ 
+As shown in the screenshot above, we first calculate the period rate (monthly, in our case), and then the annual rate. The formula used will be RATE, as shown in the screenshot above. It is written as follows:
+ 
+=RATE(Nper;pmt;present_value;[future_value];[type])
+ 
+The first three arguments are the length of the loan (number of periods), the monthly payment to repay the loan, and the principal borrowed. The last three arguments are optional, and the residual value defaults to zero; the term argument for managing the maturity in advance (for one) or at the end (for zero) is also optional. Finally, the estimate argument is optional but can give an initial estimate of the rate.
+ 
+The Excel formula used to calculate the lending rate is:
+ 
+=RATE(12*B4;-B2;B3) = RATE(12*13;-960;120000)
+ 
+Note: the corresponding data in the monthly payment must be given a negative sign. This is why there's a minus sign before the formula. The rate period is 0.294%.
+ 
+We use the formula = (1 + B5) is 12-1 ^ = (1 + 0.294 %) ^ 12-1 to obtain the annual rate of our loan, which is 3.58%. In other words, to borrow $120,000 over 13 years to pay $960 monthly, we should negotiate a loan at an annual 3.58% maximum rate.
+ Using Excel is a great way of keeping track of what you owe and coming up with a schedule for repayment that minimizes any fees that you might end up owing. 
+We will now see how to determine the length of a loan when you know the annual rate, the principal borrowed, and the monthly payment that is to be repaid. In other words, how long will we need to repay a $120,000 mortgage with a rate of 3.10% and a monthly payment of $1,100?  
+ 
+The formula we will use is NPER, as shown in the screenshot above, and it is written as follows:
+ 
+=NPER(rate;pmt;present_value;[future_value];[type])
+ 
+The first three arguments are the annual rate of the loan, the monthly payment needed to repay the loan, and the principal borrowed. The last two arguments are optional, the residual value defaults to zero. The term argument payable in advance (for one) or at the end (for zero) is also optional.
+ 
+=NPER((1+B2)^(1/12)-1;-B4;B3) = NPER((1+3,10%)^(1/12)-1;-1100;120000)
+ 
+Note: the corresponding data in the monthly payment must be given a negative sign. This is why we have a minus sign before the formula. The reimbursement length is 127.97 periods (months in our case).
+ 
+We will use the formula = B5 / 12 = 127.97 / 12 for the number of years to complete the loan repayment. In other words, to borrow $120,000, with an annual rate of 3.10% and to pay $1,100 monthly, we should repay maturities for 128 months or 10 years and eight months.
+ 
+A loan payment is composed of principal and interest. The interest is calculated for each period—for example, the monthly repayments over 10 years will give us 120 periods.
+ 
+The table above shows the breakdown of a loan (a total period equal to 120) using the PPMT and IPMT formulas. The arguments of the two formulas are the same and are broken down as follows:
+ 
+=-PPMT(rate;num_period;length;principal;[residual];[term])
+ 
+The arguments are the same as for the PMT formula already seen, except for "num_period," which is added to show the period over which to break down the loan given the principal and interest. Here's an example:
+ 
+=-PPMT((1+B2)^(1/12)-1;1;B4*12;B3) = PPMT((1+3,10%)^(1/12)-1;1;10*12;120000)
+ 
+The result is shown in the screenshot above "Loan Decomposition" over the period analyzed, which is "one;" that is, the first period or the first month. We pay $1,161.88 broken down into $856.20 principal and $305.68 interest.
+ 
+It is also possible to calculate the principal and interest repayment for several periods such as the first 12 months or the first 15 months.
+ 
+=-CUMPRINC(rate;length;principal;start_date;end_date;type)
+ 
+We find the arguments, rate, length, principal, and term (which are mandatory) that we already saw in the first part with the formula PMT. But here, we need the "start_date" and "end_date" arguments also. The "start_date" indicates the beginning of the period to be analyzed, and the "end_date" indicates the end of the period to be analyzed.
+ 
+Here's an example:
+ 
+=-CUMPRINC((1+B2)^(1/12)-1;B4*12;B3;1;12;0)
+ 
+The result is shown in the screenshot "Cumul 1st year," so the analyzed periods range from one to 12 of the first period (first month) to the twelfth (12th month). Over a year, we would pay $10,419.55 in principal and $ 3,522.99 in interest.
+ 
+The prior formulas allow us to create our schedule period by period, to know how much we will pay monthly in principal and interest, and to know how much is left to pay.
+ 
+To create a loan schedule, we will use the different formulas discussed above and expand them over the number of periods.
+ 
+In the first period column, enter "1" as the first period and then drag the cell down. In our case, we need 120 periods since a 10-year loan payment multiplied by 12 months equals 120.
+ 
+The second column is the monthly amount we need to pay each month—which is constant over the entire loan schedule. To calculate the amount, insert the following formula in the cell of our first period:
+ 
+=-PMT(TP-1;B4*12;B3) =-PMT((1+3,10%)^(1/12)-1;10*12;120000)
+ 
+The third column is the principal that will be repaid monthly. For example, for the 40th period, we will repay $945.51 in principal on our monthly total amount of $1,161.88.
+ 
+To calculate the principal amount redeemed, we use the following formula:
+ 
+=-PPMT(TP;A18;$B$4*12;$B$3) =-PPMT((1+3,10%)^(1/12);1;10*12;120000)
+ 
+The fourth column is the interest, for which we use the formula to calculate the principal repaid on our monthly amount to discover how much interest is to be paid:
+ 
+=-INTPER(TP;A18;$B$4*12;$B$3) =-INTPER((1+3,10%)^(1/12);1;10*12;120000)
+ 
+The fifth column contains the amount left to pay. For example, after the 40th payment, we will have to pay $83,994.69 on $120,000.
+ 
+The formula is as follows:
+ 
+=$B$3+CUMPRINC(TP;$B$4*12;$B$3;1;A18;0)
+ 
+The formula uses a combination of principal under a period ahead of the cell containing the principal borrowed. This period begins to change when we copy and drag the cell down. The table below shows that at the end of 120 periods our loan is repaid.

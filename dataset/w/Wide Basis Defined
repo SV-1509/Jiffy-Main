@@ -1,0 +1,14 @@
+
+A wide basis is a condition found in the futures market whereby the spot price of a commodity is relatively far from its futures price. It is the opposite of a narrow basis, in which the spot and futures prices are very close together.
+ 
+It is normal for there to be some difference between spot and future prices, due to factors such as transportation and holding costs, interest rates, and uncertain weather. However, this gap typically converges as the expiration date of the futures contract approaches.
+ 
+Ultimately, a wide basis indicates a mismatch between supply and demand. If short-term supply is relatively low, due to factors such as unusually poor weather, spot prices will rise relative to futures prices. If on the other hand short-term supply is relatively high, such as in the case of an unusually large harvest, then spot prices might fall relative to futures prices.
+ 
+Either of these situations would give rise to a wide basis, where "basis" is simply the spot delivery price minus the futures contract price. This gap should gradually disappear as the futures contracts near their expiration date, because otherwise investors could simply exploit an arbitrage opportunity between the spot and futures prices.
+ 
+When basis shrinks from a negative number like -$1, to a less negative number like $-0.50, this change is known as a strengthening basis. On the other hand, when basis shrinks from a larger positive number to a smaller positive number, this is known as a weakening basis.
+ Generally speaking, a narrow basis is consistent with a very liquid and efficient marketplace, whereas a wide basis is associated with relatively illiquid and inefficient ones. Having said that, some variation between spot and futures prices is normal and expected. 
+Suppose you are a commodities futures trader interested in the oil market. You note that the price of crude oil futures, which two months from today matures to $52.42, as compared to the current spot price of $52.41. In this scenario, you note that the basis between these two prices is very small, at only -$0.01 (spot price of $52.41 minus futures price of $52.42). This very narrow basis makes sense, considering that there are only two months until the expiration of the contract.
+ 
+Looking farther into the future, however, you begin to find some contracts with a wide basis. The same contract for delivery in nine months, for example, has a futures price of $50.99. This relatively wide spread of $1.42 could be due to many different factors. For instance, traders might be expecting the price of oil to decline as a result of increased supply or reduced economic growth. No matter the reason, the basis will almost certainly diminish as the contract date approaches.

@@ -1,0 +1,51 @@
+
+Hedging strategies are used by investors to reduce their exposure to risk in the event that an asset in their portfolio is subject to a sudden price decline. When properly done, hedging strategies reduce uncertainty and limit losses without significantly reducing the potential rate of return.
+ 
+Usually, investors purchase securities inversely correlated with a vulnerable asset in their portfolio. In the event of an adverse price movement in the vulnerable asset, the inversely correlated security should move in the opposite direction, acting as a hedge against any losses. Some investors also purchase financial instruments called derivatives. When used in a strategic fashion, derivatives can limit investors' losses to a fixed amount. A put option on a stock or index is a classic hedging instrument.
+ 
+With a put option, you can sell a stock at a specified price within a given time frame. For example, an investor named Sarah buys stock at $14 per share. Sarah assumes that the price will go up, but in the event that the stock value plummets, Sarah can pay a small fee ($7) to guarantee she can exercise her put option and sell the stock at $10 within a one-year time frame.
+ 
+If in six months the value of the stock she purchased has increased to $16, Sarah will not exercise her put option and will have lost $7. However, if in six months the value of the stock decreases to $8, Sarah can sell the stock she bought (at $14 per share) for $10 per share. With the put option, Sarah limited her losses to $4 per share. Without the put option, Sarah would have lost $6 per share.
+ 
+The pricing of derivatives is related to the downside risk in the underlying security. Downside risk is an estimate of the likeliness that the value of a stock will drop if market conditions change. An investor would consider this measure to understand how much they stand to lose as the result of a decline and decide if they are going to use a hedging strategy like a put option.
+ 
+By purchasing a put option, an investor is transferring the downside risk to the seller. In general, the more downside risk the purchaser of the hedge seeks to transfer to the seller, the more expensive the hedge will be.
+ 
+Downside risk is based on time and volatility. If a security is capable of significant price movements on a daily basis, then an option on that security that expires weeks, months or years in the future would be considered risky and would thus would be more expensive. Conversely, if a security is relatively stable on a daily basis, there is less downside risk, and the option will be less expensive.
+ Call options give investors the right to buy the underlying security; put options give investors the right to sell the underlying security.﻿﻿ 
+Once an investor has determined on which stock they'd like to make an options trade, there are two key considerations: the time frame until the option expires and the strike price. The strike price is the price at which the option can be exercised. It is also sometimes known as the exercise price.
+ 
+Options with higher strike prices are more expensive because the seller is taking on more risk. However, options with higher strike prices provide more price protection for the purchaser.
+ 
+Ideally, the purchase price of the put option would be exactly equal to the expected downside risk of the underlying security. This would be a perfectly-priced hedge. However, if this were the case, there would be little reason not to hedge every investment.
+ 
+Of course, the market is nowhere near that efficient, precise or generous. For most securities, put options have negative average payouts. There are three reasons for this:
+ 
+Because the expected payout of a put option is less than the cost, the challenge for investors is to only buy as much protection as they need. This generally means purchasing put options at lower strike prices and thus, assuming more of the security's downside risk.
+ 
+Investors are often more concerned with hedging against moderate price declines than severe declines, as these types of price drops are both very unpredictable and relatively common. For these investors, a bear put spread can be a cost-effective hedging strategy.
+ 
+In a bear put spread, the investor buys a put with a higher strike price and also sells one with a lower strike price with the same expiration date. This only provides limited protection because the maximum payout is the difference between the two strike prices. However, this is often enough protection to handle either a mild or moderate downturn.
+ 
+Another way to get the most value out of a hedge is to purchase a long-term put option, or the put option with the longest expiration date. A six-month put option is not always twice the price of a three-month put option. When purchasing an option, the marginal cost of each additional month is lower than the last.
+ 
+In the above example, the most expensive option also provides an investor with the least expensive protection per day.
+ 
+This also means that put options can be extended very cost-effectively. If an investor has a six-month put option on a security with a determined strike price, it can be sold and replaced with a 12-month put option with the same strike price. This strategy can be done repeatedly and is referred to as rolling a put option forward.
+ 
+By rolling a put option forward, while keeping the strike price below (but close to) the market price, an investor can maintain a hedge for many years.
+ 
+Adding extra months to a put option gets cheaper the more times you extend the expiration date. This hedging strategy also creates an opportunity to use what are called calendar spreads. Calendar spreads are created by purchasing a long-term put option and selling a short-term put option at the same strike price.
+ 
+However, this practice does not decrease the investor's downside risk for the moment. If the stock price declines significantly in the coming months, the investor may face some difficult decisions. They must decide if they want to exercise the long-term put option, losing its remaining time value, or if they want to buy back the shorter put option and risk tying up even more money in a losing position.
+ 
+In favorable circumstances, a calendar spread results in a cheap, long-term hedge that can then be rolled forward indefinitely. However, without adequate research the investor may inadvertently introduce new risks into their investment portfolios with this hedging strategy.
+ 
+When making the decision to hedge an investment with a put option, it's important to follow a two-step approach. First, determine what level of risk is acceptable. Then, identify what transactions can cost-effectively mitigate this risk.
+ 
+As a rule, long-term put options with a low strike price provide the best hedging value. This is because their cost per market day can be very low. Although they are initially expensive, they are useful for long-term investments. Long-term put options can be rolled forward to extend the expiration date, ensuring that an appropriate hedge is always in place.
+ 
+Keep in mind that some investments are easier to hedge than others. Put options for broad indexes are cheaper than individual stocks because they have lower volatility.
+ 
+It's important to note that put options are only intended to help eliminate risk in the event of a sudden price decline. Hedging strategies should always be combined with other portfolio management techniques like diversification, rebalancing, and a rigorous process for analyzing and selecting securities.
+ Charles Schwab. “Getting Started With Options.” Accessed May 7, 2020. iShares. “iShares Russell 2000 ETF.” Accessed May 7, 2020.

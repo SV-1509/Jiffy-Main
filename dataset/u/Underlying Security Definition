@@ -1,0 +1,18 @@
+
+An underlying security is a stock, index, bond, interest rate, currency, or commodity on which derivative instruments, such as futures, ETFs, and options, are based. It is the primary component of how the derivative gets its value.
+ 
+For example, a call option on Alphabet, Inc. (GOOG/GOOGL) stock gives the holder the right, but not the obligation, to purchase Alphabet stock at a price specified in the option contract. In this case, Alphabet stock is the underlying security.
+ 
+There are many widely used and exotic derivatives, but they all have one item in common which is their basis on an underlying security or underlying asset. Price movements in the underlying security will necessarily affect the pricing of the derivative based upon it.
+ 
+In derivative terminology, the underlying security is often referred to simply as "the underlying." An underlying security can be any asset, index, financial instrument, or even another derivative. The infamous collateralized debt obligations (CDOs) and credit default swaps (CDS), which were front and center in the Financial crisis of 2008, are also derivatives that depend on the movement of an underlying.
+ 
+Traders use derivatives to either speculate on or hedge against, the future price movements of the underlying. The more complex a derivative becomes, the more significant the degree of speculation and hedging become. For example, options on futures are bets on the future price of the futures contract, which in itself is a bet on the future price of the underlying.
+ 
+The apparent role of the underlying security is merely to be itself. If there were no derivatives, traders would simply buy and sell the underlying. However, when it comes to derivatives, the underlying is the item which must be delivered by one party in the derivative contract and accepted by the other party. The exception is when the underlying is an index, or the derivative is a swap where only cash is exchanged at the end of the derivative contract.
+ 
+Let's say we are interested in buying a call option on MSFT. Buying a call gives us the right to buy shares of MSFT at a determined price and time. Generally speaking, the value of the call option will increase alongside an increase in the share price of MSFT. Because the call option is a derivative, its price is tied to the price of MSFT. MSFT in this case is the underlying security.
+ 
+The underlying is also crucial to the pricing of derivatives. The relationship between the underlying and its derivatives is not linear, although it can be. Generally speaking for example, the more distant the strike price for an out-of-the-money option is from the current price of the underlying, the less the option price changes per unit of movement in the underlying.
+ 
+Also, the derivative contract may be written so that its price may be directly correlated, or inversely correlated, to the price of the underlying security. A call option is directly correlated. A put option is inversely correlated.

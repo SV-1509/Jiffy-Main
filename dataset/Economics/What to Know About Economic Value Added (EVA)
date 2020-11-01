@@ -1,0 +1,29 @@
+
+The goal of most companies is to create value for the shareholder. But how is value measured? Wouldn't it be nice if there were a simple formula to figure out whether a company is creating wealth?
+ 
+Like many economic formulas, economic value added (EVA) is intriguingly clever and maddeningly deceptive. Does EVA simplify the task of finding value-generating companies, or does it muddy the waters?
+ 
+EVA is a performance metric that calculates the creation of shareholder value; however, it distinguishes itself from traditional financial performance metrics, such as net profit and earnings per share (EPS). EVA is the calculation of what profits remain after the costs of a company's capital—debt and equity—are deducted from operating profit. The idea is simple but rigorous: true profit should account for the cost of capital.
+ 
+To understand the difference between EVA and its infamous cousin, net income, let's use an example based on fictitious company Ray's House of Crockery. Ray's earned $100,000 on a capital base of $1 million thanks to its sales of stew pots. Traditional accounting metrics suggest that Ray is doing a good job. His company offers a return on capital of 10%. However, Ray's has only been operating for a year, and the market for stew pots still carries significant uncertainty and risk. Debt obligations plus the required return that investors demand add up to an investment cost of capital of 13%. That means that, although Ray's is enjoying accounting profits, the company was unable to grant 3% to its shareholders.
+ 
+Conversely, if Ray's capital is $100 million—including debt and shareholder equity—and the cost of using that capital (interest on debt and the cost of underwriting the equity) is $13 million per year, Ray will add economic value for his shareholders only when profits are more than $13 million per year. If Ray's earns $20 million, the company's EVA will be $7 million.
+ 
+In other words, EVA charges the company rent for tying up investors' cash to support operations. There is a hidden opportunity cost that goes to investors to compensate them for forfeiting the use of their own cash. EVA captures this hidden cost of capital that conventional measures ignore.
+ 
+Developed by the management consulting firm Stern Stewart, EVA became wildly popular in the 1990s. Big corporations, including Coca-Cola, GE, and AT&T, employ EVA internally to measure wealth creation performance. In turn, investors and analysts are now scrutinizing companies' EVA just as they previously observed EPS and P/E ratios. Stern Stewart has gone so far as to trademark the concept.﻿﻿
+ 
+There are four steps in the calculation of EVA:
+ 
+﻿EVA=NOPAT−WACC∗TCwhere:NOPAT=Net Operating Profit After TaxWACC=Weighted Average Cost of CapitalTC=Total Invested Capital\begin{aligned} &\mathit{EVA} = \mathit{NOPAT} - \mathit{WACC}*\mathit{TC}\\ &\textbf{where:}\\ &\mathit{NOPAT} = \text{Net Operating Profit After Tax}\\ &\mathit{WACC} = \text{Weighted Average Cost of Capital}\\ &\mathit{TC} = \text{Total Invested Capital}\\ \end{aligned}​EVA=NOPAT−WACC∗TCwhere:NOPAT=Net Operating Profit After TaxWACC=Weighted Average Cost of CapitalTC=Total Invested Capital​﻿
+ 
+The steps appear straightforward and simple, but looks can be deceiving. For starters, NOPAT hardly represents a reliable indicator of shareholder wealth. NOPAT might show profitability according to the generally accepted accounting principles (GAAP), but standard accounting profits rarely reflect the amount of cash left at year-end for shareholders. According to Stern Stewart, dozens of adjustments to earnings and balance sheets—in areas like R&D, inventory, costing, depreciation and amortization of goodwill—must be made before the calculation of standard accounting profit can be used to calculate EVA.﻿﻿
+ 
+Figuring out the weighted average cost of capital (WACC) is even more difficult. WACC is a complex function of the capital structure (proportion of debt and equity on the balance sheet), the stock's volatility measured by its beta, and the market risk premium. Small changes in these inputs can result in big changes in the final WACC calculation.
+ 
+That said, if carried out consistently, EVA should help us identify the best investments—the companies that generate more wealth than their rivals. All other things being equal, firms with high EVAs should, over time, outperform others with lower or negative EVAs.
+ 
+But the actual EVA level matters less than the change in the level. According to research conducted by Stern Stewart, EVA is a critical driver of a company's stock performance.﻿﻿ If EVA is positive but is expected to become less positive, it is not giving a very good signal. Conversely, if a company suffers negative EVA but is expected to rise into positive territory, a buy signal is given.
+ 
+Of course, Stern Stewart is hardly unbiased in the assessment of EVA. Some research challenges the close relationship between rising EVA and stock price performance. Still, the growing popularity of the concept reflects the importance of EVA's basic principle: the cost of capital should not be ignored but kept at the forefront of investors' minds. Best of all, EVA gives analysts and anyone else the chance to look skeptically at EPS reports and forecasts.
+ Stern Value Management. "Four Decades of Value Creation." Accessed Aug. 27, 2020. Asian Social Science. "Economic Value Added and Stock Market Development in Egypt," Page 127. Accessed Aug. 27, 2020.

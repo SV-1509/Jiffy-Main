@@ -1,0 +1,12 @@
+
+The volume price trend (VPT) indicator helps determine a security’s price direction and strength of price change. The indicator consists of a cumulative volume line that adds or subtracts a multiple of the percentage change in a share price’s trend and current volume, depending upon the security’s upward or downward movements.
+ 
+The volume price trend indicator is used to determine the balance between a security’s demand and supply. The percentage change in the share price trend shows the relative supply or demand of a particular security, while volume indicates the force behind the trend. The VPT indicator is similar to the on-balance volume (OBV) indicator in that it measures cumulative volume and provides traders with information about a security’s money flow. Most charting software packages have the VPT indicator included.
+ 
+Signal Line Crossovers: A signal line, which is just a moving average of the indicator, can be applied and used to generate trading signals. For example, a trader may buy a stock when the VPT line crosses above its signal line and sell when the VPT line passes below its signal line.
+ 
+Confirmations: The VPT indicator can be used in conjunction with moving averages and the average directional index (ADX) to confirm trending markets. For instance, a trader could buy a stock if the 20-day moving average is above the 50-day moving average and accompanied by rising VPT indicator values. Conversely, the trader may decide to sell if the 20-day moving average is below the 50-day moving average and the indicator’s values are falling.
+ 
+The ADX also measures trend and momentum and can be used with the VPT indicator to confirm that a market is trending. ADX readings above 25 indicate that a security is trending, while readings below 25 indicate sideways price action. Therefore, a trader could buy when the ADX is above 25 and the VPT line is above its signal line. They could sell when the ADX has a value below 25 and the VPT line is below its signal line.
+ 
+Divergence: Traders can use the VPT indicator to spot technical divergence. Divergence occurs when the indicator makes a higher high or a lower low, but the security’s price makes a lower high or a higher low. Traders should place a stop-loss order above the most recent swing high or below the most recent swing low to minimize risk. (For more, see: What Does it Mean to Use Technical Divergence?)

@@ -1,0 +1,18 @@
+
+Big data refers to the large, diverse sets of information that grow at ever-increasing rates. It encompasses the volume of information, the velocity or speed at which it is created and collected, and the variety or scope of the data points being covered. Big data often comes from data mining and arrives in multiple formats.
+ 
+Big data can be categorized as unstructured or structured. Structured data consists of information already managed by the organization in databases and spreadsheets; it is frequently numeric in nature. Unstructured data is information that is unorganized and does not fall into a pre-determined model or format. It includes data gathered from social media sources, which help institutions gather information on customer needs.
+ Three Vs traditionally characterize big data: the volume (amount) of data, the velocity (speed) at which it is collected, and the variety of the infomation. 
+Big data can be collected from publicly shared comments on social networks and websites, voluntarily gathered from personal electronics and apps, through questionnaires, product purchases, and electronic check-ins. The presence of sensors and other inputs in smart devices allows for data to be gathered across a broad spectrum of situations and circumstances.
+ 
+Big data is most often stored in computer databases and is analyzed using software specifically designed to handle large, complex data sets. Many software-as-a-service (SaaS) companies specialize in managing this type of complex data.
+ 
+Data analysts look at the relationship between different types of data, such as demographic data and purchase history, to determine whether a correlation exists. Such assessments may be done inhouse or externally by a third-party who focuses on processing big data into digestible formats. Businesses often use the assessment of big data by such experts to turn it into actionable information.
+ 
+Nearly every department in a company can utilize findings from data analysis, from human resources and technology to marketing and sales. The goal of big data is to increase the speed at which products get to market, to reduce the amount of time and resources required to gain market adoption, target audiences, and to ensure customers remain satisfied.
+ 
+The increase in the amount of data available presents both opportunities and problems. In general, having more data on customers (and potential customers) should allow companies to better tailor products and marketing efforts in order to create the highest level of satisfaction and repeat business. Companies that collect a large amount of data are provided with the opportunity to conduct deeper and richer analysis.
+ 
+While better analysis is a positive, big data can also create overload and noise. Companies must handle larger volumes of data and determine which data represents signals compared to noise. Deciding what makes the data relevant becomes a key factor.
+ 
+Furthermore, the nature and format of the data can require special handling before it is acted upon. Structured data, consisting of numeric values, can be easily stored and sorted. Unstructured data, such as emails, videos and text documents, may require more sophisticated techniques to be applied before it becomes useful.

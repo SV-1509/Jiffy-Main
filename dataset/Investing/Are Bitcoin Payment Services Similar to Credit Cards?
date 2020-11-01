@@ -1,0 +1,58 @@
+
+Bitcoin, the most popular cryptocurrency, has been dubbed by some as the secure money of the Internet. Using proper caution, one can make or receive payments to anyone without revealing any sensitive information linked to their bitcoin accounts or wallets. Other cryptocurrencies like Litecoin and Ripple are also seeing a surge in transactions.
+ 
+Riding high on the increasing acceptance of bitcoin and other virtual currencies, many businesses have started offering payment-related services that make and receive payments in crypto.
+ 
+Thanks to these bitcoin payment services, you can pay for a cup of coffee at the corner coffee shop by scanning the shop’s QR code on your mobile phone, or purchase a high-end laptop from a large and established corporation like Dell by making payments in bitcoin.
+ 
+This article explains how bitcoin payment services work, the advantages, associated costs that users should be aware of, and whether these services are a threat to the traditional fiat currency based payment systems.
+ 
+In a nutshell, bitcoin payment services, or bitcoin merchant services, enable merchants and businesses to receive payments in bitcoins from individuals for the goods and services being sold or delivered.
+ 
+It works similarly to the processing of a standard credit or debit card payment service, with some specifics to bitcoins.
+ 
+For example, you visit a Walmart store to make a purchase, swipe your Amex or Visa credit card at the counter, and punch in the PIN number to make the necessary payment. Similarly, you can make an online purchase at the Walmart website, and make the payment using the same credit card by entering the details on the payment page of the website.
+ 
+In both cases (the in-store swipe machine or the online web portal), a payment service system works behind the scenes and enables authentication and processing of your credit card for making the payment. The payment service takes care of securely recording and transmitting necessary details of the payment, authenticating the credentials, enabling the transfer of money from your account to Walmart’s, and issuing a confirmation to all the involved stakeholders.
+ 
+Bitcoin payment services work in a similar fashion. They act as an intermediary layer between the payer and receiver for processing of the bitcoin payments, which also involves recording the transaction on the blockchain public ledger.
+ 
+They allow merchants to accept payments in bitcoins both online and at physical locations without the buyer or the seller worrying about the complex background process of bitcoin payments that gets executed in the background.
+ 
+All popular bitcoin payment services offer multiple mediums for merchants to accept bitcoin payments. They include solutions for various platforms, like integration with e-commerce platforms like Shopify, PrestaShop, and Magento; for payment through in-store point-of-sale (POS) systems, like Soft Touch and DC POS; and for direct payments from within the popular billing and accounting solutions, like Host Bill and Invoice Ninja.
+ 
+One can also find solutions for accepting donations in bitcoins through such services, which include integration with donor services like NationBuilder and Targeted Victory. App developers can find ready-made functions and code libraries in Android SDK and iOS SDK, and in programming languages like Java, Perl, and PHP, which enable them to accept bitcoin payments through their apps and portals.
+ 
+Essentially, anyone who signs up for bitcoin merchant services can start receiving bitcoin payments from the customers via any and all kinds of transaction mediums from across the globe. A bright kid in Ethiopia can develop a great Android app and receive bitcoin payments from global users using the bitcoin payment integrated with the Android software development kit; or a prominent restaurant in Venice, Italy can use the bitcoin payment-enabled Soft Touch POS to receive bitcoin payments from its patrons.
+ 
+In terms of steps, the following workflow gets executed:
+ The bitcoin payment service instantly converts the received bitcoins into the currency of the merchant's choice, eliminating the volatility risk. One can even opt to get the bitcoins in their own wallet, instead of exchanging them for fiat currencies. 
+The service also sends the necessary details in a secure manner to the blockchain network for the transaction to be authenticated and recorded on the public ledger.
+ 
+Miners, who verify and add the transactions to the blockchain, receive a bitcoin miner fee. This fee does not go to the payment service but is given to reward the miners for their work done for verification and authentication.
+ 
+As per BitPay’s miner fee details, “Most true bitcoin wallets include a bitcoin miner fee in all outgoing transactions,” and it can be “very high due to high bitcoin network demand and limited bitcoin network space.” (See also, How Does Bitcoin Mining Work?)
+ 
+Compared to a standard credit card payment, bitcoin payments purport to be relatively cheaper due to lower transaction costs. A payment service, like BitPay, charges a flat 1% settlement fee to the merchant, compared to 2% to 3% charged by the fiat currency credit card processing service.
+ 
+Bitcoin payment services allow a borderless payment network, which enables seamless transfer of bitcoins in any amount from anywhere across the globe, through any mobile or computer, to the merchant’s account in a large number of countries in a currency of merchant’s choice.
+ 
+Bitcoin payment services claim to maintain transparency in the highly dynamic exchange rates between bitcoin and the fiat currency.
+ 
+Using such services, a merchant not only gets various mediums to accept global payments, but he also gets a reliable and authentic identity in the virtual world of cryptocurrencies, which is much safer, transparent, and dependable for getting payments.
+ 
+Imagine being asked to make a direct payment to an individual bitcoin wallet, versus seeing the payment being processed through the network of an established payment service provider – a customer would find the latter more trustworthy to proceed with. That is the value-add a business gets from such services.
+ 
+BitPay is one of the early and popular offerings available in the U.S. since 2011. Coinbase, a cryptocurrency exchange, also offers a merchant app for businesses for bitcoin payment services. CoinGate, SpectroCoin, and CoinsBank are other leading players offering similar services in a variety of flavors to suit the needs of merchants and payers willing to deal with bitcoins.
+ 
+A settlement is available in a variety of fiat currencies by the different operators. For instance, BitPay offers direct credit amounts in US dollars (USD), Euros (EUR), Australian dollars (AUD), Pounds sterling (GBP), Mexican pesos (MXN), New Zealand dollar (NZD), South African rand (ZAR), and Bitcoin (BTC). It supports direct bank deposits in 38 different countries and bitcoin settlements in 240 countries across the globe.
+ 
+Bitcoin and other cryptocurrencies have recently come on the radar of regulatory agencies and monetary authorities across the globe. While many nations, like Japan and the U.S., have allowed transactions and permitted cryptocurrency exchanges to operate, China has been tightening the screws on their use. (For more, see Is Bitcoin Banned in China?)
+ 
+However, the overall increasing acceptance of bitcoins is indicative of more and more global users willing to transact in them. The existence and continuously increasing influence of a parallel, borderless economy which is out of control of any central authority is also putting the business of the traditional card and merchant payment service providers at risk.
+ 
+From a time where everything was being dealt in fiat currencies to now, where an increasing portion is switching to cryptocurrency dealings, the associated services linked to fiat currencies are bound to feel the heat.
+ 
+Technological advances and the evolution of new offerings will continue to emerge. A win-win situation may be achieved by traditional payment services that adopt bitcoin technology and offer similar services using their decades-old, established brand names. As the saying goes: "If you can’t beat them, join them!"
+ 
+Investing in cryptocurrencies and Initial Coin Offerings ("ICOs") is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein. As of the date this article was written, the author owns no cryptocurrencies.

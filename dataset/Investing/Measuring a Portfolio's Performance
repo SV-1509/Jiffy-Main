@@ -1,0 +1,57 @@
+
+Many investors mistakenly base the success of their portfolios on returns alone. Few investors consider the risk involved in achieving those returns. Since the 1960s, investors have known how to quantify and measure risk with the variability of returns, but no single measure actually looked at both risk and return together. Today, there are three sets of performance measurement tools to assist with portfolio evaluations.
+ 
+The Treynor, Sharpe, and Jensen ratios combine risk and return performance into a single value, but each is slightly different. Which one is best? Perhaps, a combination of all three.
+ 
+Jack L. Treynor was the first to provide investors with a composite measure of portfolio performance that also included risk. Treynor's objective was to find a performance measure that could apply to all investors regardless of their personal risk preferences. Treynor suggested that there were really two components of risk: the risk produced by fluctuations in the stock market and the risk arising from the fluctuations of individual securities.﻿﻿
+ 
+Treynor introduced the concept of the security market line, which defines the relationship between portfolio returns and market rates of returns whereby the slope of the line measures the relative volatility between the portfolio and the market (as represented by beta). The beta coefficient is the volatility measure of a stock portfolio to the market itself. The greater the line's slope, the better the risk-return tradeoff.
+ 
+The Treynor measure, also known as the reward-to-volatility ratio, is defined as:
+ 
+﻿Treynor Measure=PR−RFRβwhere:PR=portfolio returnRFR=risk-free rateβ=beta\begin{aligned} &\text{Treynor Measure} = \frac{PR - RFR}{\beta}\\ &\textbf{where:}\\ &PR=\text{portfolio return}\\ &RFR=\text{risk-free rate}\\ &\beta=\text{beta}\\ \end{aligned}​Treynor Measure=βPR−RFR​where:PR=portfolio returnRFR=risk-free rateβ=beta​﻿
+ 
+The numerator identifies the risk premium, and the denominator corresponds to the portfolio risk. The resulting value represents the portfolio's return per unit risk.
+ 
+To illustrate, suppose that the 10-year annual return for the S&P 500 (market portfolio) is 10% while the average annual return on Treasury bills (a good proxy for the risk-free rate) is 5%. Then, assume the evaluation is of three distinct portfolio managers with the following 10-year results:
+ 
+The Treynor value for each is as follows:
+ 
+The higher the Treynor measure, the better the portfolio. If the portfolio manager (or portfolio) is evaluated on performance alone, manager C seems to have yielded the best results. However, when considering the risks that each manager took to attain their respective returns, Manager B demonstrated a better outcome. In this case, all three managers performed better than the aggregate market.
+ 
+Because this measure only uses systematic risk, it assumes that the investor already has an adequately diversified portfolio and, therefore, unsystematic risk (also known as diversifiable risk) is not considered. As a result, this performance measure is most applicable to investors who hold diversified portfolios.
+ 
+The Sharpe ratio is almost identical to the Treynor measure, except that the risk measure is the standard deviation of the portfolio instead of considering only the systematic risk as represented by beta. Conceived by Bill Sharpe,﻿﻿ this measure closely follows his work on the capital asset pricing model (CAPM) and, by extension, uses total risk to compare portfolios to the capital market line.﻿﻿
+ 
+The Sharpe ratio is defined as:
+ 
+﻿Sharpe ratio=PR−RFRSDwhere:PR=portfolio returnRFR=risk-free rateSD=standard deviation\begin{aligned} &\text{Sharpe ratio} = \frac{PR - RFR}{SD}\\ &\textbf{where:}\\ &PR=\text{portfolio return}\\ &RFR=\text{risk-free rate}\\ &SD=\text{standard deviation}\\ \end{aligned}​Sharpe ratio=SDPR−RFR​where:PR=portfolio returnRFR=risk-free rateSD=standard deviation​﻿
+ 
+Using the Treynor example from above, and assuming that the S&P 500 had a standard deviation of 18% over a 10-year period, we can determine the Sharpe ratios for the following portfolio managers:
+ 
+Again, we find that the best portfolio is not necessarily the portfolio with the highest return. Instead, a superior portfolio has the superior risk-adjusted return or, in this case, the fund headed by manager X.
+ 
+Unlike the Treynor measure, the Sharpe ratio evaluates the portfolio manager on the basis of both the rate of return and diversification (it considers total portfolio risk as measured by the standard deviation in its denominator). Therefore, the Sharpe ratio is more appropriate for well-diversified portfolios because it more accurately takes into account the risks of the portfolio.
+ 
+Similar to the previous performance measures discussed, the Jensen measure is calculated using the CAPM. Named after its creator, Michael C. Jensen, the Jensen measure calculates the excess return that a portfolio generates over its expected return. This measure of return is also known as alpha.﻿﻿
+ 
+The Jensen ratio measures how much of the portfolio's rate of return is attributable to the manager's ability to deliver above-average returns, adjusted for market risk. The higher the ratio, the better the risk-adjusted returns. A portfolio with a consistently positive excess return will have a positive alpha while a portfolio with a consistently negative excess return will have a negative alpha.
+ 
+The formula is broken down as follows:
+ 
+﻿Jenson’s alpha=PR−CAPMwhere:PR=portfolio returnCAPM=risk-free rate+β(return of market risk-free rate of return)\begin{aligned} &\text{Jenson's alpha} = PR - CAPM \\ &\textbf{where:}\\ &PR=\text{portfolio return}\\ &CAPM=\text{risk-free rate} + \beta(\text{return of market risk-free rate of return})\\ \end{aligned}​Jenson’s alpha=PR−CAPMwhere:PR=portfolio returnCAPM=risk-free rate+β(return of market risk-free rate of return)​﻿
+ 
+If we assume a risk-free rate of 5% and a market return of 10%, what is the alpha for the following funds?
+ 
+We calculate the portfolio's expected return:
+ 
+We calculate the portfolio's alpha by subtracting the expected return of the portfolio from the actual return:
+ 
+Which manager did the best? Manager E did best because although manager F had the same annual return, it was expected that manager E would yield a lower return because the portfolio's beta was significantly lower than that of portfolio F.
+ 
+Both the rate of return and risk for securities (or portfolios) will vary by time period. The Jensen measure requires the use of a different risk-free rate of return for each time interval. To evaluate the performance of a fund manager for a five-year period using annual intervals would require also examining the fund's annual returns minus the risk-free return for each year and relating it to the annual return on the market portfolio minus the same risk-free rate.
+ 
+Conversely, the Treynor and Sharpe ratios examine average returns for the total period under consideration for all variables in the formula (the portfolio, market, and risk-free asset). Similar to the Treynor measure, however, Jensen's alpha calculates risk premiums in terms of beta (systematic, undiversifiable risk) and, therefore, assumes the portfolio is already adequately diversified. As a result, this ratio is best applied to an investment such as a mutual fund.
+ 
+Portfolio performance measures are a key factor in the investment decision. These tools provide the necessary information for investors to assess how effectively their money has been invested (or may be invested). Remember, portfolio returns are only part of the story. Without evaluating risk-adjusted returns, an investor cannot possibly see the whole investment picture, which may inadvertently lead to clouded decisions.
+ Jack L. Treynor. "Treynor on Institutional Investing," Chapter 1. John Wiley & Sons, 2011. William F. Sharpe. "The Sharpe Ratio." Accessed April 2, 2020. The Nobel Prize. "William F. Sharpe." Accessed April 2, 2020. Michael C. Jensen. "The Performance of Mutual Funds in the Period 1945-1964," Page 1. Accessed April 2, 2020.

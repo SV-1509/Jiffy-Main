@@ -1,0 +1,30 @@
+
+A Bermuda option is a type of exotic options contract that can only be exercised on predetermined dates, often on one day each month. Bermuda options allow investors to buy or sell a security or underlying asset at a preset price on specific dates as well as the option's expiration date.
+ 
+Options contracts are financial derivatives indicating they obtain their cost from another underlying asset, such as shares of stock. The option provides the buyer the right—not obligation—to transact in the underlying asset at a distinct price—the strike price—on or before a specified future date.
+ 
+An option to buy an underlying asset is a call option. An option to sell an underlying asset is a put option. At the option's expiration, the contracts can be converted to shares, known as exercising, of the asset at the predetermined price.
+ 
+There are two main types or styles of options, American and European options. American options are exercisable at any time between the purchase date and the date of expiration. European options are exercised only at the date of expiration. Bermuda options are hybrid securities because they are a combination of American and European options.
+ 
+A Bermuda option is similar to American and European options in that it can be exercised on the expiration date called the expiry. However, the exotic feature of Bermuda options allows for an investor to use the option and convert it to shares on specific dates before expiry. The dates—contained in the contract's terms—are known upfront during the purchasing of the option.
+ 
+As with its American and European counterparts, Bermuda options have a purchase cost called the premium. The premium might be higher or lower depending on the expiration date or the strike price for the option.
+ 
+Some Bermuda options might allow an investor to exercise the option on the first business day of the month. So, if an investor's call option's strike price is higher than the underlying stock's market price on the first of the month, the investor can exercise and buy shares for the lower strike price. Conversely, if the investor's put option strike price is higher than the market price of the stock, the investor can sell at the strike and pick up the shares at the lower market price. Most times, the net difference is cash settled.
+ 
+However, some Bermuda options have early expiration date restrictions. For example, a Bermuda option might have the features of a European option where it cannot be exercised until the early exercise date. Following the early exercise date, the option converts to American style options and can be exercised at any time.
+ 
+There are several advantages and disadvantages to Bermuda options. Unlike American and European options, Bermuda options give investors the ability to create and purchase a hybrid contract. In other words, investors are given more control over when the options can be exercised.
+ 
+Premiums for Bermuda options are typically lower than those of American options. However, Bermuda options don't have the flexibility of exercising at any time as do the American method options. As a result, American options are the most expensive, while European options are the cheapest since they offer the least flexibility. The cost of Bermuda options falls somewhere in between their American and European counterparts.
+ 
+A possible drawback to a Bermuda option can happen if an investor doesn't exercise until the option's expiration date. The investor would have been better off buying the cheaper European option instead. Also, the additional exercise dates of a Bermuda option don't guarantee that those are the best dates to exercise given current market conditions.
+ Premiums for Bermuda options are typically lower than those of American options. Bermuda options allow investors to exercise the option on specific dates before expiry. Premiums for Bermuda options are more expensive than European options. The early exercise feature doesn't guarantee that it will be the most advantageous time to exercise. 
+Let's say an investor owns stock in Tesla Inc. (TSLA). The investor purchased the stock at $250 per share and wants insurance against a drop in the company's stock price.
+ 
+The investor buys a Bermuda-style put option that expires in six months, with a strike price of $245. The option costs $3—or $300 since each option contract represents 100 shares. The option protects the position from a decline in price below $245 for the next six months. However, the Bermuda feature allows the investor to exercise early on the first of each month beginning in month four.
+ 
+The stock price falls to $200, and by the first day of the option's fourth month, the investor exercises the put option. The stock position has declined and is sold at $200 while the strike price of $245 provides a profit of $50 from the put option. The investor is effectively out of the position at $245 minus the $300 cost of the premium and any additional broker commissions.
+ 
+However, if the stock price rose considerably after the option was exercised, say to $300 by the option's expiry, the investor would miss out on any of those gains. Although Bermuda options provide flexibility to exercise early that doesn't necessarily mean the investor's choice to exercise will be the right or profitable one.

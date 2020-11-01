@@ -1,0 +1,22 @@
+
+Litecoin mining is the processing of a block of transactions into the Litecoin blockchain. Litecoin mining requires solving for algorithms, and being the first to reach a solution is rewarded with tokens as payment.
+ 
+Litecoin is a well-known cryptocurrency that is bought and sold on a variety of exchanges, including prominent exchanges such as GDAX. It is similar in technical details to bitcoin, though the number of Litecoin set to ultimately be released - 84 million – is substantially larger than the 21-million-coin limit set by bitcoin.
+ 
+Processing Litecoin requires adding transaction information to blocks, which are ultimately added to the blockchain. The blockchain serves as a record of all owners of a particular Litecoin. Making adjustments to the blockchain is done by miners, who use computer hardware and software to solve math problems.
+ 
+As of January 2017, Litecoin miners are awarded with 25 new Litecoins for each block that they process. The amount that miners earn is designed to be reduced by one-half every four years. Ultimately, compensation for mining activities will shift to transaction fees.
+ 
+Cryptocurrencies compensate miners based on a proof-of-work hashing algorithm. Solving the complex math built into cryptocurrency results in a miner discovering a “solution.” Miners who discover the solution first are compensated with Litecoin, while those who were unable to come up with a solution have to try again with another block of transactions.
+ 
+Mining was initially relegated to the world of technology hobbyists, as the hardware costs and set-up time was more resource-intensive than most people were willing to devote to the obscure world of cryptocurrencies. As cryptocurrencies gained in popularity - and rapidly appreciated in value – interest in mining ballooned.
+ 
+The cost of the hardware used to mine cryptocurrencies, such as bitcoin, dwindled in supply and became very expensive, pushing mining activities toward individuals and businesses living in areas with cheap access to electricity. Mining has thus shifted from something that could be done on a home computer to more of an industrial operation.
+ 
+Setting up a Litecoin mining operation requires interested parties to make significant investments in hardware. In the early days of Litecoin, miners could purchase a graphics processing unit (GPU) to run the calculations required to reach a solution.
+ 
+An arms race resulted in miners having to scale up the number of GPUs they purchased, which could result in significant electricity bills. As a result, mining operations tended to migrate to Asia, where miners had access to cheaper electricity. The cost of GPUs continued to rise due to the high demand for the hardware, and ultimately led to more specialized and efficient hardware called application-specific integrated circuits (ASICs).
+ 
+Miners that have purchased the necessary hardware have to then to set up an e-wallet where Litecoins can be deposited. At this point, miners can download a software program that will handle the mining operation. The software runs a script that activates the Litecoin mining program. Once running, the program will attempt to process blocks, but typically does not show the hashing speed.
+ 
+While mining a cryptocurrency such as Litecoin may sound profitable based on how popular cryptocurrencies are right now, there are real costs associated with mining activities. Hardware costs can reach hundreds of dollars, and miners with only a single GPU will be competing against companies with a much larger supply of hardware. Powering the hardware at the level required to run scripts successfully can also be expensive, as will a fast and reliable network connection.

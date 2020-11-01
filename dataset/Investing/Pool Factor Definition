@@ -1,0 +1,16 @@
+
+The pool factor is a measure of how much of the original loan principal remains in an asset-backed security (ABS). The pool factor is most strongly associated with mortgage-backed securities (MBS), which gather mortgages together into a pool for sale to investors. The mortgage payments are passed onto the investor until the loan is paid off.
+ 
+The pool factor is expressed as a numerical factor between zero and one and all mortgage-backed securities start life with a pool factor of one. They then move toward zero (total payment) over time as payments are made on the underlying mortgages. If 50% of the total original value of a MBS is paid off, the pool factor will be 0.500. The pool factor is calculated by dividing the outstanding principal balance (current face) by the original principal balance (original face).
+ 
+The pool factor for mortgage-backed securities is issued by Freddie Mac (FHLMC), Fannie Mae (FNMA) and Ginnie Mae (GNMA) on a monthly basis. It is essentially a measure of how much value is left inside a MBS. When a MBS is created, there is a planned schedule of payments that lines up with a forecasted pool factor at various phases in the life of the MBS. This helps an investor determine the value of the MBS before deciding to invest in it as well as determining the risk of the MBS.
+ 
+For example, if the pool factor is declining faster than expected, it would indicate early repayments of mortgages. This can be a red flag for investors, as it usually means that there are fewer real estate properties serving as collateral for that particular MBS as some mortgages have been paid off in full. Fewer properties would mean an increase in the relative risk if one mortgage defaults.
+ 
+The formula is represented as follows:
+ 
+If the original face value of a pooled MBS is $100,000 and the pool factor released that month is 0.6325, then the remaining balance in the security is $63,250. That $63,250 is the current face of the MBS. You can arrive at the original face ($100,000) by dividing the current face by the pool factor.
+ 
+Despite being a simple calculation, the pool factor isn’t particularly useful without context. Investors watch the changes in the pool factor for any signs of trouble in the model upon which the MBS is built.
+ 
+As with any structured security, the original assumptions can shift resulting in an imbalance in the risk-return tradeoff that was originally envisioned. That shift, in turn, can lead to the security being worth more or less than the investor originally paid for it. The pool factor is one of the key data points an investor will watch when trying to evaluate the fair market price of a mortgage-backed security.

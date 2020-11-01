@@ -1,0 +1,24 @@
+
+The constant default rate (CDR) is the percentage of mortgages within a pool of loans in which the mortgagors (borrowers) have fallen more than 90 days behind in making payments to their lenders. These pools of individual outstanding mortgages are created by financial institutions that combine loans to create mortgage-backed securities (MBS), which they sell to investors.
+ 
+The constant default rate (CDR) evaluates losses within mortgage-backed securities. The CDR is calculated on a monthly basis and is one of several measures that those investors look at in order to place a market value on an MBS. The method of analysis emphasizing the CDR can be used for adjustable-rate mortgages as well as fixed-rate mortgages.
+ 
+The CDR can be expressed as a formula:
+ 
+﻿CDR=1−(1−DNDP)nwhere:D=Amount of new defaults during the periodNDP=Non-defaulted pool balance at thebeginning of the periodn=Number of periods per year\begin{aligned} &\text{CDR} = 1 - \left ( 1 - \frac{ \text{D} }{ \text{NDP} } \right ) ^n \\ &\textbf{where:} \\ &\text{D} = \text{Amount of new defaults during the period} \\ &\text{NDP} = \text{Non-defaulted pool balance at the} \\ &\text{beginning of the period} \\ &n = \text{Number of periods per year} \\ \end{aligned}​CDR=1−(1−NDPD​)nwhere:D=Amount of new defaults during the periodNDP=Non-defaulted pool balance at thebeginning of the periodn=Number of periods per year​﻿
+ 
+The constant default rate (CDR) is calculated as follows:
+ 
+It should be noted, though, that the constant default rate (CDR)'s formula can vary somewhat—that is, some analysts also include the scheduled payment and prepayment amounts.
+ 
+Gargantua Bank has pooled residential mortgages on houses located across the U.S. into a mortgage-backed security. Gargantua’s Director of Institutional Sales approaches portfolio managers at the Trustworthy Investment Company in hopes that Trustworthy will purchase an MBS to add to its portfolios that hold these types of securities.
+ 
+After a meeting between Gargantua and his firm’s investment team, one of Trustworthy’s research analysts compares the CDR of Gargantua’s MBS with that of a similarly rated MBS that another firm is offering to sell to Trustworthy. The analyst reports to his superiors that the CDR for Gargantua’s MBS is significantly higher than that of the competitor’s issue and he recommends that Trustworthy request a lower price from Gargantua to offset the poorer credit quality of the underlying mortgages in the pool.
+ 
+Or consider Bank ABC, which saw $1 million in new defaults for the fourth quarter of 2019. At the end of 20198, the bank’s non-defaulted pool balance was $100 million. Thus, the constant default rate (CDR) is 4%, or:
+ 
+﻿1−(1−$1 million$100 million)4\begin{aligned} &1 - \left ( 1 - \frac{ \$1 \text{ million} }{ \$100 \text{ million} } \right ) ^4 \\ \end{aligned}​1−(1−$100 million$1 million​)4​﻿
+ 
+In addition to considering the constant default rate (CDR), analysts may also look at the cumulative default rate (CDX), which reflects the total value of defaults within the pool, rather than an annualized monthly rate. Analysts and market participants are likely to place a higher value on mortgage-backed security that has a low CDR and CDX than on one with a higher rate of defaults.
+ 
+Another method for evaluating losses is the Standard Default Assumption (SDA) model created by the Bond Market Association, but this calculation is best suited to 30-year fixed-rate mortgages. During the subprime meltdown of 2007-2008, the SDA model vastly underestimated the true default rate as foreclosure rates hit multi-decade highs.

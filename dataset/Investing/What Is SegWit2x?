@@ -1,0 +1,38 @@
+
+While bitcoin remains the largest and most prominent cryptocurrency at this point, it is not without its share of issues. Among the most concerning problems facing the biggest cryptocurrency by market cap is scalability. Because blocks in the bitcoin blockchain are limited to 1 megabyte in size, there is a limit to the number of transactions the network can process.
+ 
+As cryptocurrencies more broadly and bitcoin in particular have become increasingly popular, this bottleneck effect has threatened to thwart the success of the virtual currency. It may have contributed to increased transaction fees and wait times for processing.
+ 
+Developers and cryptocurrency enthusiasts have worked to address this issue, but the debate over how to accomplish effective scaling of the network has been a difficult and contentious one. In recent years, there have been a number of proposed software upgrades designed to upgrade the block size limit and to improve transaction processing overall. SegWit2x was one of those proposed upgrades.
+ 
+To understand SegWit2x, it's first necessary to explore the distinction between hard and soft forks as they relate to the blockchain. A hard fork refers to an overhaul of the rules governing the blockchain. It is a major shift in design, such that new blocks are not seen as valid by old network software.
+ 
+The result of a hard fork is that the affected blockchain splits into two on a permanent basis. Hard forks can even split a network in two if they are not completely adopted; if there is sufficient participation among users, a proposed hard fork may still divide the blockchain. This was the case when ethereum split as a result of the hack of the DAO. (See more: Why the DAO Ethereum is Revolutionary.)
+ 
+Soft forks, on the other hand, entail a shift in network rules which creates blocks that are recognized by previous software. In this sense, they are backwards-compatible.
+ 
+Before the SegWit2x proposal came about, there was Segregated Witness (SegWit). This was a proposed soft fork which aimed to address bitcoin's scalability problem. It was proposed in late 2015 by a developer named Pieter Wuille.
+ 
+The mechanism of Segregated Witness was designed to allow separation of signature data from various other pieces of transaction data, with the results being that data would be stored differently across blocks. The goal of SegWit was to increase overall transaction capacity via a soft fork mechanism which would not prompt a split.
+ 
+In the time since the SegWit proposal, there have been other discussions and forks of the bitcoin network. For example, a hard fork which took place in August 2017 prompted the creation of bitcoin cash. As a result of this hard fork, block size was increased by 8 times without the use of the SegWit protocol. SegWit was eventually activated on August 24, 2017, although many bitcoin network transactions in the time since then have not made use of the upgrade. (See also: Bitcoin vs. Bitcoin Cash: What's the Difference?)
+ 
+Whereas SegWit was a soft fork suggestion, SegWit2x was a hard fork proposal. At the time that SegWit was introduced to the network in August 2017, it was actually only the first of a two-stage process known as the "New York Agreement" by scalability experts and developers.
+ 
+The second phase is the so-called SegWit2x protocol, which would increase blocksize from 1 megabyte to 2 megabytes. By increasing the blocksize, the proponents of SegWit2x hoped they could mitigate fee increases which resulted from users paying miners to make transactions. On the other hand, increasing the block size would have also increased the burden on node operators, who would then be required to store more data.
+ 
+The process of implementing SegWit2x would have resulted in a change to the rules governing bitcoin. Nonetheless, it was distinct from the forks which resulted in bitcoin cash and bitcoin gold. In those cases, users anticipated that the transactions themselves would not have been impacted dramatically; rather, those users who already held bitcoin were simply provided new cryptocurrency at the time of the fork, with the two networks continuing on divergent paths.
+ 
+Like these earlier forks, SegWit2x was an alternative software protocol which would result in a hard fork and an attempt to increase the block size. Unlike the earlier forks, though, SegWit2x aimed to keep all existing bitcoin users on one blockchain.
+ 
+As opposed to bitcoin cash – where developers hoped to create a new blockchain and network entirely – SegWit2x proponents weren't completely sure of the ultimate outcome. It could have meant a change in the rules governing bitcoin, the creation of two separate bitcoins, or very little change, depending on how many miners chose to adopt the new software.
+ 
+Leading up to the SegWit2x adoption, miners and startups tended to be the most vocal supporters of the new protocol. They often argued that bitcoin's inaction was causing competing cryptocurrencies to overtake the leading digital currency, and that the existing upgrades were not sufficient to mitigate the problem.
+ 
+Developers and node operators, on the other hand, often opposed the adoption. They suggested that bitcoin should be a store of value as opposed to a payment system, and that the riskiness of the new protocol outweighed the potential benefits. Some also felt that miners and businesses would benefit disproportionally from the protocol.
+ 
+SegWit2x was highly controversial, in part because of its status as a hard fork, and developers were unable to come to a consensus on the adoption of the protocol. The hard fork had originally been planned for November 16, 2017. However, on November 8, 2017, the leaders of the SegWit2x movement suspended the hard fork as a result of the ongoing fights and a lack of broader consensus among participants.
+ 
+In late 2017, another proposed hard fork called SegWit2x was announced, although it appeared to have no relationship to the earlier SegWit2x, save for the name.
+ 
+Investing in cryptocurrencies and other Initial Coin Offerings ("ICOs") is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or other ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein. As of the date this article was written, the author owns cryptocurrencies.

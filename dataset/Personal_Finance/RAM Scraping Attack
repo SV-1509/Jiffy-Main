@@ -1,0 +1,20 @@
+
+A RAM scraping attack is an intrusion into the random access memory (RAM) of a retail sales terminal in order to steal consumer credit card information. This type of cybercrime has plagued retailers and their customers since at least 2008.
+ 
+RAM scraping is also called a point-of-sale (POS) attack because the target is a terminal used to process retail transactions.
+ 
+The first known RAM scraping attack was reported in an alert issued by the credit card company Visa Inc. in October 2008. The company's security team discovered that point-of-sale (POS) terminals used to process customer transactions using its cards had been accessed by hackers. The hackers had been able to obtain unencrypted customer information from the RAM in the terminals.
+ 
+The targets of the earliest attacks were mostly in the hospitality and retail industries, which process high volumes of credit card transactions at a large number of locations. By 2011, investigators were tracking an uptick in the introduction of malware bugs.
+ 
+POS attacks did not gain widespread attention until 2013 and 2014 when hackers infiltrated the networks of the Target and Home Depot retail chains. The personal information of more than 40 million Target customers and 56 Home Depot customers was stolen in those attacks, which were attributed to the use of a new spyware program known as BlackPOS.
+ 
+The attacks continue, although RAM scrapers are now being replaced with more advanced types of malware such as screen grabbers and keystroke loggers. 
+ 
+The plastic credit cards that we all carry contain two distinct sets of information.
+ Screen grabbers and keystroke loggers are newer ways to steal credit card data. 
+The POS terminal collects all of the data in that first set, and sometimes the second code as well. The data is then held in the memory of that POS machine until it is periodically purged.
+ 
+As long as it is in temporary storage on the terminal, that information is vulnerable to RAM scrapers.
+ 
+Small merchants are a relatively easy target for cybercriminals since they can't devote a lot of resources to elaborate security systems. Larger retailers like Target and Home Depot are far more attractive because of the massive amounts of data they retain at any given time.

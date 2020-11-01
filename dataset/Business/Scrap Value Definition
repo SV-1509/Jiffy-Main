@@ -1,0 +1,24 @@
+
+Scrap value is the worth of a physical asset's individual components when the asset itself is deemed no longer usable. The individual components, known as scrap, are worth something if they can be put to other uses. Sometimes scrap materials can be used as-is and other times they must be processed before they can be reused. An item's scrap value—also called residual value, break-up value, or salvage value—is determined by the supply and demand for the materials it can be broken down into.
+ 
+﻿Scrap Value = Cost of Asset−(D×Useful Life)where:D = Depreciation\begin{aligned} &\text{Scrap Value = Cost of Asset}-\left(\text{D} \times \text{Useful Life}\right)\\ &\textbf{where:}\\ &\text{D = Depreciation}\\ \end{aligned}​Scrap Value = Cost of Asset−(D×Useful Life)where:D = Depreciation​﻿
+ 
+In financial accounting, capital assets or long-term assets, such as machinery, vehicles, and furniture, have a useful life. After the asset has gone through its useful life, it may be disposed of. However, given that a broken down or obsolete asset may still have some residual value, some businesses can dispose of the asset by selling it for its current value.
+ 
+Scrap value is the estimated cost that a fixed asset can be sold for after factoring in full depreciation. The asset that is disposed of is usually salvaged into multiple parts, with each part valued and sold separately.
+ 
+In the insurance industry, scrap value is the money that can be recovered for a damaged or abandoned property. With auto or property insurance, the estimated scrap value is subtracted from any loss settlement if the insured keeps the property. For example, an individual has an auto insurance policy with a $2,000 deductible. The insured is in an accident and the estimated trade-in value (scrap value) is $4,500. Thus, the insured individual would receive a settlement check from the insurer for $2,500.
+ 
+The scrap value of an asset can be negative if the cost of disposing of the asset results in a net cash outflow that is a contributing factor in the scrap value.
+ 
+For example, consider the value of land owned by a company that only slightly went up in value by the end of its useful life. The scrap value of the land may be negative if the cost of demolishing any building on the land is higher than the cost of the land and the market price for the individually demolished components that can be sold.
+ 
+Depending on the method of depreciation adopted by a company, such as the straight-line method or declining-balance method, the scrap value of an asset will vary.
+ 
+For example, assume a company purchases machinery worth $75,000 and estimates that the useful life of the machinery is 8 years at a depreciable rate of 12%. Using the straight-line depreciation method, the annual depreciation per year will be 12% x $75,000 = $9,000. The residual amount that the company can get if it disposes of the machinery after eight years is as follows:
+ 
+If the company, instead, used the declining-balance method of depreciation, its salvage value can be calculated as:
+ Year Asset Value ($) Depreciation at 12% Rate ($) Year-End Value ($) 1 75,000 9,000 66,000 2 66,000 7,920 58,080 3 58,080 6,969.60 51,110.40 4 51,110.40 6,133.25 44,977.15 5 44,977.15 5,397.26 39,579.89 6 39,579.89 4,749.59 34,830.30 7 34,830.30 4,179.64 30,650.66 8 30,650.66 3,678.08 26,972.58 Total Depreciation 48,027.42   
+The scrap value can also be used to calculate the depreciation expense. Using our example above, if the company estimated a $3,000 residual value for the machinery at the end of 8 years, then it can calculate its depreciation expense per year to be ($75,000 - $3,000) / 8 = $9,000.
+ 
+Having an estimate for the scrap value of a long-term asset can help a company figure out its annual depreciation cost, which is an important measure since it affects the level of a company’s net income.

@@ -1,0 +1,26 @@
+
+Active risk and residual risk are two different types of portfolio risks that investors, advisors, and portfolio managers may try to manage and make decisions around. Below is a description of each risk measure, example calculations, and some differences between the two.
+ 
+The active risk of an investment or a portfolio is the difference between the return and the benchmark index's return for that security or portfolio. This risk is also commonly called tracking error. Measuring active risk quantifies the risk that that portfolio or investment experiences due to active management decisions made by the portfolio manager, the advisor, or the individual investor.
+ 
+It is common practice for individual investments and whole portfolios to be benchmarked to a relevant index to aid in relative performance and risk measurement. If an investment is completely passive and is identical to its benchmark, active risk is practically nonexistent, with the exception of slight variations due to management fee expenses. When investments follow an active strategy, returns begin to deviate from the benchmark, and active risk is introduced to the portfolio.
+ 
+There are two generally accepted methodologies for calculating active risk. Depending on which method is used, active risk can be positive or negative. The first method for calculating active risk is to subtract the benchmark's return from the investment's return. For example, if a mutual fund returned 8% over the course of a year while its relevant benchmark index returned 5%, the active risk would be:
+ 
+This shows that 3% of additional return was gained from either active security selection, market timing, or a combination of both. In this example, the active risk has a positive effect. However, had the investment returned less than 5%, the active risk would be negative, indicating that security selections and/or market-timing decisions that deviated from the benchmark were poor decisions.
+ 
+The second way to calculate active risk, and the one more often used, is to take the standard deviation of the difference of investment and benchmark returns over time. The formula is:
+ 
+For example, assume the following annual returns for a mutual fund and its benchmark index:
+ 
+The differences equal:
+ 
+The square root of the sum of the differences squared, divided by (N - 1) equals the active risk (where N = the number of periods):
+ 
+Residual risk is company-specific risks, such as strikes, outcomes of legal proceedings, or natural disasters. This risk is known as diversifiable risk, since it can be eliminated by sufficiently diversifying a portfolio. There isn't a formula for calculating residual risk; instead, it must be extrapolated by subtracting the systematic risk from the total risk.
+ 
+While the calculation of systematic risk (also known as market risk or undiversifiable risk) is outside the context of this article, total risk is often referred to as standard deviation. Suppose a portfolio of investments has a standard deviation of 15% and the systematic risk is known to be 8%. The residual risk would be equal to:
+ 
+Active risk arises through portfolio management decisions that deviate a portfolio or investment away from its passive benchmark. Active risk comes directly from human or software decisions. Active risk is created by taking an active investment strategy instead of a completely passive one. Residual risk is inherent to every single company and is not associated with broader market movements.
+ 
+Active risk and residual risk are fundamentally two different types of risks that can be managed or eliminated, though in different ways. To eliminate active risk, follow a purely passive investment strategy. To eliminate residual risk, invest in a sufficiently large number of different companies inside and outside of the company's industry.

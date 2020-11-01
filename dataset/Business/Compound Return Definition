@@ -1,0 +1,16 @@
+
+The compound return is the rate of return, usually expressed as a percentage, that represents the cumulative effect that a series of gains or losses has on an original amount of capital over a period of time. Compound returns are usually expressed in annual terms, meaning that the percentage number that is reported represents the annualized rate at which capital has compounded over time.
+ 
+When expressed in annual terms, a compound return can be referred to as a Compound Annual Growth Rate (CAGR).
+ 
+If an investment fund claims to have produced a 10% annual compound return over the past five years, this means that at the end of its fifth year, the fund's capital has grown to a size equal to what it would be if the funds on hand at the beginning of each year had earned exactly 10% by the end of each year.
+ 
+Compound return is viewed as a much more accurate measure of performance of an investment's return over time than the average return. This is because the average annual return does not take compounding into effect, which results in a gross misstatement of an investor's actual returns. Average returns either overestimate or underestimate growth or decline in returns. In effect, compound returns ensure that volatility, which can inflate or deflate returns, is accounted for in calculations.
+ 
+For example, suppose you started with an initial investment of $1,000. If you multiply 1,000 by 1.1 five times, that is, $1,000 x (1.1)5, you will end up with about $1,611. If an investment of $1,000 ended up being worth $1,611 by the end of five years, the investment could be said to have generated a 10% annual compound return over that five-year period.
+ 
+Here is the math:
+ 
+However, this does not mean that the investment actually appreciated by 10% during each of the five years. Any pattern of growth that led to a final value of $1,611 after five years would equate to a 10% annualized return. Suppose the investment earned nothing for the first four years, and then earned $611 in its last year (a 61.1% return for the year). This would still equate to a 10% annual compound return over the five-year measurement period, since the final amount is still equal to what the $1,000 would have grown to if it had appreciated by a steady 10% each year.
+ 
+If returns for the investment described in the example above were calculated using average returns, then it would end up with an incorrect percentage. If the investment above earned nothing in the first four years, but earned 61.1% in its fifth year, the average return will be calculated as: (0% + 0% + 0% + 0% + 61.1%) / 5 = 12.22%

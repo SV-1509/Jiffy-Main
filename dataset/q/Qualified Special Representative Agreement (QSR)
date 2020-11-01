@@ -1,0 +1,6 @@
+
+The Qualified Special Representative Agreement (QSR) is an agreement between broker-dealers to clear trades without interaction with the NASDAQ ACT system. The QSR allows one broker-dealer to send trades directly to the National Securities Clearing Corporation on behalf of another broker-dealer. This method of clearing trades provides simpler processing, lower transaction costs and extended trading hours.
+ 
+The Qualified Special Representative Agreement (QSR) applies to NASDAQ trades that a broker-dealer would normally process through the ACT system. The ACT system matches trades then communicates the transaction to the broker-dealer's clearing firm. The ACT system also reports the trade to the National Securities Clearing Corporation.
+ 
+When two broker-dealers have a QSR agreement, each can send trades to its clearinghouse on behalf of the other, and each of their clearing firms has agreed to clear the trades based on the agreement. Broker-dealers match orders against another broker-dealer by using an electronic communication network (ECN). Each broker-dealer and the ECN send a ticket file to their clearing firms with the trade details. However, each must firm must still report their own trades to FINRA. Unlike the Nasdaq ACT system which reports trades continuously to the NSCC, trades made under QSR agreements are reported only five times daily.

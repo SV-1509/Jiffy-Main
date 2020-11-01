@@ -1,0 +1,22 @@
+
+Skewness refers to distortion or asymmetry in a symmetrical bell curve, or normal distribution, in a set of data. If the curve is shifted to the left or to the right, it is said to be skewed. Skewness can be quantified as a representation of the extent to which a given distribution varies from a normal distribution. A normal distribution has a skew of zero, while a lognormal distribution, for example, would exhibit some degree of right-skew.
+ 
+The three probability distributions depicted below are positively-skewed (or right-skewed) to an increasing degree. Negatively-skewed distributions are also known as left-skewed distributions. Skewness is used along with kurtosis to better judge the likelihood of events falling in the tails of a probability distribution.
+ 
+Besides positive and negative skew, distributions can also be said to have zero or undefined skew. In the curve of a distribution, the data on the right side of the curve may taper differently from the data on the left side. These taperings are known as "tails." Negative skew refers to a longer or fatter tail on the left side of the distribution, while positive skew refers to a longer or fatter tail on the right.
+ 
+The mean of positively skewed data will be greater than the median. In a distribution that is negatively skewed, the exact opposite is the case: the mean of negatively skewed data will be less than the median. If the data graphs symmetrically, the distribution has zero skewness, regardless of how long or fat the tails are.
+ 
+There are several ways to measure skewness. Pearson’s first and second coefficients of skewness are two common ones. Pearson’s first coefficient of skewness, or Pearson mode skewness, subtracts the mode from the mean and divides the difference by the standard deviation. Pearson’s second coefficient of skewness, or Pearson median skewness, subtracts the median from the mean, multiplies the difference by three and divides the product by the standard deviation.
+ 
+The formulae for Pearson's skewness are:
+ 
+﻿Sk1=X¯−Mos‾Sk2=3X¯−Mdswhere:Sk1=Pearson’s first coefficient of skewness and Sk2    the seconds=the standard deviation for the sampleX¯=is the mean valueMo=the modal (mode) value\begin{aligned} &\begin{gathered} Sk _1 = \frac {\bar{X} - Mo}{s} \\ \underline{\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\quad} \\ Sk _2 = \frac {3\bar{X} - Md}{s} \end{gathered}\\ &\textbf{where:}\\ &Sk_1=\text{Pearson's first coefficient of skewness and }Sk_2\\ &\qquad\ \ \ \text{ the second}\\ &s=\text{the standard deviation for the sample}\\ &\bar{X}=\text{is the mean value}\\ &Mo=\text{the modal (mode) value}\\ &Md=\text{is the median value} \end{aligned}​Sk1​=sX¯−Mo​​Sk2​=s3X¯−Md​​where:Sk1​=Pearson’s first coefficient of skewness and Sk2​    the seconds=the standard deviation for the sampleX¯=is the mean valueMo=the modal (mode) value​﻿
+ 
+Pearson’s first coefficient of skewness is useful if the data exhibit a strong mode. If the data have a weak mode or multiple modes, Pearson’s second coefficient may be preferable, as it does not rely on mode as a measure of central tendency.
+ 
+Investors note skewness when judging a return distribution because it, like kurtosis, considers the extremes of the data set rather than focusing solely on the average. Short- and medium-term investors in particular need to look at extremes because they are less likely to hold a position long enough to be confident that the average will work itself out.
+ 
+Investors commonly use standard deviation to predict future returns, but standard deviation assumes a normal distribution. As few return distributions come close to normal, skewness is a better measure on which to base performance predictions. This is due to skewness risk.
+ 
+Skewness risk is the increased risk of turning up a data point of high skewness in a skewed distribution. Many financial models that attempt to predict the future performance of an asset assume a normal distribution, in which measures of central tendency are equal. If the data are skewed, this kind of model will always underestimate skewness risk in its predictions. The more skewed the data, the less accurate this financial model will be.

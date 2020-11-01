@@ -1,0 +1,44 @@
+
+Crypto Trading Technologies, led by a group with experience in online brokerage, launched its Voyager app in mid-January for residents of the United States. Canadian residents will have access before the end of 2019. We have been using Voyager since it was in beta test and found that the app is remarkably easy to use, plus the trade execution engine seeks out the best available price across dozens of cryptocurrency exchanges.
+ 
+CEO Steve Ehrlich, a veteran of developing trading platforms for frequent equity and options traders, says that his firm launched an institutional trading service in October 2018. His firm has made connections to a variety of trading platforms and cryptocurrency broker-dealers around the globe, saying, “It’s extremely difficult to put together a network for crypto trading, but we’ve done it.” Their development strategy was to create an app that feels familiar to clients of online brokers, and also seeks out the best price for each trade. The members of his team hail from Lightspeed Trading, E*Trade, and Uber, among other previous employers.
+ 
+Trading on the Voyager IOS app is currently available to all U.S. residents, excluding New York state. Voyager executives are actively working with regulators to obtain a BitLicense to operate in New York and internationally later this year. The firm is working on an Android app, which it expects to launch by the end of 2019.
+ 
+After downloading the IOS app from the App Store, the new user goes through a registration process that will feel familiar to anyone who has opened an online brokerage or bank account. Even though cryptocurrency trading is very lightly regulated at present, Ehrlich and his team believe that there will be rules put in place in the near future that will be similar to the rules that govern online brokers. “We put a lot of credibility into the know-your-customer process, and we are making sure we are abiding by existing broker-dealer rules,” notes Ehrlich.
+ 
+Once your account is established, you can connect a bank account through Voyager’s partnership with Plaid, which verifies your bank account and allows cash transfers securely. It took me about 30 seconds to verify my checking account and initiate a transfer into my Voyager wallet. I was able to start trading as soon as the transfer was approved.  
+ 
+Customers can also transfer Bitcoin (BTC) and Ethereum (ETH) to their crypto accounts. Ehrlich says, "The addition of Bitcoin and Ethereum deposits and withdrawals has been very well received by the Voyager community, as its customer base, deposits and trade volume continue to grow exponentially." 
+ 
+You can log into your Voyager account using touch or face ID. The first screen you’ll see shows an overview of the currencies that you can trade. As of September 2019, there are 21 currencies available, and support for additional coins will be added as the exchanges are connected. You can look at the market data for each of the assets over the last hour, day, week, month, or year. The price and percent change columns can be sorted from high to low, or vice versa, with a tap. Prices update once a second, and an upward movement displays in green while a dropping price shows up in red. 
+ 
+Steve Capone, Voyager’s chief marketing officer, says, “We want to give customers tools that they are comfortable with from the brokerage side.” The quotes come from a feed called CryptoCompare, which is a complicated matrix that calculates an average across multiple markets.
+ 
+When you tap on the symbol for one of the coins, you’re presented with a line graph showing price movements over your chosen date range. You’ll also find some basic data, such as market capitalization, volumes, and high and low prices. At the bottom of the detail screen is a news feed and a description of the coin itself, including how it is mined. 
+ 
+Pressing “Buy” brings up a trade ticket. Put in the dollar amount you’d like to buy, and swipe the trade button to send the order to Voyager’s trading engine. At present, all orders on the platform are market orders, but Ehrlich says they plan to add limit and stop orders. You can tap on one of the pre-filled order buttons, or enter your own amount. There’s also a calculator to help you figure out the quantity you’ll get based on the dollar amount you trade.
+ 
+Certain coins have a minimum investment, which I discovered when I entered an order for $5 of Ripple (ticker: XRP). That order was rejected with the message that it requires a minimum of $10. It would be helpful to have trade minimums listed on the order page, to prevent order entry errors, especially when the market is moving quickly.
+ “Beating the market price is our core competency, and what we want to bring to this market.” 
+Once the trade is sent to market, Voyager connects to multiple exchanges to find the best execution. The order router, version 2,0 of Best Execution Dynamic Smart Crypto Order Routing Technology, was updated in August 2019 and executes orders against both the US Dollar, and Bitcoin.
+ 
+In many cases, including all the trades I placed while trying out the app, I received price improvement on the order. Ehrlich says, “Beating the market price is our core competency, and what we want to bring to this market.” Orders can sit on the books for a while if you send it to just a single trading venue; Voyager’s ability to access a variety of exchanges simultaneously means your order will get filled fairly quickly, even for thinly traded cryptocurrencies.
+ 
+After buying a coin, the detail display will also contain a “Sell” button. When you tap on Sell, you’re able to pick a percentage of your holdings, or close out the entire position.
+ 
+Trades on the app are free from commissions, but Voyager takes a little piece of the spread, which is the difference between the bid and ask prices. Ehrlich says, “The markets are very wide right now, so we can take a little slice without affecting our customer’s profitability. We seek out price improvement on every order.”
+ 
+The wallet functionality is powered through a partnership with Ethos, though down the road the firm expects to build its own solution. 
+ 
+The app contains a news feed that can be sorted by asset, and Voyager also provides a weekly market analysis.
+ 
+Clicking on the graph icon takes you back to the Markets page. You can trade cryptocurrencies around the clock since there’s no centralized exchange that sets market hours at present. 
+ 
+Ehrlich is a strong believer in devoting a piece of an investor’s portfolio to cryptocurrencies, to make sure your holdings are diversified. “We want to grow the population of people investing in cryptocurrencies and increase its adoption,” Ehrlich says. “Giving people access to this asset class is important, so we want to make it easy to get into this game. We are big believers in this space and in digitalization of assets.”
+ 
+Going forward, Ehrlich and Capone expect to see additional order types as well as advanced order types, such as bracket orders for managing a position. Other capabilities discussed include live alerts, advanced charting, and more tradable assets. They expect to offer pairs trading, which is a staple of forex trading, to the platform in the next year. 
+ 
+“We are bringing advanced functionality to this asset class,” asserts Ehrlich. “I look to the equity markets as a comparison and say: that can be done here.” He concludes, “We’re focused on being THE crypto broker for U.S. and eventually for the entire globe. We’re focused, we’re enthusiasts, we’re crypto crazy.”
+ 
+Sign up for access at Voyager's website.

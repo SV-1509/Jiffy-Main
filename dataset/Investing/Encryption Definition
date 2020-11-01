@@ -1,0 +1,18 @@
+
+Encryption is a means of securing digital data using an algorithm and a password—also called a key. The encryption process translates information using an algorithm that makes the original information unreadable; the process converts the original text, known as plaintext, into an alternative form known as ciphertext. When an authorized user needs to read the data, they may decrypt the data using a binary key. This will convert ciphertext back to plaintext so that the authorized user can access the original information.
+ 
+Encryption is an important way for individuals and companies to protect sensitive information from hacking. For example, websites that transmit credit card and bank account numbers should always encrypt this information to prevent identity theft and fraud.
+ 
+Encryption strength depends on the length of the encryption security key. In the latter quarter of the 20th century, web developers used either 40-bit encryption, which is a key with 240 possible permutations, or 56-bit encryption. However, by the end of the century, hackers could break those keys through brute-force attacks. This led to a 128-bit system as the standard encryption length for web browsers.
+ 
+The Advanced Encryption Standard (AES) is a protocol for data encryption created in 2001 by the U.S. National Institute of Standards and Technology. AES uses a 128-bit block size, and key lengths of 128, 192, and 256 bits.
+ 
+AES uses a symmetric-key algorithm. This means that the same key is used for both encrypting and decrypting the data. Asymmetric-key algorithms use different keys for the encryption and decryption processes.
+ 
+Today, 128-bit encryption is standard, but most banks, militaries, and governments use 256-bit encryption.
+ 
+In May 2018, the Wall Street Journal reported that, despite the importance and accessibility of encryption, many corporations still fail to encrypt sensitive data. By some estimates, companies encrypted only one-third of all sensitive corporate data in 2016—leaving the remaining two thirds sensitive to theft or fraud.
+ 
+Encryption makes it more difficult for a company to analyze its own data using either standard means or artificial intelligence. And being able to analyze data quickly can sometimes mean the difference between which of two competing companies gains a market advantage; this partly explains why companies resist encrypting data.
+ 
+Consumers should understand that encryption does not always protect data from hacking. For example, in 2013, hackers attacked Target Corporation and managed to compromise the information of up to 40 million credit cards. According to Target, the credit card information was encrypted, but the hackers’ sophistication still broke through the encryption. This hack was one of the largest breaches of its kind in U.S. history and it led to an investigation by the U.S. Secret Service and the Justice Department.

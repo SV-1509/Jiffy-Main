@@ -1,0 +1,74 @@
+
+Changing interest rates can have a significant impact on asset prices. If these asset prices do not change quickly enough to reflect the new interest rate, an arbitrage opportunity arises, which will be very quickly exploited by arbitrageurs around the world and vanish in short order. Since there are scores of trading programs and quantitative strategies that stand ready to swoop in and take advantage of any asset mispricing if it occurs, pricing inefficiencies and arbitrage possibilities such as those outlined here are very rare. That said, our objective here is to outline basic arbitrage strategies with the help of some simple examples.
+ 
+Note that we have only considered the impact of rising interest rates on asset prices in these examples. The following discussion focuses on arbitrage strategies with regard to three asset classes: fixed-income, options, and currencies.
+ 
+The price of a fixed-income instrument such as a bond is essentially the present value of its income streams, which consist of periodic coupon payments and repayment of principal at bond maturity. As is well known, bond prices and interest rates have an inverse relationship. As interest rates rise, bond prices fall so that their yields reflect the new interest rates; and as interest rates fall, bond prices rise.
+ 
+Let's consider a 5% corporate bond with standard semi-annual coupon payments and five years to maturity. The bond presently yields 3% annually (or 1.5% semi-annually, ignoring compounding effects to keep things simple). The price of the bond, or its present value, is $109.22 as shown in the table below (in the "Base Case" section).
+ 
+The present value can be easily calculated on an Excel spreadsheet using the PV function, as
+ 
+=PV(1.5%,10,-2.50,-100). Or on a financial calculator, plug in i=1.5%, n=10, PMT= -2.5, FV= -100, and solve for PV.
+ 
+Let's say that interest rates rise shortly, and the yield on a comparable bond is now 4%. The bond price should decline to $104.49 as shown in the column "Interest Rate Up."
+   Base Case Interest Rate Up Coupon Payment $2.50 $2.50 No. of payments (semi-annual) 10 10 Principal Amount (Par Value) $100 $100 Yield 1.50% 2.00% Present Value (PV) $109.22 $104.4 
+What if Trader Tom mistakenly shows the price of the bond as $105? This price reflects a yield to maturity of 3.89% annualized, rather than 4%, and presents an arbitrage opportunity.
+ 
+An arbitrageur would then sell the bond to Trader Tom at $105, and simultaneously buy it elsewhere at the actual price of $104.49, pocketing $0.51 in risk-free profit per $100 of principal. On $10 million par value of the bonds, that represents risk-free profits of $51,000.
+ 
+The arbitrage opportunity would disappear very quickly either because Trader Tom will realize his error and re-price the bond so that it correctly yields 4%; or even if he does not, he will lower his selling price because of the sudden number of traders who want to sell the bond to him at $105. Meanwhile, since the bond is also being bought elsewhere (so as to sell it to hapless Trader Tom), its price will rise in other markets. These prices will converge rapidly and the bond will soon trade very close to its fair value of $104.49.
+ 
+Although interest rates do not have a major effect on option prices in the environment of near-zero rates, an increase in interest rates would cause call option prices to rise, and put prices to decline. If these option premiums do not reflect the new interest rate, the fundamental put-call parity equation – which defines the relationship that must exist between call prices and put prices to avoid potential arbitrage – would be out of balance, presenting an arbitrage possibility.
+ 
+The put-call parity equation states that the difference between the prices of a call option and a put option should equal the difference between the underlying stock price and the strike price discounted to the present. In mathematical terms:
+ 
+﻿C−P=S−Ke−rTwhere:C=Call option priceP=Put option priceS=Underlying stock priceK=Strike pricer=Risk-free interest rateT=Time remaining to option expiration\begin{aligned} &C - P = S - Ke^{-rT} \\ &\textbf{where:}\\ &C = \text{Call option price} \\ &P = \text{Put option price} \\ &S = \text{Underlying stock price} \\ &K = \text{Strike price} \\ &r = \text{Risk-free interest rate} \\ &T = \text{Time remaining to option expiration} \\ \end{aligned}​C−P=S−Ke−rTwhere:C=Call option priceP=Put option priceS=Underlying stock priceK=Strike pricer=Risk-free interest rateT=Time remaining to option expiration​﻿
+ 
+Key assumptions here are that the options are of European style (i.e. only exercisable on the expiration date) and have the same expiration date, the strike price K is the same for both the call and the put, there are no transaction or other costs, and the stock pays no dividend. As T is the time remaining to expiration and “r” is the risk-free interest rate, the expression Ke-rT is merely the strike price discounted to the present at the risk-free rate.
+ 
+For a stock that pays a dividend, the put-call parity can be represented as:
+ 
+﻿C−P=S−D−Ke−rTwhere:D=Dividend paid by underlying stock\begin{aligned} &C - P = S - D - Ke^{-rT} \\ &\textbf{where:}\\ &D = \text{Dividend paid by underlying stock} \\ \end{aligned}​C−P=S−D−Ke−rTwhere:D=Dividend paid by underlying stock​﻿
+ 
+This is because the dividend payment reduces the value of the stock by the amount of the payment. When the dividend payment occurs before option expiration, it has the effect of reducing call prices and increasing put prices.
+ 
+Here's how an arbitrage opportunity could arise. If we rearrange the terms in the put-call parity equation, we have:
+ 
+﻿S+P−C=Ke−rT\begin{aligned} &S + P - C = Ke^{-rT} \\ \end{aligned}​S+P−C=Ke−rT​﻿
+ 
+In other words, we can create a synthetic bond by buying a stock, writing a call against it, and simultaneously buying a put (the call and put should have the same strike price). The total price of this structured product should equal the present value of the strike price discounted at the risk-free rate. (It is important to note that no matter what the stock price is on the option expiration date, the payoff from this portfolio is always equal to the strike price of the options.)
+ 
+If the price of the structured product (stock price + put purchase price – proceeds from writing the call) is quite different from the discounted strike price, there may be an arbitrage opportunity. Note that the price difference should be large enough to justify putting on the trade, since minimal differences cannot be exploited due to real world costs such as bid-ask spreads.
+ 
+For example, if one purchases hypothetical stock Pear Inc. for $50, writes a $55 one-year call on it to receive $1.14 in premium, and buys a one-year $55 put at $6 (we assume no dividend payments for the sake of simplicity), is there an arbitrage opportunity here?
+ 
+In this case, the total outlay for the synthetic bond is $54.86 ($50 + $6 – $1.14). The present value of the $55 strike price, discounted at the one-year U.S. Treasury rate (a proxy for the risk-free rate) of 0.25%, is also $54.86. Clearly, put-call parity holds and there is no arbitrage possibility here.
+ 
+But what if interest rates were to rise to 0.50%, causing the one-year call to rise to $1.50 and the one-year put to decline to $5.50? (Note: the actual price change would be different, but we have exaggerated it here to demonstrate the concept.) In this case, the total outlay for the synthetic bond is now $54, while the present value of the $55 strike price discounted at 0.50% is $54.73. So there is indeed an arbitrage opportunity here.
+ 
+Therefore, because the put-call parity relationship does not hold, one would buy Pear Inc. at $50, write a one-year call to receive $1.50 in premium income, and simultaneously buy a put at $5.50. The total outlay is $54, in exchange for which you receive $55 when the options expire in one year, no matter at what price Pear is trading. The Table below shows why, based on two scenarios for the price of Pear Inc. at option expiration – $40 and $60.
+ 
+Investing $54 and receiving $55 in riskless profits after one year equates to a return of 1.85%, compared with the new one-year Treasury rate of 0.50%. The arbitrageur has thus squeezed an extra 135 basis points (1.85% – 0.50%) by exploiting the put-call parity relationship.
+ 
+Payoffs at Expiration in One Year
+     Pear @$40 Pear @$60 Buy Pear stock $50.00 $40.00 $60.00 Write $55 Call  -$1.50 $0.00 -$5.00 Buy $55 Put $5.50 $15.00 $0.00 Total $54.00 $55.00 $55.00 
+Forward exchange rates reflect interest rate differentials between two currencies. If interest rates change but the forward rates do not instantaneously reflect the change, an arbitrage opportunity may arise.
+ 
+For instance, assume exchange rates for the Canadian dollar vs. the U.S. dollar are currently 1.2030 spot and 1.2080 one-year forward. The forward rate is based on a Canadian one-year interest rate of 0.68% and a U.S. one-year rate of 0.25%. The difference between the spot and forward rates is known as swap points and amounts to 50 in this case (1.2080 – 1.2030).
+ 
+Let's assume the U.S. one-year rate climbs to 0.50%, but instead of changing the one-year forward rate to 1.2052 (assuming the spot rate is unchanged at 1.2030), Trader Tom (who's having a really bad day) leaves it at 1.2080.
+ 
+In this case, the arbitrage could be exploited in two ways:
+ 
+- Borrow C$1.2030 million at 0.68% for one year. The total repayment obligation would be C$1,211,180.
+ 
+- Convert the borrowed amount of C$1.2030 million into USD at the spot rate of 1.2030.
+ 
+- Place this US$1 million on deposit at 0.50%, and simultaneously enter into a one-year forward contract with Trader Tom to convert the maturity amount of the deposit (US$1,005,000) into Canadian dollars, at Tom's one-year forward rate of 1.2080.
+ 
+- After one year, settle the forward contract with Trader Tom by handing over US$1,005,000 and receiving Canadian dollars at the contracted rate of 1.2080, which would result in proceeds of C$1,214,040.
+ 
+- Repay the C$ loan principal and interest of C$1,211,180, and retain the difference of C$2,860 (C$1,214,040 – C$1,211,180).
+ 
+Changes in interest rates can give rise to asset mispricing. While these arbitrage opportunities are short-lived, they can be very lucrative for the traders who capitalize on them.

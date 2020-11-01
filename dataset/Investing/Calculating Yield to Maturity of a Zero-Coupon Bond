@@ -1,0 +1,25 @@
+
+Zero-coupon bonds do not have reoccurring interest payments, which distinguishes yield to maturity calculations from bonds with a coupon rate.
+ 
+The formula for calculating the yield to maturity on a zero-coupon bond is:
+ 
+Yield To Maturity=(Face Value/Current Bond Price)^(1/Years To Maturity)−1
+ 
+Consider a $1,000 zero-coupon bond that has two years until maturity. The bond is currently valued at $925, the price at which it could be purchased today. The formula would look as follows: (1000/925)^(1/2)-1. When solved, this equation produces a value of 0.03975, which would be rounded and listed as a yield of 3.98%.
+ 
+Time value of money formulas usually require interest rate figures for each point in time. This consequently renders the yield to maturity easier to calculate for zero-coupon bonds. There are no coupon payments to reinvest, making it equivalent to the normal rate of return on the bond.
+ 
+The yield to maturity may change from one year to the next. It depends on changes in the overall prices in the bond market. For example, suppose that investors become more willing to hold bonds due to economic uncertainty. Then bond prices would likely rise, which would spike the denominator in the yield to maturity formula, thereby reducing the yield.
+ 
+Yield to maturity is an essential investing concept used to compare bonds of different coupons and times until maturity. Without accounting for any interest payments, zero-coupon bonds always demonstrate yields to maturity equal to their normal rates of return. The yield to maturity for zero-coupon bonds is also known as the spot rate.
+ 
+Zero-coupon bonds trade on the major exchanges. They are commonly issued by corporations, state and local governments, and the U.S. Treasury. Corporate zero-coupon bonds are usually riskier than similar coupon-paying bonds. If the issuer defaults on a zero-coupon bond, the investor has not even received coupon payments, so the potential losses are higher.
+ 
+The IRS mandates a zero-coupon bondholder owes income tax that has accrued each year, even though the bondholder does not actually receive the cash until maturity.﻿﻿ This is called imputed interest.
+ 
+Zero-coupon bonds often mature in ten years or more, so they can be long-term investments. The lack of current income provided by zero-coupon bonds discourages some investors. Others find the securities well suited for achieving long-term financial goals, such as saving for a child's college expenses. With the discounts, the investor can grow a small amount of money into a substantial sum over several years.
+ 
+Zero-coupon bonds essentially lock the investor into a guaranteed reinvestment rate. This arrangement can be most advantageous when interest rates are high and when placed in tax-advantaged retirement accounts. Some investors also avoid paying taxes on imputed interest by buying zero-coupon municipal bonds. They are usually tax-exempt if the investor lives in the state where the bond was issued.﻿﻿
+ 
+With no coupon payments on zero-coupon bonds, their value is entirely based on the current price compared to face value. As such, when interest rates are falling, prices are positioned to rise faster than traditional bonds, and vice versa. That can make zero-coupon bonds, especially zero-coupon Treasuries, an effective hedge for stock portfolios.
+ Internal Revenue Service. "Publication 1212 (01/2020), Guide to Original Issue Discount (OID) Instruments." Accessed Sept. 26, 2020. U.S. Securities and Exchange Commission. "Zero Coupon Bonds." Accessed Sept. 26, 2020.

@@ -1,0 +1,43 @@
+
+Companies that need to raise additional capital can do so by issuing additional shares of stock. However, these additional shares will dilute the value of existing shares, which can be a concern for shareholders. Some companies, therefore, choose to issue rights or warrants as an alternative means of generating capital. These instruments give shareholders the preemptive right to purchase additional shares of stock directly from the company, typically at a discounted price. 
+ 
+Stock rights are instruments issued by companies to provide current shareholders with the opportunity to preserve their fraction of corporate ownership. A single right is issued for each share of stock, and each right can typically purchase a fraction of a share, so that multiple rights are required to purchase a single share.
+ 
+The underlying stock will trade with the right attached immediately after the right is issued, which is referred to as "rights on." Then the right will detach from the stock and trade separately, and the stock then trades "rights off" until the rights expire. Rights are short-term instruments that expire quickly, usually within 30-60 days of issuance. The exercise price of rights is always set below the current market price, and no commission is charged for their redemption.
+ 
+Warrants are long-term instruments that also allow shareholders to purchase additional shares of stock at a discounted price, but they are typically issued with an exercise price above the current market price. A waiting period of perhaps six months to a year is thus assigned to warrants, which gives the stock price time to raise enough to exceed the exercise price and provide intrinsic value. Warrants are usually offered in conjunction with fixed income securities and act as a "sweetener," or financial enticement to purchase a bond or preferred stock.
+ 
+A single warrant can usually purchase a single share of stock, although they are structured to purchase more or less than this in some instances. Warrants have also been used on rare occasions to purchase other types of securities such as preferred offerings or bonds. Warrants differ from rights in that they must be purchased from a broker for a commission and usually qualify as marginable securities.
+ 
+Both rights and warrants conceptually resemble publicly traded call options in some respects. The value of all three instruments inherently depends on the underlying stock price. They also resemble market options in that they have no voting rights and do not pay dividends or offer any form of claim on the company.
+ 
+Rights and warrants differ from market options in that they are initially issued only to existing shareholders, although a secondary market typically springs up that allows other buyers to acquire these securities.
+ 
+Shareholders who receive rights and warrants have four options available to them:
+ 
+The final option listed here is never a wise one for investors. If the current market price of the stock exceeds the exercise price, then investors who do not wish to exercise them should always sell them in the secondary market to receive their intrinsic value. However, many uneducated stockholders who do not understand the value of their rights do this on a regular basis.
+ 
+As with market options, the stock's market price could fall below the exercise price, at which point the rights or warrants would become worthless. Rights and warrants also become worthless upon expiration regardless of where the underlying stock is trading. The values for stock rights and warrants are determined in much the same way as for market options. They have both intrinsic value, which is equal to the difference between the market and exercise prices of the stock, and time value, which is based on the stock’s potential to rise in price before the expiration date.
+ 
+Both types of securities will become worthless upon expiration regardless of the current price of the underlying stock. They will also lose their intrinsic value if the market price of the stock drops below their exercise or subscription price. For this reason, companies must set the exercise prices on these issues carefully to minimize the chance that the entire offering fails. However, rights and warrants can also provide substantial gains for shareholders in the same manner as do call options if the price of the underlying stock rises.
+ 
+The formula used to determine the value of a stock right is:
+ 
+﻿Right Value=Current Price−Subscription PriceRights Neededwhere:Current Price=Current market price of stockSubscription Price=Exercise price of new stockRights Needed=Number of rights needed to buyone new share\begin{aligned} &\text{Right Value} = \frac{ \text{Current Price} -\text{Subscription Price} }{ \text{Rights Needed} } \\ &\textbf{where:} \\ &\text{Current Price} = \text{Current market price of stock} \\ &\text{Subscription Price} = \text{Exercise price of new stock} \\ &\text{Rights Needed} = \text{Number of rights needed to buy} \\ &\text{one new share} \\ \end{aligned}​Right Value=Rights NeededCurrent Price−Subscription Price​where:Current Price=Current market price of stockSubscription Price=Exercise price of new stockRights Needed=Number of rights needed to buyone new share​﻿
+ 
+For example, if the current market price of current outstanding shares is $60, the subscription price of new stock is $50, and the number of rights needed to buy one new share of stock is $5:
+ 
+﻿Right Value=$60−$505=$2\begin{aligned} &\text{Right Value} = \frac{ \$60 -\$50 }{ 5 } = \$2 \\ \end{aligned}​Right Value=5$60−$50​=$2​﻿
+ 
+The formula for determining a warrant's value is:
+ 
+﻿Warrant Value=Current Price−Subscription PriceWarrants Neededwhere:Current Price=Current market price of stockSubscription Price=Exercise price of new warrantsRights Needed=Number of shares that can bepurchased with one warrant\begin{aligned} &\text{Warrant Value} = \frac{ \text{Current Price} -\text{Subscription Price} }{ \text{Warrants Needed} } \\ &\textbf{where:} \\ &\text{Current Price} = \text{Current market price of stock} \\ &\text{Subscription Price} = \text{Exercise price of new warrants} \\ &\text{Rights Needed} = \text{Number of shares that can be} \\ &\text{purchased with one warrant} \\ \end{aligned}​Warrant Value=Warrants NeededCurrent Price−Subscription Price​where:Current Price=Current market price of stockSubscription Price=Exercise price of new warrantsRights Needed=Number of shares that can bepurchased with one warrant​﻿
+ 
+For example, if the current market price of a stock is $45, the subscription price of a warrant is $30, and the number of stock shares a single warrant can buy is 1:
+ 
+﻿Warrant Value=$45−$301=$15\begin{aligned} &\text{Warrant Value} = \frac{ \$45 -\$30 }{ 1 } = \$15 \\ \end{aligned}​Warrant Value=1$45−$30​=$15​﻿
+ 
+Rights and warrants are taxed in the same manner as any other security. The difference between the exercise and sale prices of these securities is taxed as a long- or short-term gain. Any gain or loss realized from trading rights or warrants in the secondary market is taxed in the same manner (except that all gains and losses will be short-term).﻿﻿
+ 
+Rights and warrants can allow current shareholders to purchase additional shares at a discount and maintain their share of ownership in the company. However, neither of these instruments is used much today, as stock and market options have become much more popular. For more information on rights and warrants, consult your stockbroker or financial advisor.
+ Internal Revenue Service. "Publication 550: Investment Income and Expenses," Pages 49-49. Accessed April 20, 2020.

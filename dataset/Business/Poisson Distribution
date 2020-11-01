@@ -1,0 +1,8 @@
+
+In statistics, a Poisson distribution is a statistical distribution that shows how many times an event is likely to occur within a specified period of time. It is used for independent events which occur at a constant rate within a given interval of time.
+ 
+The Poisson distribution is a discrete function, meaning that the event can only be measured as occurring or not as occurring, meaning the variable can only be measured in whole numbers. Fractional occurrences of the event are not a part of the model. it was named after French mathematician Siméon Denis Poisson.
+ 
+A Poisson distribution can be used to estimate how likely it is that something will happen "X" number of times. For example, if the average number of people who rent movies on a Friday night at a single video store location is 400, a Poisson distribution can answer such questions as, "What is the probability that more than 600 people will rent movies?" Therefore, application of the Poisson distribution enables managers to introduce optimal scheduling systems.
+ 
+One of the most famous historical, practical uses of the Poisson distribution was estimating the annual number of Prussian cavalry soldiers killed due to horse-kicks. Other modern examples include estimating the number of car crashes in a city of a given size; in physiology, this distribution is often used to calculate the probabilistic frequencies of different types of neurotransmitter secretions.

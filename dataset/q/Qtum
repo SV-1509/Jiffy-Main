@@ -1,0 +1,14 @@
+
+Qtum is a cryptocurrency that combines ethereum’s smart contract functionality with bitcoin’s security to create a coin that is suitable for adoption by large organizations. 
+ 
+According to the whitepaper released by its founders, Qtum is the first “UTXO-based smart contract system with a proof-of-stake (PoS) consensus model.”
+ 
+In simple terms, this means that it adds unspent coins from multiple transactions into the user wallet and selects the next creator node based on the number of coins held by each node. This helps to accomplish two objectives. The first one is security.
+ 
+As several incidents have shown over the years, Ethereum’s blockchain is susceptible to hacks.
+ 
+Bitcoin, on the other hand, has proved to be relatively secure. The second objective is to make it easy to mine new coins. Bitcoin’s Proof-of-Work algorithm is resource-intensive. A Proof-of-Stake algorithm simplifies the process to generate a new block and consumes much less power as compared to bitcoin.
+ 
+Qtum uses bitcoin core code, which uses UTXO principles, that is run on a machine running an Ethereum Virtual Machine, which uses an account-based model. Qtum accomplishes the communication between does this using an Account Abstraction Layer (AAL) that hides the identities of transacting parties.
+ 
+To better ensure industry adoption, Qtum has plans to develop a layer for smart-contract specifications. The developers behind Qtum state that the layer would have a better security as compared to a similar layer on Ethereum.

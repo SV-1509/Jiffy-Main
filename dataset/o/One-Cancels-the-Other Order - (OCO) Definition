@@ -1,0 +1,14 @@
+
+A one-cancels-the-other order (OCO) is a pair of conditional orders stipulating that if one order executes, then the other order is automatically canceled. An OCO order often combines a stop order with a limit order on an automated trading platform. When either the stop or limit price is reached and the order executed, the other order automatically gets canceled. Experienced traders use OCO orders to mitigate risk and to enter the market.
+ 
+OCO orders may be contrasted with order-sends-order (OSO) conditions that trigger, rather than cancel, a second order.
+ 
+Traders can use OCO orders to trade retracements and breakouts. If a trader wanted to trade a break above resistance or below support, they could place an OCO order that uses a buy stop and sell stop to enter the market.
+ 
+For example, if a stock is trading in a range between $20 and $22, a trader could place an OCO order with a buy stop just above $22 and a sell stop just below $20. Once the price breaks above resistance or below support, a trade is executed and the corresponding stop order is canceled. Conversely, if a trader wanted to use a retracement strategy that buys at support and sells at resistance, they could place an OCO order with a buy limit order at $20 and a sell limit order at $22.
+ 
+If OCO orders are used to enter the market, the trader needs to manually place a stop loss order once the trade gets executed. The Time In Force for OCO orders should be identical, meaning that the timeframe specified for execution of both stop and limit orders should be the same.
+ 
+Suppose an investor owns 1,000 shares of a volatile stock that is trading at $10. The investor expects this stock to trade in a wide range in the near term, and has a target of $13; for risk mitigation, he or she does not want to lose more than $2 per share. The investor could, therefore, place an OCO order, which would consist of a stop-loss order to sell 1,000 shares at $8, and a simultaneous limit order to sell 1,000 shares at $13, whichever occurs first. These orders could either be day orders or good-till-canceled orders.
+ 
+If the stock trades up to $13, the limit order to sell executes, and the investor's holding of 1,000 shares gets sold at $13. Concurrently, the $8 stop-loss order gets automatically canceled by the trading platform. If the investor places these orders independently, there is a risk that they might forget to cancel the stop-loss order, which could result in an unwanted short position of 1,000 shares if the stock subsequently trades down to $8.

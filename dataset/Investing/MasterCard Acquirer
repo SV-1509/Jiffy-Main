@@ -1,0 +1,16 @@
+
+A MasterCard acquirer is a merchant bank or other financial institution that accepts and processes transactions made with a MasterCard credit card. MasterCard partners with institutions all over the world to offer MasterCard branded network payment cards.
+ 
+MasterCard payment cards exclusively use the MasterCard network for processing all transaction communications. Payment cards may be credit, debit, or prepaid cards.
+ 
+A MasterCard acquirer is a business that is licensed to work with merchants, process and settle transactions, and resolve issues involving transactions. The MasterCard acquirer works with issuers to ensure that a payment card transaction is authorized.
+ 
+When a MasterCard payment card is swiped by a cardholder, it sets off a series of steps that are designed to authorize the transaction. Once the card is swiped, a request is made to the MasterCard acquirer, which in turn places a request to the card issuer, not MasterCard, to authorize the transaction. If the cardholder’s account has sufficient funds an authorization code is sent from the card issuer to the acquirer, who then authorizes the transaction to be made by the merchant.
+ 
+PCI compliance is an important priority for MasterCard and its acquirers. MasterCard offers a training program for acquirers, called the PCI 360 Education Program. This program helps acquirers engage with merchants to strengthen and expand the enforcement of PCI Security Standards.
+ 
+MasterCard acquirers provide a number of services that are designed to help allow a merchant to accept MasterCard payment cards. The acquirer is ultimately responsible for building a PCI compliant system for managing card and financial information, which involves ensuring that transactions and card information are secure. Because the acquirer works with the merchants running MasterCard transactions, they should ensure that the merchants understand how to keep transactions secure and PCI compliant.
+ 
+MasterCard acquirers also work with the merchants using their services to ensure that they have chosen the correct merchant level, which is based on the volume of transactions. The merchant level may change over time according to the needs of the business.
+ 
+The amount that a merchant receives from a payment made by credit card is less than the amount that the card was charged. This is because both the credit card issuer and the MasterCard acquirer subtract fees for their services. The fee subtracted by the issuer is called the interchange fee, and the fee subtracted by the acquirer is called the discount rate. MasterCard imposes an acquirer license fee that businesses must pay as part of the expense involved with credit card processing. This is just one example of the variety of fees that a business when they accept MasterCard, or any other credit card, as payment for products or services sold at their business.

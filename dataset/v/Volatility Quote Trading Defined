@@ -1,0 +1,18 @@
+
+Volatility quote trading is the practice of quoting option contracts in terms of their implied volatilities, rather than their bid and ask prices.
+ 
+More generally, volatility quote trading can refer to the practice of making investment decisions based on the anticipated future volatility of the securities involved.
+ 
+Generally, traders make investment decisions by considering whether the current price of a security is reasonable as compared to its intrinsic value or predicted future price. However, some investors are less concerned with the price of a security. Instead, they focus on how much volatility the security is likely to experience in the future.
+ 
+In the options market, traders who adopt a volatility trading strategy will sometimes assess options based primarily on their implied volatilities, rather than their quoted prices. All else being equal, an option is more valuable if its underlying asset is highly volatile. This is because more volatile assets are more likely to render the option "in the money," therefore making them profitable to the option holder.
+ 
+As with any financial asset, the price of an options contract fluctuates based on supply and demand. By using formulas such as the Black Scholes Model, options trading platforms will list the implied volatility of options. That is, they will display the volatility that the buyers and sellers of that option implicitly assume will occur in the future, based on their patterns of buying and selling in that security.
+ 
+Traders who believe that the implied volatility of a given option is unrealistically low might seek to profit by purchasing that option. This would be an example of volatility quote trading in the options market.
+ 
+A related but distinct concept is volatility arbitrage, which involves attempting to calculate the difference between the anticipated future volatility of a stock or other asset and the implied volatility of options that are connected to that underlying asset. If a significant divergence is detected, the trader may seek to exploit the arbitrage opportunity by buying and selling between these two assets.
+ It is important to remember that, as with any model, the Black Scholes Model relies on simplifying assumptions that can cause it to deviate with reality under some conditions. For instance, it assumes that no dividends are paid in relation to the option, and that the option is traded with zero transaction costs. 
+Emma is an options trader who is considering buying a put option whose underlying asset is the popular SPDR S&P 500 ETF. When researching the security on Oct. 2019, she notes that the market price of the underlying asset is $290.
+ 
+After examining the put options that expire on Sept. 18, 2020, she finds a contract with a strike price of $200, which is trading at an ask price of $2.66 per contract. According to her calculations, this works out to an implied volatility of just over 28%. Because Emma is convinced that there will likely be higher levels of volatility in this asset, she concludes that the option is undervalued and initiates a long position.

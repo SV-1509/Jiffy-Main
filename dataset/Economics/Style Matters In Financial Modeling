@@ -1,0 +1,44 @@
+
+Let's say you're perusing the want ads and come upon an ad for an equity analyst. The pay is great; there are travel opportunities. It looks like the job for you. Glancing down the list of qualifications, you mentally check off each one:
+ 
+The truth is, when companies want their equity analysts to have modeling experience they don't care how photogenic they are. What the term refers to is an important and complicated part of equity analysis known as financial modeling. In this article, we'll explore what a financial model is and how to create one.
+ 
+Theoretically, a financial model is a set of assumptions about future business conditions that drive projections of a company's revenue, earnings, cash flows, and balance sheet accounts.
+ 
+In practice, a financial model is a spreadsheet (usually in Microsoft's Excel software) that analysts use to forecast a company's future financial performance. Properly projecting earnings and cash flows into the future is important since the intrinsic value of a stock depends largely on the outlook for financial performance of the issuing company.
+ 
+A financial model spreadsheet usually looks like a table of financial data organized into fiscal quarters and/or years. Each column of the table represents the balance sheet, income statement, and cash flow statement of a future quarter or year. The rows of the table represent all the line items of the company's financial statements, such as revenue, expenses, share count, capital expenditures and balance sheet accounts. Like financial statements, one generally reads the model from the top to the bottom or revenue through earnings and cash flows.
+ 
+Each quarter embeds a set of assumptions for that period, like the revenue growth rate, the gross margin assumption, and the expected tax rate. These assumptions are what drive the output of the model - generally, earnings and cash flow figures that are used to value the company or help in making financing decisions for the company.
+ 
+When trying to predict the future, a good place to start is the past. Therefore, a good first step in building a model is to fully analyze a set of historical financial data and link projections to the historical data as a base for the model. If a company has generated gross margins in the 40% to 45% range for the past ten years, then it might be acceptable to assume that, with other things being equal, a margin of this level is sustainable into the future.
+ 
+Consequently, the historical track record of gross margin can become somewhat of a basis for a future income projection. Analysts are always smart to examine and analyze historical trends in revenue growth, expenses, capital expenditures, and other financial metrics before attempting to project financial results into the future. For this reason, financial model spreadsheets usually incorporate a set of historical financial data and related analytical measures from which analysts derive assumptions and projections.
+ 
+Revenue growth rate assumptions can be one of the most important assumptions in a financial model. Small variances in top-line growth can mean big variances in earnings per share (EPS) and cash flows and therefore stock valuation. For this reason, analysts must pay a lot of attention to getting the top-line projection right. A good starting point is to look at the historic track record of revenue. Perhaps revenue is stable from year to year. Perhaps it is sensitive to changes in national income or other economic variables over time. Perhaps growth is accelerating, or maybe the opposite is true. It is important to get a feel for what has affected revenue in the past in order to make a good assumption about the future.
+ 
+Once one has examined the historic trend, including what's been going on in the most recently reported quarters, it is wise to check if management has given revenue guidance, which is management's own outlook for the future. From there analyze if the outlook is reasonably conservative, or optimistic based on a thorough analytical overview of the business.
+ 
+A future quarter's revenue projection is frequently driven by a formula in the worksheet such as:
+ 
+﻿R1=R0×(1+g)where:R1=future revenueR0=current revenueg=percentage growth rate\begin{aligned} &R_1=R_0 \times (1 + g) \\ &\textbf{where:}\\ &R_1=\text{future revenue}\\ &R_0=\text{current revenue}\\ &g=\text{percentage growth rate}\\ \end{aligned}​R1​=R0​×(1+g)where:R1​=future revenueR0​=current revenueg=percentage growth rate​﻿
+ 
+Again, the historic trend is a good place to start when forecasting expenses. Acknowledging that there are big differences between the fixed costs and variable costs incurred by a business, analysts are smart to consider both the dollar amount of costs and their proportion of revenue over time. If selling, general and administrative (SG&A) expense has ranged between 8% and 10% of revenue in the past ten years, then it is likely to fall into that range in the future. This could be the basis for a projection - again tempered by management's guidance and an outlook for the business as a whole. If business is improving rapidly, reflected by the revenue growth assumption, then perhaps the fixed cost element of SG&A will be spread over a larger revenue base and the SG&A expense proportion will be smaller next year than it is right now. That means that margins are likely to increase, which could be a good sign for equity investors.
+ 
+Expense-line assumptions are often reflected as percentages of revenue and the spreadsheet cells containing expense items usually have formulas such as:
+ 
+﻿E1=R1×pwhere:E1=expenseR1=revenue for the periodp=expense percentage of revenue for the period\begin{aligned} &E_1=R_1 \times p \\ &\textbf{where:}\\ &E_1=\text{expense}\\ &R_1=\text{revenue for the period}\\ &p=\text{expense percentage of revenue for the period}\\ \end{aligned}​E1​=R1​×pwhere:E1​=expenseR1​=revenue for the periodp=expense percentage of revenue for the period​﻿
+ 
+For an industrial company, non-operating expenses are primarily interest expense and income taxes. The important thing to remember when projecting interest expense is that it is a proportion of debt and is not explicitly tied to operational income streams. An important analytical consideration is the current level of total debt owed by the company. Taxes are generally not linked to revenue, but rather pre-tax income. The tax rate that a company pays can be affected by a number of factors such as the number of countries in which it operates. If a company is purely domestic, then an analyst might be safe using the state tax rate as a good assumption in projections. Once again, it is useful to look at the historic track record in these line items as a guide for the future.
+ 
+Projected net income available for common shareholders is projected revenue minus projected expenses.
+ 
+Projected earnings per share (EPS) is this figure divided by the projected fully diluted shares outstanding figure. Earnings and EPS projections are generally considered primary outcomes of a financial model because they are frequently used to value equities or generate target prices for a stock.
+ 
+To calculate a one-year target price, the analyst can simply look to the model to find the EPS figure for four quarters in the future and multiply it by an assumed P/E multiple. The projected return from the stock (excluding dividends) is the percentage difference from that target price to the current price:
+ 
+﻿Projected return=(T−P)Twhere:T=target priceP=current price\begin{aligned} &\text{Projected return}=\frac{(T-P)}{T} \\ &\textbf{where:}\\ &T=\text{target price}\\ &P=\text{current price}\\ \end{aligned}​Projected return=T(T−P)​where:T=target priceP=current price​﻿
+ 
+Now the analyst has a simple basis for making an investment decision - the expected return on the stock.
+ 
+Since the present value of a stock is inextricably linked to the outlook for financial performance of the issuer, investors are wise to create some form of financial projection to evaluate equity investments. Examining the past in an analytical context is only half the story (or less). Developing an understanding of how a company's financial statements might look in the future is often the key to equity valuation.

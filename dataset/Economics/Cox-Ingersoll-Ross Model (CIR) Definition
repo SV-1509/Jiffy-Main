@@ -1,0 +1,10 @@
+
+The Cox-Ingersoll-Ross model (CIR) is a mathematical formula used to model interest rate movements and is driven by a sole source of market risk. It is used as a method to forecast interest rates and is based on a stochastic differential equation.
+ 
+The Cox-Ingersoll-Ross (CIR) model was developed in 1985 by John C. Cox, Jonathan E. Ingersoll and Stephen A. Ross as an offshoot of the Vasicek Interest Rate model.
+ 
+The Cox-Ingersoll-Ross model determines interest rate movements as a product of current volatility, the mean rate and spreads. Then, it introduces a market risk element. The square root element does not allow for negative rates and the model assumes mean reversion towards a long-term normal interest rate level. The Cox-Ingersoll-Ross model is often used in the valuation of interest rate derivatives.
+ 
+Like the Cox-Ingersoll-Ross model, the Vasicek model is also a one-factor modeling method. However, the Vasicek model allows for negative interest rates as it does not include a square root component.
+ 
+It was long thought that the inability of the model to produce negative rates was a big advantage of the Cox-Ingersoll-Ross model over the Vasicek model, but in recent years as many European central banks have introduced negative rates this stance has been rethought.

@@ -1,0 +1,50 @@
+
+The Rule of 72 is a simple way to determine how long an investment will take to double given a fixed annual rate of interest. By dividing 72 by the annual rate of return, investors obtain a rough estimate of how many years it will take for the initial investment to duplicate itself.
+ 
+For example, the Rule of 72 states that $1 invested at an annual fixed interest rate of 10% would take 7.2 years ((72/10) = 7.2) to grow to $2. In reality, a 10% investment will take 7.3 years to double ((1.107.3 = 2).
+ 
+The Rule of 72 is reasonably accurate for low rates of return. The chart below compares the numbers given by the Rule of 72 and the actual number of years it takes an investment to double.
+ 
+Notice that although it gives an estimate, the Rule of 72 is less precise as rates of return increase. 
+ 
+The Rule of 72 can estimate compounding periods using natural logarithms. In mathematics, the logarithm is the opposite concept of a power; for example, the opposite of 10³ is log base 10 of 1,000.
+ 
+﻿Rule of 72=ln(e)=1where:e=2.718281828\begin{aligned} &\text{Rule of 72} = ln(e) = 1\\ &\textbf{where:}\\ &e = 2.718281828\\ \end{aligned}​Rule of 72=ln(e)=1where:e=2.718281828​﻿
+ e is a famous irrational number similar to pi. The most important property of the number e is related to the slope of exponential and logarithm functions, and it's first few digits are 2.718281828. 
+The natural logarithm is the amount of time needed to reach a certain level of growth with continuous compounding.
+ 
+The time value of money (TVM) formula is the following:
+ 
+﻿Future Value=PV×(1+r)nwhere:PV=Present Valuer=Interest Raten=Number of Time Periods\begin{aligned} &\text{Future Value} = PV \times (1+r)^n\\ &\textbf{where:}\\ &PV = \text{Present Value}\\ &r = \text{Interest Rate}\\ &n = \text{Number of Time Periods}\\ \end{aligned}​Future Value=PV×(1+r)nwhere:PV=Present Valuer=Interest Raten=Number of Time Periods​﻿
+ 
+To see how long it will take an investment to double, state the future value as 2 and the present value as 1.
+ 
+﻿2=1×(1+r)n2 = 1 \times (1 + r)^n2=1×(1+r)n﻿
+ 
+Simplify, and you have the following:
+ 
+﻿2=(1+r)n2 = (1 + r)^n2=(1+r)n﻿
+ 
+To remove the exponent on the right-hand side of the equation, take the natural log of each side:
+ 
+﻿ln(2)=n×ln(1+r)ln(2) = n \times ln(1 + r)ln(2)=n×ln(1+r)﻿
+ 
+This equation can be simplified again because the natural log of (1 + interest rate) equals the interest rate as the rate gets continuously closer to zero. In other words, you are left with:
+ 
+﻿ln(2)=r×nln(2) = r \times nln(2)=r×n﻿
+ 
+The natural log of 2 is equal to 0.693 and, after dividing both sides by the interest rate, you have:
+ 
+﻿0.693/r=n0.693/r = n0.693/r=n﻿
+ 
+By multiplying the numerator and denominator on the left-hand side by 100, you can express each as a percentage. This gives:
+ 
+﻿69.3/r%=n69.3/r\% = n69.3/r%=n﻿
+ 
+The Rule of 72 is more accurate if it is adjusted to more closely resemble the compound interest formula—which effectively transforms the Rule of 72 into the Rule of 69.3.
+ 
+Many investors prefer to use the Rule of 69.3 rather than the Rule of 72. For maximum accuracy—particularly for continuous compounding interest rate instruments—use the Rule of 69.3.
+ 
+The number 72 has many convenient factors including two, three, four, six, and nine. This convenience makes it easier to use the Rule of 72 for a close approximation of compounding periods.
+ 
+The calculation of the Rule of 72 in Matlab requires running a simple command of "years = 72/return," where the variable "return" is the rate of return on investment and "years" is the result for the Rule of 72. The Rule of 72 is also used to determine how long it takes for money to halve in value for a given rate of inflation. For example, if the rate of inflation is 4%, a command "years = 72/inflation" where the variable inflation is defined as "inflation = 4" gives 18 years.

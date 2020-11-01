@@ -1,0 +1,47 @@
+
+Since William Sharpe's creation of the Sharpe ratio in 1966, it has been one of the most referenced risk/return measures used in finance, and much of this popularity is attributed to its simplicity.﻿﻿ The ratio's credibility was boosted further when Professor Sharpe won a Nobel Memorial Prize in Economic Sciences in 1990 for his work on the capital asset pricing model (CAPM).﻿﻿
+ 
+In this article, we'll break down the Sharpe ratio and its components.
+ 
+Most finance people understand how to calculate the Sharpe ratio and what it represents. The ratio describes how much excess return you receive for the extra volatility you endure for holding a riskier asset.﻿﻿ Remember, you need compensation for the additional risk you take for not holding a risk-free asset.
+ 
+We will give you a better understanding of how this ratio works, starting with its formula:
+ 
+﻿S(x)=(rx−Rf)StdDev(rx)where:x=The investmentrx=The average rate of return of xRf=The best available rate of return of a risk-free security (i.e. T-bills)StdDev(x)=The standard deviation of rx\begin{aligned} &S(x) = \frac{(r_{x} - R_{f})}{StdDev (r_{x})}\\ &\textbf{where:}\\ &x = \text{The investment}\\ &r_{x} = \text{The average rate of return of }x\\ &R_{f} = \text{The best available rate of return of a }\\&\text{risk-free security (i.e. T-bills)}\\ &StdDev(x) = \text{The standard deviation of }r_{x}\\ \end{aligned}​S(x)=StdDev(rx​)(rx​−Rf​)​where:x=The investmentrx​=The average rate of return of xRf​=The best available rate of return of a risk-free security (i.e. T-bills)StdDev(x)=The standard deviation of rx​​﻿
+ 
+The measured returns can be of any frequency (e.g., daily, weekly, monthly, or annually) if they are normally distributed. Herein lies the underlying weakness of the ratio: not all asset returns are normally distributed.
+ 
+Kurtosis—fatter tails and higher peaks—or skewness can be problematic for the ratio as standard deviation is not as effective when these problems exist. Sometimes, it can be dangerous to use this formula when returns are not normally distributed.
+ 
+The risk-free rate of return is used to see if you are properly compensated for the additional risk assumed with the asset. Traditionally, the risk-free rate of return is the shortest-dated government T-bill (i.e. U.S. T-Bill). While this type of security has the least volatility, some argue that the risk-free security should match the duration of the comparable investment.
+ 
+For example, equities are the longest duration asset available. Should they not be compared with the longest duration risk-free asset available: government-issued inflation-protected securities (IPS)? Using a long-dated IPS would certainly result in a different value for the ratio because, in a normal interest rate environment, IPS should have a higher real return than T-bills.
+ 
+For instance, the Barclays US Treasury Inflation-Protected Securities 1-10 Year Index returned 3.3% for the period ending Sept. 30, 2017, while the S&P 500 Index returned 7.4% within the same period.﻿﻿ Some would argue that investors were fairly compensated for the risk of choosing equities over bonds. The bond index's Sharpe ratio of 1.16% versus 0.38% for the equity index would indicate equities are the riskier asset.
+ 
+Now that we have calculated the excess return by subtracting the risk-free rate of return from the return of the risky asset, we need to divide it by the standard deviation of the measured risky asset. As mentioned above, the higher the number, the better the investment looks from a risk/return perspective.
+ 
+How the returns are distributed is the Achilles heel of the Sharpe ratio. Bell curves do not take big moves in the market into account. As Benoit Mandelbrot and Nassim Nicholas Taleb note in "How The Finance Gurus Get Risk All Wrong" (Fortune, 2005), bell curves were adopted for mathematical convenience, not realism.﻿﻿
+ 
+However, unless the standard deviation is very large, leverage may not affect the ratio. Both the numerator (return) and denominator (standard deviation) could double with no problems. If the standard deviation gets too high, we see problems. For example, a stock that is leveraged 10-to-1 could easily see a price drop of 10%, which would translate to a 100% drop in the original capital and an early margin call.
+ 
+Understanding the relationship between the Sharpe ratio and risk often comes down to measuring the standard deviation, also known as the total risk. The square of standard deviation is the variance, which was widely used by Nobel Laureate Harry Markowitz, the pioneer of Modern Portfolio Theory.﻿﻿ 
+ 
+So why did Sharpe choose the standard deviation to adjust excess returns for risk, and why should we care? We know that Markowitz understood variance, a measure of statistical dispersion or an indication of how far away it is from the expected value, as something undesirable to investors.﻿﻿ The square root of the variance, or standard deviation, has the same unit form as the analyzed data series and often measures risk.
+ 
+The following example illustrates why investors should care about variance:
+ 
+An investor has a choice of three portfolios, all with expected returns of 10 percent for the next 10 years. The average returns in the table below indicate the stated expectation. The returns achieved for the investment horizon is indicated by annualized returns, which takes compounding into account. As the data table and chart illustrates, the standard deviation takes returns away from the expected return. If there is no risk—zero standard deviation—your returns will equal your expected returns.
+ 
+Expected Average Returns
+ 
+The Sharpe ratio is a measure of return often used to compare the performance of investment managers by making an adjustment for risk.
+ 
+For example, Investment Manager A generates a return of 15%, and Investment Manager B generates a return of 12%. It appears that manager A is a better performer. However, if manager A took larger risks than manager B, it may be that manager B has a better risk-adjusted return.
+ 
+To continue with the example, say that the risk-free rate is 5%, and manager A's portfolio has a standard deviation of 8% while manager B's portfolio has a standard deviation of 5%. The Sharpe ratio for manager A would be 1.25, while manager B's ratio would be 1.4, which is better than that of manager A. Based on these calculations, manager B was able to generate a higher return on a risk-adjusted basis.
+ 
+For some insight, a ratio of 1 or better is good, 2 or better is very good, and 3 or better is excellent.
+ 
+Risk and reward must be evaluated together when considering investment choices; this is the focal point presented in Modern Portfolio Theory.﻿﻿ In a common definition of risk, the standard deviation or variance takes rewards away from the investor. As such, always address the risk along with the reward when choosing investments. The Sharpe ratio can help you determine the investment choice that will deliver the highest returns while considering risk.
+ William F. Sharpe. "The Sharpe Ratio." Accessed March 12, 2020. The Nobel Prize Organization. "William F. Sharpe." Accessed March 12, 2020. Corporate Finance Institute. "What Is the Sharpe Ratio?" Accessed March 12, 2020. NEPC. "NMERB Investment Performance Analysis for the Period Ending September 30, 2017," Page 5. Accessed March 12, 2020. Benoit Mandelbrot and Nassim Nicholas Taleb. "How the Finance Gurus Get Risk All Wrong." Accessed March 12, 2020. The Nobel Prize Organization. "Harry M. Markowitz." Accessed March 12, 2020. Harry Markowitz. "Portfolio Selection," Page 79. The Journal of Finance, 1952. Accessed March 12, 2020. Harry Markowitz. "Portfolio Selection," Page 77. The Journal of Finance, 1952. Accessed March 12, 2020.

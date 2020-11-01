@@ -1,0 +1,10 @@
+
+Decentralized applications (dApps) are digital applications or programs that exist and run on a blockchain or P2P network of computers instead of a single computer, and are outside the purview and control of a single authority.
+ 
+A standard web app, like Uber or Twitter, runs on a computer system which is owned and operated by an organization giving it full authority over the app and its workings. There may be multiple users on one side, but the backend is controlled by one single organization.
+ 
+dApps can run on both a P2P network as well as a blockchain network. For example, BitTorrent, Tor, and Popcorn Time are examples of applications that run on various computers that are part of a P2P network where there are multiple participants on all sides' some are consuming the content, some are feeding or seeding the content, while others are simultaneously performing both functions.
+ 
+In the context of cryptocurrencies, the dApps exist and run on blockchain network in a public, open source, decentralized environment and are free from control and interference from any single authority.
+ 
+For example, a developer can create a Twitter-like dApp and put it on a blockchain where any user can tweet messages. Once posted, no one – including the app creators – can delete the tweets. Editing may be possible by the sender, but the original tweet would be retained forever.

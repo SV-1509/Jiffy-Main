@@ -1,0 +1,22 @@
+
+Modern Portfolio Theory (MPT) is a theory in investment and portfolio management that shows how an investor can maximize a portfolio's expected return for a given level of risk by altering the proportions of the various assets in the portfolio. Given a level of expected return, an investor can alter the portfolio's investment weightings to achieve the lowest level of risk possible for that rate of return.
+ 
+At the heart of MPT is the idea that risk and return are directly linked, meaning that an investor must take on higher risk to achieve greater expected returns. Another main idea of the theory is that through diversification across a wide variety of security types, a portfolio's overall risk may be reduced. If an investor is presented with two portfolios that offer the same expected return, the rational decision is to choose the portfolio with the lower amount of total risk.
+ 
+To arrive at the conclusion that the risk, return and diversification relationships are true, a number of assumptions must be made.
+ 
+Some of these assumptions may never hold, yet MPT is still very useful.
+ 
+One example of applying MPT relates to a portfolio's expected return. MPT shows that the overall expected return of a portfolio is the weighted average of the expected returns of the individual assets themselves. For example, assume that an investor has a two-asset portfolio worth $1 million. Asset X has an expected return of 5%, and Asset Y has an expected return of 10%. The portfolio has $800,000 in Asset X and $200,000 in Asset Y. Based on these figures, the expected return of the portfolio is:
+ 
+If the investor wants to ratchet up the expected return of the portfolio to 7.5%, all the investor needs to do is shift the appropriate amount of capital from Asset X to Asset Y. In this case, the appropriate weights are 50% in each asset:
+ 
+This same idea applies to risk. One risk statistic that comes from MPT, known as beta, measures a portfolio's sensitivity to the market's systematic risk, which is the portfolio's vulnerability to broad market events. A beta of one means that the portfolio is exposed to the same amount of systematic risk as the market. Higher betas mean more risk, and lower betas mean less risk. Assume that an investor has a $1 million portfolio invested in the following four assets:
+ 
+The portfolio beta is:
+ 
+The 0.96 beta means the portfolio is taking on about as much systematic risk as the market in general. Assume that an investor wants to take on more risk, hoping to achieve more return, and decides a beta of 1.2 is ideal. MPT implies that by adjusting the weights of these assets in the portfolio, the desired beta can be achieved. This can be done in many ways, but here is an example that demonstrates the desired result:
+ 
+Shift 5% away from Asset A and 10% away from Asset C and Asset D. Invest this capital in Asset B:
+ 
+The desired beta is almost perfectly achieved with a few changes in portfolio weightings. This is key insight from MPT.

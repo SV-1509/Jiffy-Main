@@ -1,0 +1,18 @@
+
+Exchange-traded funds (ETFs) are known for being low-cost investments. However, determining the actual price of an ETF can be tricky, in part because there is the net asset value (NAV) of a fund and its intraday NAV (iNAV), as well as the current market price. The discrepancies between these prices can result in so-called premiums and discounts, which occur when an ETF is trading above or below its NAV, respectively. Sometimes, the charts reflecting premiums and discounts can make it appear as if a customer will encounter a significant change in price when transacting. However, as a recent report by ETF.com points out, this is most often not the case, as premiums and discounts tend to be short lived.
+ 
+As an example, the report highlights the iShares MSCI EAFE ETF (EFA). This ETF trades quite closely with its instantaneous fair value: it has an average daily spread of just 0.01%, with daily trades of $1.38 billion. This indicates that the arbitrage system for this ETF is working as it should, allowing it to be bought and sold easily. With individuals competing for profit, the ETF's bids and offers remain closely in line with its underlying portfolio value. As a result, it has a one-year median premium of just 0.06%, much of which is due to its 0.04% fee.
+ 
+A minute premium is not necessarily a significant problem for investors, though. Of greater concern is the perception that an ETF like EFA can swing significantly higher and lower than the median, even in the span of just a single day. If it appears possible that the ETF can trade at a discount of more than 3% at the close of one day, only to the leap up to a 2% premium the next day, that is likely to throw investors off.
+ 
+In cases like this, though, there are important factors to keep in mind. An ETF may end the day with its NAV offset from its closing market price, but it can still be trading in line with the value of its underlying portfolio. In situations like this, for instance, the perceived variability between one day's discount and the next day's premium is simply a statistical artifact, as the report indicates.
+ 
+One reason for this is that EFA in particular holds foreign stocks. The fund's accountants have to price out each security to determine NAV. Because security valuation and currency translation do not line up temporally, the NAV ends up being out of date when after-hours trading takes place. The result is a perceived fluctuation in premiums and discounts.
+ 
+For funds synched up with the closing times of the U.S. equity market, this is not an issue. These funds can utilize up-to-the-minute prices for the underlying securities, ensuring no discrepancy. However, for funds like EFA, it's normal to expect some artifact premiums and discounts.
+ 
+It's not just funds with foreign equity that can be affected, either. Those ETFs involved in fixed income, precious metals, non-native currency cash and futures also run into the same synchronization problem. Because their NAVs are not up-to-date, they end up reflecting changes to premiums and discounts that are not really there.
+ 
+Bond ETFs in particular run into a problem with regard to the U.S. Treasury market, which closes at 3 p.m. Eastern time. Add to this the fact that some bond ETF NAVs are determined based off of the closing bid, not the last traded price, and you have even more reasons why they might appear to trade at a premium or discount.
+ 
+That's not to say that all funds experience phantom premium/discount artifacts, or that all discrepancies of this kind are misleading. It simply means that investors should be aware of those situations in which it may only appear that an ETF experiences widely variable premiums and discounts.

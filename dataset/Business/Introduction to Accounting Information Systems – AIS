@@ -1,0 +1,69 @@
+
+An accounting information system (AIS) is a structure that a business uses to collect, store, manage, process, retrieve, and report its financial data so it can be used by accountants, consultants, business analysts, managers, chief financial officers (CFOs), auditors, regulators, and tax agencies.
+ 
+Specially trained accountants work in-depth with AIS to ensure the highest level of accuracy in a company's financial transactions and record-keeping, as well as make financial data easily available to those who legitimately need access to it—all while keeping data intact and secure.
+ 
+An accounting information system is a way of tracking all accounting and business activity for a company. Accounting information systems generally consist of six primary components: people, procedures and instructions, data, software, information technology infrastructure, and internal controls. Below is a breakdown of each component in detail.
+ 
+The people in an AIS are the system users. An AIS helps the different departments within a company work together. Professionals who may need to use an organization's AIS include:
+ 
+For example, management can establish sales goals for which staff can then order the appropriate amount of inventory. The inventory order notifies the accounting department of a new payable. When sales are made in a business, the people and departments involved in the sales process could include the following:
+ 
+With a well-designed AIS, everyone within an organization can access the same system and retrieve the same information. An AIS also simplifies the process of reporting information to people outside of the organization, when necessary.
+ 
+For example, consultants might use the information in an AIS to analyze the effectiveness of the company's pricing structure by looking at cost data, sales data, and revenue. Also, auditors can use the data to assess a company's internal controls, financial condition, and compliance with regulations such as the Sarbanes-Oxley Act (SOX).﻿﻿
+ 
+The AIS should be designed to meet the needs of the people who will be using it. The system should also be easy to use and should improve, not hinder efficiency.
+ 
+The procedure and instructions of an AIS are the methods it uses for collecting, storing, retrieving, and processing data. These methods are both manual and automated. The data can come from both internal sources (e.g., employees) and external sources (e.g., customers' online orders). Procedures and instructions will be coded into the AIS software. However, the procedures and instructions should also be "coded" into employees through documentation and training. The procedures and instructions must be followed consistently in order to be effective.
+ 
+An AIS must have a database structure to store information, such as structured query language (SQL), which is a computer language commonly used for databases. SQL allows the data that's in the AIS to be manipulated and retrieved for reporting purposes. The AIS will also need various input screens for the different types of system users and data entry, as well as different output formats to meet the needs of different users and various types of information.
+ 
+The data contained in an AIS is all of the financial information pertinent to the organization's business practices. Any business data that impacts the company's finances should go into an AIS.
+ 
+The type of data included in an AIS depends on the nature of the business, but it may consist of the following:
+ 
+The data can be used to prepare accounting statements and financial reports, including accounts receivable aging, depreciation or amortization schedules, a trial balance, and a profit and loss statement. Having all of this data in one place—in the AIS—facilitates a business's record-keeping, reporting, analysis, auditing, and decision-making activities. For the data to be useful, it must be complete, accurate, and relevant.
+ 
+On the other hand, examples of data that would not go into an AIS include memos, correspondence, presentations, and manuals. These documents might have a tangential relationship to the company's finances, but, excluding the standard footnotes, they are not really part of the company's financial record-keeping.
+ 
+The software component of an AIS is the computer programs used to store, retrieve, process, and analyze the company's financial data. Before there were computers, an AIS was a manual, paper-based system, but today, most companies are using computer software as the basis of the AIS. Small businesses might use Intuit's Quickbooks or Sage's Sage 50 Accounting, but there are others.﻿﻿ ﻿﻿ Small to mid-sized businesses might use SAP's Business One.﻿﻿ Mid-sized and large businesses might use Microsoft's Dynamics GP, Sage Group's MAS 90, or MAS 200, Oracle's PeopleSoft, or Epicor Financial Management.﻿﻿ ﻿﻿ ﻿﻿ ﻿﻿
+ 
+Quality, reliability, and security are key components of effective AIS software. Managers rely on the information it outputs to make decisions for the company, and they need high-quality information to make sound decisions.
+ 
+AIS software programs can be customized to meet the unique needs of different types of businesses. If an existing program does not meet a company's needs, the software can also be developed in-house with substantial input from end-users or can be developed by a third-party company specifically for the organization. The system could even be outsourced to a specialized company.
+ 
+For publicly-traded companies, no matter what software program and customization options the business chooses, Sarbanes-Oxley regulations will dictate the structure of the AIS to some extent. This is because SOX regulations establish internal controls and auditing procedures with which public companies must comply.﻿﻿
+ 
+Information technology infrastructure is just a fancy name for the hardware used to operate the accounting information system. Most of these hardware items a business would need to have anyway and can include the following:
+ 
+In addition to cost, factors to consider in selecting hardware include speed, storage capability, and whether it can be expanded and upgraded.
+ 
+Perhaps most importantly, the hardware selected for an AIS must be compatible with the intended software. Ideally, it would be not just compatible, but optimal—a clunky system will be much less helpful than a speedy one. One way businesses can easily meet hardware and software compatibility requirements is by purchasing a turnkey system that includes both the hardware and the software that the business needs. Purchasing a turnkey system means, theoretically, that the business will get an optimal combination of hardware and software for its AIS.
+ 
+A good AIS should also include a plan for maintaining, servicing, replacing, and upgrading components of the hardware system, as well as a plan for the disposal of broken and outdated hardware, so that sensitive data is completely destroyed.
+ 
+The internal controls of an AIS are the security measures it contains to protect sensitive data. These can be as simple as passwords or as complex as biometric identification. Biometric security protocols might include storing human characteristics that don't change over time, such as fingerprints, voice, and facial recognition.
+ 
+An AIS must have internal controls to protect against unauthorized computer access and to limit access to authorized users, which includes some users inside the company. It must also prevent unauthorized file access by individuals who are allowed to access only select parts of the system.
+ 
+An AIS contains confidential information belonging not just to the company but also to its employees and customers. This data may include:
+ 
+All of the data in an AIS should be encrypted, and access to the system should be logged and surveilled. System activity should be traceable as well.
+ 
+An AIS also needs internal controls that protect it from computer viruses, hackers, and other internal and external threats to network security. It must also be protected from natural disasters and power surges that can cause data loss.
+ 
+A well-designed AIS allows a business to run smoothly on a day-to-day basis while a poorly designed AIS can hinder its operation. The third use for an AIS is that, when a business is in trouble, the data in its AIS can be used to uncover the story of what went wrong. The cases of WorldCom and Lehman Brothers provide two examples.
+ 
+In 2002, WorldCom's internal auditors Eugene Morse and Cynthia Cooper used the company's AIS to uncover nearly $4 billion in fraudulent expense allocations and other accounting entries.﻿﻿ Their investigation led to the termination of CFO Scott Sullivan, as well as new legislation—section 404 of the Sarbanes-Oxley Act, which regulates companies' internal financial controls and procedures.﻿﻿ ﻿﻿
+ 
+When investigating the causes of Lehman's collapse, a review of its AIS and other data systems was a key component, along with document collection and review, plus witness interviews. The search for the causes of the company's failure "required an extensive investigation and review of Lehman's operating, trading, valuation, financial, accounting, and other data systems," according to the 2,200-page, nine-volume examiner's report.﻿﻿
+ 
+Lehman's systems provide an example of how an AIS should not be structured. Examiner Anton R. Valukas' report states, "At the time of its bankruptcy filing, Lehman maintained a patchwork of over 2,600 software systems and applications... Many of Lehman's systems were arcane, outdated or non-standard."﻿﻿
+ 
+The examiner decided to focus his efforts on the 96 systems that appeared most relevant. This examination required training, study, and trial and error just to learn how to use the systems.﻿﻿
+ 
+Valukas' report also noted, "Lehman's systems were highly interdependent, but their relationships were difficult to decipher and not well-documented. It took extraordinary effort to untangle these systems to obtain the necessary information."﻿﻿
+ 
+The six components of an AIS all work together to help key employees collect, store, manage, process, retrieve, and report their financial data. Having a well-developed and maintained accounting information system that is efficient and accurate is an indispensable component of a successful business.
+ U.S. Securities and Exchange Commission. "The Laws That Govern the Securities Industry." Accessed March 6, 2020. Sage. "Sage 50cloud Accounting software." Accessed March 8, 2020. Intuit Quickbooks. "Home." Accessed March 7, 2020. SAP. "SAP Business One." Accessed March 7, 2020. Epicor. "Financial Management Solutions." Accessed March 7, 2020. Oracle. "PeopleSoft." Accessed March 7, 2020. Sage. "Sage ERP MAS." Accessed March 7, 2020. Microsoft. "Microsoft Dynamics GP." Accessed March 7, 2020. United States Congress Legislative Council. "Sarbanes-Oxley Act of 2002," Pages 33-34 & 40-42. Accessed March 7, 2020. U.S. Securities and Exchange Commission. "REPORT OF INVESTIGATION BY THE SPECIAL INVESTIGATIVE COMMITTEE OF THE BOARD OF DIRECTORS OF WORLDCOM, INC." Accessed March 7, 2020. United States Securities and Exchange Commission. "Re: WorldCom, Inc., HO-09440." Accessed March 7, 2020. United States Securities and Exchange Commission. "Study of the Sarbanes-Oxley Act of 2002 Section 404 Internal Control over Financial Reporting Requirements," Page 3. Accessed March 7, 2020. Stanford University. "In re LEHMAN BROTHERS HOLDINGS INC., et al.,  Chapter 11 Case No. 08‐13555 (JMP) REPORT OF ANTON R. VALUKAS, EXAMINER VOLUME 1 OF 9," Page 76. Accessed March 7, 2020. Stanford University. "In re LEHMAN BROTHERS HOLDINGS INC., et al.,  Chapter 11 Case No. 08‐13555 (JMP) REPORT OF ANTON R. VALUKAS, EXAMINER VOLUME 1 OF 9," Page 77. Accessed March 7, 2020.

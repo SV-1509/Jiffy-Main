@@ -1,0 +1,33 @@
+
+It is important to analyze how company's use depreciation, which can represent a significant portion of the expenses on a firm's income statement, and which can impact the value of an investment opportunity in the short term. While there are rules governing how to expense depreciation, there is still plenty of wiggle room for management to make creative accounting decisions that can mislead investors.﻿﻿ It pays to examine depreciation closely.
+ 
+Companies tend to work hard to make sure their fundamentals look good to investors and analysts. So it's essential to exercise good judgment when examining numbers that appear on financial statements. It's not enough to know simply whether a company has, say, great-looking earnings per share (EPS) or a low book value. Investors need to be aware of the assumptions and accounting methods that produce those figures.
+ 
+Depreciation is an accounting process by which a company allocates an asset's cost throughout its useful life. In other words, it records how the value of an asset declines over time. Each time a company prepares its financial statements, it records a depreciation expense to allocate a portion of the cost of the buildings, machines or equipment it has purchased to the current fiscal year. The purpose of recording depreciation as an expense is to spread the initial price of the asset over its useful life. For intangible assets—such as brands and intellectual property—this process of allocating costs over time is called amortization. For natural resources—such as minerals, timber, and oil reserves—it's called depletion.
+ 
+Critical assumptions about expensing depreciation are up to the company's management. Management makes the call on the following things:
+ 
+Depending on their preferences, companies are free to choose from several methods to calculate the depreciation expense. To keep things simple, we'll summarize just the two most common methods:
+ 
+As an investor, you need to know how the choice of depreciation method affects an income statement and balance sheet in the short term.
+ 
+Here's an example. Let's say The Tricky Company purchased a new IT system for $2 million. Tricky estimates that the system has a scrap value of $500,000 and that it will last 15 years. According to the straight-line depreciation method, the calculation for Tricky's depreciation expense in the first year after buying the IT system is as follows:
+ 
+﻿($2,000,000−$500,000)15=$100,000\frac{(\$2,000,000 - \$500,000)}{15} = \$100,00015($2,000,000−$500,000)​=$100,000﻿
+ 
+According to the accelerated double-declining depreciation, Tricky's depreciation expense in the first year after buying the IT system would be this:
+ 
+﻿2×straight line rate=2×(($2,000,000−$500,000)15)2×straight line rate=$200,000\begin{aligned} 2 \times \text{straight line rate} &= 2 \times \left( \frac{(\$2,000,000 - \$500,000)}{15} \right) \\ 2 \times \text{straight line rate} &= \$200,000\\ \end{aligned}2×straight line rate2×straight line rate​=2×(15($2,000,000−$500,000)​)=$200,000​﻿
+ 
+So, the numbers show that if Tricky uses the straight-line method, depreciation costs on the income statement will be significantly lower in the first years of the asset's life ($100,000 rather than the $200,000 rendered by the accelerated depreciation schedule).
+ 
+That means there is an impact on earnings. If Tricky is looking to cut costs and boost earnings per share, it will choose the straight-line method, which will increase its bottom line.
+ 
+A lot of investors believe that book value, or net asset value (NAV), offers a relatively precise and unbiased valuation metric. But, again, be careful. Management's choice of depreciation method can also significantly impact book value: determining Tricky's net worth means deducting all external liabilities on the balance sheet from the total assets—after accounting for depreciation. As a result, since the value of net assets doesn't shrink as quickly, straight-line depreciation gives Tricky a bigger book value than the value a faster rate would give.
+ 
+Tricky chose a surprisingly long asset life for its IT system—15 years. Information technology typically becomes obsolete quite quickly, so most companies depreciate information technology over a shorter period, say, five to eight years.
+ 
+Then there's the issue of the scrap value that Tricky chose. It's hard to trust that a used, five-year-old system would fetch a quarter of its original value. But perhaps we can see the reason for Tricky's decision: The longer the useful life of an asset and the greater the scrap value, the less its depreciation will be over its life. And a lower depreciation raises reported earnings and boosts book value. Tricky's assumptions, while questionable, will improve the appearance of its fundamentals.
+ 
+A closer look at depreciation should remind investors that improvements in earnings per share and book value can, in some cases, result from little more than strokes of the pen. Earnings and net asset values that are boosted thanks to the choice of depreciation assumptions have nothing to do with improved business performance, and, in turn, don't signal strong long-term fundamentals.
+ Internal Revenue Service. "Publication 946 How To Depreciate Property," Page 3. Accessed April 8, 2020. Corporate Finance Institute. "Straight Line Depreciation." Accessed April 8, 2020. Corporate Finance Institute. "Accelerated Depreciation." Accessed April 8, 2020.

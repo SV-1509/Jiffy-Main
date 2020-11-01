@@ -1,0 +1,25 @@
+
+Model risk is a type of risk that occurs when a financial model is used to measure quantitative information such as a firm's market risks or value transactions, and the model fails or performs inadequately and leads to adverse outcomes for the firm.
+ 
+A model is a system, quantitative method, or approach that relies on assumptions and economic, statistical, mathematical, or financial theories and techniques. The model processes data inputs into a quantitative-estimate type of output.
+ 
+Financial institutions and investors use models to identify the theoretical value of stock prices and to pinpoint trading opportunities. While models can be useful tools in investment analysis, they can also be prone to various risks that can occur from the usage of inaccurate data, programming errors, technical errors, and misinterpretation of the model's outputs.
+ 
+Model risk is considered a subset of operational risk, as model risk mostly affects the firm that creates and uses the model. Traders or other investors who use a given model may not completely understand its assumptions and limitations, which limits the usefulness and application of the model itself.
+ 
+In financial companies, model risk can affect the outcome of financial securities valuations, but it's also a factor in other industries. A model can incorrectly predict the probability of an airline passenger being a terrorist or the probability or a fraudulent credit card transaction. This can be due to incorrect assumptions, programming or technical errors, and other factors that increase the risk of a poor outcome.
+ 
+Any model is a simplified version of reality, and with any simplification, there is the risk that something will fail to be accounted for. Assumptions made to develop a model and inputs into the model can vary widely. The use of financial models has become very prevalent in the past decades, in step with advances in computing power, software applications, and new types of financial securities. Before developing a financial model, companies will often conduct a financial forecast, which is the process by which it determines the expectations of future results.
+ 
+Some companies, such as banks, employ a model risk officer to establish a financial model risk management program aimed at reducing the likelihood of the bank suffering financial losses due to model risk issues. Components of the program include establishing model governance and policies. It also involves assigning roles and responsibilities to individuals who will develop, test, implement, and manage the financial models on an ongoing basis.
+ 
+The Long-Term Capital Management (LTCM) debacle in 1998 was attributed to model risk. In this case, a small error in the firm's computer models was made larger by several orders of magnitude because of the highly leveraged trading strategy LTCM employed.﻿﻿
+ 
+At its height, the hedge fund managed over $100 billion in assets and reported annual returns of over 40%. LTCM famously had two Nobel Prize winners in economics as principal shareholders, but the firm imploded due to its financial model that failed in that particular market environment.
+ 
+Almost 15 years later, JPMorgan Chase (JPM) suffered massive trading losses from a value at risk (VaR) model that contained formula and operational errors. Risk managers use VaR models to estimate the future losses a portfolio could potentially incur. In 2012, CEO Jamie Dimon's proclaimed "tempest in a teapot" turned out to be a $6.2 billion loss resulting from trades gone wrong in its synthetic credit portfolio (SCP).﻿﻿
+ 
+A trader had established large derivative positions that were flagged by the VaR model that existed at the time. In response, the bank's chief investment officer made adjustments to the VaR model, but due to a spreadsheet error in the model, trading losses were allowed to pile up without warning signals from the model.
+ 
+This was not the first time that VaR models have failed. In 2007 and 2008, VaR models were criticized for failing to predict the extensive losses many banks suffered during the global financial crisis.﻿﻿
+ Roger Lowenstein. "When Genius Failed: The Rise and Fall of Long-Term Capital Management." Random House Trade Paperbacks, 2000. Government Publishing Office. "JPMorgan Chase Whale Trades: A Case History of Derivatives Risks and Abuses," Page 8. Accessed Sept. 7, 2020. Government Publishing Office. "The Risks of Financial Modeling: VAR and the Economic Meltdown," Page 3. Accessed Sept. 7, 2020.

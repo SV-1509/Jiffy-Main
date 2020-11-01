@@ -1,0 +1,38 @@
+
+A decile is a quantitative method of splitting up a set of ranked data into 10 equally large subsections. This type of data ranking is performed as part of many academic and statistical studies in the finance and economics fields. The data may be ranked from largest to smallest values, or vice versa.
+ 
+A decile, which has ten categorical buckets may be contrasted with percentiles that have one hundred, quartiles that have four, or quintiles that have five.
+ 
+In descriptive statistics, a decile is used to categorize large data sets from highest to lowest values, or vice versa. Like the quartile and the percentile, a decile is a form of a quantile that divides a set of observations into samples that are easier to analyze and measure.
+ 
+While quartiles are three data points that divide an observation into four equal groups or quarters, a decile consists of nine data points that divide a data set into ten equal parts. When an analyst or statistician ranks data and then splits them into deciles, she does so in an attempt to discover the largest and smallest values by a given metric. For example, by splitting the entire S&P 500 Index into deciles (50 firms in each decile) using the P/E multiple, the analyst will discover the companies with the highest and lowest P/E valuations in the index.
+ 
+A decile is usually used to assign decile ranks to a data set. A decile rank arranges the data in order from lowest to highest and is done on a scale of one to ten where each successive number corresponds to an increase of 10 percentage points. In other words, there are nine decile points. The 1st decile, or D1, is the point which has 10% of the observations below it, D2 has 20% of the observations below it, D3 has 30% of the observations falling below it, and so on.
+ 
+There is no one way of calculating a decile; however, it is important that you are consistent with whatever formula you decide to use to calculate a decile. One simple calculation of a decile is:
+ 
+﻿D1=Value of [n+110]th Data\begin{aligned} &\text{D1} = \text{Value of } \left [ \frac{ n + 1 }{ 10 } \right ] \text{th Data} \\ \end{aligned}​D1=Value of [10n+1​]th Data​﻿
+ 
+﻿D2=Value of [2×(n+1)10]th Data\begin{aligned} &\text{D2} = \text{Value of } \left [ \frac{ 2 \times ( n + 1 ) }{ 10 } \right ] \text{th Data} \\ \end{aligned}​D2=Value of [102×(n+1)​]th Data​﻿
+ 
+﻿D3=Value of [3×(n+1)10]th Data\begin{aligned} &\text{D3} = \text{Value of } \left [ \frac{ 3 \times ( n + 1 ) }{ 10 } \right ] \text{th Data} \\ \end{aligned}​D3=Value of [103×(n+1)​]th Data​﻿
+ 
+﻿D9=Value of [9×(n+1)10]th Data\begin{aligned} &\text{D9} = \text{Value of } \left [ \frac{ 9 \times ( n + 1 ) }{ 10 } \right ] \text{th Data} \\ \end{aligned}​D9=Value of [109×(n+1)​]th Data​﻿
+ 
+From this formula, it is given that the 5th decile is the median since 5 (n+1) / 10 is the data point that represents the halfway point of the distribution.
+ 
+Deciles are used in the investments field to assess the performance of a portfolio or a group of mutual funds. The decile rank acts as a comparative number that measures the performance of an asset against similar assets.
+ 
+For example, say an analyst is evaluating the performance of a set of mutual funds over time, a mutual fund that is ranked 5 on a decile scale of 1 to 10 means it’s in the top 50%. By splitting the mutual funds into deciles, the analyst can review the best and worst-performing mutual funds for a given time period, arranged from the smallest to highest average return on investment.
+ 
+The government also uses deciles to determine the level of income inequality in the country, that is, how income is distributed. For example, if the top 20 wage earners of a country of 50,000 citizens fall in the 10th decile and earn more than 50% of the total income in the country, one can conclude that there is a very high degree of income inequality in that country. In this case, the government can introduce measures to decrease the wage gap, such as increasing the income tax of the rich and creating estate taxes to limit how much wealth can be passed on to beneficiaries as an inheritance.
+ 
+The table below shows the ungrouped scores (out of 100) for 30 exam takers:
+ 48 52 55 57 58 60 61 64 65 66 69 72 73 75 76 78 81 82 84 87 88 90 91 92 93 94 95 96 97 99 
+Using the information presented in the table, the 1st decile can be calculated as:
+ 
+Let’s calculate the 3rd decile:
+ 
+What would we get if we were to calculate the 5th decile?
+ 
+Also, notice how the 5th decile is also the median of the observation. Looking at the data set in the table, the median, which is the middle data point of any given set of numbers, can be calculated as (76 + 78) / 2 = 77 = median = D5. At this point, half of the scores lie above and below the distribution.

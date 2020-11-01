@@ -1,0 +1,22 @@
+
+Proof of Assignment (PoA) is a more recent cryptographic consensus mechanism that requires less power and can run on relatively low-end hardware compared to its precursors. PoA claims to score higher than traditional consensus algorithms such as Proof of Work (PoW) and Proof of Stake (PoS), which appear to consume more energy and require substantially more computing power and memory to function.
+ 
+PoA’s working mechanism allows everyday Internet of Things (IoT) applications to be utilized for basic, limited-capacity mining functions.
+ 
+A consensus mechanism is a fault-tolerant algorithm that is used in distributed computer networks and blockchain applications in order to achieve the necessary agreement on a single data value or a single state of the network among decentralized processes or multi-agent systems, such as with cryptocurrencies. It is also useful in record-keeping and coordinating among a series of distributed connected devices such as with the Internet of Things (IoT).
+ 
+Major household appliances like vacuum cleaners, washing machines and refrigerators and other commonly used consumer-electronics products, like smart watches and printers, now come fitted with advanced microprocessors, microcontrollers and memory modules that are compatible of connecting to the internet and each other—the basic concept of the Internet of Things. It makes these devices suitable for capturing, processing and exchanging data in real time with other systems and networks.
+ 
+With their onboard processing power, IoT-compatible devices can be utilized for cryptocurrency mining. Mining is a mathematical activity performed by computers through which new crypto coins are generated and blockchain transactions are authenticated. However, since the available memory and processing power in these devices is limited, their contribution to mining remains small. The working mechanism of PoA algorithm facilitates this kind of "lightweight" mining.
+ 
+One project making use of PoA goes by the name of IOTW. IOTW claims it can handle a throughput of over 1 million transactions per second, although this remains to be seen in practice.
+ 
+For instance, the IOTW blockchain uses PoA consensus algorithm and has introduced micro mining, which allows for lightweight mining to be performed on IoT devices by eliminating the need for transaction ledger storage and maintenance at the device level. Instead, the ledger storage and maintenance is outsourced to one or more pre-established trusted nodes on the blockchain network. The resource-constrained IoT devices perform the limited, affordable and simple task of finding an eligible hash value, and send it over to the trusted node(s). These network nodes collect such transactional information relayed to them, validate it, and then create a block template with a suitable number of validated transactions.
+ 
+PoA offers many purported benefits. Firstly, household devices can be utilized to contribute to mining, offering a realistic solution to issues of scalability and delayed transaction processing that are faced by present-day popular cryptocurrency networks.
+ 
+Secondly, device owners can schedule when their devices can contribute to mining during the device’s idle time.
+ 
+Thirdly, device owner can willingly share or sell the data generated and processed by their devices for earning crypto coins, as this data can be useful to a diversified group of entities involved in market research, study of consumption patterns and town planning.
+ 
+Finally, low power consumption keeps such mining contribution a reasonably economical activity, depending on the network configuration and working mechanism.

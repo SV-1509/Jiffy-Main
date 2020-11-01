@@ -1,0 +1,39 @@
+
+Duration and convexity are two tools used to manage the risk exposure of fixed-income investments. Duration measures the bond's sensitivity to interest rate changes. Convexity relates to the interaction between a bond's price and its yield as it experiences changes in interest rates.
+ 
+With coupon bonds, investors rely on a metric known as duration to measure a bond's price sensitivity to changes in interest rates. Because a coupon bond makes a series of payments over its lifetime, fixed-income investors need ways to measure the average maturity of a bond's promised cash flow, to serve as a summary statistic of the bond’s effective maturity. The duration accomplishes this, letting fixed-income investors more effectively gauge uncertainty when managing their portfolios.
+ 
+In 1938, Canadian economist Frederick Robertson Macaulay dubbed the effective-maturity concept the “duration” of the bond.﻿﻿ In doing so, he suggested that this duration be computed as the weighted average of the times to maturity of each coupon, or principal payment, made by the bond. Macaulay's duration formula is as follows:
+ 
+﻿D=∑i=1Tt∗C(1+r)t+T∗F(1+r)t∑i=1TC(1+r)t+F(1+r)twhere:D=The bond’s MacAulay durationT=the number of periods until maturityi=the ith time periodC=the periodic coupon paymentr=the periodic yield to maturityF=the face value at maturity\begin{aligned} &D = \frac{\sum_{i=1}^T{ \frac{t*C}{\left( 1+r \right)^t } } + \frac{T*F}{\left( 1+r \right)^t} } { \sum_{i=1}^T{ \frac{C}{\left( 1+r \right)^t } } + \frac{F}{\left( 1+r \right)^t} }\\ \textbf{where:}\\ &D = \text{The bond's MacAulay duration}\\ &T = \text{the number of periods until maturity}\\ &i = \text{the } i^{th} \text{ time period}\\ &C = \text{the periodic coupon payment}\\ &r = \text{the periodic yield to maturity}\\ &F = \text{the face value at maturity}\\ \end{aligned}where:​D=∑i=1T​(1+r)tC​+(1+r)tF​∑i=1T​(1+r)tt∗C​+(1+r)tT∗F​​D=The bond’s MacAulay durationT=the number of periods until maturityi=the ith time periodC=the periodic coupon paymentr=the periodic yield to maturityF=the face value at maturity​﻿
+ 
+Duration is critical to managing fixed-income portfolios, for the following reasons:
+ 
+The duration metric carries the following properties:
+ 
+Many banks exhibit mismatches between asset and liability maturities. Bank liabilities, which are primarily the deposits owed to customers, are generally short-term in nature, with low duration statistics. By contrast, a bank's assets mainly comprise outstanding commercial and consumer loans or mortgages. These assets tend to be of longer duration, and their values are more sensitive to interest rate fluctuations. In periods when interest rates spike unexpectedly, banks may suffer drastic decreases in net worth, if their assets drop further in value than their liabilities.
+ 
+A technique called gap management is a widely used risk management tool, where banks attempt to limit the "gap" between asset and liability durations. Gap management heavily relies on adjustable-rate mortgages (ARMs), as key components in reducing the duration of bank-asset portfolios. Unlike conventional mortgages, ARMs don’t decline in value when market rates increase, because the rates they pay are tied to the current interest rate.
+ 
+On the other side of the balance sheet, the introduction of longer-term bank certificates of deposit (CDs) with fixed terms to maturity, serve to lengthen the duration of bank liabilities, likewise contributing to the reduction of the duration gap.
+ 
+Banks employ gap management to equate the durations of assets and liabilities, effectively immunizing their overall position from interest rate movements. In theory, a bank’s assets and liabilities are roughly equal in size. Therefore, if their durations are also equal, any change in interest rates will affect the value of assets and liabilities to the same degree, and interest rate changes would consequently have little or no final effect on net worth. Therefore, net worth immunization requires a portfolio duration, or gap, of zero.
+ 
+Institutions with future fixed obligations, such as pension funds and insurance companies, differ from banks in that they operate with an eye towards future commitments. For example, pension funds are obligated to maintain sufficient funds to provide workers with a flow of income upon retirement. As interest rates fluctuate, so do the value of the assets held by the fund and the rate at which those assets generate income. Therefore, portfolio managers may wish to protect (immunize) the future accumulated value of the fund at some target date, against interest rate movements. In other words, immunization safeguards duration-matched assets and liabilities, so a bank can meet its obligations, regardless of interest rate movements.
+ 
+Unfortunately, duration has limitations when used as a measure of interest rate sensitivity. While the statistic calculates a linear relationship between price and yield changes in bonds, in reality, the relationship between the changes in price and yield is convex.
+ 
+In the image below, the curved line represents the change in prices, given a change in yields. The straight line, tangent to the curve, represents the estimated change in price, via the duration statistic. The shaded area reveals the difference between the duration estimate and the actual price movement. As indicated, the larger the change in interest rates, the larger the error in estimating the price change of the bond.
+ 
+Convexity, a measure of the curvature of the changes in the price of a bond, in relation to changes in interest rates, addresses this error, by measuring the change in duration, as interest rates fluctuate. The formula is as follows:
+ 
+﻿C=d2(B(r))B∗d∗r2where:C=convexityB=the bond pricer=the interest rated=duration\begin{aligned} &C = \frac{d^2\left(B\left(r \right )\right)}{B*d*r^2} \\ &\textbf{where:}\\ &C = \text{convexity}\\ &B = \text{the bond price}\\ &r = \text{the interest rate}\\ &d = \text{duration}\\ \end{aligned}​C=B∗d∗r2d2(B(r))​where:C=convexityB=the bond pricer=the interest rated=duration​﻿
+ 
+In general, the higher the coupon, the lower the convexity, because a 5% bond is more sensitive to interest rate changes than a 10% bond. Due to the call feature, callable bonds will display negative convexity if yields fall too low, meaning the duration will decrease when yields decrease. Zero-coupon bonds have the highest convexity, where relationships are only valid when the compared bonds have the same duration and yields to maturity. Pointedly: a high convexity bond is more sensitive to changes in interest rates and should consequently witness larger fluctuations in price when interest rates move.
+ 
+The opposite is true of low convexity bonds, whose prices don't fluctuate as much when interest rates change. When graphed on a two-dimensional plot, this relationship should generate a long-sloping U shape (hence, the term "convex").
+ 
+Low-coupon and zero-coupon bonds, which tend to have lower yields, show the highest interest rate volatility. In technical terms, this means that the modified duration of the bond requires a larger adjustment to keep pace with the higher change in price after interest rate moves. Lower coupon rates lead to lower yields, and lower yields lead to higher degrees of convexity.
+ 
+Ever-changing interest rates introduce uncertainty in fixed-income investing. Duration and convexity let investors quantify this uncertainty, helping them manage their fixed-income portfolios.
+ National Bureau of Economic Research. "Some Theoretical Problems Suggested by the Movements of Interest Rates, Bond Yields and Stock Prices in the United States since 1856," Page 44-52. Accessed March 23, 2020.

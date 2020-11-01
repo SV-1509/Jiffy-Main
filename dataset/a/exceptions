@@ -1,0 +1,72 @@
+
+Accumulation/distribution is a cumulative indicator that uses volume and price to assess whether a stock is being accumulated or distributed. The accumulation/distribution measure seeks to identify divergences between the stock price and volume flow. This provides insight into how strong a trend is. If the price is rising but the indicator is falling this indicates that buying or accumulation volume may not be enough to support the price rise and a price decline could be forthcoming.
+ 
+﻿A/D=Previous A/D+CMFVwhere:CMFV=Current money flow volumeCMFV=(PC−PL)−(PH−PC)PH−PL×VPC=Closing pricePL=Low price for the periodPH=High price for the periodV=Volume for the period\begin{aligned} &\text{A/D} = \text{Previous A/D} + \text{CMFV}\\ &\textbf{where:}\\ &\text{CMFV} = \text{Current money flow volume} \\ &\phantom{\text{CMFV} } = \frac{ ( P_C-P_L ) - ( P_H-P_C ) }{ P_H -P_L } \times \text{V} \\ &P_C = \text{Closing price} \\ &P_L = \text{Low price for the period} \\ &P_H = \text{High price for the period} \\ &\text{V} = \text{Volume for the period} \\ \end{aligned}​A/D=Previous A/D+CMFVwhere:CMFV=Current money flow volumeCMFV=PH​−PL​(PC​−PL​)−(PH​−PC​)​×VPC​=Closing pricePL​=Low price for the periodPH​=High price for the periodV=Volume for the period​﻿
+ 
+How to Calculate the Accumulation/Distribution Line
+ 
+The accumulation/distribution line helps to show how supply and demand factors are influencing price. A/D can move in the same direction as price changes or it may move in the opposite direction.
+ 
+The multiplier in the calculation provides a gauge for how strong the buying or selling was during a particular period. It does this by determining whether the price closed in the upper or lower portion of its range. This is then multiplied by the volume. Therefore, when a stock closes near the high of the period's range, and has high volume, that will result in a large A/D jump. If the price finishes near the high of the range but volume is low, the A/D will not move up as much. If volume is high but the price finishes more toward the middle of the range, the A/D will also not move up as much.
+ 
+The same concepts apply when the price closes in the lower portion of the period's price range. Both volume and where the price closes within the period's range determine how much the A/D will decline by.
+ 
+The accumulation/distribution line is used to help assess price trends and potentially spot forthcoming reversals.
+ 
+If a security's price is in a downtrend while the accumulation/distribution line is in an uptrend, the indicator shows there may be buying pressure and the security's price may reverse to the upside.
+ 
+Conversely, if a security's price is in an uptrend while the accumulation/distribution line is in a downtrend, the indicator shows there may be selling pressure, or higher distribution. This warns that the price may be due for a decline.
+ 
+In both cases, the steepness of the accumulation/distribution line provides insight into the trend. A strongly rising A/D line confirms a strongly rising price. Similarly, if the price is falling and the A/D is also falling, then there is still plenty of distribution and prices are likely to continue to decline.
+ 
+Both these indicator use price and volume, although they use it differently. On Balance Volume (OBV) looks at whether the current closing price is higher or lower than the prior close. If the close is higher, the period's volume is added. If the close is lower, then the period's volume is subtracted. The A/D indicator doesn't factor in the prior close, and uses a multiplier based on where within the period's range the price closed. Therefore, the indicators use different calculations and may provide different information.
+ 
+The A/D indicator does not factor in price changes from one period to the next, it only factors where the price closes within the current period's range. This creates some anomalies. Assume a stock gaps down 20% on huge volume. The price oscillates throughout the day and finishes in the upper portion of its daily range, but is still down 18% from the prior close. Such a move would actually cause the A/D rise. Even though the stock lost a significant amount of value, because it finished in the upper portion of its daily range the indicator will increase, likely dramatically, due to the large volume.
+ 
+Therefore, traders need to monitor the price chart and mark any potential anomalies like these as they could affect how the indicator is interpreted.
+ 
+Also, one of the main uses of the indicator is to monitor for divergences. Divergences can last a long time and are poor timing signals. When divergence appears between the indicator and price it doesn't mean a reversal is imminent. It may take a long time for the price to reverse, or it may not reverse at all. The A/D is just one tool that can be used to assess strength or weakness within a trend, but it is not without its faults.
+ 
+Use the A/D indicator in conjunction with other forms of analysis, such as price action analysis, chart patterns, or fundamental analysis to get a more complete picture of what is moving the price of a stock.
+
+The advance/decline line (A/D) is a technical indicator that plots the difference between the number of advancing and declining stocks on a daily basis. The indicator is cumulative, with a positive number being added to the prior number, or if the number is negative it is subtracted from the prior number.
+ 
+The A/D line is used to show market sentiment, as it tells traders whether there are more stocks rising or falling. It is used to confirm price trends in major indexes, and can also warn of reversals when divergence occurs.
+ 
+﻿A/D=Net Advances+{PA, if PA value exists0, if no PA valuewhere:Net Advances=Difference between number of dailyascending and declining stocksPA=Previous AdvancesPrevious Advances=Prior indicator reading\begin{aligned} &\text{A/D} = \text{Net Advances} + \begin{cases} \text{PA, if PA value exists} \\ \text{0, if no PA value} \\ \end{cases} \\ &\textbf{where:} \\ &\text{Net Advances} = \text{Difference between number of daily} \\ &\text{ascending and declining stocks} \\ &\text{PA} = \text{Previous Advances} \\ &\text{Previous Advances} = \text{Prior indicator reading} \\ \end{aligned}​A/D=Net Advances+{PA, if PA value exists0, if no PA value​where:Net Advances=Difference between number of dailyascending and declining stocksPA=Previous AdvancesPrevious Advances=Prior indicator reading​﻿
+ 
+The A/D line is used to confirm the strength of a current trend and its likelihood of reversing. The indicator shows if the majority of stocks are participating in the direction of the market. 
+ 
+If the indexes are moving up but the A/D line is sloping downwards, called bearish divergence, it's a sign that the markets are losing their breadth and may be about to reverse direction. If the slope of the A/D line is up and the market is trending upward, then the market is said to be healthy.
+ 
+Conversely, if the indexes are continuing to move lower and the A/D line has turned upwards, called bullish divergence, it may be an indication that the sellers are losing their conviction. If the A/D line and the markets are both trending lower together, there is a greater chance that declining prices will continue.
+ 
+The A/D line is typically used as a longer-term indicator, showing how many stocks are rising and falling over time. The Arms Index (TRIN), on the other hand, is typically a shorter-term indicator that measures the ratio of advancing stocks to the ratio of advancing volume. Because the calculations and the time frame they focus on are different, both these indicators tell traders different pieces of information.
+ 
+The A/D line won't always provide accurate readings in regards to NASDAQ stocks. This is because the NASDAQ frequently lists small speculative companies, many of which eventually fail or get delisted. While the stocks get delisted on the exchange, they remain in the prior calculated values of the A/D line. This then affects future calculations which are added to the cumulative prior value. Because of this, the A/D line will sometimes fall for extended periods of time, even while NASDAQ-related indexes are rising.
+ 
+Another thing to be aware of is that some indexes are market capitalization weighted. This means that bigger the company the more impact they have on the index's movement. The A/D line gives equal weight to all stocks. Therefore, it is a better gauge of the average small to mid-cap stock, and not the fewer in number large or mega-cap stocks.
+
+Asset/liability management is the process of managing the use of assets and cash flows to reduce the firm’s risk of loss from not paying a liability on time. Well-managed assets and liabilities increase business profits. The asset/liability management process is typically applied to bank loan portfolios and pension plans. It also involves the economic value of equity.
+ 
+The concept of asset/liability management focuses on the timing of cash flows because company managers must plan for the payment of liabilities. The process must ensure that assets are available to pay debts as they come due and that assets or earnings can be converted into cash. The asset/liability management process applies to different categories of assets on the balance sheet.
+ 
+[Important: A company can face a mismatch between assets and liabilities because of illiquidity or changes in interest rates; asset/liability management reduces the likelihood of a mismatch.]
+ 
+A defined benefit pension plan provides a fixed, pre-established pension benefit for employees upon retirement, and the employer carries the risk that assets invested in the pension plan may not be sufficient to pay all benefits. Companies must forecast the dollar amount of assets available to pay benefits required by a defined benefit plan.
+ 
+Assume, for example, that a group of employees must receive a total of $1.5 million in pension payments starting in 10 years. The company must estimate a rate of return on the dollars invested in the pension plan and determine how much the firm must contribute each year before the first payments begin in 10 years.
+ 
+Asset/liability management is also used in banking. A bank must pay interest on deposits and also charge a rate of interest on loans. To manage these two variables, bankers track the net interest margin or the difference between the interest paid on deposits and interest earned on loans.
+ 
+Assume, for example, that a bank earns an average rate of 6% on three-year loans and pays a 4% rate on three-year certificates of deposit. The interest rate margin the bank generates is 6% - 4% = 2%. Since banks are subject to interest rate risk, or the risk that interest rates increase, clients demand higher interest rates on their deposits to keep assets at the bank.
+ 
+An important ratio used in managing assets and liabilities is the asset coverage ratio which computes the value of assets available to pay a firm’s debts. The ratio is calculated as follows:
+ 
+﻿Asset Coverage Ratio=(BVTA−IA)−(CL−STDO)Total Debt Outstandingwhere:BVTA=book value of total assetsIA=intangible assetsCL=current liabilitiesSTDO=short term debt obligations\begin{aligned} &\text{Asset Coverage Ratio} = \frac{ ( \text{BVTA} - \text{IA} ) - ( \text{CL} - \text{STDO}) }{ \text{Total Debt Outstanding} } \\ &\textbf{where:} \\ &\text{BVTA} = \text{book value of total assets} \\ &\text{IA} = \text{intangible assets} \\ &\text{CL} = \text{current liabilities} \\ &\text{STDO} = \text{short term debt obligations} \\ \end{aligned}​Asset Coverage Ratio=Total Debt Outstanding(BVTA−IA)−(CL−STDO)​where:BVTA=book value of total assetsIA=intangible assetsCL=current liabilitiesSTDO=short term debt obligations​﻿
+ 
+Tangible assets, such as equipment and machinery, are stated at their book value, which is the cost of the asset less accumulated depreciation. Intangible assets, such as patents, are subtracted from the formula because these assets are more difficult to value and sell. Debts payable in less than 12 months are considered short-term debt, and those liabilities are also subtracted from the formula.
+ 
+The coverage ratio computes the assets available to pay debt obligations, although the liquidation value of some assets, such as real estate, may be difficult to calculate. There is no rule of thumb as to what constitutes a good or poor ratio since calculations vary by industry.
+ 
+[Fast Fact: Asset/liability management is a long-term strategy to manage risks. For example, a home-owner must ensure that they have enough money to pay their mortgage each month by managing their income and expenses for the duration of the loan.]

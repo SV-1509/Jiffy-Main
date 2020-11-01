@@ -1,0 +1,28 @@
+
+Portfolio variance is a measure of the dispersion of returns of a portfolio. It is the aggregate of the actual returns of a given portfolio over a set period of time.
+ 
+Portfolio variance is calculated using the standard deviation of each security in the portfolio and the correlation between securities in the portfolio.
+ 
+Modern portfolio theory (MPT) states that portfolio variance can be reduced by selecting securities with low or negative correlations in which to invest, such as stocks and bonds.
+ 
+To calculate the portfolio variance of securities in a portfolio, multiply the squared weight of each security by the corresponding variance of the security and add two multiplied by the weighted average of the securities multiplied by the covariance between the securities.
+ 
+To calculate the variance of a portfolio with two assets, multiply the square of the weighting of the first asset by the variance of the asset and add it to the square of the weight of the second asset multiplied by the variance of the second asset. Next, add the resulting value to two multiplied by the weights of the first and second assets multiplied by the covariance of the two assets.
+ 
+For example, assume you have a portfolio containing two assets, stock in Company A and stock in Company B. While 60% of your portfolio is invested in Company A, the remaining 40% is invested in Company B. The annual variance of Company A's stock is 20%, while the variance of Company B's stock is 30%.
+ The wise investor seeks an efficient frontier. That's the lowest level of risk at which a target return can be achieved. 
+The correlation between the two assets is 2.04. To calculate the covariance of the assets, multiply the square root of the variance of Company A's stock by the square root of the variance of Company B's stock. The resulting covariance is 0.50.
+ 
+The resulting portfolio variance is 0.36, or ((0.6)^2 * (0.2) + (0.4)^2 * (0.3) + (2 * 0.6 * 0.4 * 0.5)).
+ 
+Modern portfolio theory is a framework for constructing an investment portfolio. MPT takes as its central premise the idea that rational investors want to maximize returns while minimizing risk, sometimes measured using volatility.
+ 
+Therefore, investors seek what is called an efficient frontier, or the lowest level of risk and volatility at which a target return can be achieved.
+ 
+Following MPT, risk can be lowered in a portfolio by investing in non-correlated assets. That is, an investment that might be considered risky on its own can actually lower the overall risk of a portfolio because it tends to rise when other investments fall.
+ 
+This reduced correlation can reduce the variance of a theoretical portfolio. In this sense, an individual investment's return is less important than its overall contribution to the portfolio in terms of risk, return, and diversification.
+ 
+The level of risk in a portfolio is often measured using standard deviation, which is calculated as the square root of the variance. If data points are far away from the mean, the variance is high and the overall level of risk in the portfolio is high as well.
+ 
+Standard deviation is a key measure of risk used by portfolio managers, financial advisors, and institutional investors. Asset managers routinely include standard deviation in their performance reports.

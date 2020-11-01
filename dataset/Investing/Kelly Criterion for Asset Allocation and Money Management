@@ -1,0 +1,30 @@
+
+Investors often hear about the importance of diversifying and how much money they should put into each stock or sector. These are all questions that can be applied to a money management system such as the Kelly Criterion, one of the many allocation techniques that can be used to manage money effectively. This system is also called the Kelly strategy, Kelly formula, or Kelly bet.
+ 
+This article outlines how this system works and how investors use the formula to help in asset allocation and money management.
+ 
+John Kelly, who worked for AT&T's Bell Laboratory, originally developed the Kelly Criterion to assist AT&T with its long-distance telephone signal noise issues. Soon after, the method was published as "A New Interpretation of Information Rate" in 1956.
+ 
+However, the gambling community got wind of it and realized its potential as an optimal betting system in horse racing. It enabled gamblers to maximize the size of their bankroll over the long term. Today, many people use it as a general money management system for gambling as well as investing.
+ The Kelly Criterion strategy has been known to be popular among big investors including Berkshire Hathaway's Warren Buffet and Charlie Munger, along with legendary bond trader Bill Gross. 
+There are two basic components to the Kelly Criterion. The first is the win probability or the probability that any given trade will return a positive amount. The second is the win/loss ratio. This ratio is the total positive trade amounts divided by the total negative trade amounts.
+ 
+These two factors are then put into Kelly's equation which is:
+ 
+﻿K%=W−(1−W)Rwhere:K%=The Kelly percentageW=Winning probabilityR=Win/loss ratio\begin{aligned} & K\% = W - \frac{\left(1-W\right )}{R}\\ \textbf{where:}\\ &K\% = \text{The Kelly percentage}\\ &W = \text{Winning probability}\\ &R = \text{Win/loss ratio}\\ \end{aligned}where:​K%=W−R(1−W)​K%=The Kelly percentageW=Winning probabilityR=Win/loss ratio​﻿
+ 
+The output of the equation, K%, is the Kelly percentage, which has a variety of real-world applications. Gamblers can use the Kelly criterion to help optimize the size of their bets. Investors can use it to determine how much of their portfolio should be allocated to each investment.
+ 
+Investors can put Kelly's system to use by following these simple steps:
+ 
+The percentage (a number less than one) that the equation produces represents the size of the positions you should be taking. For example, if the Kelly percentage is 0.05, then you should take a 5% position in each of the equities in your portfolio. This system, in essence, lets you know how much you should diversify.
+ 
+The system does require some common sense, however. One rule to keep in mind, regardless of what the Kelly percentage may tell you, is to commit no more than 20% to 25% of your capital to one equity. Allocating any more than this carries far more investment risk than most people should be taking.
+ 
+This system is based on pure mathematics. However, some people may question whether this math, originally developed for telephones, is effective in the stock market or gambling arenas.
+ 
+By showing the simulated growth of a given account based on pure mathematics, an equity chart can demonstrate the effectiveness of this system. In other words, the two variables must be entered correctly and it must be assumed that the investor can maintain such performance.
+ 
+No money management system is perfect. This system will help you to diversify your portfolio efficiently, but there are many things that it can't do. It cannot pick winning stocks for you or predict sudden market crashes (although it can lighten the blow). There is always a certain amount of "luck" or randomness in the markets which can alter your returns.
+ 
+Money management cannot ensure that you always make spectacular returns, but it can help you limit your losses and maximize your gains through efficient diversification. The Kelly Criterion is one of many models that can be used to help you diversify.

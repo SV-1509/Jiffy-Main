@@ -1,0 +1,18 @@
+
+Asymmetrical distribution is a situation in which the values of variables occur at irregular frequencies and the mean, median, and mode occur at different points. An asymmetric distribution exhibits skewness. In contrast, a Gaussian or normal distribution, when depicted on a graph, is shaped like a bell curve and the two sides of the graph are symmetrical.
+ 
+The bell curve is a common type of graph showing data distribution. Stock market returns sometimes resemble bell curves, making it convenient for investors to analyze them for probability distribution patterns of an asset's returns.
+ 
+Asymmetrical distribution occurs when the distribution of investment returns is not symmetric with zero skewness. A negatively skewed distribution is known as left-skewed because it has a longer left tail on the graph. In contrast, a positively skewed distribution is called right-skewed and has a longer right tail.
+ 
+Investors should care about how investment return data is distributed. Asset classes (stocks, bonds, commodities, currencies, real estate, etc.) are all subject to various return distributions. This also holds true for sectors within those asset classes (e.g., technology, healthcare, staples, etc.), as well as portfolios comprising combinations of these asset classes or sectors.
+ 
+Empirically, they follow asymmetric distribution patterns. This is because investment performance is often skewed by periods of high market volatility or unusual fiscal and monetary policies during which returns can be abnormally high or low.
+ 
+In contrast to asymmetrical distribution, symmetrical distribution occurs when the values of variables appear at predictable frequencies and the mean, median, and mode occur at the same points. The bell curve is a classic example of symmetrical distribution. If you were to draw a line down the middle of the curve, the left and right sides would be mirror images of each other. A core concept in technical trading, symmetrical distribution assumes that over time the price action of an asset will fit this distribution curve.
+ Blue-chip stocks tend to display a predictable bell curve pattern and often have lower volatility. 
+The departure from "normal" returns has been caused with more frequency in the last two decades, beginning with the Internet bubble of the late 1990s. This volatility continued on during other notable events, such as the Sept. 11 terrorist attacks, the housing bubble collapse and subsequent financial crisis, and during the years of quantitative easing, which came to an end in 2017. The unwinding of the Federal Reserve Board's unprecedented easy monetary policy may be the next chapter of volatile market action and more asymmetrical distribution of investment returns.
+ 
+Given that disruptive events and extraordinary phenomena occur more often than expected, investors can improve their asset allocation models by incorporating asymmetrical distribution assumptions. Traditional mean-variance frameworks developed by Harry Markowitz were based on assumptions that asset class returns are normally distributed. Traditional asset allocation models work well in persistent "normal" market environments.
+ 
+However, traditional asset allocation models may not protect portfolios from severe downside risks when markets become abnormal. Modeling with asymmetric distribution assumptions can help reduce volatility in portfolios and reduce capital loss risks.

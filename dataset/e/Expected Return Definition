@@ -1,0 +1,36 @@
+
+The expected return is the profit or loss that an investor anticipates on an investment that has known historical rates of return (RoR). It is calculated by multiplying potential outcomes by the chances of them occurring and then totaling these results. Expected return calculations are a key piece of both business operations and financial theory, including in the well-known models of modern portfolio theory (MPT) or the black-scholes options pricing model.
+ 
+For example, if an investment has a 50% chance of gaining 20% and a 50% chance of losing 10%, the expected return would be 5% = (50% x 20% + 50% x -10% = 5%).
+ 
+The expected return is a tool used to determine whether an investment has a positive or negative average net outcome. The sum is calculated as the expected value (EV) of an investment given its potential returns in different scenarios, as illustrated by the following formula:
+ 
+where: "i" indicates each known return and its respective probability in the series
+ 
+The expected return is usually based on historical data and is therefore not guaranteed into the future; however, it does often set reasonable expectations. Therefore, the expected return figure can be though of as a long-term weighted average of historical returns.
+ 
+In the formulation above, for instance, the 5% expected return may never be realized in the future, as the investment is inherently subject to systematic and unsystematic risks. Systematic risk the danger to a market sector or the entire market whereas unsystematic risk applies to a specific company or industry.
+ 
+When considering individual investments or portfolios, a more formal equation for expected return of a financial investment is:
+ 
+where:
+ 
+In essence, this formula states that the expected return in excess of the risk-free rate of return depends on the investment's beta, or relative volatility compared to the broader market.
+ Expected return is not absolute, as it is a projection and not a realized return. 
+Note that it can be quite dangerous to make naive investment decisions based entirely on expected return calculations. Before making any investment decisions, one should always review the risk characteristics of investment opportunities to determine if the investments align with their portfolio goals.
+ 
+For example, assume two hypothetical investments exist. Their annual performance results for the last five years are:
+ 
+Both of these investments have expected returns of exactly 8%. However, when analyzing the risk of each, as defined by the standard deviation, Analyst use standard deviation to reveal historical volatility in investments. Investment A is approximately five times riskier than Investment B. That is, Investment A has a standard deviation of 12.6% and Investment B has a standard deviation of 2.6%.
+ 
+In addition to expected returns, wise investors should also consider the likelihood of a return to better assess risk. After all, one can find instances where certain lotteries offer a positive expected return, despite the very low chances of realizing that return.
+ Gages the performance of an asset Weighs different scenarios Doesn't take risk into account Based largely on historic data 
+The expected return does not just apply to a single security or asset. It can also be expanded to analyze a portfolio containing many investments. If the expected return for each investment is known, the portfolio's overall expected return is a weighted average of the expected returns of its components.
+ 
+For example, let's assume we have an investor interested in the tech sector. His portfolio contains the following stocks:
+ 
+With a total portfolio value of $1 million the weights of Alphabet, Apple, and Amazon in the portfolio are 50%, 20%, and 30%, respectively.
+ 
+Thus, the expected return of the total portfolio is 11.4%:
+ 
+Expected return and standard deviation are two statistical measures that can be used to analyze a portfolio. The expected return of a portfolio is the anticipated amount of returns that a portfolio may generate, making it the mean (average) of the portfolio's possible return distribution; whereas the standard deviation of a portfolio measures the amount that the returns deviate from its mean, making it a proxy for the portfolio's risk.

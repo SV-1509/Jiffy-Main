@@ -1,0 +1,18 @@
+
+An option chain, also known as an option matrix, is a listing of all available option contracts, both puts and calls, for a given security. It shows all puts, calls, strike prices, and pricing information for a single underlying asset within a given maturity period.
+ 
+Option chains are probably the most natural form of presenting information for most retail investors. The option quotes are listed in an easy-to-understand sequence. Traders can find an option premium by following the corresponding maturity dates and strike prices. Depending on the presentation of the data, bid-ask quotes, or mid quotes, are also displayable within an option chain.
+ 
+The majority of online brokers and stock trading platforms display option quotes in the form of an option chain using real-time or delayed data. The chain display allows quick scanning of activity, open interest, and price changes. Traders can hone in on the specific options required to meet a particular options strategy.
+ 
+Traders may quickly find an asset's trading activity including the frequency, volume of trading, and interest by strike price and maturity months. Sorting of data may be by expiration date, soonest to furthest, and then further refined by strike price, from lowest to highest.
+ 
+The terms in an options matrix are relatively self-explanatory. A skilled user can quickly decipher the market regarding price movements and where high and low levels of liquidity occur. For efficient trade executions and profitability, this is critical information.
+ 
+There are four columns of information that traders focus on to assess current market conditions. The columns are Last Price, Net Change, Bid, and Ask. 
+ 
+In the columns following the four listed above, you will find important information to gauge market size for a given option and how traders are committed at each price level.
+ 
+Trading volume, or the number of contracts that change hands in a given day, indicates how much liquidity there might be for any given option. Open interest measures the total number of options outstanding on each strike and maturity, allowing you to gauge the scale of market commitment. 
+ 
+The real level of open interest varies intraday. Market makers report the information shown in the option chain only at the end of each trading day. The option chain matrix is most useful for the next trading day.

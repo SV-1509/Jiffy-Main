@@ -1,0 +1,46 @@
+
+The equation of exchange is an economic identity that shows the relationship between money supply, the velocity of money, the price level, and an index of expenditures. English classical economist John Stuart Mill derived the equation of exchange, based on earlier ideas of David Hume. It says that the total amount of money that changes hands in the economy will always equal the total money value of the goods and services that change hands in the economy. 
+ 
+The original form of the equation is as follows:
+ 
+﻿M × V = P × Twhere:M= the money supply, or average currency units inV= the velocity of money, or the average number ofP=the average price level of goods during the year\begin{aligned}&M\ \times\ V\ =\ P\ \times\ T\\&\textbf{where:}\\&\begin{aligned}M=\ &\text{the money supply, or average currency units in}\\&\text{circulation in a year}\end{aligned}\\&\begin{aligned}V=\ &\text{the velocity of money, or the average number of}\\&\text{times a currency unit changes hands per year}\end{aligned}\\&P=\text{the average price level of goods during the year}\\&T=\text{an index of the real value of aggregate transactions}\end{aligned}​M × V = P × Twhere:M= ​the money supply, or average currency units in​V= ​the velocity of money, or the average number of​P=the average price level of goods during the year​﻿
+ 
+M x V can then be interpreted as the average currency units in circulation in a year, multiplied by the average number of times each currency unit changes hands in that year, which is equal to the total amount of money spent in an economy in the year.
+ 
+On the other side, P x T can be interpreted as the average price level of goods during the year multiplied by the real value of purchases in an economy during the year, which is equal to the total money spent on purchases in an economy in the year.
+ 
+So the equation of exchange says that the total amount of money that changes hands in the economy will always equal the total money value of the goods and services that change hands in the economy. 
+ 
+Later economists restate the equation more commonly as:
+ 
+﻿M × V = P × Qwhere:Q = an index of real expenditures\begin{aligned}&M\ \times\ V\ =\ P\ \times\ Q\\&\textbf{where:}\\&Q\ =\ \text{an index of real expenditures}\\&P\ \times\ Q\ =\ \text{nominal gdp}\end{aligned}​M × V = P × Qwhere:Q = an index of real expenditures​﻿
+ 
+So now the equation of exchange says that total nominal expenditures is always equal to total nominal income.
+ 
+The equation of exchange has two primary uses. It represents the primary expression of the quantity theory of money, which relates changes in the money supply to changes in the overall level of prices. Additionally, solving the equation for M can serve as an indicator of the demand for money in a macroeconomic model.
+ 
+In the quantity theory of money, if the velocity of money and real output are assumed to be constant, in order to isolate the relationship between money supply and price level, then any change in the money supply will be reflected by a proportional change in the price level. 
+ 
+To show this, first solve for P:
+ 
+﻿P = M × (VQ)P\ =\ M\ \times\ \left(\frac{V}{Q}\right)P = M × (QV​)﻿
+ 
+And differentiate with respect to time:
+ 
+﻿dPdt = dMdt\frac{dP}{dt}\ =\ \frac{dM}{dt}dtdP​ = dtdM​﻿
+ 
+This means inflation will be proportional to any increase in the money supply. This then becomes the fundamental idea behind monetarism and the impetus for Milton Friedman’s dictum that, "Inflation is always and everywhere a monetary phenomenon."
+ 
+Alternatively, the equation of exchange can be used to derive the total demand for money in an economy by solving for M:
+ 
+﻿M = (P × QV)M\ =\ \left(\frac{P\ \times\ Q}{V}\right)M = (VP × Q​)﻿
+ 
+Assuming that money supply is equal to money demand (i.e., that financial markets are in equilibrium):
+ 
+﻿MD = (P × QV)M_D\ =\ \left(\frac{P\ \times\ Q}{V}\right)MD​ = (VP × Q​)﻿
+ 
+Or:
+ 
+﻿MD = (P × Q) × (1V)M_D\ =\ \left(P\ \times\ Q\right)\ \times\ \left(\frac{1}{V}\right)MD​ = (P × Q) × (V1​)﻿
+ 
+This means the demand for money is proportional to nominal income and the inverse of the velocity of money. Economists typically interpret the inverse of the velocity of money as the demand to hold cash balances, so this version of the equation of exchange shows that the demand for money in an economy is made up of demand for use in transactions, (P x Q), and liquidity demand, (1/V).

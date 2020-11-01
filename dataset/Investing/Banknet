@@ -1,0 +1,14 @@
+
+Banknet is a global payments network operated by MasterCard that facilitates authorization of credit card transactions from almost any point in the world. Banknet is one of the world's largest global telecommunications networks and links all MasterCard members and data processing centers into a single financial network.
+ 
+Bankent launched in 1997. Today, MasterCard runs on of the world’s largest credit and debit card networks. The company holds over 20 percent of the global market share within its industry, with more that 190 million cards in circulation throughout the world.
+ 
+Banknet enables MasterCard's side of an authorization transaction to be performed within seconds. Before Banknet arrived, a payment through MasterCard took approximately 650 milliseconds to process. Banknet has since cut down that time to just 210 milliseconds.
+ 
+The network's hub is located in MasterCard's Global Technology and Operations headquarters in St. Louis, Missouri. According to MasterCard, the network’s hub and data warehouse are considered, “one of the most robust data centers in the world.” The St. Louis facility houses 80 terabytes of data on past transactions. Whenever the system undergoes a change or upgrade, the company tests the new system on 30 million practice transactions before implementing the change.
+ 
+Banknet operates as a virtual private network, or VPN that all of its nodes are linked into. In this way, the network is capable of completing over two million transaction per hour while keeping both parties’ information secure. The network relies on over 1,000 data centers located throughout the world that function as endpoints or nodes in the network. Each of these data centers is furthermore equipped with dual router technology. The redundancy of this technology provides automatic backups of transaction in the event that a shutdown occurs.
+ 
+Banknet’s technology uses asynchronous data transfer for transactions, allowing the network to regulate the use of its bandwidth to match demand at any given time. This function allows the system to function optimally when demand is highest. For this communication technology, Banknet primarily partners with AT&T.
+ 
+Unlike Banknet’s peer-to-peer (P2P) network, Visa handles transactions through a centralized, or “star-based/hub & spoke” system. This type of network connects its many endpoints to only a few main data centers. In this way, Banknet functions more efficiently, with greater flexibility and less risk of failure. If one of Banknet’s data centers fails, there remain many others still online and functional, taking over the functionality of the crippled node. If, however, one of the data centers on Visa’s network fails, a larger portion of its transactions will be adversely affected. This can create bottlenecks for incoming data and difficulty in isolating the point of the failure.

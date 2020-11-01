@@ -1,0 +1,22 @@
+
+All businesses must raise money called capital to fund their operations. Generally, capital comes from two sources: investors and debt.
+ 
+Think of a company just starting out. The business owner may raise some capital through investors or by selling shares of stock, called equity financing. Whatever funding is not financed by equity is financed by debt, including loans and bonds.
+ 
+Neither type of capital is without its drawbacks: neither is free. Both debt and equity capital carry a price tag of some kind. Shareholders require dividends, and banks require the payment of interest on loans. Businesses must keep track of the cost of raising capital to ensure that operations are financed in the most cost-effective way possible.
+ 
+When assessing the efficacy of a corporate financing strategy, analysts use a calculation called the weighted average cost of capital (WACC) to determine how much a company ends up paying for the funds it raises.
+ 
+This weighted average is calculated by first applying specific weights to the costs of both equity and debt. The weighted cost of debt is then multiplied by the inverse of the corporate tax rate, or 1 minus the tax rate, to account for the tax shield that applies to interest payments. Finally, the weighted costs of equity and debt are added together to render the total weighted average cost of capital.
+ 
+﻿WACC=(E/V∗Ke)+(D/V)∗Kd∗(1−TaxRate)where:E = Market Value of EquityV = Total Market Value of Equity and DebtKe = Cost of EquityD = Market Value of DebtKd = Cost of DebtTax Rate = Corporate Tax Rate\begin{aligned} &\text{WACC}=\left(E/V*Ke\right)+\left(D/V\right)*Kd*\left(1-TaxRate\right)\\ &\textbf{where:}\\ &\text{E = Market Value of Equity}\\ &\text{V = Total Market Value of Equity and Debt}\\ &\text{Ke = Cost of Equity}\\ &\text{D = Market Value of Debt}\\ &\text{Kd = Cost of Debt}\\ &\text{Tax Rate = Corporate Tax Rate}\\ \end{aligned}​WACC=(E/V∗Ke)+(D/V)∗Kd∗(1−TaxRate)where:E = Market Value of EquityV = Total Market Value of Equity and DebtKe = Cost of EquityD = Market Value of DebtKd = Cost of DebtTax Rate = Corporate Tax Rate​﻿
+ 
+Figuring the costs of capital can be rather tricky, especially in terms of equity. However, determining their respective weights is fairly straightforward. Since this equation assumes that all capital comes from either debt or equity, it's as simple as calculating the proportion of total capital that comes from each source.
+ 
+For example, assume a new startup raises $500,000 in equity from investors and takes out a bank loan totaling $300,000. The required return on shareholder investment, or cost of equity (COE), is 4 percent, and the interest rate on the loan is 8.5 percent. The corporate tax rate for the year, also called the discount rate, is 30 percent. Since the total amount of capital raised is $800,000, the proportion of equity to total capital is $500,000 / $800,000, or 0.625. Since debt and equity are the only types of capital, the proportion of debt is equal to 1.0 minus the proportion of equity, or 0.375. This is confirmed by performing the original calculation using debt instead of equity: $300,000 / $800,000 = 0.375.
+ 
+To calculate the WACC, apply the weights calculated above to their respective costs of capital and incorporate the corporate tax rate:
+ 
+The values of debt and equity can be calculated using either book value or market value. Book value refers to the value of an asset as entered on the balance sheet, or its actual cash value, while market value refers to the value of an asset if it were traded in an auction setting.
+ 
+Since the values of debt and equity inherently affect the calculation of their respective weights, it is important to determine what type of valuation is most appropriate, given the context. Calculations involving the expected cost of new capital, as in the example above, use the market value of capital.

@@ -1,0 +1,10 @@
+
+A dealer market is a financial market mechanism wherein multiple dealers post prices at which they will buy or sell a specific security or instrument. In a dealer market, a dealer – who is designated as a “market maker” – provides liquidity and transparency by electronically displaying the prices at which it is willing to make a market in a security, indicating both the price at which it will buy the security (the “bid” price) and the price at which it will sell the security (the “offer” price). Bonds and foreign exchanges trade primarily in dealer markets, while stock trading on the Nasdaq is a prime example of an equity dealer market.
+ 
+A market maker in a dealer market stakes his or her own capital to provide liquidity to investors. The primary mode of risk control for the market maker is, therefore, the use of the bid-ask spread, which represents a tangible cost to investors.
+ 
+For example, if Dealer A has ample inventory of WiseWidget Co. stock – which is quoted in the market by other market makers at $10 / $10.05 – and wishes to offload some of its holdings, it can post its bid-ask quote as $9.98 / $10.03. Rational investors looking to buy WiseWidget Co. would then take Dealer A’s offer price of $10.03 since it is 2 cents cheaper than the $10.05 price at which it is offered by other market makers. Conversely, investors looking to sell WiseWidget Co. stock would have little incentive to “hit the bid” of $9.98 posted by Dealer A, since it is 2 cents less than the $10 price that other dealers are willing to pay for the stock.
+ 
+A dealer market differs from an auction market primarily in this multiple market maker aspect. In an auction market, a single specialist in a centralized location (think of the trading floor on the New York Stock Exchange, for instance) facilitates trading and liquidity by matching buyers and sellers for a specific security.
+ 
+In a broker market, there must be a defined buyer and seller for a trade to happen. In a dealer market, buyers and sellers execute buy/sell orders separately and independently through dealers, who act as market makers. The differences between broker and dealer markets also include:

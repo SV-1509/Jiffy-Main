@@ -1,0 +1,38 @@
+
+The average annual growth rate (AAGR) is the average increase in the value of an individual investment, portfolio, asset, or cash stream over the period of a year. It is calculated by taking the arithmetic mean of a series of growth rates. The average annual growth rate can be calculated for any investment, but it will not include any measure of the investment's overall risk, as measured by its price volatility.
+ 
+The average annual growth rate is used in many fields of study. For example, in economics, it is used to provide a better picture of the changes in economic activity (e.g. growth rate in real GDP).
+ 
+﻿AAGR=GRA+GRB+…+GRnNwhere:GRA=Growth rate in period AGRB=Growth rate in period BGRn=Growth rate in period nN=Number of payments\begin{aligned} &AAGR = \frac{GR_A + GR_B + \dotso + GR_n}{N} \\ &\textbf{where:}\\ &GR_A=\text{Growth rate in period A}\\ &GR_B=\text{Growth rate in period B}\\ &GR_n=\text{Growth rate in period }n\\ &N=\text{Number of payments}\\ \end{aligned}​AAGR=NGRA​+GRB​+…+GRn​​where:GRA​=Growth rate in period AGRB​=Growth rate in period BGRn​=Growth rate in period nN=Number of payments​﻿
+ 
+AAGR a standard for measuring average returns of investments over several time periods. You'll find this figure on brokerage statements and it is included in a mutual fund's prospectus. It is essentially the simple average of a series of periodic return growth rates. One thing to keep in mind is that the periods used should all be of equal length, for instance years, months, or weeks—and not to mix periods of different duration.
+ 
+The average annual growth rate is helpful in determining long-term trends. It is applicable to almost any kind of financial measure including growth rates of profits, revenue, cash flow, expenses, etc. to provide the investors with an idea about the direction wherein the company is headed. The ratio tells you what your annual return has been, on average.
+ 
+The average annual growth rate can be calculated for any investment, but it will not include any measure of the investment's overall risk, as measured by its price volatility. Furthermore, the AAGR does not account for periodic compounding.
+ 
+The AAGR measures the average rate of return or growth over a series of equally spaced time periods. As an example, assume an investment has the following values over the course of four years:
+ 
+The formula to determine the percentage growth for each year is:
+ 
+Thus, the growth rates for each of the years are as follows:
+ 
+The AAGR is calculated as the sum of each year's growth rate divided by the number of years:
+ 
+In the financial and accounting settings, typically the beginning and ending prices are used, but some analysts may prefer to use average prices when calculating the AAGR depending on what is being analyzed.
+ 
+AAGR is a linear measure that does not account for the effects of compounding. The above example shows that the investment grew an average of 19% per year. The average annual growth rate is useful for showing trends; however, it can be misleading to analysts because it does not accurately depict changing financials. In some instances, it can overestimate the growth of an investment.
+ 
+For example, consider an end-of-year value for Year 5 of $100,000. The percentage growth rate for Year 5 is -50%. The resulting AAGR would be 5.2%; however, it is evident from the beginning value of Year 1 and the ending value of Year 5, the performance yields a 0% return. Depending on the situation, it may be more useful to calculate the compound annual growth rate (CAGR). The CAGR smooths out an investment's returns or diminishes the effect of volatility of periodic returns. 
+ 
+﻿CAGR=Ending BalanceBeginning Balance1# Years−1CAGR = \frac{\text{Ending Balance}}{\text{Beginning Balance}}^{\frac{1}{\text{\# Years}}} - 1CAGR=Beginning BalanceEnding Balance​# Years1​−1﻿
+ 
+Using the above example for years 1 through 4, the CAGR equals:
+ 
+﻿CAGR=$200,000$100,00014−1=18.92%CAGR = \frac{\$200,000}{\$100,000}^{\frac{1}{4}}- 1 = 18.92\%CAGR=$100,000$200,000​41​−1=18.92%﻿ 
+ 
+For the first four years, the AAGR and CAGR are close to one another. However, if year 5 were to be factored into the CAGR equation (-50%), the result would end up being 0%, which sharply contrasts the result from the AAGR of 5.2%.
+ 
+Because AAGR is a simple average of periodic annual returns, the measure does not include any measure of the overall risk involved in the investment, as calculated by the volatility of its price. For instance, if a portfolio grows by a net of 15% one year and 25% in the next year, the average annual growth rate would be calculated to be 20%. To this end, the fluctuations occurring in the investment’s return rate between the beginning of the first year and the end of the year are not counted in the calculations thus leading to some errors in the measurement.
+ 
+A second issue is that as a simple average it does not care about the timing of returns. For instance, in our example above, a stark 50% decline in Year 5 only has a modest impact on total average annual growth. However, timing is important, and so CAGR may be more useful in understanding how time-chained rates of growth matter.

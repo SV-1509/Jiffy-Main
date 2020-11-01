@@ -1,0 +1,150 @@
+
+The EBIT/EV multiple is a financial ratio used to measure a company's "earnings yield." where EBIT stands for earnings before interest and taxes, while EV is the firm's enterprise value.
+ 
+The concept of the EBIT/EV multiple as a proxy for earnings yield and value was introduced by Joel Greenblatt, a noteworthy value investor and professor at Columbia Business School.
+ 
+Enterprise value (EV) is a measure used to value a company. Investors often use EV when comparing companies against one another for possible investment because EV provides a clearer picture of the real value of a company as opposed to simply considering market capitalization.
+ 
+EV is an important component of several ratios investors can use to compare companies, such as the EBIT/EV multiple and EV/Sales.
+ 
+The EV of a business can be calculated using this formula:  
+ 
+The EV result shows how much money would be needed to buy the whole company. Some EV calculations include the addition of minority interest and preferred stock. However, for the vast majority of companies, minority interest and preferred stock in the capital structure is uncommon. Thus, EV is generally calculated without them.
+ 
+If EBIT/EV is supposed to be an earnings yield, the higher the multiple, the better for an investor. Thus, there is an implicit bias towards companies with lower levels of debt and higher amounts of cash. A company with a leveraged balance sheet, all else being equal, is riskier than a company with less leverage. The company with modest amounts of debt and/or greater cash holdings will have a smaller EV, which would produce a higher earnings yield.
+ 
+The EBIT/EV ratio can provide a better comparison than more conventional profitability ratios like return on equity (ROE) or return on invested capital (ROIC). While the EBIT/EV ratio is not commonly used, it does have a couple of key advantages in comparing companies.
+ 
+First, using EBIT as a measure of profitability, as opposed to net income (NI), eliminates the potentially distorting effects of differences in tax rates.
+ 
+Second, using EBIT/EV normalizes for effects of different capital structures. Greenblatt states that EBIT "allows us to put companies with different levels of debt and different tax rates on an equal footing when comparing earnings yields."
+ 
+EV, to Greenblatt, is more appropriate as the denominator because it takes into account the value of debt as well as the market capitalization. A downside to the EBIT/EV ratio is that it does not normalize for depreciation and amortization costs. Thus, there are still potential distorting effects when companies use different methods of accounting for fixed assets.
+ 
+Say Company X has:
+ 
+Company Z has:
+ 
+EBIT/EV for Company X would be approximately 7.7% while the earnings yield for Company Z would be approximately 4.4%. Company X's earnings yield is superior not only because it has greater EBIT, but also because it has lower leverage.
+
+The EBITDA/EV multiple is a financial valuation ratio that measures a company's return on investment (ROI). The EBITDA/EV ratio may be preferred over other measures of return because it is normalized for differences between companies. Using EBITDA normalizes for differences in capital structure, taxation, and fixed asset accounting. The enterprise value (EV) also normalizes for differences in a company's capital structure.
+ 
+EBITDA/EV is a comparables analysis method that seeks to value similar companies using the same financial metrics. While computing the EBITDA/EV ratio is more complicated than other return measures, it is sometimes preferred because it provides a normalized ratio for comparing the operations of different companies.
+ If a more conventional ratio (such as net income to equity) were used, comparisons would be skewed by each company's accounting policies. 
+An analyst using EBITDA/EV assumes that a particular ratio is applicable and can be applied to various companies operating within the same line of business or industry. In other words, the theory is that when firms are comparable, this multiples approach can be used to determine the value of one firm based on the value of another. Thus, EBITDA/EV is commonly used to compare companies within an industry.
+ 
+This is a modification of the ratio of operating and non-operating profits compared to the market value of a company's equity plus its debt. Since EBITDA is often considered a proxy for cash income, the metric is used as a measure of a company's cash return on investment.
+ 
+"EBITDA" is an acronym that stands for earnings before interest, taxes, depreciation, and amortization. However, the measure is not based on the U.S. generally accepted accounting principles (GAAP).
+ 
+In April 2016, the Securities and Exchange Commission (SEC) stated non-GAAP measures such as EBITDA would be a focal point for the agency to ensure that companies are not presenting results in a misleading manner. If EBITDA is shown, the SEC advises that the company should reconcile the metric to net income. This should assist investors by providing information on how the figure is calculated.
+ 
+Enterprise value (EV) is a measure of the economic value of a company. It is frequently used to determine the value of the business if it is acquired. It is considered to be a better valuation measure than market capitalization, since the latter factors in only a business' equity without regard to the debt.
+ 
+EV is calculated as the market capitalization plus debt, preferred stock, and minority interest, minus cash. An entity purchasing a company would have to pay the value of the equity and assume the debt, but the money would reduce the price paid.
+ 
+The EBITDA/EV uses the cash flows of a business to evaluate the value of a company. When the EBITDA is compared to enterprise revenue, an investor can tell if a business has cash flow issues. A business with healthy cash flow will have a high value.
+ 
+For example, Wal-Mart Inc.'s EBITDA for the fiscal year ended January 31, 2018, was $32.17 billion. Its enterprise value was $290.17 billion during this period. This works out to an EBITDA/EV multiple of 0.1109 or 11.09%.
+ 
+The reciprocate multiple EV/EBITDA is used to measure the value of a company.
+
+The enterprise value-to-revenue multiple (EV/R) is a measure of the value of a stock that compares a company's enterprise value to its revenue. EV/R is one of several fundamental indicators that investors use to determine whether a stock is priced fairly.
+ 
+The EV/R multiple is also often used to determine a company's valuation in the case of a potential acquisition. It’s also called the enterprise value-to-sales multiple.
+ 
+The enterprise value-to-revenue (EV/R) multiple helps compares a company’s revenues to its enterprise value. The lower the better, in that, a lower EV/R multiple signals a company is undervalued.
+ 
+Generally used as a valuation multiple, the EV/R is often used during acquisitions. An acquirer will use the EV/R multiple to determine an appropriate fair value. The enterprise value is used because it adds debt and takes out cash, which an acquirer would take on and receive, respectively.
+ 
+The Enterprise Value-to-Revenue (EV/R) is easily calculated by taking the enterprise value of the company and dividing it by the company's revenue.
+ 
+﻿EV/R=Enterprise ValueRevenuewhere:Enterprise Value=MC+D−CCMC=Market capitalizationD=DebtCC=Cash and cash equivalents\begin{aligned} &\text{EV/R} = \frac{ \text{Enterprise Value} }{ \text{Revenue} } \\ &\textbf{where:}\\ &\text{Enterprise Value} = \text{MC} + \text{D} - \text{CC} \\ &\text{MC} = \text{Market capitalization} \\ &\text{D} = \text{Debt} \\ &\text{CC} = \text{Cash and cash equivalents} \\ \end{aligned}​EV/R=RevenueEnterprise Value​where:Enterprise Value=MC+D−CCMC=Market capitalizationD=DebtCC=Cash and cash equivalents​﻿
+ 
+Say a company has $20 million in short-term liabilities on the books and $30 million in long-term liabilities. It has $125 million worth of assets, and 10% of those assets are reported as cash. There are 10 million shares of the company's common stock outstanding, and the current price per share of the stock is $17.50. The company reported $85 million in revenue last year.
+ 
+Using this scenario, the enterprise value of the company is:
+ 
+﻿Enterprise Value=($10,000,000×$17.50)+($20,000,000+$30,000,000)−($125,000,000×0.1)=$175,000,000+$50,000,000−$12,500,000=$212,500,000\begin{aligned} \text{Enterprise Value} &= (\$10,000,000 \times \$17.50) \\ &\quad + (\$20,000,000 + \$30,000,000) \\ &\quad - (\$125,000,000 \times 0.1) \\ &= \$175,000,000 + \$50,000,000 \\ &\quad - \$12,500,000 \\ &= \$212,500,000 \\ \end{aligned}Enterprise Value​=($10,000,000×$17.50)+($20,000,000+$30,000,000)−($125,000,000×0.1)=$175,000,000+$50,000,000−$12,500,000=$212,500,000​﻿
+ 
+Next, to find the EV/R, simply take the EV and divide it by the revenue for the year:
+ 
+﻿EV/R=$212,500,000$85,000,000=2.5\begin{aligned} \text{EV/R} &= \frac{ \$212,500,000 }{ \$85,000,000 }\\ &= 2.5 \\ \end{aligned}EV/R​=$85,000,000$212,500,000​=2.5​﻿
+ 
+Enterprise value can be calculated using a slightly more complicated formula that includes a few more variables. Some analysts prefer this method over the more simplified version. The version of enterprise value with added terms is:
+ 
+﻿Enterprise Value=MC+D+PSC+MI−CCwhere:PSC=Preferred shared capitalMI=Minority interest \begin{aligned} &\text{Enterprise Value} = \text{MC} + \text{D} + \text{PSC} + \text{MI} - \text{CC} \\ &\textbf{where:}\\ &\text{PSC} = \text{Preferred shared capital} \\ &\text{MI} = \text{Minority interest }\\ \end{aligned}​Enterprise Value=MC+D+PSC+MI−CCwhere:PSC=Preferred shared capitalMI=Minority interest ​﻿
+ 
+As a real-life example, consider the major retail sector, notably Wal-Mart (NYSE: WMT), Target (NYSE: TGT), and Big Lots (NYSE: BIG). The enterprise values of Wal-Mart, Target, and Big Lots are $338 billion, $48.5 billion, and $1.7 billion, respectively, as of Feb. 15, 2019.
+ 
+Meanwhile, the three have revenues over the trailing twelve months of $512 billion, $74.5 billion, and $5.3 billion, respectively. Dividing each of their enterprise values by revenues means Wal-Mart’s EV/R is 0.66, Target’s is 0.65, and Big Lots’ 0.32.
+ 
+The enterprise value-to-revenue (EV/R) looks at a companies revenue-generating ability, while the enterprise value-to-EBITDA (EV/EBITDA)—also known as the enterprise multiple—looks at a company’s ability to generate cash flows.
+ 
+EV/EBITDA takes into operating expenses, while EV/R looks at just the top line. The advantage that EV/R has is that it can be used for companies that are yet to generate income or profits, such as the case with Amazon (NASDAQ: AMZN) in its early days.
+ 
+The enterprise value-to-revenue multiple should be used to compare companies in the same industry. Also, unlike market cap, which is readily available on the likes of Yahoo! Finance, the EV/R multiple requires calculating the enterprise value. This requires adding the debt and subtracting out the cash and could involve additional factors if using the expanded version.
+
+Enterprise value-to-sales (EV/sales) is a financial valuation measure that compares the enterprise value (EV) of a company to its annual sales. The EV/sales multiple gives investors a quantifiable metric of how to value a company based on its sales, while taking account of both the company's equity and debt.
+ 
+﻿EV/Sales=MC+D−CCAnnual Saleswhere:MC=Market capitalizationD=DebtCC=Cash and cash equivalents\begin{aligned} &\text{EV/Sales} = \frac{ \text{MC} + \text{D} - \text{CC} }{ \text{Annual Sales} } \\ &\textbf{where:}\\ &\text{MC} = \text{Market capitalization} \\ &\text{D} = \text{Debt} \\ &\text{CC} = \text{Cash and cash equivalents} \\ \end{aligned}​EV/Sales=Annual SalesMC+D−CC​where:MC=Market capitalizationD=DebtCC=Cash and cash equivalents​﻿
+ 
+Enterprise value-to-sales is calculated by:
+ 
+A slightly more complicated version of enterprise value with a few more variables is sometimes used. The more complex formula for EV is:
+ 
+﻿EV=MC+D+PS+MI−CCwhere:PS=Preferred sharesMI=Minority interest\begin{aligned} &\text{EV} = \text{MC} + \text{D} + \text{PS} + \text{MI} - \text{CC} \\ &\textbf{where:}\\ &\text{PS} = \text{Preferred shares} \\ &\text{MI} = \text{Minority interest} \\ \end{aligned}​EV=MC+D+PS+MI−CCwhere:PS=Preferred sharesMI=Minority interest​﻿
+ 
+Enterprise value-to-sales is an expansion of the price-to-sales (P/S) valuation, which uses market capitalization instead of enterprise value. It is perceived to be more accurate than P/S, in part, because the market capitalization alone does not take a company's debt into account when valuing the company, while enterprise value does.
+ 
+EV-to-sales multiples are usually found to be between 1x and 3x. Generally, a lower EV/sales multiple will indicate that a company may be more attractive or undervalued in the market. The EV/sales measure can also be negative when the cash balance of the company is greater than the market capitalization and debt structure, signaling that the company can essentially be bought with its own cash.
+ 
+The EV-to-sales measure can, however, be slightly deceptive in that a higher multiple is not always a signal of over-valuation. A high EV-to-sales can be a positive sign that investors believe that future sales will greatly increase. A lower EV-to-sales can likewise signal that future sales prospects are not very attractive.
+ 
+To make the most out of this metric, compare the EV-to-sales to that of other companies in the same industry, and look deeper into the company you are analyzing.
+ 
+Assume that a company reports sales for the year of $70 million. The company has $10 million of short-term liabilities on the books and $25 million of long-term liabilities. It has $90 million worth of assets, with 20% of that in cash. Lastly, the company has 5 million shares of common stock outstanding and the current price of the stock is $25 per share. Using this scenario, the company's enterprise value is:
+ 
+﻿EV=Market Cap (5 Million Shares×$25 Stock Price)+Total Debt ($10 Million+$25 Million)−Cash ($90 Million×20%)=$125 Million+$35 Million−$18 Million\begin{aligned} \text{EV} &= \text{Market Cap (5 Million Shares} \times \text{\$25 Stock Price)} \\ &\quad + \text{Total Debt (\$10 Million} + \text{\$25 Million)} \\ &\quad - \text{Cash (\$90 Million} \times 20\%) \\ &= \$125 \text{ Million} + \$35 \text{ Million} - \$18 \text{ Million} \\ &= \$142 \text{ Million} \end{aligned}EV​=Market Cap (5 Million Shares×$25 Stock Price)+Total Debt ($10 Million+$25 Million)−Cash ($90 Million×20%)=$125 Million+$35 Million−$18 Million​﻿
+ 
+Next, to find the EV-to-sales, simply divide the calculated enterprise value by sales. In this example, the EV-to-sales is:
+ 
+﻿EV/Sales=$142 Million$70 Million=2.03\begin{aligned} &\text{EV/Sales} = \frac{ \$142 \text{ Million} }{ \$70 \text{ Million} } = 2.03 \\ \end{aligned}​EV/Sales=$70 Million$142 Million​=2.03​﻿
+ 
+Taking the EV/sales ratio a step further, consider Coca-Cola. The company has a market cap of $237 billion as of Dec. 31, 2019.﻿﻿
+ 
+The EV-to-sales ratio takes into account the debt and cash a company has. The price-to-sales ratio, meanwhile, does not. The price-to-sales ratio is quicker to calculate, using only a company’s market cap as the numerator. However, debtholders do have a claim on sales and should theoretically be included in the valuation.
+ 
+The EV/sales ratio requires calculating the enterprise value, which involves a little more digging into financial statements. EV is generally used for valuing acquisitions, where the acquirer will assume the debt of the company, but also get the cash. Another limitation to be aware of is that sales do not take into account a company’s expenses or taxes.
+ The Coca Cola Company. "2019 Business & Sustainability Report," Page 9. Accessed Sept. 4, 2020. U.S. Securities & Exchange Commission. "Form 10-K, The Coca Cola Company," Page 70. Accessed Sept. 4, 2020. U.S. Securities & Exchange Commission. "Form 10-K, The Coca Cola Company," Page 68. Accessed Sept. 4, 2020.
+The EV/2P ratio is a ratio used to value oil and gas companies. It consists of the enterprise value (EV) divided by the proven and probable (2P) reserves. The enterprise value reflects the company's total value. Proven and probable (2P) refers to energy reserves, such as oil, that are likely to be recovered.
+ 
+﻿EV/2P=Enterprise Value2P Reserveswhere:2P Reserves=Total proven and probable reservesEnterprise Value=MC+Total Debt−TCMC=Market capitalizationTC=Total cash and cash equivalents\begin{aligned} &\text{EV/2P} = \frac{ \text{Enterprise Value} }{ \text{2P Reserves} } \\ &\textbf{where:} \\ &\text{2P Reserves} = \text{Total proven and probable reserves} \\ &\text{Enterprise Value} = \text{MC} + \text{Total Debt} - \text{TC} \\ &\text{MC} = \text{Market capitalization} \\ &\text{TC} = \text{Total cash and cash equivalents} \\ \end{aligned}​EV/2P=2P ReservesEnterprise Value​where:2P Reserves=Total proven and probable reservesEnterprise Value=MC+Total Debt−TCMC=Market capitalizationTC=Total cash and cash equivalents​﻿
+ 
+2P reserves are the total of proven and probable reserves. Proved reserves are likely to be recovered, whereas probable reserves are less likely to be recovered than proved reserves. The sum of proved and probable reserves is represented by 2P.
+ 
+Enterprise value compared to proven and probable reserves is a metric that helps analysts understand how well a company's resources will support its operations and growth. Ideally, the EV/2P ratio should not be used in isolation, as not all reserves are the same. However, it can still be an important metric if little is known about the company's cash flow.
+ 
+Reserves can be proven, probable, or possible reserves. The proven reserves are typically known as 1P, with many analysts referring to it as P90, or having a 90% probability of being produced. Probable reserves are referred to as P50 or having a 50% certainty of being produced. When used in conjunction with one another, it is referred to as 2P.
+ 
+When the EV/2P multiple is high, it means the company is trading at a premium for a given amount of oil in the ground. Conversely, a low value would suggest a potentially undervalued company.
+ 
+The EV/2P ratio is comparable to other more common ratios used in valuation such as enterprise value or P/E ratios. These ratios express a company's value as a multiple of earnings or assets.
+ 
+It's important to compare a company's EV/2P ratio with those of similar companies and with the historical values of the ratio. Using historical and industry comparisons can help investors determine if a company is undervalued, overvalued, or fairly valued.
+ 
+Let us assume that an oil company has an enterprise value of $2 billion and proven and probable reserves of 100 million barrels:
+ 
+﻿EV/2P=$2 Billion$100 Million=20\begin{aligned} &\text{EV/2P} = \frac{ \$2 \text{ Billion} }{ \$100 \text{ Million} } = 20 \\ \end{aligned}​EV/2P=$100 Million$2 Billion​=20​﻿
+ 
+The EV/2P ratio = 20 or the company has a 20 multiple. In other words, the company is valued at 20 times its enterprise value to 2P reserves.
+ 
+Whether the 20 multiple is high, low, or fairly valued depends on other oil companies within the same industry.
+ 
+ Enterprise value compared to earnings before interest, tax, depreciation, and amortization is also referred to as the enterprise multiple. The EV/EBITDA ratio compares the oil and gas business, free of debt, to EBITDA. This is an important metric as oil and gas firms typically have a great deal of debt and the EV includes the cost of paying it off. By stripping out debt, analysts can see how well the company is valued.
+ 
+The EV/2P ratio on the other hand also uses enterprise value in its formula, but instead of using EBITDA, the ratio includes proven and probable (2P) reserves. The EV/2P ratio is important when judging the potential or possible growth of an oil company since proven and probable (2P) reserves are likely to be recovered.
+ 
+As mentioned earlier, the EV/2P ratio includes total debt in its calculation because enterprise value also includes total debt. Oil companies typically carry significant amounts of debt on their balance sheets, which is normal for the industry. Debt is used to top finance oil rigs, equipment, and the cost of exploration.
+ 
+As a result, the extra debt would put the EV of oil companies at a much higher valuation than most other industries that carry less debt. Investors should be aware of the unique capital structures of oil and gas companies when using any valuation metric including the EV/2P ratio.

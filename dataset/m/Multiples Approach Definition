@@ -1,0 +1,22 @@
+
+The multiples approach is a valuation theory based on the idea that similar assets sell at similar prices. It assumes that a ratio comparing value to a firm-specific variable, such as operating margins, or cash flow is the same across similar firms.
+ 
+Investors also refer to the multiples approach as multiples analysis or valuation multiples.
+ 
+Generally, multiples is a generic term for a class of different indicators that can be used to value a stock. A multiple is simply a ratio that is calculated by dividing the market or estimated value of an asset by a specific item on the financial statements. The multiples approach is a comparables analysis method that seeks to value similar companies using the same financial metrics.
+ 
+An analyst using the valuation approach assumes that a particular ratio is applicable and applies to various companies operating within the same line of business or industry. In other words, the idea behind the multiples analysis is that when firms are comparable, the multiples approach can be used to determine the value of one firm based on the value of another. The multiples approach seeks to capture many of a firm's operating and financial characteristics (e.g., expected growth) in a single number that can be multiplied by a specific financial metric (e.g., EBITDA) to yield an enterprise or equity value.
+ 
+Enterprise value multiples and equity multiples are the two categories of valuation multiples. Enterprise value multiples include the enterprise-value-to-sales ratio (EV/sales), EV/EBIT, and EV/EBITDA. Equity multiples involve examining ratios between a company's share price and an element of the underlying company's performance, such as earnings, sales, book value, or something similar. Common equity multiples include price-to-earnings (P/E) ratio, price-earnings to growth (PEG) ratio, price-to-book ratio and price-to-sales ratio.
+ 
+Equity multiples can be artificially impacted by a change in capital structure, even when there is no change in enterprise value (EV). Since enterprise value multiples allow for direct comparison of different firms, regardless of capital structure, they are said to be better valuation models than equity multiples. Additionally, enterprise valuation multiples are typically less affected by accounting differences, since the denominator is computed higher up on the income statement. However, equity multiples are more commonly used by investors because they can be calculated easily and are readily available via most financial websites and newspapers.
+ 
+Investors start the multiples approach by identifying similar companies and evaluating their market values. A multiple is then computed for the comparable companies and aggregated into a standardized figure using a key statistics measure, such as the mean or median. The value identified as the key multiple among the various companies is applied to the corresponding value of the firm under analysis to estimate its value. When building a multiple, the denominator should use a forecast of profits, rather than historical profits. Unlike backward-looking multiples, forward-looking multiples are consistent with the principles of valuation—in particular, that a company's value equals the present value of future cash flow, not past profits and sunk costs.
+ 
+Let’s assume David wants to conduct the multiples approach to compare where major banking stocks trade at in relation to their earnings. He can do this easily by creating a watchlist of the S&P 500's four largest banking stocks that includes each bank's P/E ratio, like in the example below:
+ 
+David can quickly see that Citigroup Inc. (C) trades at a discount to the other three banks in relation to its earnings, having the lowest P/E ratio of the group at 9.57. He works out the P/E ratio mean, or average, of the four stocks by adding them together and dividing the number by four.
+ 
+(11.84 + 10.37 + 10.02 + 9.57) / 4 = 10.45 average P/E ratio
+ 
+He now knows that Bank of America Corporation (BAC), Wells Fargo & Company (WFC), and Citigroup all trade at a discount to the major bank P/E ratio mean using the multiples approach.

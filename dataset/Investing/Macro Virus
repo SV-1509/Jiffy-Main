@@ -1,0 +1,16 @@
+
+A macro virus infects a software program and causes a series of actions to begin automatically when the program is opened. It operates like a normal macro and often installs itself in the place of an existing macro.
+ 
+Macro viruses originate on the internet and infiltrate programs already stalled on a person's computer. To fully understand what a macro virus is, however, it is important to first understand what a "macro" is:
+ 
+A macro is a series of commands that automatically triggers a specific function within a software program. Macros can be installed in programs such as Microsoft Word in order to perform complex tasks that the program would otherwise be unable to do automatically. For example, a company can use a macro to automatically insert designed letterhead or pre-designed tables into Microsoft Word page templates, or use custom page formats that aren't available with the program by itself.
+ 
+Macro viruses are encoded with the ability to spread - much like the way a virus infects a person, replicates itself, and spread to other people. A macro virus can replicate and install material on a computer without the user's knowledge or consent. If sent through email spam, it often automatically sends itself to everyone in that user's address book.
+ 
+Macro viruses originate on the Internet, often in spam email, and infiltrate programs installed on a person's computer, such as Microsoft Office, by imitating a benign macro. They often take the place of pre-installed macros and are activated when the regular macro is executed, but they can operate even when the program is not in use without the user's knowledge. The automatic actions they trigger can range from adding text uncontrollably to a document to sending spam messages to people in the user's address books.
+ 
+Macro viruses are often harmless to the computer or the program itself, but they cause confusion and frustration for the user. Once installed on a computer, they can spread across multiple programs if they're not contained.
+ 
+Most antivirus software packages today are designed to find and destroy any existing macro viruses on a computer, and prevent new ones from taking root. However, not all macro viruses are detected by antivirus software, and not all antivirus software are alike. It's important to maintain up-to-date antivirus software, but it's equally important to be conscious of what you download or open from the Internet.
+ 
+For example, you should not open an attachment in an email sent from an address you don't know. Email spam can be easily identifiable, but it can also use tricks to make a person think the content is legitimate.

@@ -1,0 +1,18 @@
+
+Net volume is a technical indicator calculated by subtracting a security's uptick volume by its downtick volume over a specified period of time. Unlike standard volume, the indicator differentiates whether the market sentiment is leaning bullish or bearish. Net volume is typically plotted below the price chart with bars for each period indicating the net volume reading for that period.
+ 
+Net volume is used by traders to assess market sentiment beyond the use of standard volume. Positive net volume suggests that a security is experiencing a bullish upswing, while negative net volume suggests that a security is experiencing a bearish downswing.
+ 
+For example, suppose that a thinly traded stock experienced five downward trades at 200 shares a piece, moving down a total of five percent, and one upward trade at 10,000 shares, moving the stock up three percent. The stock may have closed two percent lower, but the net volume would have been a positive 9,000, suggesting that the momentum has really been bullish under the surface.
+ 
+Here's an example of a chart showing net volume:
+ 
+Many traders use net volume in conjunction with other forms of technical analysis, including technical indicators and chart patterns, when looking for potential opportunities. For instance, traders might determine that a stock broke out from a key resistance level and then look at net volume to determine how much buying pressure is behind the move and if there's enough momentum moving forward.
+ 
+Net volume is similar to many other momentum indicators that look at volume along with various other factors. Unlike these other indicators, net volume looks exclusively at volume over a single timeframe.
+ 
+For example, net volume is similar to the money flow index, in that both technical indicators measure market interest in a given security, but the MFI uses both price and volume to measure buying and selling pressure rather than just looking at volume. Net volume is also similar to on balance volume, in that both technical indicators look at volume changes, but OBV adds up volume on up days and down days over time rather than looking at a single period. Other indicators, like the relative strength index, look at the magnitude of gains or losses to provide insights.
+ 
+Many traders tend to use more complex momentum indicators than net volume when analyzing opportunities, but it may still play a role in certain cases where the trader needs to only look at a single period.
+ 
+Chart courtesy of TradingView.com.

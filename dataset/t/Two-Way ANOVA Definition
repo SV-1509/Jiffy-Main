@@ -1,0 +1,18 @@
+
+ANOVA stands for analysis of variance and tests for differences in the effects of independent variables on a dependent variable. A two-way ANOVA test is a statistical test used to determine the effect of two nominal predictor variables on a continuous outcome variable.
+ 
+A two-way ANOVA tests the effect of two independent variables on a dependent variable. A two-way ANOVA test analyzes the effect of the independent variables on the expected outcome along with their relationship to the outcome itself. Random factors would be considered to have no statistical influence on a data set, while systematic factors would be considered to have statistical significance.
+ 
+By using ANOVA, a researcher is able to determine whether the variability of the outcomes is due to chance or to the factors in the analysis. ANOVA has many applications in finance, economics, science, medicine, and social science.
+ 
+An ANOVA test is the first step in identifying factors that influence a given outcome. Once an ANOVA test is performed, a tester may be able to perform further analysis on the systematic factors that are statistically contributing to the data set's variability.
+ 
+A two-way ANOVA test reveals the results of two independent variables on a dependent variable. ANOVA test results can then be used in an F-test, a statistical test used to determine whether two populations with normal distributions share variances or a standard deviation, on the significance of the regression formula overall.
+ 
+Analysis of variances is helpful for testing the effects of variables on one another. It is similar to multiple two-sample t-tests. However, it results in fewer type 1 errors and is appropriate for a range of issues. An ANOVA test groups differences by comparing the means of each group and includes spreading out the variance across diverse sources. It is employed with subjects, test groups, between groups and within groups.
+ 
+There are two main types of analysis of variance: one-way (or unidirectional) and two-way (bidirectional). One-way or two-way refers to the number of independent variables in your analysis of variance test. A one-way ANOVA evaluates the impact of a sole factor on a sole response variable. It determines whether the observed differences between the means of independent (unrelated) groups are explainable by chance alone, or whether there are any statistically significant differences between groups.
+ 
+A two-way ANOVA is an extension of the one-way ANOVA. With a one-way, you have one independent variable affecting a dependent variable. With a two-way ANOVA, there are two independents. For example, a two-way ANOVA allows a company to compare worker productivity based on two independent variables, such as department and gender. It is utilized to observe the interaction between the two factors. It tests the effect of two factors at the same time.
+ 
+A three-way ANOVA, also known as three-factor ANOVA, is a statistical means of determining the effect of three factors on an outcome.

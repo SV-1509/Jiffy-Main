@@ -1,0 +1,10 @@
+
+The block height of a particular block is defined as the number of blocks preceding it in the blockchain.
+ 
+A blockchain contains a series of blocks, hence the name blockchain. These blocks are essentially data units which are used to store transactional information of the network.
+ 
+The very first block on a blockchain is called the genesis block. It has a block height of zero, as no blocks precede it in the blockchain. The total height of the blockchain is taken to be the height of the most recent block, or the highest block, in the chain.
+ 
+Block height is also calculated as the length of the blockchain minus one.
+ 
+A block height chart is indicative of how steadily new blocks are being discovered on the blockchain as time passes, amid varying mining difficulty levels.

@@ -1,0 +1,40 @@
+
+Percentage change is a simple mathematical concept that represents the degree of change over time. It is used for many purposes in finance, often to represent the price change of a security.
+ 
+Percentage change can be applied to any quantity that you measure over time. Let's say you are tracking the quoted price of a security. If the price increased, use the formula [(New Price - Old Price)/Old Price] and then multiply that number by 100. If the price decreased, use the formula [(Old Price - New Price)/Old Price] and multiply that number by 100. 
+ 
+This formula is used both to track the prices of individual securities and of large market indexes, as well as comparing the values of different currencies. Balance sheets with comparative financial statements will generally include the prices of specific assets at different points in time along with the percentage changes over the accompanying periods of time. 
+ 
+To calculate a percentage increase, first work out the difference (increase) between the two numbers you are comparing: 
+ 
+Increase = New Number - Original Number
+ 
+Next, divide the increase by the original number and multiply the answer by 100:
+ 
+% increase = Increase ÷ Original Number × 100.
+ 
+If the answer is a negative number, that means the percentage change is a decrease.
+ The percentage change formula can track the prices of individual securities and large market indexes. It can also be sued to compare the values of various currencies. 
+First, work out the difference (decrease) between the two numbers you are comparing.
+ 
+Decrease = Original Number - New Number
+ 
+Next, divide the decrease by the original number and multiply the answer by 100.
+ 
+% Decrease = Decrease ÷ Original Number × 100
+ 
+If the answer is a negative number, this is a percentage increase.
+ 
+If you wish to calculate the percentage increase or decrease of several numbers, it's best to use the formula for calculating percentage increase. Positive values indicate a percentage increase whereas negative values indicate the percentage decrease.
+ 
+As an example of calculating percentage change in a real-life scenario, consider Bob, who worked a total of 35 hours in January. In February, he worked 45.5 hours, by what percentage did Bob’s working hours increase in February? 
+ 
+To solve this calculation, first calculate the difference in hours between the new and old numbers. 45.5 - 35 hours = 10.5 hours more hours worked by Bob in February. To work out the increase as a percentage, divide the increase by the original (January) number:
+ 
+10.5 ÷ 35 = 0.3
+ 
+Finally, to get the percentage we multiply the answer by 100. This simply means moving the decimal place two columns to the right.
+ 
+0.3 × 100 = 30
+ 
+Therefore, Bob worked 30 percent more hours in February than he did in January.

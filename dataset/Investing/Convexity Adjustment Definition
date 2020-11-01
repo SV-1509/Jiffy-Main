@@ -1,0 +1,38 @@
+
+A convexity adjustment is a change required to be made to a forward interest rate or yield to get the expected future interest rate or yield. Convexity adjustment refers to the difference between the forward interest rate and the future interest rate; this difference has to be added to the former to arrive at the latter. The need for this adjustment arises because of the non-linear relationship between bond prices and yields.
+ 
+﻿CA=CV×100×(Δy)2where:CV=Bond’s convexityΔy=Change of yield\begin{aligned} &CA = CV \times 100 \times (\Delta y)^2 \\ &\textbf{where:} \\ &CV=\text{Bond's convexity} \\ &\Delta y=\text{Change of yield} \\ \end{aligned}​CA=CV×100×(Δy)2where:CV=Bond’s convexityΔy=Change of yield​﻿
+ 
+Convexity refers to the non-linear change in the price of an output given a change in the price or rate of an underlying variable. The price of the output, instead, depends on the second derivative. In reference to bonds, convexity is the second derivative of bond price with respect to interest rates.
+ 
+Bond prices move inversely with interest rates—when interest rates rise, bond prices decline, and vice versa. To state this differently, the relationship between price and yield is not linear, but convex. To measure interest rate risk due to changes in the prevailing interest rates in the economy, the duration of the bond can be calculated.
+ 
+Duration is the weighted average of the present value of coupon payments and principal repayment. It is measured in years and estimates the percent change in a bond’s price for a small change in the interest rate. One can think of duration as the tool that measures the linear change of an otherwise non-linear function.
+ 
+Convexity is the rate that the duration changes along the yield curve and, thus, is the first derivative to the equation for the duration and the second derivative to the equation for the price-yield function or the function for change in bond prices following a change in interest rates.
+ 
+Because the estimated price change using duration may not be accurate for a large change in yield due to the convex nature of the yield curve, convexity helps to approximate the change in price that is not captured or explained by duration.
+ 
+A convexity adjustment takes into account the curvature of the price-yield relationship shown in a yield curve in order to estimate a more accurate price for larger changes in interest rates. To improve the estimate provided by duration, a convexity adjustment measure can be used.
+ 
+Take a look at this example of how convexity adjustment is applied:
+ 
+﻿AMD=−Duration×Change in Yieldwhere:AMD=Annual modified duration\begin{aligned} &\text{AMD} = -\text{Duration} \times \text{Change in Yield} \\ &\textbf{where:} \\ &\text{AMD} = \text{Annual modified duration} \\ \end{aligned}​AMD=−Duration×Change in Yieldwhere:AMD=Annual modified duration​﻿
+ 
+﻿CA=12×BC×Change in Yield2where:CA=Convexity adjustmentBC=Bond’s convexity\begin{aligned} &\text{CA} = \frac{ 1 }{ 2 } \times \text{BC} \times \text{Change in Yield} ^2 \\ &\textbf{where:} \\ &\text{CA} = \text{Convexity adjustment} \\ &\text{BC} = \text{Bond's convexity} \\ \end{aligned}​CA=21​×BC×Change in Yield2where:CA=Convexity adjustmentBC=Bond’s convexity​﻿
+ 
+Assume a bond has an annual convexity of 780 and an annual modified duration of 25.00. The yield to maturity is 2.5% and is expected to increase by 100 basis points (bps):
+ 
+﻿AMD=−25×0.01=−0.25=−25%\text{AMD} = -25 \times 0.01 = -0.25 = -25\%AMD=−25×0.01=−0.25=−25%﻿
+ 
+Note that 100 basis points is equivalent to 1%.
+ 
+﻿CA=12×780×0.012=0.039=3.9%\text{CA} = \frac{1}{2} \times 780 \times 0.01^2 = 0.039 = 3.9\%CA=21​×780×0.012=0.039=3.9%﻿
+ 
+The estimated price change of the bond following a 100 bps increase in yield is:
+ 
+﻿Annual Duration+CA=−25%+3.9%=−21.1%\text{Annual Duration} + \text{CA} = -25\% + 3.9\% = -21.1\%Annual Duration+CA=−25%+3.9%=−21.1%﻿
+ 
+Remember that an increase in yield leads to a fall in prices, and vice versa. An adjustment for convexity is often necessary when pricing bonds, interest rate swaps, and other derivatives. This adjustment is required because of the unsymmetrical change in the price of a bond in relation to changes in interest rates or yields.
+ 
+In other words, the percentage increase in the price of a bond for a defined decrease in rates or yields is always more than the decline in the bond price for the same increase in rates or yields. A number of factors influence the convexity of a bond, including its coupon rate, duration, maturity, and current price.

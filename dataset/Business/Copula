@@ -1,0 +1,7 @@
+
+The copula is a probability model that represent﻿s a multivariate uniform distribution, which examines the association or dependence between many variables. Although the statistical calculation of a copula was developed in 1959, it was not applied to financial markets and finance until the late 1990s.﻿﻿
+ 
+Latin for "link" or "tie," copulas are a mathematical tool used in finance to help identify economic capital adequacy, market risk, credit risk, and operational risk. The interdependence of returns of two or more assets is usually calculated using the correlation coefficient. However, correlation works best with normal distributions, while distributions in financial markets are often non-normal in nature﻿. The copula, therefore, has been applied to areas of finance such as option pricing and portfolio value-at-risk to deal with skewed or asymmetric distributions.
+ 
+Option theory, particularly options pricing is a highly specialized area of finance. Multivariate options are widely used where there is a need to hedge against a number of risks simultaneously; such as when there is an exposure to several currencies. The pricing of a basket of options is not a simple task. Advancements in Monte Carlo simulation methods and copula functions offer an enhancement to the pricing of bivariate contingent claims, such as derivatives with embedded options.
+ Cécile Kharoubi-Rakotomalala and Frantz Maurer. "Copulas in Finance Ten Years Later," Page 1555. Journal of Applied Business Research, 2013.

@@ -1,0 +1,18 @@
+
+A block header is used to identify a particular block on an entire blockchain and is hashed repeatedly to create proof of work for mining rewards. A blockchain consists of a series of various blocks that are used to store information related to transactions that occur on a blockchain network. Each of the blocks contains a unique header, and each such block is identified by its block header hash individually. 
+ 
+Block headers are commonly used in Bitcoin developer documentation, and help to record tasks quickly and relatively easily. Entire blockchains can be stored in a simple database or as a flat-file. When considering blockchains as a whole, it helps to picture them as a vertical stack. 
+ 
+The blocks get layered—one on top of the other, with the first block being the foundation—and they grow in height until the end of the blockchain is reached and the sequence is complete. The first block in the chain is also known as the “genesis block.” The layers and deep history of each sequence is one of the things that makes Bitcoin so secure.   
+ 
+As a part of a standard mining exercise, a block header is hashed repeatedly by miners by altering the nonce value. Through this exercise, they attempt to create a proof of work, which helps miners get rewarded for their contributions to keep the blockchain system running smoothly and efficiently. 
+ As time goes on and more technological updates are made, cryptocurrencies are rapidly growing in popularity in areas all across the world.  
+The block header contains three sets of block metadata. It is an 80-byte long string, and it is comprised of the 4-byte long Bitcoin version number, 32-byte previous block hash, 32-byte long Merkle root, 4-byte long timestamp of the block, 4-byte long difficulty target for the block, and the 4-byte long nonce used by miners. 
+ 
+Each of these components is vital to creating an accurate and reliable header. The primary identifier of each individual block is the cryptographic hash it contains. It is essentially a digital fingerprint, and it is created by hashing the block header through the applicable algorithm twice. 
+ 
+The Bitcoin version number is useful in keeping track of changes and updates throughout the protocol. The previous block hash links to the previous block, or its parent block, effectively securing the chain. 
+ 
+The Merkle root is made up of all of the hashed transaction hashes within the transaction. This is not as complicated as it sounds, each hashed is just further hashed. The timestamp is included so that everyone working on the project will be able to see a permanent, encoded record of when a particular event occurred. It typically provides the date and time of day for that particular event and is often narrow enough to be accurate within just a fraction of a second.
+ 
+The difficulty target is used, simply, to adjust how hard it is for the miners working to solve the block. Lastly, the nonce is the value that miners can alter to create different permutations and generate a correct hash in the sequence.  

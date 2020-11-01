@@ -1,0 +1,30 @@
+
+Fibonacci retracement levels are horizontal lines that indicate where support and resistance are likely to occur. They are based on Fibonacci numbers. Each level is associated with a percentage. The percentage is how much of a prior move the price has retraced. The Fibonacci retracement levels are 23.6%, 38.2%, 61.8%, and 78.6%. While not officially a Fibonacci ratio, 50% is also used.
+ 
+The indicator is useful because it can be drawn between any two significant price points, such as a high and a low. The indicator will then create the levels between those two points.
+ 
+Suppose the price of a stock rises $10 and then drops $2.36. In that case, it has retraced 23.6%, which is a Fibonacci number. Fibonacci numbers are found throughout nature. Therefore, many traders believe that these numbers also have relevance in financial markets.
+ 
+Fibonacci retracement levels do not have formulas. When these indicators are applied to a chart, the user chooses two points. Once those two points are chosen, the lines are drawn at percentages of that move.
+ 
+Suppose the price rises from $10 to $15, and these two price levels are the points used to draw the retracement indicator. Then, the 23.6% level will be at $13.82 ($15 - ($5 x 0.236) = $13.82). The 50% level will be at $12.50 ($15 - ($5 x 0.5) = $12.50).
+ 
+As discussed above, there is nothing to calculate when it comes to Fibonacci retracement levels. They are simply percentages of whatever price range is chosen.
+ 
+However, the origin of the Fibonacci numbers is fascinating. They are based on something called the Golden Ratio. Start a sequence of numbers with zero and one. Then, keep adding the prior two numbers to get a number string like this:
+ 
+The Fibonacci retracement levels are all derived from this number string. After the sequence gets going, dividing one number by the next number yields 0.618, or 61.8%. Divide a number by the second number to its right, and the result is 0.382 or 38.2%. All the ratios, except for 50% (since it is not an official Fibonacci number), are based on some mathematical calculation involving this number string.
+ 
+Interestingly, the Golden Ratio of 0.618 or 1.618 is found in sunflowers, galaxy formations, shells, historical artifacts, and architecture.
+ 
+Fibonacci retracements can be used to place entry orders, determine stop-loss levels, or set price targets. For example, a trader may see a stock moving higher. After a move up, it retraces to the 61.8% level. Then, it starts to go up again. Since the bounce occurred at a Fibonacci level during an uptrend, the trader decides to buy. The trader might set a stop loss at the 61.8% level, as a return below that level could indicate that the rally has failed.
+ 
+Fibonacci levels also arise in other ways within technical analysis. For example, they are prevalent in Gartley patterns and Elliott Wave theory. After a significant price movement up or down, these forms of technical analysis find that reversals tend to occur close to certain Fibonacci levels.
+ 
+Fibonacci retracement levels are static prices that do not change, unlike moving averages. The static nature of the price levels allows for quick and easy identification. That helps traders and investors to anticipate and react prudently when the price levels are tested. These levels are inflection points where some type of price action is expected, either a reversal or a break.
+ 
+While Fibonacci retracements apply percentages to a pullback, Fibonacci extensions apply percentages to a move in the trending direction. For example, a stock goes from $5 to $10, and then back to $7.50. The move from $10 to $7.50 is a retracement. If the price starts rallying again and goes to $16, that is an extension.
+ 
+While the retracement levels indicate where the price might find support or resistance, there are no assurances the price will actually stop there. This is why other confirmation signals are often used, such as the price starting to bounce off the level.
+ 
+The other argument against Fibonacci retracement levels is that there are so many of them that the price is likely to reverse near one of them quite often. The problem is that traders struggle to know which one will be useful at any particular time. When it doesn't work out, it can always be claimed that the trader should have been looking at another Fibonacci retracement level instead.

@@ -1,0 +1,18 @@
+
+Option pricing theory uses variables (stock price, exercise price, volatility, interest rate, time to expiration) to theoretically value an option. Essentially, it provides an estimation of an option's fair value which traders incorporate into their strategies to maximize profits. Some commonly used models to value options are Black-Scholes, binomial option pricing, and Monte-Carlo simulation. These theories have wide margins for error due to deriving their values from other assets, usually the price of a company's common stock.
+ 
+The primary goal of option pricing theory is to calculate the probability that an option will be exercised, or be in-the-money (ITM), at expiration. Underlying asset price (stock price), exercise price, volatility, interest rate, and time to expiration, which is the number of days between the calculation date and the option's exercise date, are commonly used variables that are input into mathematical models to derive an option's theoretical fair value.
+ 
+Aside from a company's stock and strike prices, time, volatility, and interest rates are also quite integral in accurately pricing an option. The longer that an investor has to exercise the option, the greater the likelihood that it will be ITM at expiration. Similarly, the more volatile the underlying asset, the greater the odds that it will expire ITM. Higher interest rates should translate into higher option prices.
+ 
+Marketable options require different valuation methods than non-marketable options. Real traded options prices are determined in the open market and, as with all assets, the value can differ from a theoretical value. However, having the theoretical value allows traders to assess the likelihood of profiting from trading those options.
+ 
+The evolution of the modern-day options market is attributed to the 1973 pricing model published by Fischer Black and Myron Scholes. The Black-Scholes formula is used to derive a theoretical price for financial instruments with a known expiration date. However, this is not the only model. The Cox, Ross, and Rubinstein binomial options pricing model and Monte-Carlo simulation are also widely used.
+ 
+The original Black-Scholes model required five input variables - strike price of an option, current price of the stock, time to expiration, risk-free rate, and volatility. Direct observation of volatility is impossible, so it must be estimated or implied. Also, implied volatility is not the same as historical or realized volatility. Currently, dividends are often used as a sixth input.
+ 
+Additionally, the Black-Scholes model assumes stock prices follow a log-normal distribution because asset prices cannot be negative. Other assumptions made by the model are that there are no transaction costs or taxes, that the risk-free interest rate is constant for all maturities, that short selling of securities with use of proceeds is permitted, and that there are no arbitrage opportunities without risk.
+ 
+Clearly, some of these assumptions do not hold true all of the time. For example, the model also assumes volatility remains constant over the option's lifespan. This is unrealistic, and normally not the case, because volatility fluctuates with the level of supply and demand.
+ 
+Also, Black-Scholes assumes that the options are European Style, executable only at maturity. The model does not take into account the execution of American Style options, which can be exercised at any time before, and including the day of, expiration. However, for practical purposes, this is one of the most highly regarded pricing models. On the other hand, the binomial model can handle both styles of options because it can check for the option's value at every point in time during its life.

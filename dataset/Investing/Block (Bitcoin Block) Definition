@@ -1,0 +1,16 @@
+
+Blocks are files where data pertaining to the Bitcoin network are permanently recorded. A block records some or all of the most recent Bitcoin transactions that have not yet entered any prior blocks. Thus, a block is like a page of a ledger or record book. Each time a block is ‘completed’, it gives way to the next block in the blockchain. A block is thus a permanent store of records which, once written, cannot be altered or removed.
+ 
+The Bitcoin network witnesses a great deal of transaction activity. Maintaining a record of these transactions helps users track what was paid for and by whom. The transactions executed during a given period of time are recorded into a file called a block, which is the basis of the blockchain network.
+ 
+A block represents the ‘present’ and contains information about its past and future. Each time a block is completed it becomes part of the past and gives way to a new block in the blockchain. The completed block is a permanent record of transactions in the past and the new transactions are recorded in the current one.
+ 
+This way, the whole system works in a cycle and data gets permanently stored. Each block comprises records of some or all recent transactions, and a reference to the block that preceded it which, along with Bitcoin's peer-to-peer verification system, makes it virtually impossible for a user to tamper with previously recorded transaction data. 
+ 
+A mathematical problem is linked with each block. Miners are constantly processing and recording transactions as part of the process of competing in a type of race. They race to ‘complete the current block’ in order to win Bitcoins. When a winning miner is able to solve it, the answer is shared with other mining nodes and it is validated. Every time a miner solves a problem, a newly minted 12.5 BTC (Bitcoin currency symbol) is awarded to the miner and enters the circulation.
+ 
+The first record in that next block is a transaction that awards the winning miner (who completed the previous block) the newly minted BTC. It is the difficulty of the mathematical problem that regulates the creation rate of new Bitcoins since new blocks can’t be submitted to the network without the answer. Based on the fact that it takes around 10 minutes on average to solve the problem, approximately 12.5 new Bitcoins are minted every 10 minutes. 
+ 
+By way of analogy, it is possible to compare ordinary banking transactions to transactions over the Bitcoin network. A blockchain is like a record of bank transactions, whereas a block might be a single transaction confirmation that a bank ATM prints out after you use the machine. Within the blockchain network, the individual blocks build a 'ledger' much like an ATM or bank would record your transactions.
+ 
+Blockchain though, records the chain across all their users instead of one. This is similar to a bank, but the blockchain offers an increased level of privacy versus normal banking institutions.

@@ -1,0 +1,20 @@
+
+Bitcoin Private is a cryptocurrency that emerged as a result of a hard fork from bitcoin and a simultaneous merge with ZClassic and claims to offer the best combination of features of both cryptocurrencies. The cryptocurrency trades with the symbol BTCP, and is available for transacting on multiple exchanges that include HitBTC, Nanex and Tradeogre.
+ 
+While the world’s most popular cryptocurrency, Bitcoin (BTC), has undergone several forks, the one that led to the birth of Bitcoin Private was a special case. Instead of being a standard fork, it was a "fork-merge" which involved simultaneous forking away from the Bitcoin blockchain and instantly merging it with ZClassic (ZCL). The ultimate aim behind launching Bitcoin Private was to combine the inherent privacy-rich features of the ZClassic cryptocurrency with the flexibility, security and popularity of Bitcoin.
+ 
+As Bitcoin gained tremendous popularity over the years, it’s fixed, small block size and slow block times led to issues related to high fees and longer processing time resulting in a backlog of transactions. This is becoming a challenge for bitcoin to be used as a currency in true sense for everyday use. Additionally, power-hungry ASIC-based mining has resulted in the issue of centralization, as mining power is now concentrated around miners and pools that operate with high power, leaving other smaller participants at a disadvantage. The “fork” for Bitcoin Private was designed to generate a new cryptocurrency free from all these problems.
+ 
+Though Bitcoin was devised to allow complete financial privacy to its transactions as well as to the user’s identities, it is possible to get enough pointers to identify the users by tracking pseudo-anonymous transactions and spending patterns around an address over a period of time. This has put the user’s privacy at stake. (See also, NSA Helped Track Down Bitcoin Users, Snowden Papers Alleges.)
+ 
+Bitcoin Private attempted to solve this problem by “merging” with ZClassic’s privacy rich features. (See also, The Five Most Private Cryptocurrencies.)
+ 
+Essentially, the birth of Bitcoin Private that emerged as a result of a unique “fork-merge” attempted to fix the above problems of bitcoin.
+ 
+As per the Bitcoin Private whitepaper, it is an “amalgamation of two transaction systems – transparent and shielded transactions.” Like Bitcoin, the sources and destinations of all funds and amount values are securely and transparently stored on the blockchain. On the other hand, the shielded transactions encrypt such details into a special section of a block, making them verifiable but hard to decipher for third-parties.
+ 
+The BTCP was issued through a standard airdrop exercise where the existing holders of Bitcoin and ZClassic received a BTCP token for each BTC and ZCL coin they had. The airdrop and fork-merge took place on February 28, 2018.
+ 
+The total coin supply for BTCP is capped at 21 million. The Bitcoin Private network operates with a block reward of 1.5625 BTCP, block time of 2.5 minutes, and a block size of 2 MB. It uses the zk-SNARKs privacy protocol and the Equihash algorithm which offers a GPU-friendly proof of work algorithm for mining. (See also, GPUs and Cryptocurrency Mining.)
+ 
+Since its launch, the cryptocurrency has gained good traction in the market. As of May 2018, it was ranked 46th with around $550 million market cap.

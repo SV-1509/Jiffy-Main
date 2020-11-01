@@ -1,0 +1,46 @@
+
+Blockchain technology and cryptocurrencies have revolutionized the way companies raise capital. Instead of having to pitch venture capital firms and sacrifice equity, control, and autonomy during the fundraising process, startups can now access the financing needed to develop and succeed without ceding more than some financial incentives. Even so, initial coin offerings aren’t always fool-proof. 
+ 
+Despite cryptocurrencies’ highly touted security advantages and blockchain’s own defenses, there are several highly publicized cases that show even the toughest walls are not impregnable. For prospective ICO launchers, this paints a hostile and potentially alarming landscape.
+ 
+With nearly 10% of all funds raised by ICOs reported stolen or lost due to hacks, blockchain-based startups face an uphill battle for success. However, the risks shouldn’t deter a company from seeking the capital they need to thrive. Instead, there are several strategies that can significantly enhance an ICO’s security and ensure your round of crowdfunding is not just safe, but successful as well. (See also: Can Bitcoin Be Hacked?)
+ 
+Smart contracts offer an inventive solution to facilitate trustless exchanges as rules for executing agreements are completely automated and hard-coded into algorithms. When it comes to ICOs, though, smart contracts have a history of being a weak link in the capital-raising process. Indeed, some estimates blame nearly half of all Ethereum hacks on poorly designed smart contracts. (See also: Ethereum Smart Contracts Vulnerable to Hacks: $4M in Ether at Risk.)
+ 
+Smart contract and blockchain expert Frank Bonnet emphasizes the importance of getting a professional audit for Smart Contracts. 
+ 
+"It's almost impossible to code a 100% airtight smart contract," Bonnet said. "Even the best programmers make mistakes, and therefore it's an absolute must to have a third-party review and audit your contract, even if just for your investors’ peace of mind."
+ 
+Examples like the Parity freeze and the DAO scandal are the result of hackers finding vulnerabilities in smart contract codes and exploiting them. More importantly, though, a poorly coded smart contract can create other issues, such as disappearing funds, duplicated tokens, and even scripts designed to manipulate the token minting process.
+ 
+Performing a pre-ICO audit of smart contracts with blockchain security services like Hosho, which focuses on security and penetration testing for blockchain applications and smart contracts, allows projects to detect problems before they turn into catastrophes.
+ 
+“The number of successful high-profile attacks and data breaches are indicative of the security weaknesses that many companies and organizations have," said Hartej Singh Sawhney, founder and CEO of Hosho Group. "Companies preparing for a Token Generation Event should get at least one third party technical audit of their smart contracts. In addition, a penetration test of their website is crucial, so that situations such as what happened to CoinDash can be avoided."  (See also: Coincheck.)
+ 
+One of the most unique aspects of public blockchains and associated cryptocurrencies is their degree of transparency. Most companies release all or at least part of their code, and in some cases even the smart contracts for the ICO. Despite their growing popularity with mainstream retail investors, a large portion of the community following blockchain closely has knowledge of coding and will take time to examine these pertinent details. For some businesses, this is more a formality than an actual step, but it may be an incorrect way of viewing it.
+ 
+The DAO is a perfect example of why companies must listen to its community. The company's open source code was available for review on major repositories, and several developers warned that the files had a major security vulnerability. Instead of patching the code, the DAO ignored the warnings, and millions of dollars were lost as a result. (See also: What Is the DAO?)
+ 
+Community members have a vested interest in a successful ICO as it means they will be able to benefit from the utility being offered by the platform or service. Thus, giving them a clear channel to express concerns and expose issues is a vital component in securing your ICO. More important, however, is turning those concerns into concrete fixes, as they can be areas you might have missed when generating the contract.
+ 
+On the non-programming side of an ICO, it’s vital to always be alert for any signs of potential scams. Although programmers and other tech-side employees may be privy to cybersecurity trends and best practices, not every team member is aware of, or necessarily cares, about safety online. The first step in this case is education. Business development and sales team members don’t need to understand code, but they do need to know about potential exploits and signs of a hack or scam being perpetrated.
+ 
+More importantly, companies should always be as safe and proactive in avoiding fraud. Consistent scanning of web platforms like Facebook, Telegram, and other hubs can help point out suspicious activity and stay prepared for any eventuality. This also gives your team the opportunity to reliably relay critical updates, display the correct website for an ICO, and educate community members on potential risks.
+ 
+In the case of EtherDelta, the company’s inability to detect fraudulent copies of their site, which hackers set up by accessing its DNS records and replacing its domains, led to thousands of dollars lost. Fraudsters set up fake websites that appeared like the original, and the company was not vigilant enough to identify and report the potential scams.
+ 
+The story of CoinDash, an enormously hyped ICO that was hacked and resulted in the loss of 43,000 ETH, has become a cautionary tale for new entrants. The company’s smart contracts were secured, but its website was not. As a result, hackers changed the wallet address on the ICO gateway, and once it was opened to the public, hackers stole over $7 million in under seven minutes. (See also: CoinDash: Ethereum Hacker Returned 20,000 Stolen Ether Worth $17M.)
+ 
+Hackers were able to gain access to the company’s website through an exploit that let them alter a source file, granting them full remote control over the website. By simply changing the wallet address, they were able to get away with a massive heist despite the recent return of some coins.
+ 
+The moral of CoinDash’s story is that it is increasingly popular to target not just the infrastructure of most ICOs, which have been upgrading their security, but rather an easily overlooked target like a website. In this case, there’s no need for a major security audit, but it is vital to deploy the right tools to secure gateways.
+ 
+One of the easiest, and most effective ways to accomplish this is by implementing a powerful web-application firewall (WAF), such as Incapsula’s. WAFs control inbound and outbound traffic, granting companies improved control and oversight of who is accessing their files and website. Firewalls protect these backdoors to website shells while delivering protection against common script injection and exploit techniques.
+ 
+A successful ICO isn’t necessarily the end of the crowdfunding process. Once users have received their tokens, they also need access to the services they helped fund. As British crypto startup Electroneum learned when their website was hit by a DDoS attack that shut their users out of their accounts, fundraising is only half the battle.
+ 
+Protecting a website from hacks like DDoS attacks involve having the right tools in place to do so, and WAFs can also serve this function. Moreover, companies should always push for the most stringent security measures for users, including two-factor authentication, constant notifications for any changes, and even maintaining logs of activity for security purposes. Protecting users is paramount, and ensuring they have access to services they paid for is a necessity to avoid legal repercussions.
+ 
+ICOs are a highly effective tool for startups seeking to maintain control of their businesses but are not risk-free and omnipotent. To ensure success, you should always adhere to best security practices, expending the effort to guarantee you are as safe as possible and your users are also protected.
+ 
+Investing in cryptocurrencies and Initial Coin Offerings ("ICOs") is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein. As of the date this article was written, the author owns cryptocurrencies.

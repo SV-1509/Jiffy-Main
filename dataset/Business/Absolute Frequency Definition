@@ -1,0 +1,18 @@
+
+Absolute frequency is a statistical term describing the number of times a particular piece of data or a particular value appears during a trial or set of trials. Essentially, absolute frequency is a simple count of the number of times a value is observed. Absolute frequency is usually expressed as a whole number and is considered a very basic level of statistical analysis.
+ 
+Absolute frequency is often a component of basic data collection. For example, if you ask 10 friends if blue is their favorite color and three say yes and seven say no, you have enough information to determine absolute frequency: the absolute frequency of "yes" is equal to three and that of "no" is equal to seven. The number of values tracked often increases with sample size or trial scope. For example, if you ask 100 people if their favorite color is blue, the absolute frequency will likely increase. However, there is no additional complexity in the tracking of how many times a given value occurs.
+ 
+Absolute frequency is used in some data visualizations. For example, the absolute frequency of survey responses will often be displayed on a graph to provide an easily digested view of the majority of responses for a particular question.
+ 
+Absolute frequency can be used to show the most commonly occurring data piece in a trial or study, but it isn't usually used as a primary statistical measurement.
+ 
+Absolute frequency can be the starting point for a more nuanced statistical analysis. Relative frequency, for example, is derived from absolute frequency. When the absolute frequency of values is tracked over the entire trial, the absolute frequency for a particular value can then be divided by the total number of values for that variable throughout the trial to get the relative frequency. The relative frequency is what we most often reference, whether it is the winning percentage of our favorite sports team or the percentage of fund managers that beat the market. Unlike absolute frequency, relative frequency is usually expressed as a percentage or fraction rather than a whole number.
+ 
+Sometimes, when relative frequencies are very small, they are given in terms of "per thousand," "per million," etc., as in total number of crimes in a city per thousand people. Such adjustments are called "per capita."
+ 
+Imagine an accounting conference that wants to collect data on drinking habits in the profession. The conference organizer asks a room of 50 accountants how many glasses of wine they have had over the past week. After each of the 50 accountants gives their answer, it is put into a table displaying the absolute frequencies.
+ 
+There are a few observations you can make from the table displaying absolute frequency: more accountants drink some amount of alcohol than no alcohol. However, the most valuable observations that can be made from this data set involve more analysis. For example, 50% of all the accountants at the conference have five or more drinks per week.
+ 
+However, as a statistical study, this survey leaves much to be desired. For one, there is no demographic information beyond the profession of the respondents. The gender of the respondents is not revealed. This is important, given there are different health guidelines for alcohol consumption by sex. We also don't know the strength, or the alcohol by volume (ABV), of a particular drink being reported. Like absolute frequency, our example survey is just the beginning of a real analysis of alcohol consumption within the accounting profession.

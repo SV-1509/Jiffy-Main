@@ -1,0 +1,40 @@
+
+How do you know when a company is at risk of corporate collapse? To detect any signs of looming bankruptcy, investors calculate and analyze all kinds of financial ratios: working capital, profitability, debt levels, and liquidity. The trouble is, each ratio is unique and tells a different story about a firm's financial health. At times they can even appear to contradict each other. Having to rely on a bunch of individual ratios, the investor may find it confusing and difficult to know when a stock is going to the wall.
+ 
+Tutorial: Financial Ratios
+ 
+In a bid to resolve this conundrum, New York University professor Edward Altman introduced the Z-score formula in the late 1960s. Rather than search for a single best ratio, Altman built a model that distills five key performance ratios into a single score. As it turns out, the Z-score gives investors a pretty good snapshot of corporate financial health.
+ 
+The Z-score formula for manufacturing firms, which is built out of the five weighted financial ratios:
+ 
+﻿Z-score=(1.2×A)+(1.4×B)+(3.3×C)+(0.6×D) +(1.0×E)where:A=Working Capital÷Total AssetsB=Retained Earnings÷Total AssetsC=Earnings Before Interest & Tax÷Total AssetsD=Market Value of Equity÷Total LiabilitiesE=Sales÷Total Assets\begin{aligned} &\text{Z-score} = (1.2 \times A) + (1.4 \times B) + (3.3 \times C) + (0.6 \times D) \\ &\qquad \qquad \ + (1.0 \times E) \\ &\textbf{where:}\\ &A = \text{Working Capital} \div \text{Total Assets} \\ &B = \text{Retained Earnings} \div \text{Total Assets} \\ &C = \text{Earnings Before Interest \& Tax} \div \text{Total Assets} \\ &D = \text{Market Value of Equity} \div \text{Total Liabilities} \\ &E = \text{Sales} \div \text{Total Assets} \\ \end{aligned}​Z-score=(1.2×A)+(1.4×B)+(3.3×C)+(0.6×D) +(1.0×E)where:A=Working Capital÷Total AssetsB=Retained Earnings÷Total AssetsC=Earnings Before Interest & Tax÷Total AssetsD=Market Value of Equity÷Total LiabilitiesE=Sales÷Total Assets​﻿
+ 
+Strictly speaking, the lower the score, the higher the odds are that a company is heading for bankruptcy. A Z-score of lower than 1.8, in particular, indicates that the company is on its way to bankruptcy. Companies with scores above 3 are unlikely to enter bankruptcy. Scores in between 1.8 and 3 define a gray area.
+ 
+It's helpful to examine why these particular ratios are part of the Z-score. Why is each significant?
+ 
+This ratio is a good test for corporate distress. A firm with negative working capital is likely to experience problems meeting its short-term obligations because there are simply not enough current assets to cover those obligations. By contrast, a firm with significantly positive working capital rarely has trouble paying its bills.
+ 
+This ratio measures the amount of reinvested earnings or losses, which reflects the extent of the company's leverage. Companies with low RE/TA are financing capital expenditure through borrowings rather than through retained earnings. Companies with high RE/TA suggest a history of profitability and the ability to stand up to a bad year of losses.
+ 
+A version of return on assets (ROA), an effective way of assessing a firm's ability to squeeze profits from its assets before deducting factors like interest and tax.
+ 
+This ratio shows that if a firm were to become insolvent, how much the company's market value would decline before liabilities exceed assets on the financial statements. This ratio adds a market value dimension to the model that isn't based on pure fundamentals. In other words, a durable market capitalization can be interpreted as the market's confidence in the company's solid financial position.
+ 
+This tells investors how well management handles competition and how efficiently the firm uses assets to generate sales. Failure to grow market share translates into a low or falling S/TA.
+ 
+To demonstrate the power of the Z-score, test how it holds up with a tricky test case. Consider the infamous collapse of telecommunications giant WorldCom in 2002. WorldCom's bankruptcy created $100 billion in losses for its investors after management falsely recorded billions of dollars as capital expenditures rather than operating costs.
+ 
+Calculate Z-scores for WorldCom using annual 10-K financial reports for years ending December 31, 1999, 2000 and 2001. You'll find that WorldCom's Z-score suffered a sharp fall. Also note that the Z-score moved from the gray area into the danger zone in 2000 and 2001, before the company declared bankruptcy in 2002.
+ 
+But WorldCom management cooked the books, inflating the company's earnings and assets in the financial statements. What impact do these shenanigans have on the Z-score? Overstated earnings likely increase the EBIT/total assets ratio in the Z-score model, but overstated assets would shrink three of the other ratios with total assets in the denominator. So the overall impact of the false accounting on the company's Z-score is likely to be downward.
+ 
+The Z-score is not a perfect metric and needs to be calculated and interpreted with care. For starters, the Z-score is not immune to false accounting practices. As WorldCom demonstrates, companies in trouble may be tempted to misrepresent financials. The Z-score is only as accurate as the data that goes into it.
+ 
+The Z-score also isn't much use for new companies with little or no earnings. These companies, regardless of their financial health, will score low. Moreover, the Z-score doesn't address the issue of cash flows directly, only hinting at it through the use of the net working capital-to-asset ratio. After all, it takes cash to pay the bills.
+ 
+Z-scores can swing from quarter to quarter when a company records one-time write-offs. These can change the final score, suggesting that a company that's not at risk is on the brink of bankruptcy.
+ 
+To keep an eye on their investments, investors should consider checking their companies' Z-score regularly. A deteriorating Z-score can signal trouble ahead and provide a simpler conclusion than a mass of ratios.
+ 
+Given its shortcomings, the Z-score is probably better used as a gauge of relative financial health rather than as a predictor. Arguably, it's best to use the model as a quick check of economic health, but if the score indicates a problem, it is a good idea to conduct a more detailed analysis.

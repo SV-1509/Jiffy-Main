@@ -1,0 +1,22 @@
+
+An option series refers to a grouping of options listed on the same underlying security with various specified strike prices, but for the same expiration month. These may be both call and put options. An option series therefore lists the available calls and puts that will expire at the same time for a given underlying security, and may also include quote information such as price and volume for each.
+ 
+An option series shows all the calls or puts available on an underlying security, with different strike prices, for the same expiry month. If, for instance, stock in XYZ corporation has options listed on it, and XYZ is trading for $100 a share, the option series for June may look like:
+ 
+In some option series both calls and puts are listed side by side. In other cases only call series or put series are listed.
+ 
+An option will be listed with a specified strike price. For example, XYZ Company may have a call option with a strike price of $110. When the option is listed it can be assigned one of three cycles:
+ 
+Cycle one: JAJO - January, April, July and October
+ 
+Cycle two: FMAN - February, May, August and November
+ 
+Cycle three: MJSD - March, June, September and December
+ 
+Exchange traded options follow their designated cycle with listings available for the first two months followed by the next two cycle months. If the XYX $110 call is a cycle three then in January it would have the following listings: XYZ 110 Jan, XYZ 110 Feb, XYZ 110 March, XYZ 110 June. Each listing would be considered an individual option series with the four option offerings together representing the option cycle. Most all exchange traded option series listings will expire on the third Friday of their listed expiration month.
+ 
+An investor will find multiple option series listings within a designated option class. An option class refers to the option’s designation as either a call or a put. Generally, most option exchanges will list options by class. Therefore, an investor seeking to buy call options on an underlying security would see a long list of call option series listings, each with their own individual strike price and expiration. Similarly, an investor seeking put options on an underlying security would first look to the put option class for all of the series listings at different strike prices and expirations.
+ 
+Publicly traded option exchanges list option classes uniformly with many different strike prices and expirations all within an option’s designated cycle. The value of each option will vary based on the price of the underlying option.
+ 
+Options trading on regulated exchanges are supported by regulators who ensure options in the case of default. Thus, option investors need not worry about replacement risk with publicly traded options since the regulators will step in to cover counterparty positions in the event of any potential counterparty default.

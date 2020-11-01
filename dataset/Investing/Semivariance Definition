@@ -1,0 +1,14 @@
+
+Semivariance is a measurement of data that can be used to estimate the potential downside risk of an investment portfolio. Semivariance is calculated by measuring the dispersion of all observations that fall below the mean or target value of a set of data. Semivariance is an average of the squared deviations of values that are less than the mean.
+ 
+﻿Semivariance=1n×∑rt<Averagen(Average−rt)2where:n=The total number of observations below the meanrt=The observed value\begin{aligned} &\text{Semivariance}=\frac1n\times\sum^n_{r_t<\text{Average}}(\text{Average}-r_t)^2\\ &\textbf{where:}\\ &n = \text{The total number of observations below the mean}\\ &r_t = \text{The observed value}\\ &\text{Average} = \text{The mean or target value of the dataset} \end{aligned}​Semivariance=n1​×rt​<Average∑n​(Average−rt​)2where:n=The total number of observations below the meanrt​=The observed value​﻿
+ 
+Semivariance is similar to variance, but it only considers observations that are below the mean. Semivariance is a useful tool in portfolio or asset analysis because it provides a measure for downside risk.
+ 
+While standard deviation and variance provide measures of volatility, semivariance only looks at the negative fluctuations of an asset. Semivariance can be used to calculate the average loss that a portfolio could incur because it neutralizes all values above the mean, or above an investor's target return.
+ 
+For risk-averse investors, determining optimal portfolio allocations by minimizing semivariance could reduce the likelihood of a large decline in the portfolio's value.
+ 
+To use a spreadsheet program to calculate semivariance:
+ 
+Different spreadsheets may have different functionality and some have easier ways or shortcuts to do this calculation.

@@ -1,0 +1,24 @@
+
+Standard deviation and variance are basic mathematical concepts that play important roles throughout the financial sector, including the areas of accounting, economics, and investing. In the latter, for example, a firm grasp of the calculation and interpretation of these two measurements is crucial to the creation of an effective trading strategy.
+ 
+Standard deviation and variance are both determined by using the mean of a group of numbers in question. The mean is the average of a group of numbers, and the variance measures the average degree to which each number is different from the mean. The extent of the variance correlates to the size of the overall range of numbers—meaning the variance is greater when there is a wider range of numbers in the group, and the variance is less when there is a narrower range of numbers.
+ 
+Standard deviation is a statistic that looks at how far from the mean a group of numbers is, by using the square root of the variance. The calculation of variance uses squares because it weighs outliers more heavily than data closer to the mean. This calculation also prevents differences above the mean from canceling out those below, which would result in a variance of zero.
+ 
+Standard deviation is calculated as the square root of variance by figuring out the variation between each data point relative to the mean. If the points are further from the mean, there is a higher deviation within the date; if they are closer to the mean, there is a lower deviation. So the more spread out the group of numbers are, the higher the standard deviation.
+ 
+To calculate standard deviation, add up all the data points and divide by the number of data points, calculate the variance for each data point and then find the square root of the variance.
+ 
+The variance is the average of the squared differences from the mean. To figure out the variance, first calculate the difference between each point and the mean; then, square and average the results.
+ 
+For example, if a group of numbers ranges from 1 to 10, it will have a mean of 5.5. If you square the differences between each number and the mean, and then find their sum, the result is 82.5﻿. To figure out the variance, divide the sum, 82.5, by N-1, which is the sample size (in this case 10) minus 1. The result is a variance of 82.5/9 = 9.17. Standard deviation is the square root of the variance so that the standard deviation would be about 3.03.
+ 
+Because of this squaring, the variance is no longer in the same unit of measurement as the original data. Taking the root of the variance means the standard deviation is restored to the original unit of measure and therefore much easier to interpret.
+ 
+For traders and analysts, these two concepts are of paramount importance as they are used to measure security and market volatility, which in turn plays a large role in creating a profitable trading strategy.
+ 
+Standard deviation is one of the key methods that analysts, portfolio managers, and advisors use to determine risk. When the group of numbers is closer to the mean, the investment is less risky; when the group of numbers is further from the mean, the investment is of greater risk to a potential purchaser.
+ 
+Securities that are close to their means are seen as less risky, as they are more likely to continue behaving as such. Securities with large trading ranges that tend to spike or change direction are riskier. In investing, risk in itself is not a bad thing, as the riskier the security, the greater potential for a payout.
+ 
+The standard deviation and variance are two different mathematical concepts that are both closely related. The variance is needed to calculate the standard deviation. These numbers help traders and investors determine the volatility of an investment and therefore allows them to make educated trading decisions.

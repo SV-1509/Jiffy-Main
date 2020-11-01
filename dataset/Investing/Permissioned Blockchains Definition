@@ -1,0 +1,18 @@
+
+Permissioned blockchains can be seen as an additional blockchain security system, as they maintain an access control layer to allow certain actions to be performed only by certain identifiable participants. For this reason, these blockchains differ from public and private blockchains.
+ 
+A blockchain can be built and accessed in multiple ways. There are certain other blockchains that need special permissions to read, access, and write information on them. The intrinsic configuration of such blockchains controls the participants' transactions and defines their roles in which each participant can access and contribute to the blockchain.
+ 
+It may also include maintaining the identity of each blockchain participant on the network. Such blockchains are called permissioned blockchains.
+ 
+Permissioned blockchains are also different from private blockchains, which allow only known nodes to participate in the network. For example, a bank may be running a private blockchain operated through a designated number of nodes internal to the bank. In contrast, permissioned blockchains may allow anyone to join a network once their identity and role are defined.
+ 
+For instance, Bitcoin, the most popular cryptocurrency blockchain, allows anyone to participate in the network in the capacity of a full node, or a contributing miner. Anyone can take a read-only role, or make legit changes to the blockchain like adding a new block or maintain a full copy of the entire blockchain. Such blockchains—which allow equal and open rights to all participants—are called open, public, or un-permissioned blockchains.
+ 
+Permissioned blockchains are also popular among industry-level enterprises and businesses, for which security, identity, and role definition are important. For instance, a manufacturer producing a product may use a permissioned blockchain that also takes care of supply chain management. However, the transactions that occur on such a blockchain may also involve logistics partners, financing banks, and other vendors involved in the supply and financing process.
+ Technically, properly conceived permissioned blockchain networks are those which have an access-control layer built into the blockchain nodes. 
+These external parties, though part of the whole network, don't have to know the price at which the manufacturer supplies the products to various clients. The use of permissioned blockchains allows such role-limited implementations.
+ 
+A developer building a permissioned blockchain may opt to make a few select records, like product name and quantity involved in a transaction, available for everyone to read. However, only select participants are allowed to view the transaction price. Other implementations may include limiting participants to act as nodes on the network, which enhances the network's security.
+ 
+All such permissioning and profile maintenance is handled by this access-control layer. These differ from the un-permissioned or public blockchain networks which don’t have a control layer.

@@ -1,0 +1,22 @@
+
+Two-bin inventory control is a system used to determine when items or materials used in production should be replenished. When items in the first bin have been depleted, an order is placed to refill or replace them. The second bin is then supposed to have enough items to last until the order for the first bin arrives. In short, the first bin has a minimum of working stock and the second bin keeps reserve stock or remaining material.
+ 
+The two-bin inventory control method is also sometimes referred to as kanban, which is strongly associated with the just-in-time (JIT) method of a manufacturing process.
+ 
+Effectively managing stock levels is one of the biggest challenges that companies face. Not having enough inventory can result in missing out on sales opportunities and losing out to competitors. Holding too much stock, on the other hand, increases the possibility of damage, spoilage, theft and falling victim to shifts in demand. It also means higher storage costs and delays recouping money from purchased goods to reinvest in the business.
+ 
+The two-bin inventory control system is a basic technique used to ensure that companies reduce these risks and always have, more or less, the right level of stock to meet demand without overdoing it.
+ 
+In its simplest form, the process can be broken down like this:
+ 
+This system is broadly employed across different industries with manufacturing operations and is also effective for hospital inventory control. 
+ 
+Two-bin inventory control is almost always used for small or low-value items that can be easily purchased and stored in bulk. In contrast, higher value items are subject to the perpetual inventory system. 
+ 
+Moreover, depending on historical patterns of variance in the depletion rate of the working stock (bin no. 1), the amount ordered for the reserve stock (bin no. 2) can be adjusted. 
+ 
+In general, the following calculation is used to determine how much inventory to keep in the reserve stock bin:
+ 
+Company A is a small manufacturer that goes through various types of nuts and bolts to piece together its products. Fasteners are among the many items it orders in from outside suppliers. It uses roughly 800 of them per week, or 160 per day, with a lead time — the period between the beginning and completion of a production process — of three days.
+ 
+According to the first calculation above, company A’s reserve bin should stock at least 480 fasteners. However, management is also aware that usage levels can sometimes fluctuate by as much as 15%, so as a precautionary measure chooses to add some more fasteners to its reserve storage bin. This safety stock could come in handy if demand picks up and production rates increase, as they have in the past.

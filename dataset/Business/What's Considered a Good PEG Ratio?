@@ -1,0 +1,26 @@
+
+The price/earnings to growth ratio, or PEG ratio, is a stock valuation measure that investors and analysts can use to get a broad assessment of a company's performance and evaluate investment risk. In theory, a PEG ratio value of 1 represents a perfect correlation between the company's market value and its projected earnings growth. PEG ratios higher than 1 are generally considered unfavorable, suggesting a stock is overvalued. Conversely, ratios lower than 1 are considered better, indicating a stock is undervalued.
+ 
+The price-to-earnings (P/E) ratio gives analysts a good fundamental indication of what investors are currently paying for a stock in relation to the company's earnings. One weakness of the P/E ratio, however, is that its calculation does not take into account the future expected growth of a company. The PEG ratio represents a fuller—and hopefully—more accurate valuation measure than the standard P/E ratio.
+ 
+The PEG ratio builds upon the P/E ratio by factoring growth into the equation. Factoring in future growth adds an important element to stock valuation since equity investments represent a financial interest in a company's future earnings.
+ 
+To calculate a stock's PEG ratio you must first figure out its P/E ratio. The P/E ratio is calculated by dividing the per-share market value by its per-share earnings. From here, the formula for the PEG ratio is simple:
+ 
+﻿PEG=P/EEGRwhere:EGR = Earnings growth rate over five years\begin{aligned} &\text{PEG}=\frac{\text{P/E}}{\text{EGR}}\\ &\textbf{where:}\\ &\text{EGR = Earnings growth rate over five years}\\ \end{aligned}​PEG=EGRP/E​where:EGR = Earnings growth rate over five years​﻿
+ 
+The PEG calculation can be done using a projected annual growth rate for a longer period of time than five years, but growth projections tend to become less accurate the further out they extend.
+ 
+If you're choosing between two stocks from companies in the same industry, then you may want to look at their PEG ratios to make your decision. For example, the stock of Company Y may trade for a price that's 15 times its earnings, while Company Z's stock may trade for 18 times its earnings. If you simply look at the P/E ratio, then Company Y may seem like the more appealing option.
+ 
+However, Company Y has a projected five-year earnings growth rate of 12% per year while Company Z's earnings have a projected growth rate of 19% per year for the same period. Here's what their PEG ratio calculations would look like:
+ 
+﻿Company Y PEG = 15/12% = 1.25Company Z PEG = 18/19% = 0.95\begin{aligned} &\text{Company Y PEG = 15/12\% = 1.25}\\ &\text{Company Z PEG = 18/19\% = 0.95}\\ \end{aligned}​Company Y PEG = 15/12% = 1.25Company Z PEG = 18/19% = 0.95​﻿
+ 
+This shows that when we take possible growth into account, Company Z could be the better option because it's actually trading for a discount compared to its value.
+ 
+The PEG ratio doesn't take into account other factors that can help determine a company's value. For example, the PEG doesn't look at the amount of cash a company keeps on its balance sheet, which could add value if it's a large amount.
+ 
+Other factors analysts consider when evaluating stocks include the price-to-book ratio (P/B) ratio. This can help them determine if a stock is genuinely undervalued or if the growth estimates used to calculate the PEG ratio are simply inaccurate. To calculate the P/B ratio, divide the stock's price per share by its book value per share.
+ 
+Getting an accurate PEG ratio depends highly on what factors are used in the calculations. Investors may find that PEG ratios are inaccurate if they use historical growth rates, especially if future ones may deviate from the past. In order to make sure the calculations remain distinct, the terms "forward" and "trailing" PEG are often used.

@@ -1,0 +1,24 @@
+
+In corporate valuation, as in corporate accounting, numerous metrics are used to assess the worth of a business and its ability to generate profit while meeting its financial obligations. One of the simplest ways to evaluate the financial fitness of a company is to calculate its net debt. Net debt is calculated by adding up all of a company's short- and long-term liabilities and subtracting its current assets. This figure reflects a company's ability to meet all of its obligations simultaneously using only those assets that are easily liquidated.
+ 
+Short-term liabilities are those debts that must be paid within one year. Typically, these consist of items such as accounts payable and bills for supplies and operating costs. Long-term liabilities are repaid over the course of a longer period, such as mortgages, loans, and capital leases. Current assets refers to the amount of money a company has readily available to pay off debts. Therefore, current assets include only cash or cash equivalents, such as stocks, marketable securities, accounts receivable, and other liquid assets. All the information necessary to calculate net debt is readily available on a company's balance sheet.
+ 
+﻿Net Debt=STL+LTL−CAwhere:STL=total short-term liabilitiesLTL=total long-term liabilitiesCA=total current assets\begin{aligned} &\text{Net Debt} = STL + LTL - CA \\ &\textbf{where:}\\ &STL=\text{total short-term liabilities}\\ &LTL=\text{total long-term liabilities}\\ &CA=\text{total current assets}\\ \end{aligned}​Net Debt=STL+LTL−CAwhere:STL=total short-term liabilitiesLTL=total long-term liabilitiesCA=total current assets​﻿
+ 
+To calculate net debt using Microsoft Excel, examine the balance sheet to find the following information: total short-term liabilities, total long-term liabilities, and total current assets. Enter these three items into cells A1 through A3. In cell A4, enter the formula "=A1+A2−A3" to render the net debt.
+ 
+Where: 
+ 
+A1=Total Short-Term Liabilities
+ 
+A2=Total Long-Term Liabilities
+ 
+A3=Total Current Assets
+ 
+For example, assume company ABC has short-term liabilities consisting of $10,000 in operating costs and $30,000 in accounts payable. Its long-term liabilities consist of a $100,000 bank loan and a lease for a $25,000 piece of equipment. Its current assets consist of $75,000 in cash and $150,000 in marketable assets. The balance sheet lists the subtotals for these three categories as $40,000, $125,000, and $225,000, respectively. Using Excel, the business accountant determines that the net debt is $40,000 + $125,000 - $225,000, or -$60,000, indicating that the business has more than enough funds to pay off all its liabilities if they all became due concurrently.
+ 
+Net debt offers insight on if a debt load will be problematic for stakeholders in a company. Net debt provides comparative metrics that can be benchmarked against industry peers. More debt does not necessarily mean it is financially worse off than a company with less debt. In fact, a large debt load on a company's balance sheet may actually be smaller than that of a competitor.
+ 
+Net debt also reveals information on a company's operational strategy. If the difference between net debt and gross debt is large, it indicates a large cash balance as well as significant debt. This might indicate there are liquidity concerns, capital investment opportunities, or possibilities of planned acquisitions. Looking at a company's net debt, particularly relative to its peers, prompts further examination into its strategy.
+ 
+From an enterprise value standpoint, net debt is a key factor during a buyout situation. Net debt is more relevant for a buyer from a valuation standpoint. A buyer is not interested in spending cash to acquire cash. It's more relevant for a buyer to look at enterprise value, using the target company's debt net of its cash balances to rightly assess the acquisition.

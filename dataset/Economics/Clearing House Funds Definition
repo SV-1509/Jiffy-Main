@@ -1,0 +1,26 @@
+
+Clearing house funds are monies that pass between Federal Reserve banks and regular banks in the form of personal or business checks prior to credit approval. These funds are in the process of clearing and reconciliation through a central processing system. Because of this, they are often not available for withdrawal on the day of deposit.
+ 
+Because banks and other financial institutions routinely engage in many transitions back and forth among each other (and between customer accounts internally) in the course of everyday business, settling the cash position of every account after every transaction would be a monumental task. In addition, some transactions may cancel other transactions out as funds move from bank to bank. 
+ 
+Instead of physically moving cash around constantly, transactions are batched together and balanced against one another on a periodic basis, with only the net amounts actually transferred from bank to bank.
+ 
+This batching, balancing, and settlement process is performed by institutions known as clearing houses. The purpose of a clearing house is to act as an intermediary between a buyer and a seller. The clearing house inspects a transaction and finalizes it, ensuring that both parties fulfill their obligations correctly and fairly.
+ 
+Between the time when funds are directed to be transferred (by a check or other transfer), and the time when the final, net transactions are cleared by a clearing house, the funds involved are held unavailable to the account holder and are known as clearing house funds. 
+ 
+Clearing is the transfer and confirmation of information between two parties: the payer and the payee. Settlement is the final piece in the transaction, which is the transfer of funds between both entities.
+ 
+The movement of clearing house funds may be either debits or credits, and clearing house funds are typically large-value sums. For example, clearing house funds can be used for payments for financial securities, real estate, and loans.
+ 
+Checks and funds transfers from one account or customer of a bank to another account or customer of the same bank do not require interbank clearing. Only transactions between banks are typically settled through the clearing process. 
+ 
+Clearing house funds differ from federal funds, which settle on the same day. Because clearing house funds are not drawn on reserves like federal funds, they generally take at least three days to clear. Clearing house funds are also used to settle any transaction on which there is one day's float.
+ 
+Three of the most prominent electronic systems that deal with clearing house funds are the Federal Reserve payment system, known as Fedwire, the Clearing House Interbank Payments Company (CHIPS), and the Automated Clearing House (ACH). Each has different characteristics and is used for different purposes.
+ 
+Fedwire is a real-time settlement system used to settle central bank money between member banks. Transactions on Fedwire are large and usually the same day. CHIPS is the main clearing house for large banking transactions in the U.S. CHIPS and Fedwire are the primary network for domestic and international transactions. CHIPS is slower, more affordable, and the dollar requirements for transactions are lower. ACH is a clearing house system used for more common transactions, such as payroll, taxes, bills, direct deposits, and other basic services in the U.S.
+ 
+If you were a large corporation, moving money to a supplier for the shipment of thousands of pounds of raw materials needed to create your product, you might use CHIPS as the electronic payment system. If you were going to transfer $500 to your friend's bank account from your bank account, you would most likely use ACH.
+ 
+Many popular startups now offer apps for individuals to move money from one place to another. Venmo is one of the most popular companies that individuals use to transfer funds. Venmo uses ACH processing for its transactions.

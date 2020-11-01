@@ -1,0 +1,61 @@
+
+When a company issues additional shares of stock, it can reduce the value of existing investors' shares and their proportional ownership of the company. This common problem is called dilution. It is a risk that investors must be aware of as shareholders and they need to take a closer look at how dilution happens and how it can affect the value of their shares.
+ 
+Share dilution happens when a company issues additional stock.﻿﻿ Therefore, shareholders' ownership in the company is reduced, or diluted when these new shares are issued.
+ 
+Assume a small business has 10 shareholders and that each shareholder owns one share, or 10%, of the company. If investors receive voting rights for company decisions based on share ownership, then each one would have 10% control.
+ 
+Suppose the company then issues 10 new shares and a single investor buys them all. There are now 20 total shares outstanding and the new investor owns 50% of the company. Meanwhile, each original investor now owns just 5% of the company—one share out of 20 outstanding—because their ownership has been diluted by the new shares.
+ 
+There are several situations in which shares become diluted. These include:
+ 
+Many existing shareholders don't view dilution in a very good light. After all, by adding more shareholders into the pool, their ownership of the company is being cut down. That may lead shareholders to believe their value in the company is decreasing. In certain cases, investors with a large chunk of stock can often take advantage of shareholders that own a smaller portion of the company.
+ 
+But it isn't always that bad. If the company is issuing new stock as a means to boost revenue, then it may be positive. It may also be doing so to raise money for a new venture, whether that's investing in a new product, a strategic partnership, or buying out a competitor.
+ 
+Because dilution can reduce the value of an individual investment, retail investors should be aware of warning signs that may precede potential share dilution, such as emerging capital needs or growth opportunities.
+ 
+There are many scenarios in which a firm could require an equity capital infusion. It may simply need more money to cover expenses. In a scenario where a firm does not have the capital to service current liabilities and can't take on more debt due to covenants of existing debt, it may see an equity offering of new shares as necessary.
+ 
+Growth opportunities are another indicator of potential share dilution. Secondary offerings are commonly used to obtain investment capital to fund large projects and new ventures.
+ 
+Shares can also be diluted by employees who have been granted stock options. Investors should be particularly mindful of companies that grant employees a large number of optionable securities.
+ Stock options and similar securities come with a vesting period, usually a few years, before they can be exercised. This may result in employees leaving before the vesting period is over, leading companies to estimate the number of options that will be vested. 
+If and when employees choose to exercise the options, then common shares may be significantly diluted. Key employees are often required to disclose in their contracts when and how much of their optionable holdings they expect to exercise.
+ 
+Investors may want to know what the value of their shares would be if all convertible securities were executed since doing so reduces the earning power of every share. The value of earnings per share if all these convertible securities (executive stock options, equity warrants, and convertible bonds) were converted to common shares is called diluted earnings per share (EPS). It's calculated and reported in company financial statements.
+ 
+The simplified formula for calculating diluted earnings per share is:
+ 
+﻿Diluted EPS=Net Income − Preferred DividendsWA + DSwhere:WA = Weighted average shares outstandingDS = Conversion of dilutive securities\begin{aligned} &\text{Diluted EPS}=\frac{\text{Net Income }-\text{ Preferred Dividends}}{\text{WA + DS}}\\ &\textbf{where:}\\ &\text{WA = Weighted average shares outstanding}\\ &\text{DS = Conversion of dilutive securities}\\ \end{aligned}​Diluted EPS=WA + DSNet Income − Preferred Dividends​where:WA = Weighted average shares outstandingDS = Conversion of dilutive securities​﻿
+ 
+Basic EPS does not include the effect of dilutive securities. It simply measures the total earnings during a period divided by the weighted average shares outstanding in the same period. If a company did not have any potentially dilutive securities, then its basic EPS would be the same as its dilutive EPS.
+ 
+The if-converted method is used to calculate diluted EPS if a company has potentially dilutive preferred stock. To use it, subtract preferred dividend payments from net income in the numerator and add the number of new common shares that would be issued if converted to the weighted average number of shares outstanding in the denominator.
+ 
+For example, if net income is $10,000,000 and there are 500,000 weighted average common shares, then the basic EPS is $20 per share ($10,000,000 / 500,000). If the company issued 10,000 convertible preferred shares that pay a $5 dividend, then each preferred share is convertible into five common shares, diluted EPS would then equal $18.27 ([$10,000,000 + $50,000] / [500,000 + 50,000]).
+ 
+We add the $50,000 to net income assuming that the conversion will occur at the beginning of the period, so it would not pay out dividends.
+ 
+The if-converted method is applied to convertible debt as well.﻿﻿ After-tax interest on the convertible debt is added to the net income in the numerator and the new common shares that would be issued at the conversion are added to the denominator.
+ 
+For a company with net income of $10,000,000 and 500,000 weighted average common shares outstanding, basic EPS equals $20 per share ($10,000,000 / 500,000). Assume the company also has $100,000 of 5% bonds that are convertible into 15,000 shares and the tax rate is 30%. Using the if-converted method, diluted EPS would equal $19.42 ([10,000,000 + ($100,000 x .05 x 0.7)] / [500,000 + 15,000]).
+ 
+Note the after-tax interest on convertible debt that is added to the net income in the numerator is calculated as the value of the interest on the convertible bonds ($100,000 x 5%), multiplied by the tax rate (1 - 0.30).
+ 
+The Treasury stock method is used to calculate diluted EPS for potentially dilutive options or warrants.﻿﻿ The options or warrants are considered dilutive if their exercise price is below the average market price of the stock for the year.
+ 
+The numerator stays the same. For the denominator, subtract the shares that could have been purchased with cash received from the exercised options or warrants from the number of new shares that would be issued a warrant or option exercise, then add it to the weighted average number of shares outstanding.
+ 
+Again, if net income was $10,000,000 and 500,000 weighted average common shares are outstanding, basic EPS equals $20 per share ($10,000,000 / 500,000). If 10,000 options were outstanding with an exercise price of $30, and the average market price of the stock is $50, diluted EPS would equal $19.84 ($10,000,000 / [500,000 + 10,000 - 6,000]).
+ 
+Note the 6,000 shares is the number that the firm could repurchase after receiving $300,000 for the exercise of the options ([10,000 options x $30 exercise price] / $50 average market price). Share count would increase by 4,000 (10,000 - 6,000) because after the 6,000 shares are repurchased, there is still a 4,000 share shortfall that needs to be created.
+ 
+Securities can be anti-dilutive. This means that, if converted, EPS would be higher than the company's basic EPS. Anti-dilutive securities do not affect shareholder value and are not factored into the diluted EPS calculation.
+ If a company has an earnings period with a loss or a negative EPS it will not incorporate dilutive securities into its calculation of EPS as this would be anti-dilutive. 
+It is relatively simple to analyze diluted EPS as it is presented in financial statements. Companies report key line items that can be used to analyze the effects of dilution. These line items are basic EPS, diluted EPS, weighted average shares outstanding, and diluted weighted average shares. Many companies also report basic EPS excluding extraordinary items, basic EPS including extraordinary items, dilution adjustment, diluted EPS excluding extraordinary items, and diluted EPS including extraordinary items.
+ 
+Companies also provide important details in the footnotes. In addition to information about significant accounting practices and tax rates, footnotes usually describe what factored into the diluted EPS calculation. The company may provide specific details regarding stock options granted to officers and employees and their effects on reported results.
+ 
+Dilution can drastically impact the value of your portfolio. A company must make adjustments to its earnings per share and ratios for its valuation when dilution occurs. Investors should look out for signs of potential share dilution and understand how it could affect the value of their shares and their overall investment.
+ Massachusetts Institute of Technology. "Dilution: A Primer on Stock Vocabulary," Page 1. Accessed Mar. 17, 2020. Financial Accounting Standards Board. "Distinguishing Liabilities From Equity (Including Convertible Debt)." Accessed Mar. 17, 2020. Financial Accounting Standards Board. "Accounting Standards Update," Page 10. Accessed Mar. 17, 2020.

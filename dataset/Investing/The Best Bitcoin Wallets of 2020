@@ -1,0 +1,64 @@
+
+We publish unbiased product reviews; our opinions are our own and are not influenced by payment we receive from our advertising partners. Learn more about how we review products and read our advertiser disclosure for how we make money.
+ 
+Since Bitcoin's emergence it 2009 it has become the first thing people think about when the word crypto or blockchain comes up. While cryptocurrencies like Bitcoin are highly volatile, they don't seem to go away. One Bitcoin is still worth thousands of dollars today. As cryptocurrencies like Bitcoin continue to exist or even appreciate in value, individuals may become interested in owning some, but it's important to understand how to safely store Bitcoin.
+ 
+To accommodate those looking to safely invest in Bitcoin, we have assembled a list of the best Bitcoin wallets and storage devices. Some of these wallets have more features than others, including the ability to store more cryptocurrencies than just Bitcoin, as well as added security measures. This list goes in no particular order other than having hot wallets come first, but that does not mean hot wallets are better. To learn about the differences in specific wallet types, such as hot and cold wallets, you can check below this list for detailed information.
+ 
+For now, you can think of hot wallets as a less secure way to make transactions quickly and cold wallets as a more secure way to store for longer terms, though we do recommend that you understand these concepts entirely before choosing a wallet, as safe storage is key.
+ 
+Exodus is a desktop and mobile wallet with a very simple user interface and an exchange built-in. One of Exodus’s most popular features is the ability to swap between a growing number of cryptocurrencies. Exodus currently allows for swaps between over 100 different cryptocurrencies. 
+ 
+With its simplicity, this wallet is great for beginners just getting into the crypto space. It also has great support, which is an essential feature for beginners getting into what many would consider a confusing market.
+ 
+While it is great for beginners, more advanced users may find it lacking in some features. First, Exodus is a closed source wallet. This goes against the ethos of the idea of Bitcoin and blockchain and can create some security concerns as its code is not open for everyone to see. Instead, users rely on the Exodus team to ensure there are no holes in the security of its wallet.
+ 
+Exodus has an option to set custom fees in addition to automatically setting a fee that ensures the transaction completes quickly. 
+ Huge variety of cryptocurrencies Built-in exchange Good customer support Closed source software 
+Electrum is one of the original Bitcoin wallets. It has been around since 2011, two years after Bitcoin’s creation, and has changed little since. While this wallet is bare-bones in terms of its user interface and its commitment to only Bitcoin, it excels at this primary function. Electrum is also more suited for advanced users due to its complex options.
+ 
+Electrum is open source, allows its users to set custom transaction fees, and has the option to choose between legacy Bitcoin and Segwit. It also offers users the ability to determine the level of security they wish to use. For example, you can create a standard wallet, one with two-factor authentication, or a multi-signature wallet. You can also elongate your seed phrase with custom words. 
+ 
+Electrum is perfect for the more advanced Bitcoin holder who wants great security features and customizability all in a simple layout.
+ Ability to set custom transaction fees Greater level of security than most hot wallets Ability to customize seed phrase Bare-bones user interface Only works for Bitcoin No customer support 
+Mycelium is an open-source and mobile-only Bitcoin wallet. Mycelium currently only supports Bitcoin. In some ways, Mycelium is quite similar to the Electrum wallet with some of the differences being that it is mobile-only, has a more refreshed user interface than Electrum’s, and also has a built-in exchange.
+ 
+Mycelium, like Electrum, is one of the earlier wallets in the space. Also like Electrum, you can set custom transaction fees so you can choose how long you’re willing to wait for a transaction to be completed. 
+ 
+Mycelium also has a few more interesting features such as hardware wallet support, which allows users to hold their Bitcoin in an offline storage device while still using Mycelium’s user interface to see their holdings.
+ Ability to set custom transaction fees Ability to use hardware wallets Open-source software Mobile only Only works for Bitcoin Could be confusing for a first-time user 
+The Ledger Nano X is the second generation hardware wallet from Ledger, a French company that has been involved in the cryptocurrency space for several years. Ledger’s first product, the Ledger Nano S, was one of the first hardware wallets on the market and dominated the space for a number of years.
+ 
+The Nano X resembles a USB drive and connects to your device via USB or Bluetooth. This means that you can connect the wallet to your iOS or Android device and do not need a computer. It supports well over 1,500 cryptocurrencies. This list continues to grow each year as the community asks for support for their favorite cryptos.
+ 
+While the device itself is a cold storage hardware wallet, the Ledger team has created the Ledger Live software that provides a user interface for all your holdings. This gives users the ability to add new wallets for different cryptocurrencies to their devices and manage their portfolios. Ledger hardware wallets have been, and currently are, the most popular in the industry. The Ledger also comes with a USB Type-C cable so that it can be connected to either a desktop computer or a smartphone if preferred over Bluetooth. 
+ Ledger Live has an intuitive and convenient user interface Can have up to 100 different apps stored simultaneously Open-source software with the added benefit of customer and community support Convenience of Bluetooth connectivity Some in the crypto community believe Bluetooth integration to be another potential vector of attack, though USB is still an option Bluetooth feature adds convenience but is not as smooth as it could be Ledger devices only allow you to store a certain number of wallets simultaneously 
+Trezor, like Ledger, is a name synonymous with crypto cold wallet storage. Its Model T is the second generation of hardware wallets they have created. The Trezor Model T is very much like the Ledger, but it gives the user the ability to access third-party exchanges, like Changelly and Shapeshift, directly in its website interface. While this is quite convenient, it hardly justifies its more expensive price tag of $170. 
+ 
+The Model T utilizes a touch screen, which can be easier to use for beginners than the buttons the previous model used. The Trezor also has a MicroSD card slot, allowing you to use the MicroSD cards to encrypt the PIN and further protect your device from attacks.
+ 
+Like the Ledger Nano X, the Trezor Model T also comes with a USB Type-C cable so that you can connect to either your smartphone or desktop computer. Currently, the Trezor Model T supports nearly 1,400 different cryptocurrencies. Some consider the Model T to be a bit more secure than the Ledger Nano X due to the X’s Bluetooth connectivity. That said, Ledger users can simply avoid using Bluetooth if they so choose. 
+ Web-based user interface with exchanges built-in A massive list of supported cryptocurrencies Open-source software with the added benefit of customer and community support No limit to the number of wallets you can have simultaneously While it is a fantastic hardware wallet, its price point seems a bit high Small touch screen can make it hard to type on Hardware wallets can be confusing for a first time user 
+The Ledger Nano S is the first generation of hardware wallets introduced by Ledger. It is also one of the first hardware wallets ever made. It followed shortly after the first generation of the Trezor. Like its successor, the Nano S is compatible with thousands of cryptocurrencies. The Nano S does not come with a USB type-C cable, so users with more modern smartphones may have trouble connecting to their devices.
+ 
+The Nano S is essentially the same as its successor, the Nano X, in that it supports the same list of cryptos and has access to the Ledger Live software. The features it lacks are Bluetooth connectivity and how many wallets you can have simultaneously active on your device. With Nano X, a user can store up to 100 wallets simultaneously. With the Nano S, you can only store up to 18.
+ 
+The Nano S only has enough storage to make wallets for a limited number of cryptocurrencies at a time. If you were to delete a wallet in order to add another type of cryptocurrency, you would not lose the cryptocurrency in the wallet you deleted. This is because that cryptocurrency is stored directly on the blockchain.
+ 
+The deleted wallet, and crypto within it, can still be seen in Ledger Live, but the wallet will not be seen on the Ledger device itself. This means that if you would like to send or receive to the wallet you have deleted, you may have to delete another wallet to make more room.
+ 
+That said, the Ledger Nano S is still a fantastic wallet for those looking to store their cryptocurrency safely for a fair price. It is also quite easy to use with Ledger Live, making it an ideal product for a beginner looking for safe and simple storage for a handful of cryptocurrencies.
+ Ledger Live has an intuitive and convenient user interface Secure crypto storage for a low price compared to other options Open-source software with the added benefit of customer and community support Can only store up to 18 wallets at once Unlike its successor, the Nano S has no wireless Bluetooth feature 
+Online wallets are also known as “hot” wallets. Hot wallets are wallets that run on internet-connected devices like computers, phones, or tablets. This can create vulnerability because these wallets generate the private keys to your coins on these internet-connected devices. While a hot wallet can be very convenient in the way you are able to access and make transactions with your assets quickly, they also lack security.
+ 
+This may sound far-fetched, but people who are not using enough security when using these hot wallets can have their funds stolen. This is not an infrequent occurrence and it can happen in a number of ways. As an example, boasting on a public forum like Reddit about how much Bitcoin you hold while you are using little to no security and storing it in a hot wallet would not be wise.
+ 
+These wallets are meant to be used for small amounts of cryptocurrency. You could liken a hot wallet to a checking account. Conventional financial wisdom would say to hold only spending money in a checking account while the bulk of your money is in savings accounts or other investment accounts. The same could be said for hot wallets. Hot wallets encompass mobile, desktop, web, and most exchange custody wallets. 
+ 
+It is important to note here that holding cryptocurrency in an exchange wallet is not the same as holding it in your personal wallet. Exchange wallets are custodial accounts provided by the exchange. The user of this wallet type is not the holder of the private key to the cryptocurrency that is held in this wallet. 
+ 
+If an event were to occur where the exchange is hacked or your account becomes compromised, your funds would be lost. The phrase “not your keys not your coin” is a heavily repeated concept within cryptocurrency forums. As mentioned previously, it is not wise to keep large amounts of cryptocurrency in any hot wallet, especially an exchange account. Instead, it is suggested that you withdraw the majority of funds to your own personal "cold" wallet (explained below). Exchange “wallets” include Coinbase, Gemini, Binance, and many others.
+ 
+While these wallets are connected to the internet, creating a potential vector of attack, they are still very useful for the ability to quickly make transactions or trade cryptocurrency.
+ 
+The next type of wallet that will be addressed here is cold wallets. The simplest description of a cold wallet is a wallet that is not connected to the internet and therefore stands a far lesser risk of being compromised. These wallets can also be referred to as offline wallets or hardware wallets. 

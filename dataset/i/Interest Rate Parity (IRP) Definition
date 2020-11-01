@@ -1,0 +1,30 @@
+
+Interest rate parity (IRP) plays an essential role in foreign exchange markets connecting interest rates, spot exchange rates, and foreign exchange rates. Interest rate parity (IRP) is a theory according to which the interest rate differential between two countries is equal to the differential between the forward exchange rate and the spot exchange rate.
+ 
+IRP is the fundamental equation that governs the relationship between interest rates and currency exchange rates. The basic premise of IRP is that hedged returns from investing in different currencies should be the same, regardless of their interest rates.
+ 
+IRP is the concept of no-arbitrage in the foreign exchange markets (the simultaneous purchase and sale of an asset to profit from a difference in the price). Investors cannot lock in the current exchange rate in one currency for a lower price and then purchase another currency from a country offering a higher interest rate.
+ 
+﻿F0=S0×(1+ic1+1b)where:F0=Forward RateS0=Spot Rateic=Interest rate in country cib=Interest rate in country b\begin{aligned} &F_0 = S_0 \times \left ( \frac{ 1 + i_c }{ 1 + 1_b } \right ) \\ &\textbf{where:}\\ &F_0 = \text{Forward Rate} \\ &S_0 = \text{Spot Rate} \\ &i_c = \text{Interest rate in country }c \\ &i_b = \text{Interest rate in country }b \\ \end{aligned}​F0​=S0​×(1+1b​1+ic​​)where:F0​=Forward RateS0​=Spot Rateic​=Interest rate in country cib​=Interest rate in country b​﻿
+ 
+Forward exchange rates for currencies are exchange rates at a future point in time, as opposed to spot exchange rates, which are current rates. An understanding of forward rates is fundamental to IRP, especially as it pertains to arbitrage.
+ 
+Forward rates are available from banks and currency dealers for periods ranging from less than a week to as far out as five years and more. As with spot currency quotations, forwards are quoted with a bid-ask spread.
+ 
+The difference between the forward rate and spot rate is known as swap points. If this difference (forward rate minus spot rate) is positive, it is known as a forward premium; a negative difference is termed a forward discount.
+ 
+A currency with lower interest rates will trade at a forward premium in relation to a currency with a higher interest rate. For example, the U.S. dollar typically trades at a forward premium against the Canadian dollar. Conversely, the Canadian dollar trades at a forward discount versus the U.S. dollar.
+ 
+The IRP is said to be covered when the no-arbitrage condition could be satisfied through the use of forward contracts in an attempt to hedge against foreign exchange risk. Conversely, the IRP is uncovered when the no-arbitrage condition could be satisfied without the use of forward contracts to hedge against foreign exchange risk.
+ 
+The relationship is reflected in the two methods an investor may adopt to convert foreign currency into U.S. dollars.
+ 
+One option an investor may take is to invest the foreign currency locally at the foreign risk-free rate for a specific period. The investor would then simultaneously enter into a forward rate agreement to convert the proceeds from the investment into U.S. dollars using a forward exchange rate at the end of the investing period.
+ 
+The second option would be to convert the foreign currency to U.S. dollars at the spot exchange rate, then invest the dollars for the same amount of time as in option A at the local (U.S.) risk-free rate. When no arbitrage opportunities exist, the cash flows from both options are equal.
+ 
+For example, assume Australian Treasury bills are offering an annual interest rate of 1.75% while U.S. Treasury bills are offering an annual interest rate of 0.5%. If an investor in the United States seeks to take advantage of Australia's interest rates, the investor would have to exchange U.S. dollars to Australian dollars to purchase the Treasury bill.
+ 
+Thereafter, the investor would have to sell a one-year forward contract on the Australian dollar. However, under the covered IRP, the transaction would only have a return of 0.5%; otherwise, the no-arbitrage condition would be violated.
+ 
+IRP has been criticized based on the assumptions that come with it. For instance, the covered IRP model assumes that there are infinite funds available for currency arbitrage, which is obviously not realistic. When futures or forward contracts are not available to hedge, uncovered IRP does not tend to hold in the real world.

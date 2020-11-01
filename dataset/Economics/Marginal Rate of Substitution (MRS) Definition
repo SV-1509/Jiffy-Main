@@ -1,0 +1,20 @@
+
+In economics, the marginal rate of substitution (MRS) is the amount of a good that a consumer is willing to consume in relation to another good, as long as the new good is equally satisfying. It's used in indifference theory to analyze consumer behavior. The marginal rate of substitution is calculated between two goods placed on an indifference curve, displaying a frontier of utility for each combination of "good X" and "good Y."
+ 
+MRS economics is used to analyze consumer behaviors for a variety of purposes. The marginal rate of substitution is an economics term that refers to the amount of one good that is substitutable for another. MRS economics involves a sloping curve, called the indifference curve, where each point along it represents quantities of good X and good Y that you would be happy substituting for one another.
+ 
+The slope of the indifference curve is critical to marginal rate of substitution analysis. At any given point along an indifference curve, the MRS is the slope of the indifference curve at that point. Note that most indifference curves are actually curves, so the slopes are changing as you move along them. Most indifference curves are also usually convex because as you consume more of one good you will consume less of the other. Indifference curves can be straight lines if a slope is constant, resulting in an indifference curve represented by a downward-sloping straight line.
+ 
+If the marginal rate of substitution is increasing, the indifference curve will be concave to the origin. This is typically not common since it means a consumer would consume more of X for the increased consumption of Y and vice versa. Usually, marginal substitution is diminishing, meaning a consumer chooses the substitute in place of another good rather than simultaneously consuming more.
+ 
+The law of diminishing marginal rates of substitution states that MRS decreases as one moves down a standard convex-shaped curve, which is the indifference curve.
+ 
+The marginal rate of substitution (MRS) formula is:
+ 
+﻿∣MRSxy∣=dydx=MUxMUywhere:x,y=two different goodsdydx=derivative of y with respect to xMU=marginal utility of good x, y\begin{aligned} &|MRS_{xy}| = \frac{dy}{dx} = \frac{MU_x}{MU_y} \\ &\textbf{where:}\\ &x, y=\text{two different goods}\\ &\frac{dy}{dx}=\text{derivative of y with respect to x}\\ &MU=\text{marginal utility of good x, y}\\ \end{aligned}​∣MRSxy​∣=dxdy​=MUy​MUx​​where:x,y=two different goodsdxdy​=derivative of y with respect to xMU=marginal utility of good x, y​﻿
+ 
+For example, a consumer must choose between hamburgers and hot dogs. In order to determine the marginal rate of substitution, the consumer is asked what combinations of hamburgers and hot dogs provide the same level of satisfaction.
+ 
+When these combinations are graphed, the slope of the resulting line is negative. This means that the consumer faces a diminishing marginal rate of substitution: the more hamburgers they have relative to hot dogs, the fewer hot dogs they are willing to consume. If the marginal rate of substitution of hamburgers for hot dogs is -2, then the individual would be willing to give up 2 hot dogs for every additional hamburger consumption. 
+ 
+The marginal rate of substitution does not examine a combination of goods that a consumer would prefer more or less than another combination. This generally limits the analysis of MRS to two variables. Also, MRS does not necessarily examine marginal utility since it treats the utility of both comparable goods equally though in actuality they may have varying utility. 

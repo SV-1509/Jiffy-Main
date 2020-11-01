@@ -1,0 +1,39 @@
+
+Macaulay duration and modified duration are chiefly used to calculate the durations of bonds. The Macaulay duration calculates the weighted average time before a bondholder would receive the bond's cash flows. Conversely, modified duration measures the price sensitivity of a bond when there is a change in the yield to maturity.
+ 
+The Macaulay duration is calculated by multiplying the time period by the periodic coupon payment and dividing the resulting value by 1 plus the periodic yield raised to the time to maturity. Next, the value is calculated for each period and added together. Then, the resulting value is added to the total number of periods multiplied by the par value, divided by 1, plus the periodic yield raised to the total number of periods. Then the value is divided by the current bond price.
+ 
+﻿Macaulay Duration=(∑t=1nt∗C(1+y)t+n∗M(1+y)n)Current bond pricewhere:C=periodic coupon paymenty=periodic yieldM=the bond’s maturity valuen=duration of bond in periods\begin{aligned} &\text{Macaulay Duration}=\frac{\left( \sum_{t=1}^{n}{\frac{t*C}{\left(1+y\right)^t}} + \frac{n*M}{\left(1+y\right)^n } \right)}{\text{Current bond price}}\\ &\textbf{where:}\\ &C=\text{periodic coupon payment}\\ &y=\text{periodic yield}\\ &M=\text{the bond's maturity value}\\ &n=\text{duration of bond in periods}\\ \end{aligned}​Macaulay Duration=Current bond price(∑t=1n​(1+y)tt∗C​+(1+y)nn∗M​)​where:C=periodic coupon paymenty=periodic yieldM=the bond’s maturity valuen=duration of bond in periods​﻿
+ 
+A bond's price is calculated by multiplying the cash flow by 1, minus 1, divided by 1, plus the yield to maturity, raised to the number of periods divided by the required yield. The resulting value is added to the par value, or maturity value, of the bond divided by 1, plus the yield to maturity raised to the number of total number of periods.
+ 
+For example, assume the Macaulay duration of a five-year bond with a maturity value of $5,000 and a coupon rate of 6% is 4.87 years ((1*60) / (1+0.06) + (2*60) / (1 + 0.06) ^ 2 + (3*60) / (1 + 0.06) ^ 3 + (4*60) / (1 + 0.06) ^ 4 + (5*60) / (1 + 0.06) ^ 5 + (5*5000) / (1 + 0.06) ^ 5) / (60*((1- (1 + 0.06) ^ -5) / (0.06)) + (5000 / (1 + 0.06) ^ 5)).
+ 
+The modified duration for this bond, with a yield to maturity of 6% for one coupon period, is 4.59 years (4.87/(1+0.06/1). Therefore, if the yield to maturity increases from 6% to 7%, the duration of the bond will decrease by 0.28 year (4.87 - 4.59).
+ 
+The formula to calculate the percentage change in the price of the bond is the change in yield multiplied by the negative value of the modified duration multiplied by 100%. This resulting percentage change in the bond, for a 1% yield increase, is calculated to be -4.59% (0.01*- 4.59* 100%).
+ 
+﻿Modified Duration=Macauley Duration(1+YTMn)where:YTM=yield to maturity\begin{aligned} &\text{Modified Duration}=\frac{\text{Macauley Duration}}{\left( 1 + \frac{YTM}{n}\right)} \\ &\textbf{where:}\\ &YTM=\text{yield to maturity}\\ &n=\text{number of coupon periods per year} \end{aligned}​Modified Duration=(1+nYTM​)Macauley Duration​where:YTM=yield to maturity​﻿
+ 
+The modified duration is an adjusted version of the Macaulay duration, which accounts for changing yield to maturities. The formula for the modified duration is the value of the Macaulay duration divided by 1, plus the yield to maturity, divided by the number of coupon periods per year. The modified duration determines the changes in a bond's duration and price for each percentage change in the yield to maturity.﻿﻿ ﻿﻿
+ 
+For example, assume a six-year bond has a par value of $1,000 and an annual coupon rate of 8%. The Macaulay duration is calculated to be 4.99 years ((1*80) / (1 + 0.08) + (2*80) / (1 + 0.08) ^ 2 + (3*80) / (1 + 0.08) ^ 3 + (4*80) / (1 + 0.08) ^ 4 + (5*80) / (1 + 0.08) ^ 5 + (6*80) / (1 + 0.08) ^ 6 + (6*1000) / (1 + 0.08) ^ 6) / (80*(1- (1 + 0.08) ^ -6) / 0.08 + 1000 / (1 + 0.08) ^ 6).
+ 
+The modified duration for this bond, with a yield to maturity of 8% for one coupon period, is 4.62 years (4.99 / (1 + 0.08 / 1). Therefore, if the yield to maturity increases from 8% to 9%, the duration of the bond will decrease by 0.37 year (4.99 - 4.62).
+ 
+The formula to calculate the percentage change in the price of the bond is the change in yield multiplied by the negative value of the modified duration multiplied by 100%. This resulting percentage change in the bond, for an interest rate increase from 8% to 9%, is calculated to be -4.62% (0.01* - 4.62* 100%).
+ 
+Therefore, if interest rates rise 1% overnight, the price of the bond is expected to drop 4.62%.
+ 
+Modified duration could be extended to calculate the amount of years it would take an interest rate swap to repay the price paid for the swap. An interest rate swap is the exchange of one set of cash flows for another and is based on interest rate specifications between the parties.
+ 
+The modified duration is calculated by dividing the dollar value of a one basis point change of an interest rate swap leg, or series of cash flows, by the present value of the series of cash flows. The value is then multiplied by 10,000. The modified duration for each series of cash flows can also be calculated by dividing the dollar value of a basis point change of the series of cash flows by the notional value plus the market value. The fraction is then multiplied by 10,000.
+ 
+The modified duration of both legs must be calculated to compute the modified duration of the interest rate swap. The difference between the two modified durations is the modified duration of the interest rate swap. The formula for the modified duration of the interest rate swap is the modified duration of the receiving leg minus the modified duration of the paying leg.
+ 
+For example, assume bank A and bank B enter into an interest rate swap. The modified duration of the receiving leg of a swap is calculated as nine years and the modified duration of the paying leg is calculated as five years. The resulting modified duration of the interest rate swap is four years (9 years – 5 years).
+ 
+Since the Macaulay duration measures the weighted average time an investor must hold a bond until the present value of the bond’s cash flows is equal to the amount paid for the bond, it is often used by bond managers looking to manage bond portfolio risk with immunization strategies.
+ 
+In contrast, the modified duration identifies how much the duration changes for each percentage change in the yield while measuring how much a change in the interest rates impact the price of a bond. Thus, the modified duration can provide a risk measure to bond investors by approximating how much the price of a bond could decline with an increase in interest rates. It's important to note that bond prices and interest rates have an inverse relationship with each other.
+ Milken Institute. "An Introduction to Duration." Accessed Sept. 25, 2020. New York University. "Duration and Convexity." Accessed Sept. 25, 2020.

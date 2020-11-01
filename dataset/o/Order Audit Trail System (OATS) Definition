@@ -1,0 +1,30 @@
+
+The Order Audit Trail System (OATS) is an automated computer system established by the Financial Industry Regulatory Authority (FINRA). It is used to record information relating to orders, quotes, and other related trade data from all equities traded on the National Market System (NMS), including over-the-counter (OTC) stocks. This system simplifies an order's progression from the initial receipt of the order to its eventual execution or cancellation, for easy tracking or auditing purposes.
+ 
+FINRA established OATS to ensure that the time-sensitive information relating to the order execution process is recorded accurately. This allows FINRA to monitor the trading practices of member firms which are required to capture and report trade data to OATS. Traders and investors are not required to submit OATS data. This is the job of the broker or the member firm of FINRA.
+ 
+Part of this process is requiring that all member firms synchronize their business, computer, system, and time-stamping clocks to avoid errors or issues related to inaccurate times associated with orders.
+ 
+If a firm has a hard time recording or submitting all the information that OATS requires, the firm can hire a third party to submit the data on their behalf. This is a special arrangement, as OATS recording may not be handled by the clearing firm the firm uses.
+ 
+The Securities and Exchange Commission (SEC) approved these rules on March 6, 1998.
+ 
+Regulations require firms to submit daily electronic OATS reports to FINRA​​​​​​​. OATS reports must be made the same day an order was received or on the day information becomes available to the firm. Daily electronic OATS reports can be made for single or multiple orders. Information collected on the OATS report includes:
+ 
+In total there are 21 requirements that must be recorded under rule 7440.
+ 
+OATS data must be preserved for at least three years. During the first two years, the data must be in an accessible place in case it needs to be reviewed.
+ 
+The Consolidated Audit Trail (CAT) under SEC rule 613 is now the required system for tracking trades from start to finish.
+ 
+According to Deloitte, CAT isn’t simply OATS on steroids. It includes substantial additional requirements, such as options data, allocations, and customer data. These new data sets may require firms to rethink their target reporting architectures. Additionally, unlike OATS, the CAT has no exemptions to these reporting requirements.
+ 
+One of the purposes of OATS, and the CAT system, is to monitor for suspicious behavior. Because of the data that is recorded, the people undertaking the suspicious activity are easier to find.
+ 
+A significant case occurred on May 6, 2010, when a day trader "spoofed" the S&P 500 E-mini market. He used an automated program that started a domino effect of sell orders which led to a flash crash on that day.
+ 
+In 2015 the man responsible, a London resident, was caught and arrested. In 2016 he pleaded guilty to spoofing and wire fraud.
+ 
+While a number of parties were involved in providing testimony and evidence, and this case involved futures, not stocks, it shows the importance of order audit trails and financial oversight. The regulators were able to see that Navinder Singh Sarao, the man responsible, put out huge orders, hundreds of time, with no intention of being filled on them but rather for the sole purpose of manipulating the market in his preferred direction.
+ 
+Order audit trails—whether OATS, CAT, or some other regulator requirement—provide evidence and information for regulators in such cases.

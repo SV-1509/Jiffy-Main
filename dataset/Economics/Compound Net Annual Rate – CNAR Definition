@@ -1,0 +1,18 @@
+
+The compound net annual rate (CNAR) is an investment's return after accounting for taxes. While similar to the compound annual growth rate (CAGR), CNAR is the net of taxes. The compound net annual rate will be less than the CAGR given taxes, but it is a better representation of an investor’s actual returns given most investments have tax implications.
+ 
+﻿CNAR=RR×(1−Tax Rate)where:RR=Annual Rate of Return\begin{aligned} &\text{CNAR} = \text{RR} \times ( 1 - \text{Tax Rate} ) \\ &\textbf{where:} \\ &\text{RR} = \text{Annual Rate of Return} \\ \end{aligned}​CNAR=RR×(1−Tax Rate)where:RR=Annual Rate of Return​﻿
+ 
+The compound net annual rate is calculated as the annual rate of return times 1 less the tax rate.
+ 
+The compound net annual rate (CNAR) measures the return an investor gains during a year for an investment after money is deducted for taxes. Of course, this computation only applies to taxable investments. Comparing the rate of return after taxes and before taxes can help an investor assess the effect of tax liability on their investment.
+ 
+The calculated effect of taxation on returns can be used for tax planning and long-term financial planning purposes. The majority of investments have tax implications, but the returns displayed by banks and financial institutions only show pre-tax returns.
+ 
+Let’s say an investor held shares of Microsoft (NASDAQ: MSFT) for the entire year in 2018 and have a 20% tax rate. Their annual return on the stock position would have been 18.7% for 2018. Taking into account taxes, the compound net annual rate is 15%, or 18.7% times (1 - 20%).
+ 
+The compound net annual rate takes the CAGR a step further by taking into account taxes. If looking at a multi-year holding period for an investment, an investor would use the compound annual growth rate to determine the annual rate of return and then adjust it for taxes to arrive at the CNAR. CNAR and CAGR will be the same if the investment is tax-free, such as with municipal bonds.
+ 
+The exact tax rate or implications might not always be known, or rates may vary based on the tax year – such as the case when tax reform occurs. Calculating the CNAR using the wrong tax rate can have a material impact on the ending return. There’s a variety of taxes to consider and that must be accounted for, such as capital gains, dividend and interest income taxes.
+ 
+To figure out how to calculate the compound annual growth rate, read more about what you should know about the CAGR.

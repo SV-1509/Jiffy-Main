@@ -1,0 +1,22 @@
+
+A synthetic CDO, sometimes called a collateralized debt obligation, invests in noncash assets to obtain exposure to a portfolio of fixed-income assets. It is one kind of collateralized debt obligation (CDO)—a structured product that combines cash-generating assets that are repackaged into pools and sold to investors. Synthetic CDOs are typically divided into credit tranches based on the level of credit risk assumed by the investor. Initial investments into the CDO are made by the lower tranches, while the senior tranches may not have to make an initial investment.
+ 
+Synthetic CDOs are a modern advance in structured finance that can offer extremely high yields to investors. They are unlike other CDOs, which typically invest in regular debt products such as bonds, mortgages, and loans. Instead, they generate income by investing in noncash derivatives such as credit default swaps (CDSs), options, and other contracts.
+ 
+While a traditional CDO generates income for the seller from cash assets like loans, credit cards, and mortgages, the value of a synthetic CDO comes from insurance premiums of credit default swaps paid for by investors. The seller takes a long position in the synthetic CDO, assuming the underlying assets will perform. The investor, on the other hand, takes a short position, assuming the underlying assets will default.
+ 
+Investors can be on the hook for much more than their initial investments if several credit events occur in the reference portfolio. In a synthetic CDO, all tranches receive periodic payments based on cash flows from the credit default swaps.
+ 
+Normally, synthetic CDO payoffs are only affected by credit events associated with CDSs. If a credit event occurs in the fixed income portfolio, the synthetic CDO and its investors become responsible for the losses, starting from the lowest-rated tranches and working its way up.
+ Synthetic CDOs generate income from noncash derivatives such as credit default swaps, options, and other contracts. 
+Tranches are also known as slices of credit risk between risk levels. Normally, the three tranches primarily used in CDOs are known as senior, mezzanine, and equity. The senior tranche includes securities with high credit ratings, tends to be low risk, and thus has lower returns.
+ 
+Conversely, an equity-level tranche carries a higher degree of risk and holds derivatives with lower credit ratings, so it offers higher returns. Although the equity-level tranche may offer higher returns, it is the first tranche that would absorb any potential losses.
+ 
+Tranches make synthetic CDOs attractive to investors because they are able to gain exposure to CDSs based on their risk appetite. For example, assume an investor wishes to invest in a high-rated synthetic CDO that included U.S. Treasury bonds and corporate bonds that are rated AAA—the highest credit rating offered by Standard & Poor's. The bank can create the synthetic CDO that offers to pay the U.S. Treasury bond's yield plus the corporate bonds' yields. This would be a single tranche synthetic CDO that only includes the senior-level tranche.
+ 
+Synthetic CDOs were first created in the late 1990s as a way for large holders of commercial loans to protect their balance sheets without selling the loans and potentially harming client relationships. They became increasingly popular because they tend to have shorter life spans than cash flow CDOs, and there is no extended ramp-up period for earnings investment. Synthetic CDOs are also highly customizable between the underwriter and investors.
+ 
+They were highly criticized because of their role in the subprime mortgage crisis, which led to the Great Recession. Investors initially only had access to subprime mortgage bonds for as many mortgages existed. But with the creation of synthetic CDOs and credit default swaps, exposure to these assets increased, and investors didn't realize the underlying assets were much riskier than they thought. As homeowners defaulted on their mortgages, ratings agencies downgraded CDOs, leading investment firms to notify investors they wouldn't be able to pay their money back.
+ 
+Despite their checkered past, synthetic CDOs may be experiencing a resurgence. Investors looking for high-yields are turning to these investments once again, and large banks and investments firms are responding to the demand by hiring credit traders who specialize in this area.

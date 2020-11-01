@@ -1,0 +1,16 @@
+
+An event study is an empirical analysis that examines the impact of a significant catalyst occurrence or contingent event, such as the influence of some event on the value of a security.
+ 
+Event studies can reveal important information about how a security is likely to react to a given event. Examples of events that influence the value of a security include a company filing for Chapter 11 bankruptcy protection, the positive announcement of a merger, or a company defaulting on its debt obligations.
+ 
+An event study, also known as event-history analysis, employs statistical methods, using time as the dependent variable and then looking for variables that explain the duration of an event (or the time until an event occurs). Event studies that use time in this way are often employed in the insurance industry to estimate mortality and compute life tables. In business, these types of studies may instead be used to estimate how much time is left before a piece of equipment fails. Alternatively, they could be used to estimate how long until a company goes out of business.
+ 
+Other event studies, such as an interrupted time series analysis (ITSA), compare a trend before and after an event to explain how, and to what degree, the event changed a company or a security. Or, an event study may be used to see if the implementation of a particular policy measure has resulted in some statistically significant change after it has been put in place as opposed to before.
+ 
+An event study conducted on a specific company examines any changes in its stock price and how it relates to a given event. An event study can also be used as a macroeconomic tool to analyze the impact of an event on an industry, sector, or the overall market. A study on the market looks at the impact of the change in supply and demand. An event study, whether on the micro- or macro-level, tries to determine if a specific event has, or will have, an impact on a business's or economy's financial performance.
+ 
+Theoretically, a stock price takes into account all available information and expectations about the future. So a stock's price is equal to its current price plus the summation of its expected future dividends. According to this theory, it is possible to analyze the effect of a specific event on a company by looking at the associated impact on the company's stock.
+ 
+The market model is the most common analysis used for an event study. This methodology looks at the actual returns of a baseline reference market and tracks the correlation of a firm's stock with the baseline. This model tracks the abnormal returns on the specific day of an event. Thus, it reveals the difference between the stock's returns on that day and compares it to the normal or average returns. The difference is the actual impact on the company. The market model can be used over time, analyzing consecutive days to understand how an event affects a stock over time.
+ 
+An event study can reveal greater market trends or patterns. If the same type of model is used to analyze multiple events of the same type, it can predict how stock prices typically respond to a specific event.

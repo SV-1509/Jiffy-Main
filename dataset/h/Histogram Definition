@@ -1,0 +1,14 @@
+
+A histogram is a graphical representation that organizes a group of data points into user-specified ranges. It is similar in appearance to a bar graph. The histogram condenses a data series into an easily interpreted visual by taking many data points and grouping them into logical ranges or bins.
+ 
+Histograms are commonly used in statistics to demonstrate how many of a certain type of variable occurs within a specific range. For example, a census focused on the demography of a country may use a histogram to show how many people are between the ages of 0 and 10, 11 and 20, 21 and 30, 31 and 40, 41 and 50, etc. This histogram would look similar to the example above.
+ 
+Many traders are familiar with the moving average convergence divergence (MACD) histogram, which is a popular technical indicator that illustrates the difference between the MACD line and the signal line.
+ 
+For example, if there is a $5 difference between the two lines, the MACD histogram graphically represents this difference. The MACD histogram is plotted on a chart to make it easy for a trader to determine a specific security’s momentum.
+ 
+A histogram bar is positive when the MACD line is above the signal line, and negative when the MACD line is below the signal line. An increasing MACD histogram indicates an increase in upward momentum, while a decreasing histogram is used to signal downward momentum.
+ 
+Traders often overlook the MACD histogram when using this indicator to make trading decisions. A weakness of using the MACD indicator in its traditional sense, when the MACD line crosses over the signal line, is that the trading signal lags price. Because the two lines are moving averages, they do not cross until a price move has already occurred. This means that traders forego a portion of this initial move.
+ 
+The MACD histogram helps to alleviate this problem by generating earlier entry signals. Traders can track the length of the histogram bars as they move away from the zero line. The indicator generates a trading signal when a histogram bar is shorter in length than the preceding bar. Once the smaller histogram bar completes, traders open a position in the direction of the histogram’s decline. Other technical indicators should be used in conjunction with the MACD histogram to increase the signal’s reliability. Traders should place a stop-loss order to close the trade if the security’s price does not move as anticipated.

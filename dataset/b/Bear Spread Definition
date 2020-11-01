@@ -1,0 +1,26 @@
+
+A bear spread is an options strategy implemented by an investor who is mildly bearish and wants to maximize profit while minimizing losses. The goal is to net the investor a profit when the price of the underlying security declines. The strategy involves the simultaneous purchase and sale of either puts or calls for the same underlying contract with the same expiration date but at different strike prices.
+ 
+The main impetus for an investor to execute a bear spread is that they expect a decline in the underlying security, but not in an appreciable way, and want to either profit from it or protect their existing position. The opposite of a bear spread is a bull spread, which is utilized by investors expecting moderate increases in the underlying security. There are two types of bear spreads that a trader can initiate - bear put spread and bear call spread. Both are classified as vertical spreads.
+ 
+A bear put spread involves the buying a put, so as to profit from the expected decline in the underlying security, and selling (writing) a put with the same expiry but at a lower strike price to generate revenue to offset cost of buying the put. This strategy results in a net debit to the trader's account.
+ 
+A bear call spread involves selling (writing) a call, to generate income, and buying a call with the same expiry but at a higher strike price to limit the upside risk. This strategy results in a net credit to the trader's account.
+ 
+Bear spreads can also involve ratios, such as buying one put to sell two or more puts at a lower strike price than the first. Because it is a spread strategy that pays off when the underlying declines, it will lose if the market rises - however, the loss will be capped at the premium paid for the spread.
+ 
+Investor is bearish on stock XYZ when it is trading at $50 per share and believes the stock price will decrease over the next month. The investor buys $48 put and sells (writes) a $44 put for net debit of $1. Best case scenario is if the stock price ends up at or below $44. Worst case scenario is if the stock price ends up at or above $48, options expire worthless, and trader is down the cost of the spread.
+ 
+Break even point = 48 strike - spread cost = $48 - $1 = $47
+ 
+Maximum Profit = ($48 - $44) - spread cost = $4 - $1 = $3
+ 
+Maximum Loss = spread cost = $1
+ 
+Investor is bearish on stock XYZ when it is trading at $50 per share and believes the stock price will decrease over the next month. The investor sells (writes) $44 call and buys a $48 call for a net credit of $3. Best case scenario is if the stock price ends up at or below $44 then the options expire worthless and the trader keeps the spread credit. Worst case scenario is if the stock price ends up at or above $48 then the trader is down the spread credit minus ($44 - $48) amount.
+ 
+Break even point = 44 strike + spread credit = $44 + $3 = $47
+ 
+Maximum Profit = Spread credit = $3
+ 
+Maximum Loss = Spread credit - ($48 - $44) = $3 - $4 = $1

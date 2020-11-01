@@ -1,0 +1,62 @@
+
+You don't have to know a lot about probability theory to use a Bayesian probability model for financial forecasting. The Bayesian method can help you refine probability estimates using an intuitive process.
+ 
+Any mathematically-based topic can be taken to complex depths, but this one doesn't have to be.
+ 
+The way that Bayesian probability is used in corporate America is dependent on a degree of belief rather than historical frequencies of identical or similar events. The model is versatile, though. You can incorporate your beliefs based on frequency into the model.
+ 
+The following uses the rules and assertions of the school of thought within Bayesian probability that pertains to frequency rather than subjectivity. The measurement of knowledge that is being quantified is based on historical data. This view is particularly helpful in financial modeling.
+ 
+The particular formula from Bayesian probability we are going to use is called Bayes' Theorem, sometimes called Bayes' formula or Bayes' rule. This rule is most often used to calculate what is called the posterior probability. The posterior probability is the conditional probability of a future uncertain event that is based upon relevant evidence relating to it historically.
+ 
+In other words, if you gain new information or evidence and you need to update the probability of an event occurring, you can use Bayes' Theorem to estimate this new probability.
+ 
+The formula is:
+ 
+﻿P(A∣B)=P(A∩B)P(B)=P(A)×P(B∣A)P(B)where:P(A)=Probability of A occurring, called theprior probabilityP(A∣B)=Conditional probability of A giventhat B occursP(B∣A)=Conditional probability of B giventhat A occursP(B)=Probability of B occurring\begin{aligned} &P (A | B) = \frac{ P ( A \cap B ) }{ P ( B ) } = \frac{ P ( A ) \times P ( B | A ) }{ P ( B ) } \\ &\textbf{where:} \\ &P(A) = \text{Probability of A occurring, called the} \\ &\text{prior probability} \\ &P(A|B) = \text{Conditional probability of A given} \\ &\text{that B occurs} \\ &P(B|A) = \text{Conditional probability of B given} \\ &\text{that A occurs} \\ &P(B) = \text{Probability of B occurring} \\ \end{aligned}​P(A∣B)=P(B)P(A∩B)​=P(B)P(A)×P(B∣A)​where:P(A)=Probability of A occurring, called theprior probabilityP(A∣B)=Conditional probability of A giventhat B occursP(B∣A)=Conditional probability of B giventhat A occursP(B)=Probability of B occurring​﻿
+ 
+P(A|B) is the posterior probability due to its variable dependency on B. This assumes that A is not independent of B.
+ 
+If we are interested in the probability of an event of which we have prior observations, we call this the prior probability. We'll deem this event A, and its probability P(A). If there is a second event that affects P(A), which we'll call event B, then we want to know what the probability of A is given that B has occurred.
+ 
+In probabilistic notation, this is P(A|B) and is known as posterior probability or revised probability. This is because it has occurred after the original event, hence the post in posterior.
+ 
+This is how Bayes' theorem uniquely allows us to update our previous beliefs with new information. The example below will help you see how it works in a concept that is related to an equity market.
+ 
+Let's say we want to know how a change in interest rates would affect the value of a stock market index.
+ 
+A vast trove of historical data is available for all the major stock market indexes, so you should have no problem finding the outcomes for these events. For our example, we will use the data below to find out how a stock market index will react to a rise in interest rates.
+ 
+Here:
+ 
+P(SI) = the probability of the stock index increasingP(SD) = the probability of the stock index decreasingP(ID) = the probability of interest rates decreasingP(II) = the probability of interest rates increasing
+ 
+So the equation will be:
+ 
+﻿P(SD∣II)=P(SD)×P(II∣SD)P(II)\begin{aligned} &P (SD | II) = \frac{ P ( SD ) \times P ( II | SD ) }{ P ( II ) } \\ \end{aligned}​P(SD∣II)=P(II)P(SD)×P(II∣SD)​​﻿
+ 
+Plugging in our numbers we get the following:
+ 
+﻿P(SD∣II)=(1,1502,000)×(9501,150)(1,0002,000)=0.575×0.8260.5=0.474950.5=0.9499≈95%\begin{aligned} P (SD | II) &= \frac{ \left ( \frac{ 1,150 }{ 2,000 } \right ) \times \left ( \frac { 950 }{ 1,150 } \right ) }{ \left ( \frac { 1,000 }{ 2,000 } \right ) } \\ &= \frac{ 0.575 \times 0.826 }{ 0.5 } \\ &= \frac{ 0.47495 }{ 0.5 } \\ &= 0.9499 \approx 95\%\\ \end{aligned}P(SD∣II)​=(2,0001,000​)(2,0001,150​)×(1,150950​)​=0.50.575×0.826​=0.50.47495​=0.9499≈95%​﻿
+ 
+The table shows, the stock index decreased in 1,150 out of 2,000 observations. This is the prior probability based on historical data, which in this example is 57.5% (1,150/2,000).
+ 
+This probability doesn't take into account any information about interest rates and is the one we wish to update. After updating this prior probability with information that interest rates have risen leads us to update the probability of the stock market decreasing from 57.5% to 95%. Therefore, 95% is the posterior probability.
+ 
+As seen above, we can use the outcome of historical data to base the beliefs we use to derive newly updated probabilities.
+ 
+This example can be extrapolated to individual companies by using changes within their own balance sheets, bonds given changes in credit rating, and many other examples.
+ 
+So, what if one does not know the exact probabilities but has only estimates? This is where the subjective view comes strongly into play.
+ 
+Many people put great emphasis on the estimates and simplified probabilities given by experts in their field. This also gives us the ability to confidently produce new estimates for new and more complicated questions introduced by the inevitable roadblocks in financial forecasting.
+ 
+Instead of guessing, we can now use Bayes' Theorem if we have the right information with which to start.
+ 
+Changing interest rates can greatly affect the value of particular assets. The changing value of assets can therefore greatly affect the value of particular profitability and efficiency ratios used to proxy a company's performance. Estimated probabilities are widely found relating to systematic changes in interest rates and thus can be used effectively in Bayes' Theorem.
+ 
+We can also apply the process to a company's net income stream. Lawsuits, changes in the prices of raw materials, and many other things can influence a company's net income.
+ 
+By using probability estimates relating to these factors, we can apply Bayes' Theorem to figure out what is important to us. Once we find the deduced probabilities that we are looking for, it is a simple application of mathematical expectancy and result forecasting to quantify the financial probabilities.
+ 
+Using a myriad of related probabilities, we can deduce the answer to rather complex questions with one simple formula. These methods are well accepted and time-tested. Their use in financial modeling can be helpful if applied properly.

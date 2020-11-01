@@ -1,0 +1,29 @@
+
+The widely used capital asset pricing model (CAPM)—when put into practice—has both pros and cons.
+ 
+The capital asset pricing model (CAPM) is a finance theory that establishes a linear relationship between the required return on an investment and risk. The model is based on the relationship between an asset's beta, the risk-free rate (typically the Treasury bill rate) and the equity risk premium, or the expected return on the market minus the risk-free rate.
+ 
+﻿E(ri)= Rf + βi(E(rm)−Rf)where:E(ri)=return required on financial asset iRf=risk-free rate of returnβi=beta value for financial asset i\begin{aligned}&E(r_i)=\ R_f\ +\ \beta_i(E(r_m)-R_f)\\&\textbf{where:}\\&E(r_i)=\text{return required on financial asset } i\\&R_f=\text{risk-free rate of return}\\&\beta_i=\text{beta value for financial asset }i\\&E(r_m)=\text{average return on the capital market}\end{aligned}​E(ri​)= Rf​ + βi​(E(rm​)−Rf​)where:E(ri​)=return required on financial asset iRf​=risk-free rate of returnβi​=beta value for financial asset i​﻿
+ 
+At the heart of the model are its underlying assumptions, which many criticize as being unrealistic and which might provide the basis for some of its major drawbacks.﻿﻿ No model is perfect, but each should have a few characteristics that make it useful and applicable.
+ 
+There are numerous advantages to the application of the CAPM, including:
+ 
+The CAPM is a simple calculation that can be easily stress-tested to derive a range of possible outcomes to provide confidence around the required rates of return.
+ 
+The assumption that investors hold a diversified portfolio, similar to the market portfolio, eliminates unsystematic (specific) risk. 
+ 
+The CAPM takes into account systematic risk (beta), which is left out of other return models, such as the dividend discount model (DDM). Systematic or market risk is an important variable because it is unforeseen and, for that reason, often cannot be completely mitigated. 
+ 
+When businesses investigate opportunities, if the business mix and financing differ from the current business, then other required return calculations, like the weighted average cost of capital (WACC), cannot be used. However, the CAPM can.
+ When used in conjunction with other aspects of an investment mosaic, the CAPM can provide unparalleled yield data that can support or eliminate a potential investment. 
+Like many scientific models, the CAPM has its drawbacks. The primary drawbacks are reflected in the model's inputs and assumptions, including:
+ 
+The commonly accepted rate used as the Rf is the yield on short-term government securities. The issue with using this input is that the yield changes daily, creating volatility.
+ 
+The return on the market can be described as the sum of the capital gains and dividends for the market. A problem arises when, at any given time, the market return can be negative. As a result, a long-term market return is utilized to smooth the return. Another issue is that these returns are backward-looking and may not be representative of future market returns. 
+ 
+CAPM is built on four major assumptions, including one that reflects an unrealistic real-world picture. This assumption—that investors can borrow and lend at a risk-free rate—is unattainable in reality. Individual investors are unable to borrow (or lend) at the same rate as the U.S. government. Therefore, the minimum required return line might actually be less steep (provide a lower return) than the model calculates. 
+ 
+Businesses that use the CAPM to assess an investment need to find a beta reflective of the project or investment. Often, a proxy beta is necessary. However, accurately determining one to properly assess the project is difficult and can affect the reliability of the outcome.
+ Journal of Economic Perspectives. "The Capital Asset Pricing Model: Theory and Evidence." Accessed March 31, 2020.

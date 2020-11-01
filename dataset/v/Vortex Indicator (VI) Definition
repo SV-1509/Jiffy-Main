@@ -1,0 +1,21 @@
+
+A vortex indicator (VI) is an indicator composed of two lines - an uptrend line (VI+) and a downtrend line (VI-). These lines are typically colored green and red respectively. A vortex indicator is used to spot trend reversals and confirm current trends.
+ 
+The vortex indicator was first developed by Etienne Botes and Douglas Siepman who introduced the concept in a 2009 edition of “Technical Analysis of Stocks & Commodities.” ﻿﻿﻿The vortex indicator is based on two trendlines: VI+ and VI-.
+ 
+The calculation for the indicator is divided into four parts.
+ 
+1. True range (TR) is the greatest of:
+ 
+2. Uptrend and downtrend movement:
+ 
+3. Parameter length (n)
+ 
+4. Create the trendlines VI+ and VI-
+ 
+The traditional application of using VI- and VI+ crossovers can result in a number of false trade signals when price action is choppy. Increase the number of periods used in the indicator to reduce this, for example, using 25 periods instead of 14.
+ 
+The vortex indicator is commonly used in conjunction with other reversal trend patterns to help support a reversal signal. It is integrated into most technical analysis software programs. VI+ and VI- are typically graphed independently below a candlestick chart. The chart below provides an example with lines that indicate changing trend signals on a candlestick chart.
+ 
+An uptrend or buy signal occurs when VI+ is below VI- and then crosses above VI- to take the top position among the trendlines. A downtrend or sell signal occurs when VI- is below VI+ and crosses above VI+ to take the top position among the trendlines. Overall, the trendline in the top position generally dictates whether the security is in an uptrend or downtrend.
+ Technical Analysis of Stocks & Commodities. "The Vortex Indicator," Page 1. Accessed Sept. 1, 2020.

@@ -1,0 +1,16 @@
+
+In options trading, Lamba is the Greek letter assigned to variable which tells the ratio of how much leverage an option is providing as the price of that option changes. This measure is also referred to as the leverage factor, or in some countries, effective gearing. Lambda tells what ratio of leverage the option will provide as the price of the underlying asset changes by one percent.
+ 
+Lambda is a measurement considered to be one of the "Minor Greeks," and it isn't widely used because most of what it identifies can be discovered by using a combination of other of the option Greeks. However the information it provides is useful for understanding how much leverage a trader is employing into an option trade. Where leverage is a key factor for a particular trade, Lambda becomes a useful measure.
+ 
+The full equation of Lambda is as follows:
+ 
+The simplified Lambda calculation reduces to the value of Delta multiplied by the ratio of the stock price divided by the option price. Delta is one of the standard Greeks and represents the amount an option price is expected to change if the underlying asset changes by one dollar in price.
+ 
+Assuming a share of stock trades at $100 and the at-the-money call option with a strike price of $100 trades for $2.10, and also assuming that the delta score is .58, then the Lambda value can be calculated with this equation: .58 x (100 / 2.10). This value equates to the option's lambda which, in this case, is 27.61. This lambda value indicates the comparable leverage in the option compared to the stock. Therefore a one percent increase in the value of stock holdings would yield a 27 percent increase in the same dollar value being held in the option.
+ 
+Consider what happens to a $1000 stake in this $100 stock. The trader holds 10 shares and if the stock in this example were to increase by one percent (from $100 to $101 per share), the trader's stake increases in value by $10 to $1010. But if the trader held a similar $1050 stake in the option (5 contracts at $2.10), the resulting increase in value of that stake is much different. Because the value of the option would increase from $2.10 to $2.68 (based on the delta value) then the value of the $1050 held in those five option contracts would rise to $1340, a 27.61% increase.
+ 
+Academic papers have, in some cases, equated Lambda and Vega. The confusion created by this would suggest that the calculations of their formulae are the same, but that is incorrect. However because the influence of implied volatility​​​​​​​ on option prices is measured by Vega, and because this influence is captured in changing delta values, Lambda and Vega often point to the same or similar outcomes in price changes.
+ 
+For example, Lambda's value is higher the further away an option's expiration date is and falls as the expiration date approaches. This observation is also true for Vega. Lambda changes when there are large price movements, or increased volatility​​​​​​​, in the underlying asset, because this value is captured in the price of the options. If the price of an option moves higher as volatility rises, then its lambda value will decrease because the greater expense of the options means a decreased amount of leverage.

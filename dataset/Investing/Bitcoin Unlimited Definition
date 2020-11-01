@@ -1,0 +1,18 @@
+
+Bitcoin Unlimited is a proposed upgrade to Bitcoin Core that allows larger block sizes. Bitcoin Unlimited is designed to improve transaction speed through scale.
+ One of the main goals of Bitcoin Unlimited is to democratize the process of software development. 
+The development of bitcoin was jumpstarted by Satoshi Nakamoto, who published a paper in 2008 called “Bitcoin: A Peer-to-Peer Electronic Cash System.” The paper described the use of a peer-to-peer network as a solution to the problem of double-spending.
+ 
+The problem—that a digital currency or token used in more than one transaction—is not found in physical currencies, as a physical bill or coin can, by its nature, only exist in one place at a single time. Since a digital currency does not exist in the physical space, using it in a transaction does not remove it from someone’s possession.
+ 
+The software standard for Bitcoin developed by Nakamoto is referred to as Bitcoin or Bitcoin Core. Since its launch, a number of improvements to the software have been proposed. These proposals often focus on increasing the number of transactions that the system can handle, either by speeding up the process or by increasing the size of bitcoin blocks.
+ 
+Blocks are files where bitcoin network data is permanently recorded. A block records recent bitcoin transactions and serves a similar purpose as a ledger page or record book. Each time a block is completed, it gives way to the next block in the blockchain. Blocks in Bitcoin Core are limited to one megabyte.
+ 
+Bitcoin Unlimited proposed that the size of blocks should be increased and that miners—individuals and companies that provide the computing power required to maintain records of bitcoin transactions—will step up to increase capacity.
+ 
+Because bitcoin is not controlled by a single entity, decisions concerning upgrades are made through consensus. One of the primary reasons for this approach is that any organization that pushes forward with a change that other groups have not agreed to can result in bitcoin “forking,” which means that the network that runs bitcoin splits between different standards. A consensus-driven approach can, however, make it harder to tackle issues that bitcoin adoption faces.
+ 
+Concern over forking is one of the reasons why Bitcoin Unlimited is not the new standard. Another concern voiced over Bitcoin Unlimited is that allowing bigger blocks could result in only miners with large processing power being profitable, while smaller miners with more limited resources will be pushed out.
+ 
+The concentration of capacity generation in the hands of fewer miners could increase costs. Proponents of Bitcoin Unlimited believe that moving away from the block size limit will democratize the system, as miners and node owners are free to choose how large of a block size to accept.

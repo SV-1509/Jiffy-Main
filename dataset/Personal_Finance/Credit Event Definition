@@ -1,0 +1,32 @@
+
+A credit event is a sudden and tangible (negative) change in a borrower's capacity to meet its payment obligations, which triggers a settlement under a credit default swap (CDS) contract. A CDS is a credit derivative investment product with a contract between two parties. In a credit default swap, the buyer makes periodic payments to a seller for protection against credit events like default. In this case, the default is the event that would trigger settlement of the CDS contract.
+ 
+You may think of a CDS as insurance aimed at protecting the buyer by transferring the risk of a credit event to a third party. Credit default swaps are not regulated and are sold through brokered arrangements.
+ Since the 2008 credit crisis, there has been much talk of revamping and regulating the CDS market. This may finally come to pass with the ISDA's 2019 proposed amendments to its 2014 Credit Derivatives Definitions, which address issues relating to "narrowly tailored credit events." 
+The three most common credit events, as defined by the International Swaps and Derivatives Association (ISDA), are 1) filing for bankruptcy, 2) defaulting on payment, and 3) restructuring debt. Less common credit events are obligation default, obligation acceleration, and repudiation/ moratorium. 
+ 
+A credit default swap is a transaction in which one party, the "protection buyer," pays the other party, the "protection seller," a series of payments over the term of the agreement. In essence, the buyer is taking out a form of insurance on the possibility that a debtor will experience a credit event that would jeopardize its ability to meet its payment obligations.
+ 
+Although CDSs appear similar to insurance, they are not a type of insurance. Rather, they are more like options because they bet on whether a credit event will or will not occur. Moreover, CDSs do not have the underwriting and actuarial analysis of a typical insurance product; rather, they are based on the financial strength of the entity issuing the underlying asset (loan or bond). 
+ 
+Purchasing a CDS can be a hedge if the buyer is exposed to the underlying debt of the borrower; but because CDS contracts are traded, a third party could be betting that
+ 
+If no credit event arises during the contract's term, the seller who receives the premium payments from the buyer would not need to settle the contract, and instead would benefit from receiving the premiums.
+ 
+In the 1980s, the need for more liquid, flexible, and sophisticated risk-management products for creditors laid the foundation for the eventual emergence of credit default swaps.
+ 
+In 1994, investment banking company JPMorgan Chase (NYSE: JPM) created the credit default swap as a way to transfer credit exposure for commercial loans and to free up regulatory capital in commercial banks. By entering into a CDS contract, a commercial bank shifted the risk of default to a third-party; the risk did not count against the banks' regulatory capital requirements. 
+ 
+In the late-1990s, CDSs were starting to be sold for corporate bonds and municipal bonds.
+ 
+By 2000, the CDS market was approximately $900 billion and was working in a reliable manner—including, for example, CDS payments related to some of the Enron and Worldcom bonds. There were a limited number of parties in the early CDS transactions, so these investors were well-acquainted with each other and understood the terms of the CDS product. Further, in most cases, the buyer of the protection also held the underlying credit asset.
+ 
+Arguably, between 2000 and 2007—when the CDS market grew 10,000%—credit default swaps were the most rapidly adopted investment product in history.
+ 
+By the end of 2007, the CDS market had a notional value of $45 trillion, but the corporate bond, municipal bond, and SIV market totaled less than $25 trillion. Therefore, a minimum of $20 trillion was comprised of speculative bets on the possibility that a credit event would occur on a specific asset not owned by either party to the CDS contract. In fact, some CDS contracts were passed through 10-to-12 different parties.
+ 
+With CDS investments, the risk is not eliminated; rather it is shifted to the CDS seller. The risk, then, is that the CDS seller would experience a default credit event at the same time as the CDS borrower. This was one of the primary causes of the 2008 credit crisis: CDS sellers like Lehman Brothers, Bear Stearns, and AIG all defaulted on their CDS obligations.
+ 
+Finally, a credit event that triggers the initial CDS payment may not trigger a downstream payment. For example, professional services firm AON PLC (NYSE: AON) entered into a CDS as the seller of protection. AON resold its interest to another company. The underlying bond defaulted and AON paid the $10 million due as a result of the default. 
+ 
+AON then sought to recover the $10 million from the downstream buyer but was not successful in litigation. So, AON was stuck with the $10 million loss even though they had sold the protection to another party. The legal problem was that the downstream contract to resell the protection did not exactly match the terms of the original CDS contract.

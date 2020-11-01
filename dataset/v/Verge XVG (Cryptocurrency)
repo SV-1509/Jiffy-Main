@@ -1,0 +1,18 @@
+
+Verge is an open-source, decentralized cryptocurrency that claims to offer completely anonymous transactions by obfuscating the location and IP address of the transacting participants using TOR and I2P network layers. Verge trades on leading cryptocurrency exchanges with the symbol XVG.
+ 
+Verge emerged in 2016 as a rebranded version of Dogecoindark, a fork of Dogecoin that came into existence in the year 2014.
+ 
+Verge focuses on anonymity and obfuscates users' IP addresses which make transactions completely untraceable. IP stands for internet protocol, the unique identity in the form of numbers assigned to every device or computer connecting to the internet. Using an IP address, it is possible to trace the user and the online activities they performed on the connected device.
+ 
+Since popular public ledgers and common cryptocurrencies like bitcoin often face challenges in protecting participants' complete anonymity, cryptocurrencies like Verge that offer unique ways to hide users' identities have led to increased use and popularity of such private ledgers.
+ 
+Verge ensures anonymity by use of multiple anonymity-centric networks such as The Onion Router (TOR) and Invisible Internet Project (I2P). TOR protects users' identities by bouncing their communications over a distributed network of relays and tunnels run by volunteers spread across the globe, while I2P encrypts user data and sends it through a volunteer-run anonymous peer-to-peer globally distributed network.
+ 
+While anyone can view the various transactions occurring on the Verge public ledger, the use of TOR and I2P network layers hide the location as well as IP addresses of the transacting participants. The Core Verge wallets have built-in TOR integration, additionally supported by SSL-encryption, adding an extra level of security.
+ 
+While there are many other cryptocurrencies, like Monero and Dash, which also claim to offer higher levels of privacy and anonymity, they rely on cryptography techniques and implementation. Though such cryptocurrencies have achieved varying levels of success in securing user anonymity, their implementation has also made their respective public ledgers secure but less transparent. This tradeoff at times makes it difficult to publicly verify transactions, a core requirement of decentralized cryptocurrency. (See also, What Is Monero (XMR) Cryptocurrency?)
+ 
+Verge tries to tackle this problem technically. It does not rely heavily on cryptography; rather it banks on the existing and tested technology of TOR and I2P network to achieve its goals of user identity protection. Verge's founders say that an open ledger is mandatory for the participants to verify their transactions, and for other participants to publicly authenticate and verify the overall developments occurring on the blockchain without the need for participant’s identity. Verge’s implementation helps it achieve both.
+ 
+The anonymity of Verge was quoted as the primary reason for an adult website network to start accepting cryptocurrency payments exclusively in the Verge cryptocurrency in April 2018. As of April 2018, Verge is ranked 23rd in the list of cryptocurrencies by market cap.

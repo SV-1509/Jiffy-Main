@@ -1,0 +1,28 @@
+
+A binary option is a financial product where the buyer receives a payout or loses their investment, based on if the option expires in the money. Binary options depend on the outcome of a "yes or no" proposition, hence the name "binary." Binary options have an expiry date and/or time. At the time of expiry, the price of the underlying asset must be on the correct side of the strike price (based on the trade taken) for the trader to make a profit.
+ 
+A binary option automatically exercises, meaning the gain or loss on the trade is automatically credited or debited to the trader's account when the option expires. 
+ 
+A binary option may be as simple as whether the share price of ABC will be above $25 on April 22, 2019, at 10:45 a.m. The trader makes a decision, either yes (it will be higher) or no (it will be lower). 
+ 
+Let’s say the trader thinks the price will be trading above $25, on that date and time, and is willing to bet $100 on it. If ABC shares trade above $25 at that date and time, the trader receives a payout per the terms agreed. For example, if the payout was 70%, the binary broker credits the trader's account with $70.
+ 
+If the price trades below $25 at that date and time, the trader was wrong and loses their $100 investment in the trade.
+ 
+A vanilla American option gives the holder the right to buy or sell an underlying asset at a specified price before the expiration date of the option. A European option is the same, except traders can only exercise that right on the expiration date. Vanilla options, or just "options," provide the buyer with potential ownership of the underlying asset. When buying these options, traders have fixed risk, but profits vary depending on how far the price of the underlying asset moves.
+ 
+Binary options differ in that they don't provide the possibility of taking a position in the underlying asset. Binary options typically specify a fixed maximum payout, while the maximum risk is limited to the amount invested in the option. Movement in the underlying asset doesn't affect the payout received or loss incurred.
+ 
+The profit or loss depends on whether the price of the underlying is on the correct side of the strike price. Some binary options can be closed before expiration, although this typically reduces the payout received (if the option is in the money). 
+ 
+Binary options occasionally trade on platforms regulated by the Securities and Exchange Commission (SEC) and other regulatory agencies, but most binary options trading occurs outside the United States and may not be regulated. Unregulated binary options brokers don’t have to meet a particular standard; therefore, investors should be wary of the potential for fraud. Conversely, vanilla options trade on regulated U.S. exchanges and are subject to greater oversight.
+ 
+Nadex is a regulated binary options exchange in the United States. Nadex binary options are based on a "yes or no" proposition and allow traders to exit before expiry. The binary option's entry price indicates the potential profit or loss, with all options expiring worth $100 or $0.
+ 
+Let’s assume stock Colgate-Palmolive Co. (CL) is currently trading at $64.75. A binary option has a strike price of $65 and expires tomorrow at 12 p.m. The trader can buy the option for $40. If the price of the stock finishes above $65, the option expires in the money and is worth $100. The trader makes $60 ($100 - $40).
+ 
+If the option expires and the price of the Colgate is below $65 (out of the money), the trader loses the $40 they put into the option. The potential profit and loss, combined, always equals $100 with a Nadex binary option.
+ 
+If the trader wanted to make a more significant investment, he or she could change the number of options traded. For example, selecting three contracts, in this case, would up the risk to $120, and increase the profit potential to $180.
+ 
+Non-Nadex binary options are similar, except they typically aren't regulated in the United States, often can't be exited before expiry, usually have fixed percentage payout for wins (whereas Nadex payouts fluctuate based on the price paid for the option) and may not trade in $100 increments.

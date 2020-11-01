@@ -1,0 +1,16 @@
+
+A detrend involves removing the effects of trend from a data set to show only the differences in values from the trend; it allows cyclical and other patterns to be identified. Detrending can be done using regression analysis and other statistical techniques. Detrending shows a different aspect of time series data by removing deterministic and stochastic trends.
+ 
+One of the most common uses of detrending is in a data set that shows some kind of overall increase. Detrending the data will allow you to see any potential subtrends, which can be incredibly useful for scientific, financial, sales, and marketing research across the board. 
+ 
+Removing a trend from your data set can allow you to focus instead on the fluctuations and identify any number of important factors. This type of detrending is used in trading to identify any cyclical price fluctuations in a stock, which can then be used to help time position entry and exit. A detrended price oscillator (DPO) is a common tool technical investors and traders will use for this purpose. Detrending is also used in sales and marketing to highlight month-to-month changes in sales without the distraction of overall volumes.
+ 
+When a researcher or economist detrends a particular data set, they are typically doing so in order to remove an aspect that appears to be causing some kind of distortion in the final outcome. Economic models may be detrended with the trend then added back into the model as another input variable to test different relationships between the data.
+ 
+There are many methods beyond detrended price oscillators that can be used to detrend, although some of them are far more complex and difficult to use. A few of the alternative options are quadratic detrending, using the Baxter-King filter (for moving average trend lines only), and using the Hodrick-Prescott filter (for cyclical components of a particular time series only).
+ 
+Which method is the best for the project and data at hand will depend on numerous individual factors, including the particular field of study and whether or not the data is linearly correlated. The option to detrend quickly and efficiently is included in the majority of statistical software packages that are available and widely used today.
+ 
+Before detrending can occur, the particular class of the trend must be identified in order to determine the most appropriate method to be used. While there are many different kinds of trends, they typically occur within only two different classes. These classes are deterministic trends and stochastic trends. 
+ 
+The deterministic trends consistently decrease or increase, and the stochastic trends inconsistently decrease or increase. Deterministic trends are often easier to identify and detrend since they are a bit more predictable and reliable, but there are methods for dealing with stochastic trends as well. The identification of trend, particularly a stochastic trend, can be a subjective exercise and can result in inaccuracies in the modelling and the conclusions or predictions drawn from it. 

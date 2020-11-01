@@ -1,0 +1,21 @@
+
+Blockchain, the underlying technology of cryptocurrencies, has enormous promise but also major security vulnerabilities that could lead to billions of dollars in losses. Chief among these vulnerabilities are the very advantages touted among blockchain proponents: transparency, distributed control and anonymity.
+ 
+Stuart Madnick, a professor of information technologies at the MIT Sloan School of Management, studied 72 cases of blockchain system security breaches from 2011 to 2018 totaling $1 billion. Some of the cases were small losses of about $12,000, but others cost companies as much as $600 million.﻿﻿
+ 
+Common among the cases were the attack vectors. Criminals have used blockchain's features such transparency, distributed control and anonymity to steal millions.
+ 
+"The bottom line is that while the blockchain system represents advances in encryption and security, it is vulnerable in some of the same ways as other technology, as well as having new vulnerabilities unique to blockchain," Madnick says.﻿﻿
+ 
+Proponents of the distributed ledger technology tout its transparency, distributed control and anonymity. That being said, while blockchain offers advances in encryption and security, there are many issues with the technology, which is far from "unbreakable."
+ 
+While Madnick examined 72 publicly reported security breaches, he says there are likely more, as many cyber attacks are not publicly reported.
+ 
+"Blockchain may be its own worst enemy, as many of the things that make it so great also increase its vulnerability when it comes to security," Madnick says. "Three examples include transparency, distributed control and anonymity."﻿﻿
+ 
+As for transparency, given the blockchain ledger and software code is copied on many servers and viewable by many, it leaves room for a criminal to access and study the code for weaknesses. The distributed nature of the technology, for which there is no on/off switch from a central computer, means it is difficult to stop an intruder from siphoning away money if a vulnerability is found.
+ 
+Additionally, the anonymity offered to blockchain users, who receive a "blockchain key" comprised of long numbers, poses a threat. Although the number is impossible to guess and therefore has security benefits, Madnick noted there is "no override capability on your blockchain account." Therefore, if you lose your key, you lose your funds. Madnick pointed to the case of a CEO of a cryptocurrency exchange who mysteriously died, taking millions of customers funds with him to the grave.﻿﻿
+ 
+Though Madnick highlights known issues with blockchain, the technology's champions remain confident blockchain will prove itself in the long-run, revolutionizing the tech world much like the internet did beginning in the 1990s. And as potential vulnerabilities become more commonly known, steps can be taken to mitigate them.
+ Stuart Madnick. "Blockchain Is Unbreakable? Think Again," Pages 2-3. Cybersecurity Interdisciplinary Systems Laboratory (CISL), Sloan School of Management, Massachusetts Institute of Technology. June 2019.

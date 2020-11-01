@@ -1,0 +1,55 @@
+
+The internal rate of return is a metric used in financial analysis to estimate the profitability of potential investments. The internal rate of return is a discount rate that makes the net present value (NPV) of all cash flows equal to zero in a discounted cash flow analysis. IRR calculations rely on the same formula as NPV does.
+ 
+The formula and calculation used to determine this figure is as follows.
+ 
+﻿0=NPV=∑t=1TCt(1+IRR)t−C0where:Ct=Net cash inflow during the period tC0=Total initial investment costsIRR=The internal rate of returnt=The number of time periods\begin{aligned} &\text{0}=\text{NPV}=\sum_{t=1}^{T}\frac{C_t}{\left(1+IRR\right)^t}-C_0\\ &\textbf{where:}\\ &C_t=\text{Net cash inflow during the period t}\\ &C_0=\text{Total initial investment costs}\\ &IRR=\text{The internal rate of return}\\ &t=\text{The number of time periods}\\ \end{aligned}​0=NPV=t=1∑T​(1+IRR)tCt​​−C0​where:Ct​=Net cash inflow during the period tC0​=Total initial investment costsIRR=The internal rate of returnt=The number of time periods​﻿
+ 
+To calculate IRR using the formula, one would set NPV equal to zero and solve for the discount rate, which is the IRR. However, because of the nature of the formula, IRR cannot be easily calculated analytically and therefore must instead be calculated either through trial-and-error or by using software programmed to calculate IRR. This can be done in Excel.﻿﻿
+ 
+Generally speaking, the higher an internal rate of return, the more desirable an investment is to undertake. IRR is uniform for investments of varying types and, as such, IRR can be used to rank multiple prospective investments or projects on a relatively even basis. In general, when comparing investment options, the investment with the highest IRR would probably be considered the best.
+ 
+Using the IRR function in Excel makes calculating the IRR easy. Excel does all the necessary work for you, arriving at the discount rate you are seeking to find. All you need to do is combine your cash flows, including the initial outlay as well as subsequent inflows, with the IRR function.﻿﻿ The IRR function can be found by clicking on the Formulas Insert (fx) icon.﻿﻿
+ 
+Here is a simple example of an IRR analysis with cash flows that are known and annually periodic (one year apart). Assume a company is assessing the profitability of Project X. Project X requires $250,000 in funding and is expected to generate $100,000 in after-tax cash flows the first year and grow by $50,000 for each of the next four years.
+ 
+The initial investment is always negative because it represents an outflow. Each subsequent cash flow could be positive or negative, depending on the estimates of what the project delivers in the future. In this case, the IRR is 56.72%, which is quite high.
+ 
+Keep in mind that the IRR is not the actual dollar value of the project. It is the annual return that makes the net present value equal to zero.
+ 
+Excel also offers two other functions that can be used in IRR calculations, the XIRR and the MIRR. XIRR is used when the cash flow model does not exactly have annual periodic cash flows.﻿﻿ The MIRR is a rate of return measure that also includes the integration of cost of capital as well as the risk-free rate.﻿﻿
+ Excel includes IRR, XIRR, and MIRR functions for use in IRR analysis.﻿﻿ 
+There are several formulas and concepts that can be used when seeking to identify an expected return. The IRR is generally most ideal for analyzing the potential return of a new project that a company is considering undertaking.
+ 
+You can think of the internal rate of return as the rate of growth an investment is expected to generate annually. Thus, it can be most similar to a compound annual growth rate (CAGR). In reality, an investment will usually not have the same rate of return each year. Usually, the actual rate of return that a given investment ends up generating will differ from its estimated IRR.
+ 
+In capital planning, one popular scenario for IRR is comparing the profitability of establishing new operations with that of expanding existing ones. For example, an energy company may use IRR in deciding whether to open a new power plant or to renovate and expand a previously existing one. While both projects could add value to the company, it is likely that one will be the more logical decision as prescribed by IRR.
+ 
+Most IRR analysis will be done in conjunction with a view of a company’s weighted average cost of capital (WACC) and net present value calculations. IRR is typically a relatively high value, which allows it to arrive at a NPV of zero. Most companies will require an IRR calculation to be above the WACC. Analysis will also typically involve NPV calculations at different assumed discount rates.
+ 
+In theory, any project with an IRR greater than its cost of capital should be a profitable one. In planning investment projects, firms will often establish a required rate of return (RRR) to determine the minimum acceptable return percentage that the investment in question must earn in order to be worthwhile. The RRR will be higher than the WACC.
+ 
+Any project with an IRR that exceeds the RRR will likely be deemed a profitable one, although companies will not necessarily pursue a project on this basis alone. Rather, they will likely pursue projects with the highest difference between IRR and RRR, as these likely will be the most profitable.
+ 
+IRR may also be compared against prevailing rates of return in the securities market. If a firm can't find any projects with IRR greater than the returns that can be generated in the financial markets, it may simply choose to invest money into the market. Market returns can also be a factor in setting a required rate of return.
+ 
+The CAGR measures the annual return on an investment over a period of time. The IRR is also an annual rate of return. However, CAGR typically uses only a beginning and ending value to provide an estimated annual rate of return. IRR differs in that it involves multiple periodic cash flows–reflecting the fact that cash inflows and outflows often constantly occur when it comes to investments. Another distinction is that CAGR is simple enough that it can be calculated easily.
+ 
+Companies and analysts may also look at the return on investment when making capital budgeting decisions. ROI tells an investor about the total growth, start to finish, of the investment. It is not an annual rate of return. IRR tells the investor what the annual growth rate is. The two numbers would normally be the same over the course of one year, but they won't be the same for longer periods of time.
+ 
+Return on investment is the percentage increase or decrease of an investment from beginning to end. It is calculated by taking the difference between the current or expected future value and the original, beginning value, divided by the original value and multiplied by 100.
+ 
+ROI figures can be calculated for nearly any activity into which an investment has been made and an outcome can be measured. However, ROI is not necessarily the most helpful for long time frames. It also has limitations in capital budgeting, where the focus is often on periodic cash flows and returns.
+ 
+IRR is generally most ideal for use in analyzing capital budgeting projects. It can be misconstrued or misinterpreted if used outside of appropriate scenarios.
+ 
+Within its realm of uses, IRR is a very popular metric for estimating a project’s annual return. However, it is not necessarily intended to be used alone. IRR is typically a relatively high value, which allows it to arrive at a NPV of zero. The IRR itself is only a single estimated figure that provides an annual return value based on estimates. Since estimates in both IRR and NPV can differ drastically from actual results, most analysts will choose to combine IRR analysis with scenarios analysis. Scenarios can show different possible NPVs based on varying assumptions.
+ 
+As mentioned, most companies do not rely on IRR and NPV analysis alone. These calculations are usually also studied in conjunction with a company’s WACC and a RRR, which provides for further consideration.
+ 
+Companies usually compare IRR analysis to other tradeoffs. If another project has a similar IRR with less upfront capital or simpler extraneous considerations then a simpler investment may be chosen despite IRRs.
+ 
+In some cases, issues can also arise when using IRR to compare projects of different lengths. For example, a project of short duration may have a high IRR, making it appear to be an excellent investment. Conversely, a longer project may have a low IRR, earning returns slowly and steadily. The ROI metric can provide some more clarity in these cases. Though some managers may not want to wait out the longer time frame.
+ 
+The internal rate of return rule is a guideline for evaluating whether to proceed with a project or investment. The IRR rule states that if the internal rate of return on a project or investment is greater than the minimum required rate of return, typically the cost of capital, then the project or investment can be pursued. Conversely, if the IRR on a project or investment is lower than the cost of capital, then the best course of action may be to reject it. Overall, while there are some limitations to IRR, it is an industry standard for analyzing capital budgeting projects.
+ Microsoft. ”IRR function.” Accessed Sept. 15, 2020. Microsoft. ”Insert Function.” Accessed Sept. 15, 2020. Microsoft. ”XIRR function.” Accessed Sept. 15, 2020. Microsoft. ”MIRR function.” Accessed Sept. 15, 2020. Microsoft. ”Go with the cash flow: Calculate NPV and IRR in Excel.” Accessed Sept. 15, 2020.

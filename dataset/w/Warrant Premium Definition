@@ -1,0 +1,22 @@
+
+A warrant premium is the difference between the current traded price of a warrant and its minimum value. A warrant's minimum value is the difference between its exercise price and the current traded price of its underlying stock.
+ 
+Alternatively, a warrant premium is the percentage difference between the cost of purchasing shares by exercising the warrant and buying them in the open market at the current price.
+ 
+Warrants have both a price and a premium. Typically, the premium will decrease as the price of the warrant rises coupled with the decrease in the time to expiration. A warrant is in-the-money when the exercise price is less than the current share price. The more in-the-money the warrant is, the lower the warrant premium. High volatility may also cause the warrant premium to be higher.
+ 
+As with call options, the premium can increase or decrease depending on supply and demand factors.
+ 
+For the simple definition, the premium is the amount above the intrinsic, or minimum value.
+ 
+In this example, if the warrant price is $10, the exercise price is $25, and the current share cost is $30, then the warrant premium would be $10-( $30-$25) = $5.
+ 
+For the second calculation, the premium, expressed as a percentage, is the difference between buying warrant shares vs. buying shares through the open market.
+ 
+For example, an investor holds a warrant with a price of $10 and an exercise price of $25. The current share price is $30. The warrant premium would be [( $10+$25-$30) / $30] * 100 = 16.7%.
+ 
+Warrants tend to trade at premiums because traders believe that the underlying stock can increase in price. Therefore, the longer the time until expiration, the longer time the stock has to rise. However, as with options, as expiration approaches the premium shrinks.
+ 
+A warrant is similar to an option. It gives the owner the right, but not the obligation, to buy an underlying security at a specific price, quantity, and at a future time. Warrants are unlike an option in that it is issued by a company, whereas an option is an instrument of the stock exchange. The security represented in the warrant, usually share equity, is delivered by the issuing company instead of by an investor holding the shares. Traders cannot write warrants.
+ 
+Companies will often include warrants as part of a new-issue offering to entice investors into buying the new security.

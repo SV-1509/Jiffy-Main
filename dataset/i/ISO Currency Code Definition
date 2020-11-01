@@ -1,0 +1,22 @@
+
+ISO currency codes are the three-letter alphabetic codes that represent the various currencies used throughout the world. When combined in pairs, they make up the symbols and cross rates used in currency trading.
+ 
+Each of the country-specific three-letter alphabetic codes also have a corresponding three-digit numeric code. These codes are identified by the International Organization for Standardization (ISO) a nongovernmental organization which provides standards for manufacturing, commerce, technology and communication. For currencies, the governing document is called ISO 4217:2015.
+ 
+ISO currency codes are central to currency pairs, which are the quotation and pricing structures of the currencies traded in the forex market. The value of a currency is a rate and is determined by its comparison to another currency. The first three-digit code used to designate a currency in a currency pair quotation is called the base currency, and the second currency is called the quote currency. The currency pair indicates how much of the quote currency is needed to purchase one unit of the base currency.
+ 
+For example, EUR/USD is the quote for the euro against the U.S. dollar. EUR is the three-letter ISO currency code for the euro, and USD is the code for the U.S. dollar. A quoted price for this pair of 1.2500 means that one euro is exchanged for 1.2500 U.S. dollars, because in this case, EUR is the base currency and USD is the quote currency (or counter currency). This means that 1 euro can be exchanged for 1.25 U.S. dollars. Another way of looking at this is that it will cost you US $125 to buy EUR 100.
+ 
+According to the ISO website, "ISO 4217:2015 specifies the structure for a three-letter alphabetic code and an equivalent three-digit numeric code for the representation of currencies. For those currencies having minor units, it also shows the decimal relationship between such units and the currency itself."
+ 
+For example, the three-digit numeric code for the U.S. dollar is 840, and the numeric code for the euro is 978. But you wouldn't see currencies quoted using numbers like this (978/840).
+ 
+Though as the ISO document explains, "ISO 4217:2015 is intended for use in any application of trade, commerce and banking, where currencies and, where appropriate, funds are required to be described. It is designed to be equally suitable for manual users and for those employing automated systems." Were it useful to do so, trading or order processing algorithms could use numeric codes for more effective processing.
+ 
+Historically ISO wasn't involved in currency transactions until 1973 when the standards-making body decided it would be useful to be involved. After five years of collaboration and deliberation, the first standardized currency codes were published in 1978, with a standard on how they should change.
+ 
+The ISO website offers a complete list of currency codes in XML and XMS formats. See https://www.currency-iso.org/en/home/tables/table-a1.html
+ 
+All of the major currency pairs have very liquid markets that trade 24 hours a day every business day, and they have very narrow spreads. Value traded vs. the U.S. Dollar is the top criteria for classification as major currency pairs, as follows:
+ 
+Other important currencies include:

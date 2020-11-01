@@ -1,0 +1,48 @@
+
+For most securities, determining investment yields is a straightforward exercise. But for debt instruments, this can be more complicated due to the fact that short-term debt markets have various ways of calculating yields and they use different conventions in converting a time period into a year.
+ 
+Here are the four main types of yields:
+ 
+Understanding how each of these yields is calculated is essential to grasping an investment’s actual return on instrument.
+ 
+Treasury bills (T-Bills) are quoted on a pure bank discount basis where the quote is presented as a percentage of face value and is determined by discounting the bond using a 360-day-count convention. This assumes there are 12 30-day months in a year. In this situation, the formula for calculating the yield is simply the discount divided by the face value multiplied by 360, and then divided by the number of days remaining to maturity.
+ 
+The equation would be:
+ 
+﻿Annualized Bank Discount Yield=(DF)×(360t)where:D=DiscountF=Face value\begin{aligned} &\text{Annualized Bank Discount Yield} = \left ( \frac{D}{F} \right ) \times \left ( \frac{360}{t} \right )\\ &\textbf{where:}\\ &D = \text{Discount}\\ &F = \text{Face value}\\ &t = \text{Number of days until maturity} \end{aligned}​Annualized Bank Discount Yield=(FD​)×(t360​)where:D=DiscountF=Face value​﻿
+ 
+​﻿For example, Joe purchases a T-Bill with a face value of $100,000 and pays $97,000 for it—representing a $3,000 discount. The maturity date is in 279 days. The bank discount yield would be 3.9%, calculated as follows:
+ 
+﻿0.03(3,000÷100,000)×1.29(360÷279)=0.0387,\begin{aligned} &0.03 (3,000 \div 100,000) \times 1.29 (360 \div 279) = 0.0387,\\ &\quad\text{or }3.9\% \text{ (Rounding Up)} \end{aligned}​0.03(3,000÷100,000)×1.29(360÷279)=0.0387,​﻿
+ 
+But there are problems inherent with using this annualized yield in determining returns. For one thing, this yield uses a 360-day year to calculate the return an investor would receive. But this doesn't take into account the potential for compounded returns.
+ 
+The remaining three popular yield calculations arguably provide better representations of investors’ return.
+ 
+By definition, the holding period yield (HPY) is solely calculated on a holding period basis, therefore there is no need to include the number of days—as one would do with the bank discount yield. In this case, you take the increase in value from what you paid, add on any interest or dividend payments, then divide it by the purchase price. This unannualized return differs from most return calculations that show returns on a yearly basis. Also, is it assumed that the interest or cash disbursement will be paid at the time of maturity.
+ 
+As an equation, holding period yield would be expressed as:
+ 
+﻿Holding Period Yield=P1−P0+D1P0where:P1=Amount received at maturityP0=Purchase price of the investment\begin{aligned} &\text{Holding Period Yield}=P_1-P_0+\frac{D_1}{P_0}\\ &\textbf{where:}\\ &P_1 = \text{Amount received at maturity}\\ &P_0 = \text{Purchase price of the investment}\\ &D_1 = \text{Interest received or distribution paid at maturity} \end{aligned}​Holding Period Yield=P1​−P0​+P0​D1​​where:P1​=Amount received at maturityP0​=Purchase price of the investment​﻿
+ 
+The effective annual yield (EAY) can give a more accurate yield, especially when alternative investments are available which can compound the returns. This accounts for interest earned on interest.
+ 
+As an equation, the effective annual yield would be expressed as:
+ 
+﻿Effective Annual Yield=(1+HPY)3651twhere:HPY=Holding period yieldt=Number of days held until maturity\begin{aligned} &\text{Effective Annual Yield}=(1+HPY)^{365}\frac{1}{t}\\ &\textbf{where:}\\ &HPY= \text{Holding period yield}\\ &t = \text{Number of days held until maturity}\\ \end{aligned}​Effective Annual Yield=(1+HPY)365t1​where:HPY=Holding period yieldt=Number of days held until maturity​﻿
+ 
+For example, if the HPY was 3.87% over 279 days, then the EAY would be 1.0387365÷279 - 1, or 5.09%.
+ 
+The compounding frequency that applies to the investment is extremely important, and can significantly alter your result. For periods longer than a year, the calculation still works and will give a smaller, absolute number than the HPY.
+ 
+For example, if the HPY was 3.87% over 579 days, then the EAY would be 1.0387365÷579 - 1, or 2.42%.
+ 
+For losses, the process is the same; the loss over the holding period would need to be made into the effective annual yield. You still take one plus the HPY, which is now a negative number. For example: 1 + (-0.5) = 0.95. If the HPY was a loss of 5% over 180 days, then the EAY would be 0.95365÷180 -1, or -9.88%.
+ 
+The money market yield (MMY) (also known as the CD-equivalent yield), relies on a calculation allowing the quoted yield (which is on a T-Bill) to be compared to an interest-bearing money market instrument. These investments have shorter-term durations, and are often classified as cash equivalents. Money market instruments quote on a 360-day basis, so the money market yield also uses 360 in its calculation.
+ 
+As an equation, money market yield would be expressed as:
+ 
+﻿MMY=360∗YBD/360(txYBD)where:YBD=Yield on a bank discount basis calculated earlier\begin{aligned} &MMY=360\ast YBD/360(txYBD)\\ &\textbf{where:}\\ &Y_{BD}= \text{Yield on a bank discount basis calculated earlier}\\ &t = \text{Days held until maturity} \end{aligned}​MMY=360∗YBD/360(txYBD)where:YBD​=Yield on a bank discount basis calculated earlier​﻿
+ 
+The debt market uses several calculations to determine the yield. Once the best way is decided, the yields from these short-term debt markets can be used when discounting cash flows and calculating the real return of debt instruments, like T-Bills. As with any investment, the return on the short-term debt should reflect the risk, where lower risk ties to lower returns and the higher-risk instruments usher in potentially higher returns. 

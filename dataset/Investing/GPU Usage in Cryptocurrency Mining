@@ -1,0 +1,24 @@
+
+Before 2009, there was no such thing as cryptocurrency. As technology advanced to keep up with the rampant demand, cryptocurrency mining became a reality for many on their home computers. Over the years, the mining process and its efficiency have improved with the use of better hardware. Graphics Processing Units (GPU) have been used in the mining process for years, simply because they are more efficient than their immediate counterparts.
+ 
+Cryptocurrency mining was originally performed using CPUs, or Central Processing Units. However, its limited processing speed and high power consumption led to limited output, rendering the CPU-based mining process inefficient.
+ 
+Enter GPU-based mining, which offered multiple benefits over the use of CPUs. A standard GPU, like a Radeon HD 5970, clocked processing speeds of executing 3,200 32-bit instructions per clock, which was 800 times more than the speed of a CPU that executed only 4 32-bit instructions per clock.
+ 
+It is this property of the GPU that makes them suitable and better for cryptocurrency mining, as the mining process requires higher efficiency in performing similar kinds of repetitive computations. The mining device continuously tries to decode the different hashes repeatedly with only one digit changing in each attempt.
+ 
+GPUs are also equipped with a large number of Arithmetic Logic Units (ALU), which are responsible for performing mathematical computations. Courtesy of these ALUs, the GPU is capable of performing more calculations, leading to improved output for the crypto mining process.
+ GPUs are devised to do better in performing similar and repetitive work than the performing of diversified multi-tasking functions, like those of the CPU. 
+Each standard computer is equipped with a Central Processing Unit (CPU), which is a processing device that acts as a master of the whole computer system. It performs the controlling functions for the whole computer based on the logic of the operating system and the software installed on the computer. Typical functions—like save this file as MS Word, print this spreadsheet, or run that video in VLC Media Player—are controlled by the CPU.
+ 
+A GPU is another processing device, but one that works solely for handling display functions. It is the part of a computer that is responsible for its video rendering system.
+ 
+The typical function of a GPU is to perform and control the rendering of visual effects and 3D-graphics so the CPU doesn't have to get involved in minute details of video-rendering services. It takes care of graphics-intensive tasks such as video editing, gaming display, and decoding and rendering of 3D videos and animations.
+ 
+To draw an analogy, the master (CPU) managing the whole organization (the computer system) has a dedicated employee (GPU) to take care of a specialized department (video-rendering functions).
+ 
+This setup allows the CPU to perform the high-level diversified tasks for managing the whole computer, while the GPU is in charge of the video functions of which it is a specialist. A CPU will perform the function to open a video file in Windows Media Player, but once the file opens, the GPU takes over the task of displaying it properly.
+ 
+GPUs have been around for years, but face competition from improved, new-age devices. They include the Field Programmable Gate Arrays (FPGAs) and the Application Specific Integrated Circuits (ASICs), which score better than both CPUs and GPUs at performing hash calculations, an essential function to blockchain management in cryptocurrency.
+ 
+Investing in cryptocurrencies and other Initial Coin Offerings ("ICOs") is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or other ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein.

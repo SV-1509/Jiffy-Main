@@ -1,0 +1,62 @@
+
+Cost-conscious investors have had a very happy October, watching numerous online brokers eliminate fees for placing equity orders and per-leg fees for options transactions. Those who focused on trading costs as a defining factor in their choice of online broker now must choose some other differentiating factor.
+ 
+For some, that may be the interest paid on idle cash, or on assistance from financial advisors. Other investors may look for tools to evaluate potential trades, ways to calculate the performance of their portfolios, or help with calculating the tax impact of their transactions. The possibility that real-time data and research amenities may be subject to subscription fees in the next couple of years is anticipated by many in the industry.
+ 
+But a very real factor in an investor's profitability is one that can be difficult to calculate: the quality of the order execution once you've hit the "Trade" button. Is your broker routing your order to benefit its bottom line, or yours?
+ Where and how your broker executes your trades can impact your total returns based on the focus of its order routing algorithm. Price improvement for customers, or payment for order flow for the broker's benefit? 
+There are extensive regulations in place, notably Regulation NMS that was passed in 2005, that require your broker to execute your trade at, or better than, the national best bid or offer (NBBO). The NBBO is the best available (lowest) ask price when you are buying an exchange-listed product, and best available (highest) bid price when you're selling. Now some brokers fight about price improvement on market orders or marketable limit orders, which in essence garners you a lower price when buying or a higher price when selling.
+ 
+An additional piece of Reg NMS is SEC Rule 606, which requires broker-dealers routing non-directed orders on customers' behalf to publish quarterly reports that list the venues used for customer orders. Though some brokers allow clients to choose the venue where their order is executed, the huge majority of orders entered on online broker platforms are considered "non-directed." You can find these reports on broker's sites under the heading Rule 606 Reports, though they're not easy reading. Brokers must disclose any venue that receives 5% or more of its order flow. You can also request a report specifying where orders you personally entered were routed for the previous six months.
+ 
+Some brokers choose to route orders in a way that generates rebates from exchanges and payment for order flow from market makers, while others have developed routing algorithms that seek out better prices for customers.
+ 
+With commissions cut to $0 at the major online brokers, a war of words regarding execution quality has broken out, most notably between Fidelity and Charles Schwab.
+ 
+Fidelity and Schwab publish statistics that compare the orders they route on customers' behalf to the NBBO. Here are the most recent figures, which represent the 2nd quarter of 2019.
+ 
+Fidelity:
+ 
+Schwab:
+ 
+Customers placing orders of 500-1,999 shares at Schwab or Fidelity can see savings of approximately $12 per transaction. TD Ameritrade's statistics are in the same range. If you place 5 trades in that range per month, that's another $60 in your portfolio.
+ 
+Once both Schwab and Fidelity dropped commissions to zero, Schwab started questioning the quality of Fidelity's executions. Specifically, Schwab called Fidelity out for routing trades through its affiliate National Financial Services, for accepting rebates from markets where it routes its orders, and receiving payment for order flow on options trades.
+ 
+Fidelity has stated emphatically that it does not accept payment for order flow on equity trades, and in response to that, Schwab points out that some of the venues to which it routes orders offer it. "Quite frankly, the fact that Fidelity has come out so strongly against payment for order flow on equity and ETF trades has puzzled us a bit, given their own operations," says a Schwab representative.
+ 
+Fidelity operates an alternative trading system (ATS) for institutional trades, and routes some retail orders there that are executed at the midpoint between bid and ask, or better. A Fidelity spokesperson says that a small number of trades actually get executed at its proprietary ATS -- just 3% --but those trades generate 10% of the firm's price improvement. Orders that are not filled at Fidelity's ATS get routed to other venues.
+ 
+Regarding payment for order flow for options contracts, those markets are structurally different from the equities markets. In order to get price improvement for a particular options order, Fidelity's router will start an auction on the exchange. Consolidators like Citadel and Susquehanna have affiliate market makers, which Fidelity will use to get price improvement. "We make all of our routing decisions based on the price improvement statistics. We do the exact same thing with options as we do with equities," stated a Fidelity representative. According to this representative, Fidelity's Rule 606 statistics show that it accepts $0.22 in payment for order flow per contract, while Schwab accepts $0.35 and E*TRADE accepts $0.39.
+ 
+One of the executives we spoke to pointed out that brokers don't have to accept payment for order flow even if it's offered. There is a path to take nothing for options order flow, or to pass those payments through to the customer, but none of the brokers yet makes that choice.
+ 
+The flaw in Rule 606 reporting, according to an executive at a competing broker who spoke with us on background, is that those reports only show where the trade is actually executed. Fidelity's competitors complain that its order routing algorithm starts out sending customer orders to its own in-house institutional trading system but most orders end up getting executed elsewhere. This executive says that Fidelity and Schwab both do a good job with execution quality, and noted that the composition of order flow differs from firm to firm. "What our clients trade may be different from what a Fidelity client trades," the executive noted.
+ 
+Here are the latest 606 reports from Fidelity and Schwab:
+ 
+Earlier this decade, a group of brokers and other market participants started the Financial Information Forum, which began publishing some execution quality reports in 2015. The membership includes quite a few retail brokers as well as market makers and trading venues. At first, Scottrade, Schwab, TD Ameritrade, Wells Fargo Invest, E*TRADE and Fidelity agreed to publish execution quality statistics according to an agreed-upon template, but the only broker still using that template is Fidelity. TD Ameritrade, Wells Fargo Invest, and E*TRADE dropped out before any statistics were published, and Scottrade exited when it was acquired by TD Ameritrade.
+ 
+Schwab no longer uses the complete template; Its reports do not include trades of 5,000 shares and more per order. A spokesperson claims that Fidelity defaults those large order sizes to limit orders and does not include some of the order types that Schwab allows. Fidelity says that Schwab is cherry-picking trades to make its statistics look better. Schwab pulled the statistics for those trades because there was no way to directly compare large orders at Schwab to the large orders at Fidelity.
+ 
+Fidelity responds that it does not change order types on any size trade, and also disputes Schwab's assumption that its statistics are reported inaccurately. "This is another example of Schwab trying to deflect a subject by fomenting confusion," says a Fidelity spokesperson.
+ 
+Here are the most recent retail execution quality statistics as published by Fidelity and Schwab.
+ 
+In essence, there are three general ways that brokers route your order. The first way is routing to generate payment for order flow and rebates from exchanges, which is what Robinhood and IBKR Lite are doing. These routing systems do not seek out price improvement, but the trades are commission-free. This system now has a great deal of competition.
+ 
+Officials at Robinhood object to this portrayal of their order routing system, saying its routing system automatically sends orders to the market maker among these that’s most likely to provide the best execution, based on historical performance. Unfortunately, Robinhood chooses to report their statistics in a way that is unique in the industry, making it impossible to compare them to other brokers.
+ 
+The second method involves seeking out price improvement while still accepting payment for order flow and rebates from exchanges, which is where we find most of the brokerage industry, including Schwab, TD Ameritrade and E*TRADE.
+ 
+Fidelity tries to set itself apart following a third path, which rejects payment for order flow and does not seek out exchange rebates, but accepts them should an order qualify. Its stated main drive when designing order routing systems is to find price improvement. Since Fidelity is privately held, there is no disclosure of the revenue generated from commissions or its order routing practices. The firm publicizes its transparency but doesn't disclose how it makes money.
+ 
+There are new regulations afoot for institutional trading, amending Rule 606 to require additional disclosures. The institutional community has been pushing for transparency and fighting over brokers' conflicts of interest. "These things are relevant to retail customers too," Joe Wald, CEO of the Clearpool Group, a New York City-based provider of electronic trading solutions states. "What kind of disclosure will big retail brokers have with enhanced disclosure around routing?"
+ 
+Wald says that the institutional brokers who clear trades through his firm are provided with full transparency and control over venues they want to choose. "Each client can set up routing any way they want, including on a bespoke basis for individual clients," Wald says. His firm is already compliant with the newly proposed rules.
+ 
+Wald says that the intent of the new enhanced 606 disclosures is to give institutional clients the full picture of how their orders are routed. Wald says, "It won’t be extended to retail in the near future--but it should." Retail customers had the perception that brokers were competing on commissions, but Wald believes that brokers should be required to disclose how it is they actually make money from the order flow.
+ 
+Retail brokerage customers will need more information when choosing a broker now that commissions are essentially a non-factor. The data just isn't available in the current system. Wald wants additional disclosure rules enacted for retail brokers, similar to what is about to be put in place on the institutional side, to help traders figure out which broker would work best for their investing style.
+ 
+Those regulations don't exist yet, but it would be wise for industry participants to figure out a way to disclose these figures honestly before any more rules are written for retail brokers to follow.

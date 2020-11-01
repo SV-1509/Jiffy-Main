@@ -1,0 +1,31 @@
+
+A PERT chart is a project management tool that provides a graphical representation of a project's timeline. The Program Evaluation Review Technique (PERT) breaks down the individual tasks of a project for analysis. PERT charts are considered preferable to Gantt charts because they identify task dependencies, but they're often more difficult to interpret.
+ 
+A PERT chart helps a project manager analyze a project's tasks and estimate the amount of time required to complete each task in the project. Using this information, the project manager can estimate the minimum amount of time required to complete the entire project. This information also helps the manager develop a project budget and determine the resources needed to accomplish the project.
+ 
+A PERT chart uses circles or rectangles called nodes to represent project events or milestones. These nodes are linked by vectors or lines that represent various tasks. Dependent tasks are items that must be performed in a specific manner. For example, if an arrow is drawn from Task No. 1 to Task No. 2 on a PERT chart, Task No. 1 must be completed before work on Task No. 2 begins.
+ 
+Items at the same stage of production but on different task lines within a project are referred to as parallel tasks. They're independent of each other, but they're planned to occur at the same time.
+ 
+A well-constructed PERT chart looks like this:
+ 
+Source: http://searchsoftwarequality.techtarget.com/definition/PERT-chart
+ 
+A PERT chart is a visual representation of a series of events that must occur within the scope of a project’s lifetime. The direction of arrows indicates the flow and sequence of events required for project completion. Dotted activity lines represent dummy activities—items that are located on another PERT path. Numbers and time allotments are assigned and shown inside each vector.
+ 
+These charts have their distinct definitions and terms, the most important of which anticipate how long it will take to finalize a project. "Optimistic time" refers to the shortest duration. "Pessimistic time" is logically the longest it might take. The "most likely time" indicates a reasonable estimate of the best-case scenario, whereas "expected time" accounts for problems and obstacles.
+ 
+A PERT chart is similar to a critical path analysis (CPA), which is another method that project managers use to chart tasks in a project. The main difference between the two is that a PERT chart uses various time frames and probability terms when estimating each project stage. As a project management tool, PERT charts offer some distinct advantages and disadvantages.
+ 
+A PERT chart allows managers to evaluate the time and resources necessary to manage a project. This evaluation includes the ability to track required assets during any stage of production in the course of the entire project.
+ 
+PERT analysis incorporates data and information from multiple departments. This combining of information encourages department responsibility and it identifies all responsible parties across the organization. It also improves communication during the project and it allows an organization to commit to projects that are relevant to its strategic positioning.
+ 
+Finally, PERT charts are useful for what-if analyses. Understanding the possibilities concerning the flow of project resources and milestones allows management to achieve the most efficient and useful project path.
+ 
+The use of a PERT chart is highly subjective and its success depends on the management’s experience. These charts can include unreliable data or unreasonable estimations for cost or time for this reason.
+ 
+PERT charts are deadline-focused and they might not fully communicate the financial positioning of a project. Because a PERT chart is labor-intensive, the establishment and maintenance of the information require additional time and resources. Continual review of the information provided, as well as the prospective positioning of the project, is required for a PERT chart to be valuable.
+ 
+PERT charts were first created by the U.S. Navy's Special Projects Office in 1957 to guide the Polaris Fleet Ballistic Missile project. Using the PERT model, Navy project managers were able to evaluate the progress of their project, determine the validity of schedules, and estimate the effects of proposed changes to established plans. ﻿﻿ The success of this initial use of PERT charts has caused them to be used ever since all over the world and in numerous industries.
+ Operations Research. "Application of a Technique for Research and Development Program Evaluation, Sept.-Oct. 1959." Accessed Sept. 3, 2020.

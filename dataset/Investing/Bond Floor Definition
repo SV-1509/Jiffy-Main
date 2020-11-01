@@ -1,0 +1,32 @@
+
+Bond floor refers to the minimum value a specific bond, usually a convertible bond, should trade for and is derived from the discounted value of its coupons plus redemption value.
+ 
+Simply put, the bond floor is the lowest value that convertible bonds can fall to, given the present value (PV) of the remaining future cash flows and principal repayment. The term "bond floor" also refers to the aspect of constant proportion portfolio insurance (CPPI) that ensures that the value of a given portfolio does not fall below a predefined level.
+ 
+Convertible bonds give investors the potential to profit from any appreciation in the price of the issuing company's stock, if converted. This added benefit to investors makes a convertible bond more valuable than a straight bond. In effect, a convertible bond is a straight bond plus an embedded call option. The market price of a convertible bond is made up of the straight bond value and the conversion value, which is the market value of the underlying equity into which a convertible security may be exchanged.
+ 
+When stock prices are high, the price of the convertible is determined by the conversion value. However, when stock prices are low, the convertible bond will trade like a straight bond, given that the straight bond value is the minimum level a convertible bond can trade at and the conversion option is nearly irrelevant when stock prices are low. The straight bond value is, thus, the floor of a convertible bond.
+ 
+Investors are protected from a downward move in the stock price because the value of the convertible bond will not fall below the value of the traditional or straight bond component. In other words, the bond floor is the value at which the convertible option becomes worthless because the underlying stock price has fallen substantially below the conversion value.
+ 
+﻿Bond Floor=∑t=1nC(1+r)t+P(1+r)nwhere:C=coupon rate of convertible bondP=par value of convertible bondr=rate on straight bondn=number of years until maturity\begin{aligned} &\text{Bond Floor} = \sum_{t = 1} ^ {n} \frac{ \text{C} }{ ( 1 + r ) ^ t} + \frac{ \text{P} }{ (1 + r) ^ n }\\ &\textbf{where:} \\ &\text{C} = \text{coupon rate of convertible bond} \\ &\text{P} = \text{par value of convertible bond} \\ &r = \text{rate on straight bond} \\ &n = \text{number of years until maturity} \\ \end{aligned}​Bond Floor=t=1∑n​(1+r)tC​+(1+r)nP​where:C=coupon rate of convertible bondP=par value of convertible bondr=rate on straight bondn=number of years until maturity​﻿
+ 
+Or:
+ 
+﻿Bond Floor=PVcoupon+PVpar valuewhere:PV=present value\begin{aligned} &\text{Bond Floor} = \text{PV}_{\text{coupon} } + \text{PV}_\text{par value} \\ &\textbf{where:} \\ &\text{PV} = \text{present value} \\ \end{aligned}​Bond Floor=PVcoupon​+PVpar value​where:PV=present value​﻿
+ 
+For example, assume a convertible bond with a $1,000 par value has a coupon rate of 3.5% to be paid annually. The bond matures in 10 years. A comparable straight bond, with the same face value, credit rating, interest payment schedule, and maturity date of the convertible bond, but with a coupon rate of 5%. To find the bond floor, one must calculate the present value (PV) of the coupon and principal payments discounted at the straight bond interest rate.
+ 
+﻿PVfactor=1−1(1+r)n=1−11.0510=0.3861\begin{aligned} \text{PV}_\text{factor} &= 1 - \frac{ 1 }{ (1 + r) ^ n } \\ &= 1 - \frac{ 1 }{ 1.05^ {10} } \\ &= 0.3861 \\ \end{aligned}PVfactor​​=1−(1+r)n1​=1−1.05101​=0.3861​﻿
+ 
+﻿PVcoupon=.035×$1,0000.05×PVfactor=$700×0.3861=$270.27\begin{aligned} \text{PV}_\text{coupon} &= \frac {.035 \times \$1,000 }{ 0.05 } \times \text{PV}_\text{factor} \\ &= \$700 \times 0.3861 \\ &= \$270.27 \\ \end{aligned}PVcoupon​​=0.05.035×$1,000​×PVfactor​=$700×0.3861=$270.27​﻿
+ 
+﻿PVpar value=$1,0001.0510=$613.91\begin{aligned} \text{PV}_\text{par value} &= \frac {\$1,000 }{ 1.05 ^ {10} } \\ &= \$613.91 \\ \end{aligned}PVpar value​​=1.0510$1,000​=$613.91​﻿
+ 
+﻿Bond Floor=PVcoupon+PVpar value=$613.91+$270.27=$884.18\begin{aligned} \text{Bond Floor} &= \text{PV}_{\text{coupon} } + \text{PV}_\text{par value} \\ &= \$613.91 + \$270.27 \\ &= \$884.18 \\ \end{aligned}Bond Floor​=PVcoupon​+PVpar value​=$613.91+$270.27=$884.18​﻿
+ 
+So, even if the company's stock price falls, the convertible bond should trade for a minimum of $884.18. Like the value of a regular, non-convertible bond, a convertible bond's floor value fluctuates with market interest rates and various other factors.
+ 
+The difference between the convertible bond price and its bond ﬂoor is the risk premium, which can be viewed as the value that the market places on the option to convert a bond to shares of the underlying stock.
+ 
+CPPI is a mixed portfolio allocation of risky and non-risky assets, which varies depending on market conditions. An embedded bond feature ensures that the portfolio does not fall below a certain level, thus acting as a bond floor. The bond floor is the value below which the value of the CPPI portfolio should never fall in order to ensure the payment of all future due interest and principal payments. By carrying insurance on the portfolio by means of this embedded bond feature, the risk of experiencing more than a certain amount of loss at any given time is kept to a minimum. At the same time, the floor does not inhibit the growth potential of the portfolio, effectively providing the investor with a lot to gain and only a little to lose.

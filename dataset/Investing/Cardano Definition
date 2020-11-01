@@ -1,0 +1,30 @@
+
+Cardano is the world's first peer-reviewed blockchain. The nonprofit foundation responsible for Cardano assembled a network of academics and scientists from various universities, including the University of Edinburgh and Tokyo Institute of Technology, to review its protocols before they are released. It is a third-generation cryptocurrency and smart contract platform that claims to improve upon the scaling problems of bitcoin, a first-generation coin, and ethereum, which belongs to the second- generation.  
+ 
+Cardano’s platform consists of two layers. The Cardano Settlement Layer (CSL) is used to settle transactions that use ADA, Cardano’s cryptocurrency.
+ 
+The Control Layer, which is under development, will be used for smart contracts. The hierarchical structure of Cardano ensures that it can be used as a medium of exchange and as well as to generate smart contracts. In addition, the platform has aspirations to be interoperable with the mainstream finance ecosystem.  
+ 
+The heart of Cardano’s platform is Ouroboros, an algorithm that uses Proof of Stake protocol to mine coins. The protocol is customized to reduce energy use and time for making new coins. 
+ 
+In a typical Proof of Stake algorithm, nodes with the maximum stake (or the highest number of coins) create transaction blocks in a blockchain. But the Ouroboros algorithm implements the algorithm differently. 
+ 
+On a broad level, it works as follows. Ouroboros divides physical time into epochs that are made up of slots, which are fixed periods of time. Slots are similar to working shifts at a factory. In Cardano, the time range encompassed by slots varies and can be modified within the algorithm. Epochs work in a circular fashion: when one ends, another one comes online. 
+ 
+Each epoch has a slot leader, who is elected by stakeholders or nodes that have already generated coins. Slot leaders are responsible for creating and confirming transaction blocks to be added to the Cardano blockchain. If they fail to create a transaction block in an epoch, then the next slot leader gets another shot at it during the next epoch. At least 50 percent or more blocks must be produced within a given epoch.
+ 
+Transactions in blocks produced by slot leaders are approved by input endorsers. They are the second set of stakeholders responsible for running the protocol. There can be one to many multiple endorsers within a given epoch and their election is based on stakes.   
+ 
+To ensure unbiased results, the election system is configured for two inputs. The first one is a multiparty computation system. A set of stakeholders within the network perform a computation, which is the digital equivalent of a “coin toss,” and share their results with each other. The second input is the distribution of wealth or stake. Nodes with greater stake (or more coins) have increased probability of being elected slot leaders. 
+ 
+Ouroboros also differs from other algorithms in the type and form of incentives offered to stakeholders. The Proof of Work algorithm offers rewards in the form of coins and transaction fees to miners. But the Ouroboros algorithm’s design provides incentives for availability and transaction verification over investment in massive computer power to mine coins. Economic rewards are also split between three stakeholders: input endorsers, multiparty computation stakeholders, and slot leaders. 
+ 
+Ouroboros refers to itself as the “first provably secure proof of stake algorithm.” This claim is based on two properties of the transaction ledger: Persistence and Liveness.
+ 
+Persistence presumes that a transaction is “stable” if an honest node has broadcast it as such to the rest of the network. This property uses a new security parameter that is a measure of the ledger’s security. Liveness is complementary to Persistence. According to this property, honest transactions, that are broadcast as such, become “stable” in the network’s nodes after a certain amount of predefined time in the algorithm. 
+ 
+The paper outlining Ouroboros outlines several “plausible assumptions” that the algorithm’s creators have made to design it. For example, they assume that nodes in its network are not absent for prolonged periods of time. Also, desynchronized nodes in their calculations are not presumed to contain more than 50% of all transactions. 
+ 
+Critics say the assumptions made to implement these properties are faulty. For example, they say the properties assume synchronization between ledgers at any given point of time. According to them, such expectations are “impractical for a global blockchain.” This may not be the case if certain nodes are offline or if slot leaders have missed the transaction during their epochs. Others have pointed to 51% denial of service attacks, that may result in a majority of the network going offline, as another instance of a convenient assumption.
+ 
+Ouroboros’ algorithm has also been criticized for failing to solve the double-spending problem completely. There is the danger that input endorsers, who are responsible for approving transactions for slot leaders, may end up approving the same set of transactions from two different slot leaders. Some say sharding, a technique that is being tested on the ethereum blockchain to solve the problem, will take several years before it is implemented.

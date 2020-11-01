@@ -1,0 +1,22 @@
+
+The opening cross is a method the Nasdaq uses to determine the opening price for an individual stock. This method accumulates data on the buy and sell interest among market participants for a particular security two minutes before the market open. The Nasdaq makes this information available to all investors.
+ 
+According to Nasdaq, the opening and closing cross processes give all investors access to the same information, and ensures their orders get the same treatment. This brings fairness and transparency into the marketplace. It also efficiently matches buyers and sellers to ensure liquidity. Market liquidity allows investors to sell quickly if that becomes necessary.
+ 
+The opening cross helps to prevent surprises shortly after the market open, which is typically one of the most active trading times. This gives investors greater confidence that the quoted price fairly reflects supply-and-demand conditions within the first minutes of the trading day.
+ 
+Many retail and even professional traders won’t execute orders too near the open or close of a market, especially with market orders, fearing volatility to either the upside or downside. The opening cross tries to limit such volatility by providing adequate information.
+ 
+An auction process determines prices for the opening cross, with buyers and sellers placing offers and counteroffers until prices match, resulting in a trade. The objective is to achieve maximum execution by getting the greatest number of shares of a given security to trade at a single price.
+ 
+This process is not as simple as it sounds. Trades are executed during market hours from 9:30 a.m. until 4:00 p.m. However, Nasdaq accepts trade requests for several hours after the market closes and several hours before it opens.
+ 
+The opening cross process consolidates all of these requests and makes the resulting data available electronically. This gives market participants a greater window into the bid-ask spread, and identifies any order imbalances, meaning situations where buyers and sellers cannot be matched.
+ 
+Under the open-cross system, price matches use a 10 percent threshold, or buffer, to calculate the opening price.
+ 
+For example, if a buyer offers $100 per share for a given stock and a seller wants $110, the midpoint of the offer is $105. This midpoint is then multiplied by 10 percent. The resulting $10.50 is then added to the buyer's offering price, moving it to $110.50 and subtracted from the seller's price, moving it to $99.50. This tells investors that the opening price for the shares in question is between $99.50 and $110.50.
+ 
+The opening cross performs this type of calculation for all stocks and provides updated information to potential buyers and sellers every five seconds electronically.
+ 
+Additionally, the open cross system shows detailed information about the prices at which orders are expected to clear against each other, the number of paired buy-sell offers, and the imbalance between offers. As potential buyers and sellers see this data, they then place additional trades, which the system also incorporates.

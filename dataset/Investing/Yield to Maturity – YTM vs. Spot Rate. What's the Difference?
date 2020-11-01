@@ -1,0 +1,39 @@
+
+There are two main ways to determine the return of a bond: yield to maturity (YTM) and the spot rate, which in this context should be thought of as the spot interest rate. For example, the spot interest rate for Treasuries can be found on the spot rate Treasury curve.﻿﻿ The spot interest rate for a zero-coupon bond is calculated the same way as the YTM for a zero-coupon bond. The spot interest rate is not the same as the spot price. The method chosen depends on whether the investor wants to hold on to the bond or sell it on the open market.
+ 
+Bonds are fixed-income products that, in most cases, return a regular coupon or interest payment to the investor. When an investor buys a bond intending to keep it until its maturity date, then yield to maturity is the rate that matters. If the investor wants to sell the bond on the secondary market, the spot rate is the crucial number.
+ 
+Even though short-term holders do not keep bonds long enough to collect coupon payments, they still earn the spot interest rate. As the bond approaches maturity, its price in the market moves toward face value.
+ 
+Investors will consider the yield to maturity as they compare one bond offering to another. Bond listings will show the YTM as an annual rate of return calculated from the investor holding the asset until maturity. You may also hear this called the redemption yield or the book yield. Calculating the yield to maturity is a complicated process that assumes all coupon, or interest, payments can be reinvested at the same rate of return as the bond. Luckily, there are online YTM calculators that can do the heavy math for you.
+ 
+Individual investors most often buy bonds to generate a guaranteed regular income in the form of interest payments on the bond. Thus, they intend to keep the bond until it matures. At maturity, the investor will get the original investment principal back. As an example, you can buy a $10,000 bond that has a maturity of three years and pays annual interest. On the maturity date, your $10,000 principle is returned and can be returned to use in another investment. During the time you held the bond, you also received interest payments.
+ 
+This guaranteed value is what makes bonds a popular option for retirement savings accounts. The returns on bonds are relatively modest, a reflection of the minimal risks involved in holding the asset. However, bonds are marketable and relatively liquid securities. That's where the spot rate enters the picture.
+ 
+The spot interest rate is the rate of return earned when the investor buys and sells the bond without collecting coupon payments. This is extremely common for short-term traders and market makers. The spot interest rate for a zero-coupon bond is calculated as:
+ 
+Spot Rate=(Face Value/Current Bond Price)^(1/Years To Maturity)−1
+ The formula for the spot rate given above only applies to zero-coupon bonds. 
+Consider a $1,000 zero-coupon bond that has two years until maturity. The bond is currently valued at $925, the price at which it could be purchased today. The formula would look as follows: (1000/925)^(1/2)-1. When solved, this equation produces a value of 0.03975, which would be rounded and listed as a spot rate of 3.98%.
+ 
+Even though a zero-coupon bond does not receive interest payments, it still earns implicit interest.﻿﻿ This happens because the bond price will move toward face value as it approaches maturity. When a bond is bought and sold without making interest payments, this price change is the spot interest rate earned by the bondholder.
+ 
+In their purest form, bonds are just loans that investors make to the entities that offer the assets. Usually, bonds are sold by the government, such as treasury and municipal bonds, or by corporations, but there are many bond classifications.﻿﻿ These assets may sell at a discount or premium to the par value depending on the interest rate they pay and the time until they mature. You will see some bonds listed as being callable. This term means the issuer may call back or redeem the asset before it reaches maturity.﻿﻿ Additionally, offerings will have credit ratings based on the strength of the issuers. Credit ratings will also affect a bond's price.
+ 
+Newly issued bonds are sold at par value or face value. The buyer will receive interest payments, known as the coupon, at set periods until the bond reaches its maturity date.
+ 
+A bond's yield represents its cash flow to its owner. However, as time progresses, there are fewer payments to be made before the bond matures. The owner who keeps the bond will enjoy its full yield to maturity.
+ 
+If it is sold, the new owner will be getting a bond that has lost part of its yield. That sold bond still has a par value of $1,000, but its effective yield to maturity has fallen due to the passing of time. If the original owner sells it, it may be sold at a spot price that is discounted to compensate for the lost yield.
+ 
+That is just one complicating factor in bond trading. Interest rates cause a more significant complication. The spot rates of bonds and all securities that use a spot rate will fluctuate with changes in interest rates.
+ 
+A bond's yield to maturity is based on the interest rate the investor would earn from reinvesting every coupon payment. The coupons would be reinvested at an average interest rate until the bond reaches its maturity.
+ 
+Thus, bonds trading at below par value, or discount bonds, have a yield to maturity that is higher than the actual coupon rate. Bonds trading above par value, or premium bonds, have a yield to maturity lower than the coupon rate.
+ 
+The spot rate is calculated by finding the discount rate that makes the present value (PV) of a zero-coupon bond equal to its price. These are based on future interest rate assumptions. So, spot rates can use different interest rates for different years until maturity. On the other hand, yield to maturity uses an average rate throughout.
+ 
+Essentially, this means that spot rates use a more dynamic and potentially more accurate discount factor in a bond's present valuation.
+ U.S. Department of Treasury. "Treasury Yield Curve." Accessed April 9, 2020. U.S. Securities and Exchange Commission. "Zero Coupon Bonds." Accessed April 9, 2020. Investor.gov. "Bonds." Accessed April 9, 2020. Investor.gov. "Callable or Redeemable Bonds." Accessed April 9, 2020.

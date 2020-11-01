@@ -1,0 +1,14 @@
+
+Yield-based option is a type of option that derives its value from the difference between the exercise price (expressed as a percentage) and the yield of the underlying debt instrument. Yield-based options are settled in cash.
+ 
+A yield-based option is a contract that gives the buyer the right but not the obligation to purchase or sell the underlying debt instrument, depending on whether the buyer purchased a yield-based call or put option. A yield-based call buyer expects interest rates to go up, while a yield-based put buyer expects interest rates to go down. If the interest rate of the underlying debt security rises above the strike rate of a yield-based call option plus the option premium paid, the call holder is 'in the money'. Should the opposite occur, and the interest rate falls below the strike yield less the premium paid for a yield-based put option, the put holder is in the money. When yields increase, yield-based call premiums increase, and yield-based put options will lose value and most likely expire.
+ 
+There are a number of characteristics of yield-based options that are worth noting:
+ 
+Let’s look at an example of how yield-based options work. An investor that expects yields in the market to increase enters into a call option contract on a 13-week T-bill with a 4.5% yield. The contract is set to expire April 15th and the total premium paid for this right is $80. On the expiration date, the yield on the debt security is 4.8% and is, thus, in the money. The buyer can exercise his right to purchase the security with a 4.5% yield, after which he can then sell the bond in the open market at a 4.8% yield. The bond is profitable because there is an inverse relationship between interest rates and bond prices - a bond offering a higher interest rate will have a higher value than one selling at a lower interest rate. The seller will settle the transaction by paying the call buyer [($48 - $45) x $100] – $80 = $220.
+ 
+Yield-based options can be used by investors who want to hedge against adverse movements in interest rates. For instance, an investor who wishes to hedge a portfolio of preferred stocks would buy yield-based calls to protect her portfolio against declining rates in the markets.
+ 
+Interest-rate options are price-based, while yield options are yield-based. An investor who expects the price of Treasury bonds to rise will buy an interest-rate call and, after exercising, purchase the underlying Treasury bond. If interest rates decrease in the economy, the price of the underlying Treasury bond will increase, and the investor will exercise her call option.
+ 
+Conversely, an investor who wishes to hedge a portfolio of preferred stocks would buy interest-rate puts to protect her portfolio against declining rates in the markets.

@@ -1,0 +1,16 @@
+
+Platykurtosis is a statistical measure that refers to the extremity of the data of a probability distribution. A normal bell-shaped distribution is considered "mesokurtic," with a kurtosis value equal to 3.0.
+ 
+A distribution that has less extreme values than that is considered platykurtic. A platykurtic distribution has "lighter" or "skinnier" tails than a normal distribution. That is, few, if any, values lie at the extreme ends of the curve. For investors, platykurtic return distributions are stable and predictable, in the sense that there will rarely, if ever, be extreme (i.e. outlier) returns.
+ 
+A leptokurtic distribution, on the other hand, has more extreme data than the normal curve and is said to have "fatty" tails.
+ 
+In finance, the kurtosis of a probability distribution is important because the distribution of returns of a security is an important consideration, especially for risk managers. If the distribution of historical returns of a particular stock is platykurtic, that means there is less chance of extreme outcomes This kind of distribution has tails that are somewhat thinner than a normal distribution's. When applied to investment returns, platykurtic distributions — i.e. those with negative excess kurtosis — generally produce results that will not be very extreme, which is great attribute for investors who do not want to take on a great deal of market risk.
+ The prefix of "platy-" means "broad," and it is meant to describe a short and broad-looking peak. 
+A stock with a leptokurtic distribution of historical returns, on the other hand, will have more extreme values at both ends of the distribution. That is, there will be more extremely high values and extremely low values than you would find in a normal distribution or a platykurtic distribution. This indicates that the odds of an extreme outcome of some kind, either positive or negative, is greater.
+ 
+The distribution of international equity market returns, for example, has been found to be non-normal with positive excess kurtosis in the sense that the tail on the left side of the curve is fatter than in a normal curve. This means that there is a greater than normal chance of a negative outcome, which is known as tail risk.
+ 
+Kurtosis is a statistical measure of the tails of a probability distribution. A normal distribution and other mesokurtic distributions have a kurtosis value of 3.0. Leptokurtic distributions have values significantly greater than 3, and platykurtic distributions have kurtosis values that are significantly lower than 3.
+ 
+Kurtosis is important because other measures that describe a distribution, such as its mean and standard deviation, fail to give a complete picture. Two distributions can have the same mean and standard deviation but have very different kurtoses, meaning that the probability of extreme values in them can be very different.

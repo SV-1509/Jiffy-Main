@@ -1,0 +1,22 @@
+
+The holding period return yield formula may be used to compare the yields of different bonds in your portfolio over a given time period. This method of yield comparison lets investors determine which bonds are generating the largest profits, so they may rebalance their holdings accordingly. In addition, this formula can help evaluate when it is more advantageous to sell a bond at a premium or hold it until maturity.
+ 
+Depending on the type of asset involved, different holding period return yield formulas can be applied to account for the compounding of interest and varying return rates. However, bonds generate a fixed amount of income each year. This rate of return, known as the coupon rate, is set at issuance and remains unchanged for the life of the bond.
+ 
+Therefore, the formula for the holding period return yield of bonds is quite simple:
+ 
+﻿HPRY=(Selling Price−P)+TCPPwhere:P = Purchase PriceTCP = Total Coupon Payments\begin{aligned} &\text{HPRY}= \frac{(\text{Selling Price} - \text{P}) + \text{TCP}}{\text{P}}\\ &\textbf{where:}\\ &\text{P = Purchase Price}\\ &\text{TCP = Total Coupon Payments}\\ \end{aligned}​HPRY=P(Selling Price−P)+TCP​where:P = Purchase PriceTCP = Total Coupon Payments​﻿
+ 
+If you still own the bond, use the current market price of the bond instead of the selling price to determine the current holding period return yield of your bond.
+ 
+Assume you purchased a 10-year, $5,000 bond with a 5% coupon rate. You purchased the bond five years ago at par value. This means the bond has paid $1,250, or 5 * $5,000 * 5%, in coupon payments over the past five years.
+ 
+Assume the bond has a current market value of $5,500.
+ 
+If you sold your bond today, the holding period return yield of the bond is:
+ 
+﻿=(($5,500−$5,000)+$1,250)/$5,500=($500+$1,250)/$5,000=$1,750/$5,000=0.35, or 35%\begin{aligned} &=(\left(\${5,500}-\${5,000}\right)+\${1,250})/\${5,500}\\ &=(\${500}+\${1,250})/\${5,000}\\ &=\${1,750}/\${5,000}\\ &={0.35}\text{, or }{35}\%\\ \end{aligned}​=(($5,500−$5,000)+$1,250)/$5,500=($500+$1,250)/$5,000=$1,750/$5,000=0.35, or 35%​﻿
+ 
+However, like all bonds, the repayment of your initial investment is guaranteed by the issuing entity once the bond matures. If you hold the bond until maturity, it generates a total of $2,500 in coupon payments, or 10 * $5,000 * 5%, and the holding period return yield is:
+ 
+﻿=(($5,000−$5,000)+$2,500)/$5,000=$2,500/$5,000=0.5 or 50%\begin{aligned} &=(\left(\${5,000}-\${5,000}\right)+\${2,500})/\${5,000}\\ &=\${2,500}/\${5,000}\\ &={0.5}\text{ or }{50}\%\\ \end{aligned}​=(($5,000−$5,000)+$2,500)/$5,000=$2,500/$5,000=0.5 or 50%​﻿

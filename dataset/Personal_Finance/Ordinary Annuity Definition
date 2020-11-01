@@ -1,0 +1,18 @@
+
+An ordinary annuity is a series of equal payments made at the end of consecutive periods over a fixed length of time. While the payments in an ordinary annuity can be made as frequently as every week, in practice they are generally made monthly, quarterly, semi-annually, or annually. The opposite of an ordinary annuity is an annuity due, in which payments are made at the beginning of each period. These two series of payments are not the same as the financial product known as an annuity, though they are related.
+ 
+Examples of ordinary annuities are interest payments from bonds, which are generally made semiannually, and quarterly dividends from a stock that has maintained stable payout levels for years. The present value of an ordinary annuity is largely dependent on the prevailing interest rate.
+ 
+Because of the time value of money, rising interest rates reduce the present value of an ordinary annuity, while declining interest rates increase its present value. This is because the value of the annuity is based on the return your money could earn elsewhere. If you can get a higher interest rate somewhere else, the value of the annuity in question goes down.
+ 
+The present value formula for an ordinary annuity takes into account three variables. They are as follows:
+ 
+Given these variables, the present value of an ordinary annuity is:
+ 
+For example, if an ordinary annuity pays $50,000 per year for five years and the interest rate is 7%, the present value would be:
+ An ordinary annuity will have a lower present value than an annuity due, all else being equal. 
+Recall that with an ordinary annuity, the investor receives the payment at the end of the time period. That stands in contrast to an annuity due, in which the investor receives the payment at the beginning of the period. A common example is rent, where the renter typically pays the landlord in advance for the month ahead. This difference in payment timing affects the value of the annuity. The formula for an annuity due is as follows:
+ 
+If the annuity in the above example was instead an annuity due, its present value would be calculated as:
+ 
+All else being equal, an annuity due is always worth more than an ordinary annuity, because the money is received earlier.

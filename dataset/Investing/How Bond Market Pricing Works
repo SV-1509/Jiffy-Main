@@ -1,0 +1,48 @@
+
+The U.S. bond market is like baseball – you have to understand and appreciate the rules and strategies, or else it will seem boring. It's also like baseball in that it's rules and pricing conventions have evolved and can seem esoteric at times.
+ 
+In the "Official Major League Rule Book," it takes more than 3,600 words to cover the rules of what the pitcher can and cannot do. In this article, we're going to cover bond market pricing conventions in less than 1,800 words. Bond market classifications are briefly discussed, followed by yield calculations, pricing benchmarks, and pricing spreads.
+ 
+Basic knowledge of these pricing conventions will make the bond market seem as exciting as the best World Series baseball game.
+ 
+The bond market consists of a great number of issuers and types of securities. To talk about each specific type might fill an entire textbook; therefore, for the purposes of discussing how various bond market pricing conventions work, we make the following major bond classifications:
+ 
+Yield is the measure used most frequently to estimate or determine a bond's expected return. Yield is also used as a relative value measure between bonds. There are two primary yield measures that must be understood to understand how different bond market pricing conventions work: yield to maturity and spot rates.
+ 
+A yield-to-maturity calculation is made by determining the interest rate (discount rate) that will make the sum of a bond's cash flows, plus accrued interest, equal to the current price of the bond. This calculation has two important assumptions: first, that the bond will be held until maturity, and second, that the bond's cash flows can be reinvested at the yield to maturity.
+ 
+A spot rate calculation is made by determining the interest rate (discount rate) that makes the present value of a zero-coupon bond equal to its price. A series of spot rates must be calculated to price a coupon paying bond – each cash flow must be discounted using the appropriate spot rate, such that the sum of the present values of each cash flow equals the price.
+ 
+As we discuss below, spot rates are most often used as a building block in relative value comparisons for certain types of bonds.
+ 
+Most bonds are priced relative to a benchmark. This is where bond market pricing gets a little tricky. Different bond classifications, as we have defined them above, use different pricing benchmarks.
+ 
+Some of the most common pricing benchmarks are on-the-run U.S. Treasuries (the most current series). Many bonds are priced relative to a specific Treasury bond. For example, the on-the-run 10-year Treasury might be used as the pricing benchmark for a 10-year corporate bond issue.
+ 
+When the maturity of a bond cannot be known with exactness because of call or put features, the bond is frequently priced to a benchmark curve. This is because the estimated maturity of the callable or put-able bond most likely does not coincide exactly with the maturity of a specific Treasury.
+ 
+Benchmark pricing curves are constructed using the yields of underlying securities with maturities from three months to 30 years. Several different benchmark interest rates or securities are used to construct benchmark pricing curves. Because there are gaps in the maturities of securities used to construct a curve, yields must be interpolated between the observable yields.
+ 
+For example, one of the most commonly used benchmark curves is the on-the-run U.S. Treasury curve, which is constructed using the most recently issued U.S. Treasury bonds, notes, and bills. Because securities are only issued by the U.S. Treasury with three-month, six-month, two-year, three-year, five-year, 10-year and 30-year maturities, the yields of theoretical bonds with maturities that lay between those maturities must be interpolated. This Treasury curve is known as the interpolated yield curve (or I-curve) by bond market participants.
+ 
+A bond's yield relative to the yield of its benchmark is called a spread. The spread is used both as a pricing mechanism and as a relative value comparison between bonds. For example, a trader might say that a certain corporate bond is trading at a spread of 75 basis points above the 10-year Treasury. This means that the yield to maturity of that bond is 0.75% greater than the yield to maturity of the on-the-run 10-year Treasury.
+ 
+Notably, if a different corporate bond with the same credit rating, outlook and duration were trading at a spread of 90 basis points on a relative value basis, the second bond would be a better buy.
+ 
+There are different types of spread calculations used for the different pricing benchmarks. The four primary yield spread calculations are:
+ 
+High-yield bonds are usually priced at a nominal yield spread to a specific on-the-run U.S. Treasury bond. However, sometimes when the credit rating and outlook of a high-yield bond deteriorates, the bond will start to trade at an actual dollar price. For example, such a bond trades at $75.875, as opposed to 500 basis points over the 10-year Treasury.
+ 
+A corporate bond is usually priced at a nominal yield spread to a specific on-the-run U.S. Treasury bond that matches its maturity. For example, 10-year corporate bonds are priced to the 10-year Treasury.
+ 
+There are many different types of MBS. Many of them trade at a nominal yield spread at their weighted average life to the U.S. Treasury I-curve. Some adjustable-rate MBS trade at a DM, others trade at a Z-spread. Some CMOs trade at a nominal yield spread to a specific Treasury. For example, a 10-year planned amortization class bond might trade at a nominal yield spread to the on-the-run 10-year Treasury, or a Z-bond might trade at a nominal yield spread to the on-the-run 30-year Treasury. Because MBS have embedded call options (borrowers have the free option of prepaying their mortgages), they are frequently evaluated using an OAS.
+ 
+ABS frequently trade at a nominal yield spread at their weighted average life to the swap curve.
+ 
+ Agencies frequently trade at a nominal yield spread to a specific Treasury, such as the on-the-run 10-year Treasury. Callable agencies are sometimes evaluated based on an OAS where the spot rate curve(s) are derived from the yields on non-callable agencies.
+ 
+Because of the tax advantages of municipal bonds (usually not taxable), their yields are not as highly correlated with U.S. Treasury yields as other bonds. Therefore, munis frequently trade on an outright yield to maturity or even a dollar price. However, a muni's yield as a ratio to a benchmark Treasury yield is sometimes used as a relative value measure.
+ 
+Like the MBS and ABS that frequently back CDOs, there are many different pricing benchmarks and yield measures used to price CDOs. The eurodollar curve is sometimes used as a benchmark. Discount margins are used on floating rate tranches. OAS calculations are made for relative value analysis.
+ 
+Bond market pricing conventions are a little bit tricky, but like baseball rules, understanding the basics removes some of the ambiguity and may even make it enjoyable. Bond pricing is really just a matter of identifying a pricing benchmark, determining a spread and understanding the difference between two basic yield calculations: yield to maturity and spot rates. With that knowledge, understanding how various types of bonds are priced shouldn't be intimidating.

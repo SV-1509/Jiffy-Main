@@ -1,0 +1,24 @@
+
+The theoretical value (of a right) is the value of a subscription right. During the period of time when a new rights offering is announced up until three days before the subscription rights expire (known as the cum rights period), the value of the right is specific and can easily be calculated. To calculate the value of a right during the window in which it is effective, and investor must be told the subscription price and the number of rights required to buy one share of stock. With that information the value of the right can be calculated using the following formula:
+ 
+(Stock Price - Rights subscription price per share) / (Number of rights required to buy one share + 1)
+ 
+The theoretical value of a right and the market value of a right are generally the same or very similar. It is also known as the intrinsic value of the right. Because the value of stock shares that have rights attached to them during the cum rights period may differ from regular shares without such rights, investors want to know this theoretical value.
+ 
+As an example, the current price of a stock is $40, the exercise price (or subscription price) is $35 and four rights are required to purchase a share. The theoretical value of the right is:
+ 
+($40 - $35) / (4 + 1) = $1.
+ 
+The period of time about three days before expiration is referred to as the exercise of rights period. These are the last days to exercise rights, but a period too soon to purchase new shares with rights, since the trade will settle before the record date, the day the rights expire. The theoretical value during the exercise of rights period — when rights trade independently of the stock — differs from the value during the cum rights period.
+ 
+The calculation for the value during the exercise of rights period is:
+ 
+(Stock price – Right subscription price) / Number of rights needed to buy a share.
+ 
+Continuing from the above example, the stock price during the ex-rights period is $38, the theoretical value of the right during the exercise rights period would be ($38 - $35) / 4 = $0.75.
+ 
+A right’s value is calculated using the same parameters used for pricing options, including the rights subscription price, prevailing interest rates, time to expiration, and the share price of the underlying stock, taking into consideration the level of its volatility. The major difference is that rights have significantly less time value than most options because of their comparatively short lifespan.
+ 
+If an investor chooses to sell his or her right outright in the market, or if they choose to let the right lapse, which may result in a minimal administrative charge, they will receive the theoretical nil paid price of the right. This value is calculated by determining the difference between the subscription price the investor paid and the theoretical ex-right price.
+ 
+Considering the example used above, the calculation for a theoretical nil paid price looks like this: $40 - $38 = $2. Thus, the amount the investor would receive for the right is twice the value of the right during the cum rights period and even greater than the value of the right during the ex-rights period.

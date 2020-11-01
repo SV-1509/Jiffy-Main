@@ -1,0 +1,26 @@
+
+The Fisher Transform is a technical indicator created by J.F. Ehlers that converts prices into a Gaussian normal distribution. In this way, the indicator highlights when prices have moved to an extreme, based on recent prices. This may help in spotting turning points in the price of an asset. It also helps show the trend and isolate the price waves within a trend.
+ 
+﻿Fisher Transform=12∗ln(1+X1−X)where:ln is the natural logarithmX=transformation of price to a level between -1 and 1\begin{aligned} &\text{Fisher Transform} = \frac{1}{2}*\ln \left( \frac{1+X}{1-X} \right)\\ &\textbf{where:}\\ &\ln \text{ is the natural logarithm}\\ &X = \text{transformation of price to a level between -1 and 1}\\ \end{aligned}​Fisher Transform=21​∗ln(1−X1+X​)where:ln is the natural logarithmX=transformation of price to a level between -1 and 1​﻿
+ 
+The Fisher Transform enables traders to create a Gaussian normal distribution, which converts data that isn't typically normal distributed (like market prices). In essence, the transformation makes peak swings relatively rare events to help better identify price reversals on a chart. The technical indicator is commonly used by traders looking for leading signals rather than lagging indicators.
+ 
+The Fisher Transform can also be applied to other technical indicators, such as the Relative Strength Index (RSI) or Moving Average Convergence-Divergence (MACD).
+ 
+The Fisher Transform indicator is unbounded, which means extremes can occur for a long time. An extreme is based on the historical readings for the asset in question. For some assets, a high reading may be seven or eight, while a low reading may be -4. For another asset, these values may differ.
+ 
+An extreme reading indicates the possibility of a reversal. This should be confirmed by the Fisher Transform changing direction. For example, following a strong price rise and the Fisher Transform reaching an extremely high level, when the Fisher Transform starts to head lower that could signal the price is going to drop, or has already started dropping.
+ 
+The Fisher Transform frequently has a signal line attached to it. This is a moving average of the Fisher Transform value, so it moves slightly slower than the Fisher Transform line. When the Fisher Transform crosses the trigger line it is used by some traders as a trade signal. For example, when the Fisher Transform drops below the signal line after hitting an extreme high, that could be used as a signal to sell a current long position.
+ 
+As with many indicators, the Fisher will provide many trade signals. Many of these will not be profitable signals. Therefore, some traders prefer to use the indicator in conjunction with trend analysis. For example, when the price is rising overall, use the Fisher Transform for buy and sell signals, but not for short-sell signals. During a downtrend, use it for short-sell signals and ideas on when to cover.
+ 
+These two indicators look very different on a chart, yet both are based on a distribution of asset prices. Bollinger Bands® use a normal distribution in that they use standard deviation to show when the price may be overextended. Fisher Transform uses a Gaussian normal distribution. The Fisher Transform appears as a separate indicator on a price chart, while Bollinger Bands® are overlayed over the price.
+ 
+The indicator can be rather noisy at times, even though its intent is to make turning points easier to identify. Extreme readings are not always followed by a price reversal; sometimes the price just moves sideways or reverses only a small amount.
+ 
+What qualifies as extreme can also be hard to judge, since the levels tend to vary over time. Four may be a high level for years, but then readings of eight may start to frequently appear.
+ 
+Looking at all changes in direction on the Fisher Transform can help spot short-term changes in price direction, yet the signal may come too late to capitalize, as many of these price moves may be short-lived.
+ 
+Asset prices are not normally distributed, therefore attempts to normalize prices is inherently flawed and may not produce reliable signals.

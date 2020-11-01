@@ -1,0 +1,20 @@
+
+The Jarrow Turnbull model is one of the first reduced-form models for pricing credit risk. Developed by Robert Jarrow and Stuart Turnbull, the model utilizes multi-factor and dynamic analysis of interest rates to calculate the probability of default.
+ 
+Determining credit risk, the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations, is a highly advanced field, involving both complex math and high-octane computing.
+ 
+Various models exist to help financial institutions (FIs) get a better grip on whether a firm may fail to meet its financial obligations or not. Previously, it was common to use tools that examine default risk mainly by looking at a company’s capital structure.
+ 
+The Jarrow Turnbull model, introduced in the early 1990s, offered a new way to measure the likelihood of default by factoring in the impact of fluctuating interest rates, otherwise known as the cost of borrowing, as well. 
+ Jarrow and Turnbull’s model shows how credit investments would perform under different interest rates. 
+Reduced-form models are one of two approaches to credit risk modeling, the other being structural. Structural models assume that the modeler has complete knowledge of a company’s assets and liabilities, leading to a predictable default time.
+ 
+Structural models, often called "Merton" models, after the Nobel Laureate academic Robert C. Merton, are single-period models which derive their probability of default from the random variations in the unobservable value of a firm's assets. Under this model, default risks occurring at the maturing date if, at that stage, the value of a company’s assets fall below its outstanding debt.
+ Merton's structural credit model was first offered by quantitative credit analysis tools provider KMV LLC, which was acquired by Moody's Investors Service in 2002, in the early 1990s. 
+Reduced-form models, on the other hand, take the view that the modeler is in the dark about the company's financial condition. These models treat defaulting as an unexpected event that can be governed by a multitude of different factors going on in the market.
+ 
+Because structural models are rather sensitive to the many assumptions underlying their design, Jarrow concluded that for pricing and hedging, reduced-form models are the preferred methodology.
+ 
+Most banks and credit rating agencies use a combination of structural and reduced-form models, as well as proprietary variants, to assess credit risk. Structural models offer the built-in advantage of offering a link between the credit quality of a firm and the firm’s economic and financial conditions established in Merton’s model.
+ 
+Meanwhile, the Jarrow Turnbull reduced-form models utilize some of the same information but account for certain market parameters, as well as knowledge of a firm’s financial condition at a point in time.

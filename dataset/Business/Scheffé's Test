@@ -1,0 +1,9 @@
+
+A Scheffé Test is a statistical test that is a post-hoc test used in statistical analysis. It was named after American statistician Henry Scheffé. The Scheffé Test is used to make unplanned comparisons, rather than pre-planned comparisons, among group means in an analysis of variance (ANOVA) experiment.﻿﻿
+ 
+An unplanned comparison is a comparison made within a data set after an ANOVA test has been run, so the parameters of the comparison are not built into the ANOVA experiment. Scheffé's test can be used to determine whether individual means differ, or whether an average one group of means differs from the average of another group of means.
+ 
+While Scheffé's test has the advantage of giving the experimenter the flexibility to test any comparisons that appear interesting, the drawback of this flexibility is that the test has relatively lower statistical power than tests that are designed for pre-planned comparisons.
+ 
+While pre-planned comparisons can be made using tests such as t-tests or F-tests, these tests are not suitable for post hoc or unplanned comparisons. For such comparisons, multiple comparison tests such as Scheffé's test, the Tukey-Kramer method, or the Bonferroni test are appropriate.
+ Henry Scheffe. "A 'Mixed Model' for the Analysis of Variance," pages 23-36. Annals of Mathematical Statistics, 1956.

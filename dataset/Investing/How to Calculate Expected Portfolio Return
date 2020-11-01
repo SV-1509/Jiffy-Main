@@ -1,0 +1,18 @@
+
+As a well-informed investor, you naturally want to know the expected return of your portfolio—its anticipated performance and the overall profit or loss it's racking up. Expected return is just that: expected. It is not guaranteed, as it is based on historical returns and used to generate expectations, but it is not a prediction.
+ 
+To calculate the expected return of a portfolio, the investor needs to know the expected return of each of the securities in his portfolio as well as the overall weight of each security in the portfolio. That means the investor needs to add up the weighted averages of each security's anticipated rates of return (RoR).
+ 
+An investor bases the estimates of the expected return of a security on the assumption that what has been proven true in the past will continue to be proven true in the future. The investor does not use a structural view of the market to calculate the expected return. Instead, he finds the weight of each security in the portfolio by taking the value of each of the securities and dividing it by the total value of the security.
+ 
+Once the expected return of each security is known and the weight of each security has been calculated, an investor simply multiplies the expected return of each security by the weight of the same security and adds up the product of each security.
+ 
+Let's say your portfolio contains three securities. The equation for its expected return is as follows:
+ 
+﻿Expected Return=WA×RA+WB×RB+WC×RCwhere:WA = Weight of security ARA = Expected return of security AWB = Weight of security BRB = Expected return of security BWC = Weight of security CRC = Expected return of security C\begin{aligned} &\text{Expected Return}=WA\times{RA}+WB\times{RB}+WC\times{RC}\\ &\textbf{where:}\\ &\text{WA = Weight of security A}\\ &\text{RA = Expected return of security A}\\ &\text{WB = Weight of security B}\\ &\text{RB = Expected return of security B}\\ &\text{WC = Weight of security C}\\ &\text{RC = Expected return of security C}\\ \end{aligned}​Expected Return=WA×RA+WB×RB+WC×RCwhere:WA = Weight of security ARA = Expected return of security AWB = Weight of security BRB = Expected return of security BWC = Weight of security CRC = Expected return of security C​﻿
+ 
+Expected return is based on historical data, so investors should take into consideration the likelihood that each security will achieve its historical return given the current investing environment. Some assets, like bonds, are more likely to match their historical returns, while others, like stocks, may vary more widely from year to year.
+ 
+Since the market is volatile and unpredictable, calculating the expected return of a security is more guesswork than definite. So it could cause inaccuracy in the resultant expected return of the overall portfolio.
+ 
+Expected returns do not paint a complete picture, so making investment decisions based on them alone can be dangerous. For instance, expected returns do not take volatility into account. Securities that range from high gains to losses from year to year can have the same expected returns as steady ones that stay in a lower range. And as expected returns are backward-looking, they do not factor in current market conditions, political and economic climate, legal and regulatory changes, and other elements.

@@ -1,0 +1,34 @@
+
+Several major economic indices and indicators can help investors and economists predict where the economy is headed. The Consumer Price Index (CPI), the Producer Price Index (PPI) and Gross Domestic Product (GDP) all forecast the future health of the U.S. economy. The Michigan Consumer Sentiment Index is another key indicator designed to illustrate the average U.S. consumer's confidence level. This indicator is important to retailers, economists and investors, and its rise and fall has historically helped predict economic expansions and contractions.
+ 
+The Michigan Consumer Sentiment Index was created in the 1940s by Professor George Katona at the University of Michigan's Institute for Social Research. His efforts ultimately led to a national telephone survey conducted and published monthly by the university. The survey is now conducted by the Survey Research Center and consists of at least 500 telephone interviews posed to a different cross-section of consumers in the continental U.S. each month. The survey questions consumers on their views of their own personal finances, as well as the short-term and long-term state of the U.S. economy. Each survey contains approximately 50 core questions, and each respondent is contacted again for another survey six months after completing the first one. The answers to these questions form the basis of the index.
+ 
+About 60% of each monthly survey consists of new responses, and the remaining 40% is drawn from repeat surveys. The repeat surveys help reveal the changes in consumer sentiment over time and provide a more accurate measure of consumer confidence. The survey also attempts to accurately incorporate consumer expectations into behavioral spending and saving models in an empirical fashion.
+ 
+The CSI is basically calculated by subtracting the percentage of unfavorable consumer replies from the percentage of favorable ones. The CSI website provides a breakdown of how the index is calculated based on the answers to the following five core survey questions:
+ 
+x1) "We are interested in how people are getting along financially these days. Would you say that you (and your family living there) are better off or worse off financially than you were a year ago?"
+ 
+x2) "Now looking ahead - do you think that a year from now you (and your family living there) will be better off financially, or worse off, or just about the same as now?"
+ 
+x3) "Now turning to business conditions in the country as a whole - do you think that during the next 12 months we'll have good times financially, or bad times, or what?"
+ 
+x4) "Looking ahead, which would you say is more likely - that in the country as a whole we'll have continuous good times during the next five years or so, or that we will have periods of widespread unemployment or depression, or what?"
+ 
+x5) "About the big things people buy for their homes - such as furniture, a refrigerator, stove, television and things like that. Generally speaking, do you think now is a good or bad time for people to buy major household items?"
+ 
+To calculate the CSI, first compute the relative scores (the percent giving favorable replies minus the percent giving unfavorable replies, plus 100) for each of the five index questions. Round each relative score to the nearest whole number. Using the formula shown below, add the five relative scores, divide by the 1966 base period total of 6.7558, and add 2.0 (a constant to correct for sample design changes from the 1950s).
+ 
+The actual equation that this data is plugged into is:
+ 
+﻿CSI=x1 + x2 + x3 + x4 + x56.7558+2.0\begin{aligned} &\text{CSI} = \frac{ \text{x1}\ +\ \text{x2}\ +\ \text{x3}\ +\ \text{x4}\ +\ \text{x5} }{ 6.7558 } + 2.0 \\ \end{aligned}​CSI=6.7558x1 + x2 + x3 + x4 + x5​+2.0​﻿
+ 
+The Michigan CSI has grown from its inception to be regarded as one of the leading indicators of consumer sentiment in the United States. History shows that consumer confidence has been at its lowest point just prior to and in the midst of recessionary periods. The index rises when consumers regain confidence in the economy, which portends increased consumer spending and thus economic growth. This growth, in turn, leads to greater interest from foreign investors, which results in the increased value of the dollar against other foreign currencies. Historically speaking, the value of the dollar has usually risen whenever the Michigan CSI has come in at a higher level than was anticipated and fallen when the index came in lower.
+ 
+The Index of Consumer Expectations (ICE) was created as a subsidiary of the CSI. It has come to be included in the larger index of Leading Composite Indicators published by the Bureau of Economic Analysis through the Department of Commerce.
+ 
+When consumer confidence increases, certain sectors tend to benefit sooner than others. Companies that provide consumer goods often reap the initial fruits of improved consumer sentiment. Consumers who feel more confident about the economy generally also feel better about their employment prospects and are therefore more willing to buy houses, cars, appliances and other items. Investors should look at the stocks of car manufacturers, home builders and other retailers that typically see sales rise when the economy begins an expansion period.
+ 
+As mentioned previously, the dollar's value also tends to fluctuate in accordance with the rise and fall of the CSI, so traders and speculators can take positions to profit from sudden moves that may occur when the index is posted. (It is no longer possible to purchase a subscription that will get you that information five minutes before its public dissemination, as the University of Michigan canceled its agreement with Thomson Reuters to do this after the chairman of the Securities and Exchange Commission stated that it may have been an unfair practice.)
+ 
+The Michigan Consumer Sentiment Index has provided a relatively accurate forecast of future consumer confidence and spending for the past several decades. For more information about the Michigan CSI and its impact on economic analysis, consult your investment advisor or log on to the Surveys of Consumers: Thomson Reuters/University of Michigan website at http://www.sca.isr.umich.edu/.

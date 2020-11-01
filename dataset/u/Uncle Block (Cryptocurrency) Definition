@@ -1,0 +1,27 @@
+
+Uncle blocks are created on ethereum-based blockchains, and they are similar to bitcoin’s orphan block.
+ 
+In a process similar to the way Bitcoin creates orphan blocks, uncle blocks are created when more than one child block is created from a parent block. This situation is possible because all the nodes that maintain the ledger are not updated instantaneously when a new block is mined. Instead, you may have two blocks mined close together, but only one gets validated across nodes on the ledger. The one that is not validated is an uncle block.
+ 
+A blockchain is formed by a growing chain of blocks that store details of the various transactions occurring on the blockchain network. Miners continue to mine for the new blocks following the standard mining process implemented by the blockchain.
+ 
+A newly mined block is appended to the blockchain after verification, and the miner who found this new block is entitled to the block reward. The block height, which indicates the length of the blockchain, increases after the addition of the new block.
+ 
+However, at times, two different miners may generate a block simultaneously. This happens due to the working mechanism of the blockchain, which may not accept the newly identified blocks into the blockchain instantaneously.
+ 
+Due to this delay, a situation arises where another miner solves for the same block and tries to add it to the network chain, which results in a temporary and unsettled state of the blockchain network as the various nodes try to build a consensus about which of the newly identified blocks to continue with and which one to reject.
+ 
+The rejected ones are those which have a relatively lower share of proof of work (POW) and constitute the uncle blocks, while the ones with the larger share join the blockchain and work as a normal block.
+ 
+In the Bitcoin blockchain, orphan blocks were a sunk cost: miners were not rewarded for producing them. Moreover, since the release of Bitcoin Core v.0.10 in early 2015 that eliminated the ability for nodes to recognize blocks without ancestry, Bitcoin orphan blocks are no longer possible.﻿﻿﻿﻿﻿
+ 
+In the Bitcoin blockchain, orphan blocks were in essence bugs in the code—unintended and accidental byproducts of the mining process. Ethereum, on the other hand, incentivizes uncle block miners. This is done for several reasons:
+ 
+Finally, the uncle blocks are purposefully incorporated into ethereum's consensus method by a process called "GHOST: Greedy Heaviest Object Sub Tree." According to Philip Shen, "nodes will get the number of uncles mined for the last 7 blocks in each subtree. That number is, in addition to the number of blocks in that subtree, used to calculate the tree’s weight; the heaviest tree is then said to be the 'correct' one."﻿﻿
+ 
+The name “uncle” was chosen based on the lines of a family tree. Consider the blockchain as a family tree, with accepted blocks the genuine "parent-child" in the tree.
+ 
+The term orphan was coined because, under the old bitcoin system, a block could be submitted to a node that did not have a clear parent. In that case, the node would wait for confirmation from other nodes. This was a bug, not a feature.
+ 
+For the reasons given above, ethereum found a use for these extra blocks and incorporated them into its consensus mechanism, so the orphans were promoted to a metaphorical role in the family that showed they are not in a direct line of succession but still useful to the total system.
+ BitcoinCore. "Bitcoin Core Version 0.10.0 Released." Accessed Sept. 1, 2020. Stack Exchange. "What Are the Consequences of High Orphan Block Rate?" Accessed Sept. 1, 2020. Philip Shen. "How Ethereum Works." Accessed Sept. 1, 2020.

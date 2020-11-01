@@ -1,0 +1,84 @@
+
+From a quantitative perspective, investing in real estate is somewhat like investing in stocks. To profit, investors must know how to value real estate and make educated guesses about how much profit each will make, whether through property appreciation, rental income, or both. Accurate real estate valuations can help investors make better decisions when it comes to buying and selling properties.
+ 
+Equity valuation is typically conducted through two basic methodologies: absolute value and relative value. The same is true for real estate property valuation.
+ 
+Discounting future net operating income (NOI) by the appropriate discount rate for real estate is similar to discounted cash flow (DCF) valuations for stock. Meanwhile, integrating the gross income multiplier model in real estate is comparable to relative value valuations with stocks. Below, we'll take a look at how to value a real estate property using these methods.
+ Mortgage lending discrimination is illegal. If you think you've been discriminated against based on race, religion, sex, marital status, use of public assistance, national origin, disability, or age, there are steps you can take. One such step is to file a report to the Consumer Financial Protection Bureau or with the U.S. Department of Housing and Urban Development (HUD).  
+One of the most important assumptions a real estate investor makes when performing real estate valuations is to choose an appropriate capitalization rate, also known as the cap rate.
+ 
+The capitalization rate is the required rate of return on real estate, net of value appreciation, or depreciation. Put simply, it is the rate applied to NOI to determine the present value of a property.
+ 
+For example, assume a property is expected to generate NOI of $1 million over the next ten years. If it were discounted at a capitalization rate of 14%, the market value of the property would be:
+ 
+Where:
+ 
+The $7,142,857 market value is a good deal if the property sells at $6.5 million. But, it is a bad deal if the sale price is $8 million.
+ 
+Determining the capitalization rate is one of the key metrics used to value an income-generating property. Although it is somewhat more complicated than calculating the weighted average cost of capital (WACC) of a firm, there are several methods that investors can use to find an appropriate capitalization rate, including the following:
+ 
+One common approach to calculating the cap rate is the build-up method. Start with the interest rate and add the:
+ 
+Given a 6% interest rate, a 1.5% non-liquidity rate, a 1.5% recapture premium, and a 2.5% rate of risk, the capitalization rate of an equity property is 11.5% (6% + 1.5% + 1.5% + 2.5%). If net operating income is $200,000, the market value of the property is $1,739,130 ($200,000 / 0.115).
+ 
+It is very straightforward to perform this calculation. However, the complexity lies in assessing accurate estimates for the individual components of the capitalization rate, which can be a challenge. The advantage of the build-up method is that it attempts to define and accurately measure individual components of a discount rate.
+ 
+The market-extraction method assumes that there is current, readily available NOI and sale price information on comparable income-generating properties. The advantage of the market-extraction method is that the capitalization rate makes the direct income capitalization more meaningful.
+ 
+It is relatively simple to determine the capitalization rate. Assume an investor might buy a parking lot expected to generate $500,000 in NOI. In the area, there are three existing comparable income-producing parking lots:
+ 
+Taking the average cap rates for these three comparable properties an overall capitalization rate of 9.24% would be a reasonable representation of the market. Using this capitalization rate, an investor can determine the market value of the property they're considering. The value of the parking lot investment opportunity is $5,411,255 ($500,000 / 0.0924).
+ 
+With the band-of-investment method, the capitalization rate is computed using individual rates of interest for properties that use both debt and equity financing. The advantage of this method is that it is the most appropriate capitalization rate for financed real estate investments.
+ 
+The first step is to calculate a sinking fund factor. This is the percentage that must be set aside each period to have a certain amount at a future point in time. Assume that a property with NOI of $950,000 is 50% financed, using debt at 7% interest to be amortized over 15 years. The rest is paid for with equity at a required rate of return of 10%. The sinking fund factor would is calculated as:
+ 
+Plugging in the numbers, we get:
+ 
+This computes to 3.98%. The rate at which a lender must be paid equals this sinking fund factor plus the interest rate. In this example, this comes out to 10.98% (0.07 + 0.0398).
+ 
+Thus, the weighted average rate, or the overall capitalization rate, using the 50% weight for debt and 50% weight for equity is:
+ 
+As a result, the market value of the property is:
+ 
+Absolute valuation models determine the present value of future incoming cash flows to obtain the intrinsic value of an asset. The most common methods are the dividend discount model (DDM) and discounted cash flow (DCF) techniques.
+ 
+On the other hand, relative value methods suggest that two comparable securities should be similarly priced according to their earnings. Ratios such as price-to-earnings (P/E) and price-to-sales are compared to other companies within the same industry to determine whether a stock is under or over-valued.
+ 
+As in equity valuation, real estate valuation analysis should implement both procedures to determine a range of possible values.
+ 
+The formula for calculating real estate value based on discounted net operating income is:
+ 
+NOI reflects the earnings that the property will generate after factoring in operating expenses—but before the deduction of taxes and interest payments. However, before deducting expenses, the total revenues gained from the investment must be determined.
+ 
+Expected rental revenue can initially be forecast based on comparable properties nearby. With proper market research, an investor can determine what prices tenants are paying in the area and assume that similar per-square-foot rents can be applied to this property. Forecast increases in rents are accounted for in the growth rate within the formula.
+ 
+Since high vacancy rates are a potential threat to real estate investment returns, either a sensitivity analysis or realistic conservative estimates should be used to determine the forgone income if the asset is not utilized at full capacity.
+ 
+Operating expenses include those that are directly incurred through the day-to-day operations of the building, such as property insurance, management fees, maintenance fees, and utility costs. Note that depreciation is not included in the total expense calculation. The net operating income of a real estate property is similar to the earnings before interest, taxes, depreciation, and amortization (EBITDA).
+ 
+Discounting NOI from a real estate investment by the cap rate is analogous to discounting a future dividend stream by the appropriate required rate of return, adjusted for dividend growth. Equity investors familiar with dividend growth models should immediately see the resemblance.
+ 
+The gross income multiplier approach is a relative valuation method that is based on the underlying assumption that properties in the same area will be valued proportionally to the gross income that they help generate.
+ 
+As the name implies, gross income is the total income before the deduction of any operating expenses. However, vacancy rates must be forecast to obtain an accurate gross income estimate.
+ 
+For example, if a real estate investor purchases a 100,000-square-foot building, they may determine from comparable property data that the average gross monthly income per square foot in the neighborhood is $10. Although the investor may initially assume that the gross annual income is $12 million ($10 x 12 months x 100,000 sq. feet), there are likely to be some vacant units in the building at any given time.
+ 
+Assuming there is a 10% vacancy rate, the gross annual income is $10.8 million ($12 million x 90%). A similar approach is applied to the net operating income approach, as well.
+ 
+The next step to assess the value of the real estate property is to determine the gross income multiplier and multiply it by the gross annual income. The gross income multiplier can be found using historical sales data. Looking at the sales prices of comparable properties and dividing that value by the generated gross annual income produces the average multiplier for the region.
+ 
+This type of valuation approach is similar to using comparable transactions or multiples to value a stock. Many analysts will forecast the earnings of a company and multiply its earnings per share (EPS) by the P/E ratio of the industry. Real estate valuation can be conducted through similar measures.
+ 
+Both of these real estate valuation methods seem relatively simple. However, in practice, determining the value of an income-generating property with these calculations is fairly complicated. First of all, it may be time-consuming and challenging to obtain the required information regarding all of the formula inputs, such as net operating income, the premiums included in the capitalization rate, and comparable sales data.
+ 
+Secondly, these valuation models do not properly factor in possible major changes in the real estate market, such as a credit crisis or real estate boom. As a result, further analysis must be conducted to forecast and factor in the possible impact of changing economic variables.
+ 
+Because the property markets are less liquid and transparent than the stock market, sometimes it is difficult to obtain the necessary information to make a fully informed investment decision.
+ 
+That said, due to the large capital investment typically required to purchase a large development, this complicated analysis can produce a large payoff if it leads to the discovery of an undervalued property (similar to equity investing). Thus, taking the time to research the required inputs is well worth the time and energy.
+ 
+Real estate valuation is often based on strategies that are similar to equity analysis. Other methods, in addition to the discounted NOI and gross income multiplier approach, are also frequently used. Some industry experts, for example, have an active working knowledge of city migration and development patterns.
+ 
+As a result, they can determine which local areas are most likely to experience the fastest rate of appreciation. No matter which approach is used, the most important predictor of a strategy's success is how well it is researched.

@@ -1,0 +1,74 @@
+
+Compound interest is interest calculated on the initial principal and also on the accumulated interest of previous periods of a deposit or loan. The effect of compound interest depends on frequency.
+ 
+Assume an annual interest rate of 12%. If we start the year with $100 and compound only once, at the end of the year, the principal grows to $112 ($100 x 1.12 = $112). If we instead compound each month at 1%, we end up with more than $112 at the end of the year. That is, $100 x 1.01^12 at $112.68. (It's higher because we compounded more frequently.)
+ 
+Continuously compounded returns compound the most frequently of all. Continuous compounding is the mathematical limit that compound interest can reach. It is an extreme case of compounding since most interest is compounded on a monthly, quarterly or semiannual basis.
+ 
+First, let's take a look at a potentially confusing convention. In the bond market, we refer to a bond-equivalent yield (or bond-equivalent basis). This means that if a bond yields 6% on a semiannual basis, its bond-equivalent yield is 12%.
+ 
+The semiannual yield is simply doubled. This is potentially confusing because the effective yield of a 12% bond-equivalent yield bond is 12.36% (i.e., 1.06^2 = 1.1236). Doubling the semiannual yield is just a bond naming convention. Therefore, if we read about an 8% bond compounded semiannually, we assume this refers to a 4% semiannual yield.
+ 
+Now, let's discuss higher frequencies. We are still assuming a 12% annual market interest rate. Under bond naming conventions, that implies a 6% semiannual compound rate. We can now express the quarterly compound rate as a function of the market interest rate.
+ 
+Given an annual market rate (r), the quarterly compound rate (rq) is given by:
+ 
+﻿rq=4[(r2+1)12−1]\begin{aligned} &r_q = 4 \left [ \left ( \frac { r }{ 2 } + 1 \right ) ^ \frac { 1 }{ 2 } - 1 \right ] \\ \end{aligned}​rq​=4[(2r​+1)21​−1]​﻿
+ 
+So, for our example, where the annual market rate is 12%, the quarterly compound rate is 11.825%:
+ 
+﻿rq=4[(12%2+1)12−1]≅11.825%\begin{aligned} &r_q = 4 \left [ \left ( \frac { 12\% }{ 2 } + 1 \right ) ^ \frac { 1 }{ 2 } - 1 \right ] \cong 11.825\% \\ \end{aligned}​rq​=4[(212%​+1)21​−1]≅11.825%​﻿
+ 
+A similar logic applies to monthly compounding. The monthly compound rate (rm) is given here as the function of the annual market interest rate (r):
+ 
+﻿rm=12[(r2+1)16−1]=12[(12%2+1)16−1]≅11.71%\begin{aligned} r_m &= 12 \left [ \left ( \frac { r }{ 2 } + 1 \right ) ^ \frac { 1 }{ 6 } - 1 \right ] \\ &= 12 \left [ \left ( \frac { 12\% }{ 2 } + 1 \right ) ^ \frac { 1 }{ 6 } - 1 \right ] \\ &\cong 11.71\% \\ \end{aligned}rm​​=12[(2r​+1)61​−1]=12[(212%​+1)61​−1]≅11.71%​﻿ 
+ 
+The daily compound rate (d) as a function of market interest rate (r) is given by:
+ 
+﻿rd=360[(r2+1)1180−1]=360[(12%2+1)1180−1]≅11.66%\begin{aligned} r_d &= 360 \left [ \left ( \frac { r }{ 2 } + 1 \right ) ^ \frac { 1 }{ 180 } - 1 \right ] \\ &= 360 \left [ \left ( \frac { 12\% }{ 2 } + 1 \right ) ^ \frac { 1 }{ 180 } - 1 \right ] \\ &\cong 11.66\% \\ \end{aligned}rd​​=360[(2r​+1)1801​−1]=360[(212%​+1)1801​−1]≅11.66%​﻿
+ 
+If we increase the compound frequency to its limit, we are compounding continuously. While this may not be practical, the continuously compounded interest rate offers marvelously convenient properties. It turns out that the continuously compounded interest rate is given by:
+ 
+﻿rcontinuous=ln(1+r)\begin{aligned} &r_{continuous} = \ln ( 1 + r ) \\ \end{aligned}​rcontinuous​=ln(1+r)​﻿
+ 
+Ln() is the natural log and in our example, the continuously compounded rate is therefore:
+ 
+﻿rcontinuous=ln(1+0.12)=ln(1.12)≅11.33%\begin{aligned} &r_{continuous} = \ln ( 1 + 0.12 ) = \ln (1.12) \cong 11.33\% \\ \end{aligned}​rcontinuous​=ln(1+0.12)=ln(1.12)≅11.33%​﻿
+ 
+We get to the same place by taking the natural log of this ratio: the ending value divided by the starting value.
+ 
+﻿rcontinuous=ln(ValueEndValueStart)=ln(112100)≅11.33%\begin{aligned} &r_{continuous} = \ln \left ( \frac { \text{Value}_\text{End} }{ \text{Value}_\text{Start} } \right ) = \ln \left ( \frac { 112 }{ 100 } \right ) \cong 11.33\% \\ \end{aligned}​rcontinuous​=ln(ValueStart​ValueEnd​​)=ln(100112​)≅11.33%​﻿
+ 
+The latter is common when computing the continuously compounded return for a stock. For example, if the stock jumps from $10 one day to $11 on the next day, the continuously compounded daily return is given by:
+ 
+﻿rcontinuous=ln(ValueEndValueStart)=ln($11$10)≅9.53%\begin{aligned} &r_{continuous} = \ln \left ( \frac { \text{Value}_\text{End} }{ \text{Value}_\text{Start} } \right ) = \ln \left ( \frac { \$11 }{ \$10 } \right ) \cong 9.53\% \\ \end{aligned}​rcontinuous​=ln(ValueStart​ValueEnd​​)=ln($10$11​)≅9.53%​﻿
+ 
+What's so great about the continuously compounded rate (or return) that we will denote with rc? First, it's easy to scale it forward. Given a principal of (P), our final wealth over (n) years is given by:
+ 
+﻿w=Percn\begin{aligned} &w = Pe ^ {r_c n} \\ \end{aligned}​w=Perc​n​﻿
+ 
+Note that e is the exponential function. For example, if we start with $100 and continuously compound at 8% over three years, the final wealth is given by:
+ 
+﻿w=$100e(0.08)(3)=$127.12\begin{aligned} &w = \$100e ^ {(0.08)(3)} = \$127.12 \\ \end{aligned}​w=$100e(0.08)(3)=$127.12​﻿
+ 
+Discounting to the present value (PV) is merely compounding in reverse, so the present value of a future value (F) compounded continuously at a rate of (rc) is given by:
+ 
+﻿PV of F received in (n) years=Fercn=Fe−rcn\begin{aligned} &\text{PV of F received in (n) years} = \frac { F }{ e ^ {r_c n} } = Fe ^ {-r_c n} \\ \end{aligned}​PV of F received in (n) years=erc​nF​=Fe−rc​n​﻿
+ 
+For example, if you are going to receive $100 in three years under a 6% continuous rate, its present value is given by:
+ 
+﻿PV=Fe−rcn=($100)e−(0.06)(3)=$100e−0.18≅$83.53\begin{aligned} &\text{PV} = Fe ^ {-r_c n} = ( \$100 ) e ^ { -(0.06)(3) } = \$100 e ^ { -0.18 } \cong \$83.53 \\ \end{aligned}​PV=Fe−rc​n=($100)e−(0.06)(3)=$100e−0.18≅$83.53​﻿
+ 
+The convenient property of the continuously compounded returns is that it scales over multiple periods. If the return for the first period is 4% and the return for the second period is 3%, then the two-period return is 7%. Consider we start the year with $100, which grows to $120 at the end of the first year, then $150 at the end of the second year. The continuously compounded returns are, respectively, 18.23% and 22.31%.
+ 
+﻿ln(120100)≅18.23%\begin{aligned} &\ln \left ( \frac { 120 }{ 100 } \right ) \cong 18.23\% \\ \end{aligned}​ln(100120​)≅18.23%​﻿
+ 
+﻿ln(150120)≅22.31%\begin{aligned} &\ln \left ( \frac { 150 }{ 120 } \right ) \cong 22.31\% \\ \end{aligned}​ln(120150​)≅22.31%​﻿
+ 
+If we simply add these together, we get 40.55%. This is the two-period return:
+ 
+﻿ln(150100)≅40.55%\begin{aligned} &\ln \left ( \frac { 150 }{ 100 } \right ) \cong 40.55\% \\ \end{aligned}​ln(100150​)≅40.55%​﻿
+ 
+Technically speaking, the continuous return is time consistent. Time consistency is a technical requirement for value at risk (VAR). This means that if a single-period return is a normally distributed random variable, we want multiple-period random variables to be normally distributed also. Furthermore, the multiple-period continuously compounded return is normally distributed (unlike, say, a simple percentage return).
+ 
+We can reformulate annual interest rates into semiannual, quarterly, monthly, or daily interest rates (or rates of return). The most frequent compounding is continuous compounding, which requires us to use a natural log and an exponential function, which is commonly used in finance due to its desirable properties—it scales easily over multiple periods and it is time consistent.

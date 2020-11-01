@@ -1,0 +1,12 @@
+
+Typically, the ask price of a security should be higher than the bid price. This can be attributed to the expected behavior that an investor will not sell a security (asking price) for lower than the price they are willing to pay for it (bidding price).
+ 
+But sometimes the way the bid/ask price is quoted with U.S. Treasury Bills (T-Bills) gives the appearance that the ask price is lower than the bid price. Here's a look at why the pricing is confusing and how you can understand the quotes.
+ 
+Since there is more than one method of quoting the bid and ask prices of T-bills, the quoted ask price may simply be perceived as being lower than the bid. However, it is possible to convert the prices quoted so that you can see an accurate comparison of the bid and ask prices.
+ 
+For example, one common quote that you may see for a 365-day T-bill is July 12th, bid 2.35%, ask 2.25%. At first glance, the bid seems to be higher than the ask, but upon further inspection, you may notice that the ask is actually higher. The reason for this is that a T-bill is a discount bond and these percentages are the quoted yields, not the actual prices.
+ A Treasury Bill, or a T-Bill, is a short-term U.S. government debt obligation backed by the Treasury Department; it typically has a maturity of a year or less. 
+If we convert the bid and ask discount yields into the dollar amounts of the prices, we get a bid of $97.65 and an ask of $97.75. The bid is thus actually lower than the ask. Sometimes the quotes on T-bills show the actual prices, in which case you don't have to convert or calculate anything. The same T-bill above, therefore, may be quoted with a bid of 97.65 and an ask of 97.75.
+ 
+So, as the dollar amount of the bid should be lower than the ask, the bid's quoted yield percentage should be higher than the ask's quoted yield percentage. The two different kinds of quotes are just different ways of saying the same thing.

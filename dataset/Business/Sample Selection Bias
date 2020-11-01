@@ -1,0 +1,8 @@
+
+Sample selection bias is a type of bias caused by choosing non-random data for statistical analysis. The bias exists due to a flaw in the sample selection process, where a subset of the data is systematically excluded due to a particular attribute. The exclusion of the subset can influence the statistical significance of the test, and it can bias the estimates of parameters of the statistical model.
+ 
+Survivorship bias is a common type of sample selection bias. For example, when back-testing an investment strategy on a large group of stocks, it may be convenient to look for securities that have data for the entire sample period. If we were going to test the strategy against 15 years worth of stock data, we might be inclined to look for stocks that have complete information for the entire 15-year period. However, eliminating a stock that stopped trading, or shortly left the market, would input a bias in our data sample. Since we only include stocks that lasted the 15-year period, our final results would be flawed, as these performed well enough to survive the market.
+ 
+Hedge fund performance indexes are one example of sample selection bias subject to survivorship bias. Because hedge funds that don’t survive stop reporting their performance to index aggregators, resulting indices are naturally tilted to funds and strategies that remain, hence “survive.” This can be an issue with popular mutual fund reporting services as well.
+ 
+Analysts can adjust to take account of these biases but may introduce new biases in the process.﻿

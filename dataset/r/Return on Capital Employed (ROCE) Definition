@@ -1,0 +1,38 @@
+
+Return on capital employed (ROCE) is a financial ratio that can be used in assessing a company's profitability and capital efficiency. In other words, the ratio can help to understand how well a company is generating profits from its capital.
+ 
+The ROCE ratio is one of several profitability ratios financial managers, stakeholders, and potential investors may use when analyzing a company for investment.
+ 
+ROCE is one of several profitability ratios that can be used when analyzing a company’s financials for profitability performance. Other ratios can include the following:
+ 
+The formula for ROCE is as follows:
+ 
+﻿ROCE=EBITCapital Employedwhere:EBIT=Earnings before interest and taxCapital Employed=Total assets − Current liabilities\begin{aligned} &\text{ROCE} = \frac{ \text{EBIT} }{ \text{Capital Employed} } \\ &\textbf{where:}\\ &\text{EBIT} = \text{Earnings before interest and tax} \\ &\text{Capital Employed} = \text{Total assets } - \text{ Current liabilities} \\ \end{aligned}​ROCE=Capital EmployedEBIT​where:EBIT=Earnings before interest and taxCapital Employed=Total assets − Current liabilities​﻿
+ 
+ROCE is a metric for analyzing profitability, and potentially comparing profitability levels across companies in terms of capital. There are two components required to calculate return on capital employed: earnings before interest and tax and capital employed.
+ 
+EBIT, also known as operating income, shows how much a company earns from its operations alone without regard to interest or taxes. EBIT is calculated by subtracting the cost of goods sold and operating expenses from revenues.
+ 
+Capital employed is very similar to invested capital, which is used in the ROIC calculation. Capital employed is found by subtracting total assets from current liabilities, which ultimately gives you shareholders’ equity plus long-term debts. Instead of using capital employed at an arbitrary point in time, some analysts and investors may choose to calculate ROCE based on the average capital employed, which takes the average of opening and closing capital employed for the time period under analysis.
+ 
+ROCE can be especially useful when comparing the performance of companies in capital-intensive sectors, such as utilities and telecoms. This is because unlike other fundamentals such as return on equity (ROE), which only analyzes profitability related to a company’s shareholders’ equity, ROCE considers debt and equity. This can help neutralize financial performance analysis for companies with significant debt.
+ 
+Ultimately, the calculation of ROCE tells you the amount of profit a company is generating per $1 of capital employed. Obviously, the more profit per $1 a company can generate the better. Thus, a higher ROCE indicates stronger profitability across company comparisons.
+ 
+For a company, the ROCE trend over the years can also be an important indicator of performance. In general, investors tend to favor companies with stable and rising ROCE levels over companies where ROCE is volatile or trending lower.
+ 
+Consider two companies that operate in the same industry: Colgate-Palmolive and Procter & Gamble. The table below shows a hypothetical ROCE analysis of both companies.
+ 
+As you can see, Procter & Gamble is a much larger business than Colgate-Palmolive, with higher revenue, EBIT, and total assets. However, when using the ROCE metric, you can see that Colgate-Palmolive is more efficiently generating profit from its capital than Procter & Gamble. Colgate-Palmolive’s ROCE is 44 cents per capital dollar or 43.51% vs. 15 cents per capital dollar for Procter & Gamble or 15.47%.
+ 
+When analyzing profitability efficiency in terms of capital, both ROIC and ROCE can be used. Both metrics are similar in that they provide a measure of profitability per total capital of the firm. In general, both the ROIC and ROCE should be higher than a company’s weighted average cost of capital (WACC) in order for the company to be profitable over the long-term.
+ 
+ROIC is generally based on the same concept as ROCE, but its components are slightly different. The calculation for ROIC is as follows:
+ 
+Net operating profit after tax: This is a measure of EBIT x (1 – tax rate). This takes into consideration a company’s tax obligations, but ROCE usually does not.
+ 
+Invested capital: Invested capital in the ROIC calculation is slightly more complex than the simple calculation for capital employed used in ROCE. Invested capital may be either:
+ 
+Or:
+ 
+In general, the invested capital is a more detailed analysis of a firm’s overall capital.

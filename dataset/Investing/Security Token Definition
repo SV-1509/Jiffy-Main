@@ -1,0 +1,14 @@
+
+A security token is a portable device that authenticates a person's identity electronically by storing some sort of personal information. The owner plugs the security token into a system to grant access to a network service. Security Token Services (STS) issue security tokens that authenticate the person's identity.
+ 
+Security tokens come in many different forms, including hardware tokens that contain chips, USB tokens that plug into USB ports, and wireless Bluetooth tokens or programmable electronic key fobs, which activate devices remotely (for example, to gain access to a car or apartment building).
+ 
+Single sign-on services also use security tokens to log users into third-party websites seamlessly. Disconnected tokens are not linked to the computer or network in any way; rather, the user enters the information from the token manually into the system. Connected tokens work electronically and automatically transmit information to the network once they're connected.
+ 
+You might use a security token to access a sensitive network system such as a bank account, in order to add an extra layer of security. In this instance, the security token is used in addition to a password to prove the account owner's identity.
+ 
+Also, security tokens store data in order to authenticate the owners' identities. Some store cryptographic keys, a system used in cryptocurrency services such as Bitcoin, but the key must be kept secret. Some use time-sensitive passwords, which are coordinated between the token and the network and are reset at constant intervals. Others use biometrics such as fingerprint data to ensure that only the owner of the security token can access protected information.
+ 
+As with any system, security tokens are not flawless. If the token is lost or stolen or if it isn't in the owner's possession, it cannot be used to access a service. However, the owner can take steps to prevent loss or theft, such as locks or alarms, and the token can be rendered useless to a thief by using two-factor authentication, which requires both an item in the owner's possession (for example, a bank card) and a piece of knowledge (for example, a PIN) to access the token.
+ 
+Security tokens can also be hacked. This often happens when the owner unknowingly provides sensitive information to an unauthorized provider who then inputs the information into the secure network. This is known as man-in-the-middle fraud. Any network connected to the Internet is vulnerable to such an attack.

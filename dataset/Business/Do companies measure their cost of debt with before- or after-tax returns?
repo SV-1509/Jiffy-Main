@@ -1,0 +1,14 @@
+
+Cost of debt is most easily defined as the interest rate lenders charge on borrowed funds. When comparing similar sources of debt capital, this definition of cost is useful in determining which source costs the least.
+ 
+For example, assume two different banks offer otherwise identical business loans at interest rates of 4% and 6%, respectively. Using the pretax definition of cost of capital, it is clear that the first loan is the cheaper option because of its lower interest rate.
+ 
+Depending on the context of the calculation, however, businesses often look at the after-tax cost of debt capital to gauge its impact on the budget more accurately. Payments on debt interest are typically tax-deductible, so the acquisition of debt financing can actually lower a company's total tax burden.
+ 
+The most common utilization of this method is in the calculation of the weighted average cost of capital (WACC). The WACC formula is used by businesses to determine the average cost per dollar of all capital, both debt and equity, after taking into account the proportion of total capital each source represents. In the WACC formula, the cost of debt is calculated as
+ 
+﻿Cost of debt=R∗(1−T)where:R=The interest rateT=The corporate tax rate\begin{aligned} &\text{Cost of debt} = R*\left(1-T \right )\\ &\textbf{where:}\\ &R = \text{The interest rate}\\ &T = \text{The corporate tax rate}\\ \end{aligned} ​Cost of debt=R∗(1−T)where:R=The interest rateT=The corporate tax rate​﻿
+ 
+By multiplying the pretax cost of debt (represented by the interest rate) by the inverse of the tax rate, this formula gives a more realistic picture of the expense necessary to fund operations with debt.
+ 
+Assume the corporate tax rate is 30% in the above example. The first loan has an after-tax cost of capital of 0.04 * (1 - 0.3), or 2.8%. The second loan has an after-tax cost of 0.06 * (1 - 0.3), or 4.2%. Clearly, the after-tax calculation does not affect the original decision to pursue the first loan, as it is still the cheapest option. When comparing the cost of the loan to the cost of equity capital, however, the incorporation of the tax rate can make a world of difference.

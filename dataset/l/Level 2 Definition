@@ -1,0 +1,22 @@
+
+First introduced in 1983 as the Nasdaq Quotation Dissemination Service (NQDS), Level 2 is a subscription-based service that provides real-time access to the NASDAQ order book. It is intended to display market depth and momentum to traders and investors.
+ 
+The service provides price quotes from market makers registered in every NASDAQ-listed and OTC Bulletin Board securities. The Level 2 window shows the bid prices and sizes on the left side and ask prices and sizes on the right side.
+ 
+Level 2 provides users with depth of price information, including all the available prices that market makers and electronic communication networks (ECN) post.
+ 
+Level 1 offers enough information to satisfy the needs of most investors, providing the inside or best bid and ask prices. However, active traders often prefer Level 2 because it displays the supply and demand of the price levels beyond or outside of the national best bid offer (NBBO) price. This gives the user a visual display of the price range and associated liquidity at each price level. With this information, a trader can determine entry and or exit points that assure the liquidity needed to complete the trade.
+ 
+Price movement on Level 2 is not necessarily an actual reflection of the recorded trades; Level 2 is just a display of the available price and liquidity. This is an important distinction because high-frequency trading programs frequently adjust Level 2 bid and ask prices violently to shake the trees and panic onlookers despite the lack of actual executed trades. This practice is common in momentum stocks.
+ 
+Many ECNs, which are the automated systems that match buy and sell orders for securities, offer the ability for traders to post reserve orders and hidden orders. ECNs generally display the best available bid and ask quotes from multiple market participants, and they also automatically match and execute orders.
+ 
+ECNs offer a reserve order option, which is composed of a price and display size along with the actual size. This order only shows the specific display size on Level 2 as it hides the true size of the entire order.
+ 
+Hidden orders, which are an option where investors can hide large orders from the market on the ECN, function in a similar way but are invisible on Level 2. This allows for more discretion in determining prices. The best way for users to determine the status of reserve or hidden orders is to check the time and sales for trades at the indicated prices.
+ 
+The main benefit of using Level 2 quotes is getting access to a wealth of information related to the market. This information can be used in various ways for profit-making. For example, you can ascertain liquidity volumes and order sizes for a stock traded on Nasdaq. You can also identify trends using information about bid and ask orders.
+ 
+There are six important columns in a Level 2 quote for a given stock. The first one is MMID. This column identifies the four-letter identification for market makers. The second column is Bid or the price that the market maker is willing to pay for that stock. The third column is Size. This column is the number of orders placed by the market maker at that size.
+ 
+The remaining three columns on the right hand side are similar. The sole exception is Ask, which is the price that the market maker is willing to sell that stock price. Traders can use the difference between the bid and ask prices to determine pricing pressure and implement trading strategies.

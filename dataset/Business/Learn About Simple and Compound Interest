@@ -1,0 +1,88 @@
+
+Interest is defined as the cost of borrowing money as in the case of interest charged on a loan balance. Conversely, interest can also be the rate paid for money on deposit as in the case of a certificate of deposit. Interest can be calculated in two ways, simple interest or compound interest.
+ 
+There can be a big difference in the amount of interest payable on a loan if interest is calculated on a compound rather than simple basis. On the positive side, the magic of compounding can work to your advantage when it comes to your investments and can be a potent factor in wealth creation.
+ 
+While simple interest and compound interest are basic financial concepts, becoming thoroughly familiar with them may help you make more informed decisions when taking out a loan or investing.
+ 
+The formula for calculating simple interest is:
+ 
+﻿Simple interest=P×i×nwhere:P=Principlei=interest raten=term of the loan\begin{aligned} &\text{Simple interest}=P \times i \times n \\ &\textbf{where:}\\ &P=\text{Principle}\\ &i=\text{interest rate}\\ &n=\text{term of the loan}\\ \end{aligned}​Simple interest=P×i×nwhere:P=Principlei=interest raten=term of the loan​﻿
+ 
+Thus, if simple interest is charged at 5% on a $10,000 loan that is taken out for three years, the total amount of interest payable by the borrower is calculated as $10,000 x 0.05 x 3 = $1,500.
+ 
+Interest on this loan is payable at $500 annually, or $1,500 over the three-year loan term.
+ 
+The formula for calculating compound interest in a year is:
+ 
+﻿Compound interest=[P(1+i)n]−PCompound interest=P[(1+i)n−1]where:P=Principlei=interest rate in percentage termsn=number of compounding periods for a year\begin{aligned} &\text{Compound interest} = [P(1 + i)^n] - P \\ &\text{Compound interest} = P[(1 + i)^n - 1] \\ &\textbf{where:}\\ &P=\text{Principle}\\ &i=\text{interest rate in percentage terms}\\ &n=\text{number of compounding periods for a year}\\ \end{aligned}​Compound interest=[P(1+i)n]−PCompound interest=P[(1+i)n−1]where:P=Principlei=interest rate in percentage termsn=number of compounding periods for a year​﻿
+ 
+Compound Interest = Total amount of Principal and Interest in future (or Future Value) less the Principal amount at present called Present Value (PV). PV is the current worth of a future sum of money or stream of cash flows given a specified rate of return. 
+ 
+Continuing with the simple interest example, what would be the amount of interest if it is charged on a compound basis? In this case, it would be:
+ 
+$10,000 [(1 + 0.05)3 – 1] = $10,000 [1.157625 – 1] = $1,576.25.
+ 
+While the total interest payable over the three-year period of this loan is $1,576.25, unlike simple interest, the interest amount is not the same for all three years because compound interest also takes into consideration accumulated interest of previous periods. Interest payable at the end of each year is shown in the table below.
+ 
+When calculating compound interest, the number of compounding periods makes a significant difference. Generally, the higher the number of compounding periods, the greater the amount of compound interest. So for every $100 of a loan over a certain period, the amount of interest accrued at 10% annually will be lower than the interest accrued at 5% semi-annually, which will, in turn, be lower than the interest accrued at 2.5% quarterly.
+ 
+In the formula for calculating compound interest, the variables "i" and "n" have to be adjusted if the number of compounding periods is more than once a year.
+ 
+That is, within the parentheses, "i" or interest rate has to be divided by "n," the number of compounding periods per year. Outside of the parentheses, "n" has to be multiplied by "t," the total length of the investment.
+ 
+Therefore, for a 10-year loan at 10%, where interest is compounded semi-annually (number of compounding periods = 2), i = 5% (i.e., 10% / 2) and n = 20 (i.e., 10 x 2).
+ 
+To calculate total value with compound interest, you would use this equation:
+ 
+﻿Total value with compound interest=[P(1+in)nt]−PCompound interest=P[(1+in)nt−1]where:P=Principlei=interest rate in percentage termsn=number of compounding periods per yeart=total number of years for the investment or loan\begin{aligned} &\text{Total value with compound interest} = [P(\frac{1 + i}{n})^{nt}] - P \\ &\text{Compound interest} = P[(\frac{1 + i}{n})^{nt} - 1] \\ &\textbf{where:}\\ &P=\text{Principle}\\ &i=\text{interest rate in percentage terms}\\ &n=\text{number of compounding periods per year}\\ &t=\text{total number of years for the investment or loan}\\ \end{aligned}​Total value with compound interest=[P(n1+i​)nt]−PCompound interest=P[(n1+i​)nt−1]where:P=Principlei=interest rate in percentage termsn=number of compounding periods per yeart=total number of years for the investment or loan​﻿ 
+ 
+The following table demonstrates the difference that the number of compounding periods can make overtime for a $10,000 loan taken for a 10-year period. 
+ 
+Since money is not "free" but has a cost in terms of interest payable, it follows that a dollar today is worth more than a dollar in the future. This concept is known as the time value of money and forms the basis for relatively advanced techniques like discounted cash flow (DCF) analysis. The opposite of compounding is known as discounting. The discount factor can be thought of as the reciprocal of the interest rate and is the factor by which a future value must be multiplied to get the present value.
+ 
+The formulas for obtaining the future value (FV) and present value (PV) are as follows:
+ 
+﻿FV=PV×(1+in)ntPV=FV÷(1+in)ntwhere:i=interest rate in percentage termsn=number of compounding periods per yeart=total number of years for the investment or loan\begin{aligned} &\text{FV} = PV \times (\frac{1 + i}{n})^{nt} \\ &\text{PV} = FV \div (\frac{1 + i}{n})^{nt} \\ &\textbf{where:}\\ &i=\text{interest rate in percentage terms}\\ &n=\text{number of compounding periods per year}\\ &t=\text{total number of years for the investment or loan}\\ \end{aligned}​FV=PV×(n1+i​)ntPV=FV÷(n1+i​)ntwhere:i=interest rate in percentage termsn=number of compounding periods per yeart=total number of years for the investment or loan​﻿
+ 
+For example, the future value of $10,000 compounded at 5% annually for three years:
+ 
+= $10,000 (1 + 0.05)3   
+ 
+= $10,000 (1.157625)
+ 
+= $11,576.25.
+ 
+The present value of $11,576.25 discounted at 5% for three years:
+ 
+= $11,576.25 / (1 + 0.05)3
+ 
+= $11,576.25 / 1.157625
+ 
+= $10,000
+ 
+The reciprocal of 1.157625, which equals 0.8638376, is the discount factor in this instance.
+ 
+The Rule of 72 calculates the approximate time over which an investment will double at a given rate of return or interest “i” and is given by (72 / i). It can only be used for annual compounding but can be very helpful in planning how much money you might expect to have in retirement.
+ 
+For example, an investment that has a 6% annual rate of return will double in 12 years (72 / 6%).
+ 
+An investment with an 8% annual rate of return will double in nine years (72 / 8%).
+ 
+The compound annual growth rate (CAGR) is used for most financial applications that require the calculation of a single growth rate over a period.
+ 
+For example, if your investment portfolio has grown from $10,000 to $16,000 over five years, what is the CAGR? Essentially, this means that PV = $10,000, FV = $16,000, nt = 5, so the variable "i" has to be calculated. Using a financial calculator or Excel spreadsheet, it can be shown that i = 9.86%.
+ 
+Please note that according to cash flow convention, your initial investment (PV) of $10,000 is shown with a negative sign since it represents an outflow of funds. PV and FV must necessarily have opposite signs to solve for “i” in the above equation.
+ 
+CAGR is extensively used to calculate returns over periods for stock, mutual funds, and investment portfolios. CAGR is also used to ascertain whether a mutual fund manager or portfolio manager has exceeded the market’s rate of return over a period. For example, if a market index has provided total returns of 10% over five years, but a fund manager has only generated annual returns of 9% over the same period, the manager has underperformed the market.
+ 
+CAGR can also be used to calculate the expected growth rate of investment portfolios over long periods, which is useful for such purposes as saving for retirement. Consider the following examples:
+ 
+Make sure you know the exact annual payment rate (APR) on your loan since the method of calculation and number of compounding periods can have an impact on your monthly payments. While banks and financial institutions have standardized methods to calculate interest payable on mortgages and other loans, the calculations may differ slightly from one country to the next.
+ 
+Compounding can work in your favor when it comes to your investments, but it can also work for you when making loan repayments. For example, making half your mortgage payment twice a month, rather than making the full payment once a month, will end up cutting down your amortization period and saving you a substantial amount of interest.
+ 
+Compounding can work against you if you carry loans with very high rates of interest, like credit-card or department store debt. For example, a credit-card balance of $25,000 carried at an interest rate of 20%—compounded monthly—would result in a total interest charge of $5,485 over one year or $457 per month. 
+ 
+Get the magic of compounding working for you by investing regularly and increasing the frequency of your loan repayments. Familiarizing yourself with the basic concepts of simple and compound interest will help you make better financial decisions, saving you thousands of dollars and boosting your net worth over time.

@@ -1,0 +1,14 @@
+
+A heating degree day (HDD) is a measurement designed to quantify the demand for energy needed to heat a building. It is the number of degrees that a day's average temperature is below 65o Fahrenheit (18o Celsius), which is the temperature below which buildings need to be heated. The price of weather derivatives traded in the winter is based on an index made up of monthly HDD values. The settlement price for a weather futures contract is calculated by summing HDD values for a month and multiplying that sum by $20.
+ 
+While HDD can describe the overall need for heating as part of the planning for residential or commercial buildings, it is critical for the pricing of weather futures. In turn, that creates a risk management tool that utility, agriculture, construction and other firms can use to hedge their activities that depend on weather — energy needs, growing season, outdoor work time, etc. The first weather futures contracts based on HDD were listed in September 1999 at the Chicago Mercantile Exchange (CME).
+ 
+There are several ways to calculate HDD. The more detailed a record of temperature data, the more accurate the HDD calculation.
+ 
+For all methods, if the value for any given day is less than or equal to zero, that day has zero HDD. But if the value is positive, that number represents the HDD on that day.
+ 
+A similar measurement, cooling degree day (CDD), reflects the amount of energy used to cool a home or business.
+ 
+One caveat is that heating degree days are extremely localized. Heating (and cooling) needs vary greatly depending on the geographical region. And further, the average HDD in one building may not have the same impact as it does in the building next door due to differences in construction, orientation relative to other buildings, insulation, sun exposure, and the nature of the building's usage.
+  
+ 

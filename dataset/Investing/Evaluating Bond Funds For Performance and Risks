@@ -1,0 +1,48 @@
+
+When it comes to bond funds, knowing what information is most important can be confusing regardless of whether you are looking at a research service like Morningstar or a mutual fund company's website or prospectus.
+ 
+As an example, we'll use these factors to compare two of the industry's largest bond funds: PIMCO Total Return Fund (PTTRX) and Vanguard Total Bond Market Index Fund (VBMFX). The first represents the extreme of active management while the latter represents the extreme of passive management. Barclays Capital Aggregate Bond Index is the benchmark for both of these funds.
+ 
+Understanding the risk of a bond fund should, of course, be a high priority in your analysis. There are many types of risks associated with bonds. Here, for example, are some of the risks the prospectus for the PTTRX lists: interest rate, credit, market, liquidity, foreign investment (or country) risk, foreign exchange risk, leverage, and management risk. But before you conclude bonds are no longer a safe investment, remember most domestic investment-grade bond funds are sufficiently diversified against these kinds of risks, with interest rate risk being the main exception.
+ 
+Bond fund returns are highly dependent on the changes in general interest rates; that is, when interest rates increase, the value of bonds decreases, which in turn affects bond fund returns. To understand interest rate risk, you must understand duration.
+ 
+Duration, in the simplest terms, is a measure of a bond fund's sensitivity to interest rate changes. The higher the duration, the more sensitive the fund. For example, a duration of 4.0 means a 1% interest rate rise causes about a 4% drop in the fund. Duration is considerably more complex than this explanation, but when comparing one fund's interest rate risks to another, duration offers a good starting point. 
+ 
+As an alternative to duration, weighted average maturity (WAM), also known as "average effective maturity," is an easier metric to comprehend. WAM is the weighted average time to maturity of the bonds in the portfolio expressed in years. The longer the WAM, the more sensitive the portfolio will be to interest rates. However, WAM is not as useful as duration, which gives you a precise measurement of interest sensitivity, while WAM gives you only an approximation.
+ 
+Given the amount of U.S. Treasuries and mortgage-backed securities in the Barclays Capital Aggregate Bond Index, most bond funds benchmarked against this index will have the highest credit rating of AAA.
+ 
+Although most bond funds diversify credit risk well enough, the weighted average credit rating of a bond fund will influence its volatility. While lower-credit-quality bonds bring higher yields, they also bring higher volatility.
+ 
+Bonds that are not investment grade, also known as junk bonds, are not part of the Lehman Aggregate Bond Index or most investment-grade bond funds. However, as PTTRX is allowed to have up to 10% of its portfolio in non-investment-grade bonds it could end up being more volatile than your average bond fund.
+ 
+Additional volatility is not only found in junk bonds. Bonds rated as investment-grade can sometimes trade like junk bonds. This is because rating agencies, such as Standard & Poor's (S&P) and Moody's, can be slow to downgrade issuers because of their agency conflicts (the ratings agency's revenue comes from the issuer they are rating).
+ 
+Many research services and mutual funds use style boxes to help you initially see a bond fund's interest rate and credit risk. The funds being compared—PTTRX and VBMFX—both have the same style box, shown below.
+ 
+Figure 1 - Vertical axis represents credit quality.
+ 
+Another cause of volatility in a bond fund is foreign currency exposure. This is applicable when a fund invests in bonds not denominated in its domestic currency. As currencies are more volatile than bonds, currency returns for a foreign currency bond can end up dwarfing its fixed-income return. The PTTRX, for example, allows up to 30% foreign currency exposure in its portfolio. To reduce the risk this poses, the fund hedges at least 75% of that foreign currency exposure. Just as with non-investment-grade exposure, foreign currency exposure is the exception, not the rule, for bond funds benchmarked against Barclays Capital Aggregate Bond Index.
+ 
+Unlike stock funds, past absolute performance for bond funds will likely give little or no indication of their future returns because the interest rate environment is forever changing. Instead of looking at historical returns, you are better off analyzing a bond fund's yield to maturity (YTM), which will give you an approximation of the bond fund's projected annualized return over WAM.
+ 
+When analyzing the return of a bond fund, you should look also at the different fixed income investments the fund holds. Morningstar divides bonds funds into 12 categories, each with their own risk-return criteria. Rather than trying to understand the differences between these categories, look for a bond fund that holds material portions of these five fixed-income categories:
+ 
+Because these bond types have different interest rate and credit risks, they complement each other, so a mixture of them helps the risk-adjusted return of a bond fund.
+ 
+For example, the Barclays Capital Aggregate Bond Index does not hold material weightings in inflation-protected securities and asset-backed securities. Therefore, an enhanced risk-return profile could likely be found by adding them into a bond fund. Unfortunately, most bond indexes mimic the capitalization of their market rather than focusing on an optimum risk-return profile.
+ 
+Understanding the makeup of your fixed-income benchmark can make evaluating bond funds easier, as the benchmark and the fund will have similar risk-return characteristics. For the retail investor, index characteristics can be tough to find; however, if there is a corresponding bond exchange-traded fund (ETF), you should be able to find the applicable index information through the ETF's website. Since the goal of an ETF is to minimize tracking error against its benchmark, its makeup should be representative of its benchmark.
+ 
+While the above analysis gives you a feel for the absolute return of a bond fund, costs will have a big impact on its relative performance, particularly in a low interest rate environment. Adding value above the expense ratio percentage can be a difficult hurdle for an active bond manager to overcome, but passively managed bond funds can really add value here because of their lower expenses. The VBMFX, for example, has an expense ratio of only 0.2%, which takes a smaller chunk out of your returns. Also, look out for front- and back-end loads, which, for some bond funds, can be devastating to returns.
+ 
+Because bond funds are constantly maturing and being called and intentionally traded, bond funds tend to have higher turnover than stock funds. However, passively managed bond funds tend to have lower turnover than actively managed funds and, therefore, may provide better value.
+ 
+Evaluating bond funds does not have to be complex. You need only to focus on a few factors giving insight into risk and return, which will then give you a feel for the fund's future volatility and return.
+ 
+Unlike stocks, bonds are black and white: you hold a bond to maturity and you know exactly what you get (barring default). Bond funds are not quite as simple because of the absence of a fixed maturity date, but you can still get an approximation of returns by looking at the YTM and WAM.
+ 
+The biggest difference between the two funds comes down to fees. In a low interest rate environment, this difference is even further accentuated. The addition of non-investment-grade bonds and unhedged currency in the PTTRX will likely increase its volatility, while higher turnover will also increase its trading costs when compared to VBMFX.
+ 
+Armed with an understanding of these metrics, evaluating bond funds should be far less intimidating.

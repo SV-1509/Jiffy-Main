@@ -1,0 +1,24 @@
+
+Backward induction in game theory is an iterative process of reasoning backward in time, from the end of a problem or situation, to solve finite extensive form and sequential games, and infer a sequence of optimal actions.
+ 
+Backward induction has been used to solve games since John von Neumann and Oskar Morgenstern established game theory as an academic subject when they published their book, Theory of Games and Economic Behavior in 1944.
+ 
+At each stage of the game backward induction determines the optimal strategy of the player who makes the last move in the game. Then, the optimal action of the next-to-last moving player is determined, taking the last player's action as given. This process continues backward until the best action for every point in time has been determined. Effectively, one is determining the Nash equilibrium of each subgame of the original game.
+ 
+However, the results inferred from backward induction often fail to predict actual human play. Experimental studies have shown that “rational” behavior (as predicted by game theory) is seldom exhibited in real life. Irrational players may actually end up obtaining higher payoffs than predicted by backward induction, as illustrated in the centipede game.
+ 
+In the centipede game, two players alternately get a chance to take a larger share of an increasing pot of money, or to pass the pot to the other player. The payoffs are arranged so that if the pot is passed to one's opponent and the opponent takes the pot on the next round, one receives slightly less than if one had taken the pot on this round. The game concludes as soon as a player takes the stash, with that player getting the larger portion and the other player getting the smaller portion.
+ 
+As an example, assume Player A goes first and has to decide if he should “take” or “pass” the stash, which currently amounts to $2. If he takes, then A and B get $1 each, but if A passes, the decision to take or pass now has to be made by Player B. If B takes, she gets $3 (i.e., the previous stash of $2 + $1) and A gets $0. But if B passes, A now gets to decide whether to take or pass, and so on. If both players always choose to pass, they each receive a payoff of $100 at the end of the game.
+ 
+The point of the game is if A and B both cooperate and continue to pass until the end of the game, they get the maximum payout of $100 each. But if they distrust the other player and expect them to “take” at the first opportunity, Nash equilibrium predicts the players will take the lowest possible claim ($1 in this case).
+ 
+The Nash equilibrium of this game, where no player has an incentive to deviate from his chosen strategy after considering an opponent's choice, suggests the first player would take the pot on the very first round of the game. However, in reality, relatively few players do so. As a result, they get a higher payoff than the payoff predicted by the equilibria analysis.
+ 
+Below is a simple sequential game between two players. The labels with Player 1 and Player 2 within them are the information sets for players one or two, respectively. The numbers in the parentheses at the bottom of the tree are the payoffs at each respective point. The game is also sequential, so Player 1 makes the first decision (left or right) and Player 2 makes its decision after Player 1 (up or down).
+ 
+Backward induction, like all game theory, uses the assumptions of rationality and maximization, meaning that Player 2 will maximize his payoff in any given situation. At either information set we have two choices, four in all. By eliminating the choices that Player 2 will not choose, we can narrow down our tree. In this way, we will mark the lines in blue that maximize the player's payoff at the given information set.
+ 
+After this reduction, Player 1 can maximize its payoffs now that Player 2's choices are made known. The result is an equilibrium found by backward induction of Player 1 choosing "right" and Player 2 choosing "up." Below is the solution to the game with the equilibrium path bolded.
+ 
+For example, one could easily set up a game similar to the one above using companies as the players. This game could include product release scenarios. If Company 1 wanted to release a product, what might Company 2 do in response? Will Company 2 release a similar competing product? By forecasting sales of this new product in different scenarios, we can set up a game to predict how events might unfold. Below is an example of how one might model such a game.

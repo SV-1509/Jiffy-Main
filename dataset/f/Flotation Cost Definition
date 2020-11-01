@@ -1,0 +1,24 @@
+
+Flotation costs are incurred by a publicly-traded company when it issues new securities and incurs expenses, such as underwriting fees, legal fees, and registration fees. Companies must consider the impact these fees will have on how much capital they can raise from a new issue. Flotation costs, expected return on equity, dividend payments, and the percentage of earnings the business expects to retain are all part of the equation to calculate a company's cost of new equity.
+ 
+The equation for calculating the flotation cost of new equity using the dividend growth rate is:
+ 
+﻿Dividend growth rate=D1P∗(1−F)+g\text{Dividend growth rate} = \frac{D_1}{P * \left(1-F\right)} + gDividend growth rate=P∗(1−F)D1​​+g﻿
+ 
+Where:
+ 
+Companies raise capital in two ways: debt via bonds and loans or equity. Some companies prefer issuing bonds or obtaining a loan, especially when interest rates are low and because the interest paid on many debts is tax-deductible, while equity returns are not. Other companies prefer equity because it does not need to be paid back; however, selling equity also entails giving up an ownership stake in the company.
+ 
+There are flotation costs associated with issuing new equity, or newly issued common stock. These include costs such as investment banking and legal fees, accounting and audit fees, and fees paid to a stock exchange to list the company's shares. The difference between the cost of existing equity and the cost of new equity is the flotation cost.
+ 
+The flotation cost is expressed as a percentage of the issue price and is incorporated into the price of new shares as a reduction. A company will often use a weighted cost of capital (WACC) calculation to determine what share of its funding should be raised from new equity and what portion from debt.
+ 
+As an example, assume Company A needs capital and decides to raise $100 million in common stock at $10 per share to meet its capital requirements. Investment bankers receive 7% of the funds raised. Company A pays out $1 in dividends per share next year and is expected to increase dividends by 10% the following year.
+ 
+Using these variables, the cost of new equity is calculated with the following equation:
+ 
+The answer is 20.7%. If the analyst assumes no flotation cost, the answer is the cost of existing equity. The cost of existing equity is calculated with the following formula:
+ 
+The answer is 20.0%. The difference between the cost of new equity and the cost of existing equity is the flotation cost, which is (20.7-20.0%) = 0.7%. In other words, the flotation costs increased the cost of the new equity issuance by 0.7%.
+ 
+Some analysts argue that including flotation costs in the company's cost of equity implies that flotation costs are an ongoing expense, and forever overstates the firm's cost of capital. In reality, a firm pays the flotation costs one time upon issuing new equity. To offset this, some analysts adjust the company's cash flows for flotation costs.

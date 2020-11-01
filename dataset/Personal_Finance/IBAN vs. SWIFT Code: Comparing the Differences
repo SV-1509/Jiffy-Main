@@ -1,0 +1,23 @@
+
+There are two internationally recognized, standardized methods of identifying bank accounts when a bank transfer is being made from one country to another: an International Bank Account Number (IBAN) and a Society for Worldwide Interbank Financial Telecommunication (SWIFT) code. The primary difference between the two methods lies in what information the codes convey.
+ 
+A SWIFT code is used to identify a specific bank during an international transaction, whereas an IBAN is used to identify an individual account involved in the international transaction. Both SWIFT codes and IBANs are essential components of the process by which individuals are able to transfer money overseas, and they both play an essential role in the smooth running of the international financial market.
+ 
+An IBAN allows for easy identification of the country where the bank is located and the account number of the recipient of the money transfer. The IBAN also acts as a method of checking that the transaction details are correct. The number starts with a two-digit country code, then two numbers, followed by up to third-five alphanumeric characters.
+ 
+This method of checking and identification is used within the majority of European Union countries and other European countries.
+ 
+In 1997, the International Organization for Standardization (ISO)–an international standard-setting body composed of representatives from various national standards organizations–first developed a system of standardization for IBANs. However, concerns were raised, mainly by the European Committee for Banking Standards (ECBS)–now the European Payments Council, the decision-making and coordination body of the European banking industry–that there was too much flexibility within the proposed standards. The reworked version of the standard included a ruling that required the IBAN for each country to be a fixed length. It also stipulated that only uppercase letters could be used within the IBAN.﻿﻿﻿﻿
+ 
+The Society for Worldwide Interbank Financial Telecommunication (SWIFT) system is a messaging network that financial institutions use to securely transmit information and instructions through a standardized system of codes. It was formed in 1973. The SWIFT system assigns each financial organization a unique code that has either eight characters or 11 characters. 
+ 
+It remains the method by which the majority of international fund transfers are made. One of the main reasons for this is because the SWIFT messaging system allows banks to share a significant amount of financial data, including the status of the account, debit and credit amounts, and details related to the money transfer.
+ 
+Being able to access both of these identifiers–SWIFT codes and IBANs–is essential to ensuring a quick and successful international transfer. The identifier required by the bank depends on the bank being used, the recipient's bank, and the countries in which the transfer is originated and received. However, without either, the chances of the transfer being completed successfully diminish considerably.
+ 
+Prior to the introduction of these identification methods, there were no internationally recognized, standardized methods of identifying bank accounts. The information that one country used to identify the bank and individual accounts of the sending country was not necessarily recognized by the receiving country.
+ 
+Lack of standard practice meant there was no way to ensure the information entered was correct. As a result, payments could theoretically be made to the wrong people or organizations. Similarly, payments could be delayed while the identifying details were confirmed. Missed, delayed, and mistaken payments caused additional costs to both sending and receiving banks.
+ 
+The introduction of these identification methods was crucial in helping to streamline the process of making international money transfers.
+ International Organization for Standardization. "Financial services - International bank account number (IBAN) — Part 1: Structure of the IBAN." Accessed Sept. 21, 2020. SWIFT. "What is an IBAN number?" Download "IBAN Registration Form," Page 5. Accessed Sept. 18, 2020

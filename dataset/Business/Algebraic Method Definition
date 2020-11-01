@@ -1,0 +1,30 @@
+
+The algebraic method refers to various methods of solving a pair of linear equations, including graphing, substitution and elimination.
+ 
+The graphing method involves graphing the two equations. The intersection of the two lines will be an x,y coordinate, which is the solution.
+ 
+With the substitution method, rearrange the equations to express the value of variables, x or y, in terms of another variable. Then substitute that expression for the value of that variable in the other equation.
+ 
+For example, to solve:
+ 
+﻿8x+6y=16−8x−4y=−8\begin{aligned} &8x+6y=16\\ &{-8}x-4y=-8\\ \end{aligned}​8x+6y=16−8x−4y=−8​﻿
+ 
+First, use the second equation to express x in terms of y:
+ 
+﻿−8x=−8+4yx=−8+4y−8x=1−0.5y{-8}x=-8+4yx=\frac{-8+4y}{{-8}x}=1-0.5y−8x=−8+4yx=−8x−8+4y​=1−0.5y﻿
+ 
+Then substitute 1 - 0.5y for x in the first equation:
+ 
+﻿8(1−0.5y)+6y=168−4y+6y=168+2y=162y=8y=4\begin{aligned} &8\left(1-0.5y\right)+6y=16\\ &8-4y+6y=16\\ &8+2y=16\\ &2y=8\\ &y=4\\ \end{aligned}​8(1−0.5y)+6y=168−4y+6y=168+2y=162y=8y=4​﻿
+ 
+Then replace y in the second equation with 4 to solve for x:
+ 
+﻿8x+6(4)=168x+24=168x=−8x=−1\begin{aligned} &8x+6\left(4\right)=16\\ &8x+24=16\\ &8x=-8\\ &x=-1\\ \end{aligned}​8x+6(4)=168x+24=168x=−8x=−1​﻿
+ 
+The second method is the elimination method. It is used when one of the variables can be eliminated by either adding or subtracting the two equations. In the case of these two equations, we can add them together to eliminate x:
+ 
+﻿8x+6y=16−8x−4y=−80+2y=8y=4\begin{aligned} &8x+6y=16\\ &{-8}x-4y=-8\\ &0+2y=8\\ &y=4\\ \end{aligned}​8x+6y=16−8x−4y=−80+2y=8y=4​﻿
+ 
+Now, to solve for x, substitute the value for y in either equation:
+ 
+﻿8x+6y=168x+6(4)=168x+24=168x+24−24=16−248x=−8x=−1\begin{aligned} &8x+6y=16\\ &8x+6\left(4\right)=16\\ &8x+24=16\\ &8x+24-24=16-24\\ &8x=-8\\ &x=-1\\ \end{aligned}​8x+6y=168x+6(4)=168x+24=168x+24−24=16−248x=−8x=−1​﻿

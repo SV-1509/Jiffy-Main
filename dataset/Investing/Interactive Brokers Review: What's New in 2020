@@ -1,0 +1,102 @@
+
+We publish unbiased product reviews; our opinions are our own and are not influenced by payment we receive from our advertising partners. Learn more about how we review products and read our advertiser disclosure for how we make money.
+ 
+Interactive Brokers (IBKR) ranks very close to the top in our 2020 review due to its wealth of tools for sophisticated investors who are interested in tracking global investing trends. The firm makes a point of connecting to any electronic exchange globally, so you can trade equities, options, and futures around the world and around the clock.
+ 
+Interactive Brokers introduced a Lite pricing plan in fall 2019, which offers no-commission equity trades on most of the available platforms. Interactive Brokers still charges a small fee for its IBKR Pro customers. We'll look at how Interactive Brokers stacks up in terms of features, costs, and resources to help you decide if it is the right fit for your investing needs. Aside from this Interactive Brokers review, we've also reviewed the Interactive Advisors robo-advisor service.
+ 
+Interactive Brokers primarily serves institutional investors and sophisticated, active traders around the globe. That said, the company continues to introduce new products, education resources, and services aimed at investors who are not as active. Making the experience less intimidating for newer or less active investors is still a work in progress for the firm. In terms of serving its core market of active investors and experienced traders, however, Interactive Brokers is incredibly competitive. In addition to unparalleled market access, IBKR has layered on a staggering array of tools that can meet almost every conceivable trading need. 
+ Extremely smart order router Wide range of offerings around the world and across asset classes Mutual Fund Replicator finds less expensive ETFs Streaming data runs on a single device at a time IBKR Lite customers cannot use the smart order router Small or inactive accounts generate substantial fees 
+Interactive Brokers hasn't focused on easing the onboarding process until recently. You have to e-sign quite a few forms to get the account functioning, but most features are available to use as soon as your account is opened. You can open an account without making a deposit, but it will be closed if you don't fund it within 90 days of opening. 
+ 
+Once you are set up, the Client Portal is a great step forward in making IBKR's tools more accessible and easier to find. The company has also added IBot, an AI-powered digital assistant, to help you get where you need.
+ 
+Everything about Interactive Brokers centers around Traders Workstation (TWS). TWS is a powerful and extensively customizable downloadable platform, and it is gradually gaining some creature comforts, such as a list titled "For You" that maintains links to your most frequently-used tools. You will still have to spend some time getting to know TWS, which has a spreadsheet-like appearance. The Mosaic interface built into TWS is much more aesthetically pleasing and it lets you arrange the tools like building blocks to form a workspace. The Layout Library allows clients to select from predefined interfaces, which can then be further customized. You can also create your own Mosaic layouts and save them for future use. In short, you will need to put time in to get the exact experience you are looking for, but the design tools that you'll need are all there. 
+ 
+Interactive Brokers' mobile app has almost all of the functionality of the web platform, though it is not nearly as extensive as TWS desktop platform. All the available asset classes can be traded on the mobile app. Any mobile watchlists you create are shared with the web and desktop platforms, and data streams in real-time. Streaming news on mobile includes Bloomberg TV, Real Vision, and IBKR Traders Insight. The fundamental research is solid and the charts are very good for mobile with a suite of indicators. It is worth noting that there are no drawing tools on the mobile app.
+ 
+Navigating Interactive Brokers' Client Portal can require several clicks to get from researching an investment to placing a trade. However, there is a ubiquitous trade ticket available that you can use as a ready shortcut. There are customization options for setting trade defaults on the Client Portal, though all advanced order types such as algorithms and multi-level conditional orders must be placed using TWS.
+ 
+Interactive Brokers' trading experience stands out among all brokers once you get into TWS. TWS lets you set order defaults for every possible asset class, as well as define hotkeys for rapid order transmission. Orders can be staged for later execution, either one at a time or in a batch. You can set a date and time for an order to be transmitted, or set up a complex conditional order that is activated after specific conditions are met, such as a prior order executed or an index reaching a certain value. The ways an order can be entered are practically unlimited. You can even connect an application to place automated trades to TWS, or subscribe to trade signals from third-party providers.
+ 
+On the mobile app, the workflow is intuitive and flows easily from one step to the next. Data streams in real-time, but on only one platform at a time. This one-at-a-time approach could be an issue for traders who have a multi-device approach to their trading workflow, but it isn't an issue for the traditional trading session on a single interface. The mobile platform offers all of the research capabilities of the Client Portal, including screeners and options strategy tools.
+ 
+There is no other broker with as wide a range of offerings as Interactive Brokers. The firm adds new products based on customer demand and links to new electronic exchanges as soon as technically possible. In April 2020, IBKR expanded its mutual fund marketplace, offering nearly 26,000 funds from more than 285 fund families that includes funds from global sources.
+ 
+That said, it is worth noting that IBKR does not offer cryptocurrency trading aside from Bitcoin futures. You can trade every asset class on Mosaic and TWS; Client Portal users will have to switch over to TWS to place international trades. With the exception of cryptocurrencies, investors can trade the following:
+ 
+Interactive Brokers allows a flexible array of order types on the TWS, Client Portal and the mobile apps, including conditional orders such as one-cancels-another and one-triggers-another. TWS enables conditional orders based on price, volume, daily P&L, margin cushion, number of shortable shares available, rebate available from the trading venue, and other factors.
+ 
+Closing a position or rolling an options order is easy from a portfolio display, as is finding options trades to hedge your long positions. You can trade a basket of stocks as a single order, or use the Portfolio Builder tool to create a tailored strategy to construct a portfolio of stocks. Portfolio Builder lets you know when it’s time to rebalance based on market changes.
+ 
+You can trade share lots or dollar lots for any asset class. Additionally, for an options order, a customer may opt to enter Deliverable Value, specifying the dollar value of the stock that the customer would be assigned if the option expired in the money. This is a unique feature.
+ 
+If you've been buying into a particular stock over time, you can select the tax lot when closing part of the position, or set an account-wide default for the tax lot choice (such as average cost, last-in-first-out, etc.). The Tax Optimizer tool allows a client to match specific lots on a trade-by-trade basis and maximize tax efficiency by previewing the profit and loss of each available scenario. The tax lot matching scenarios are last-in-first-out (LIFO), first-in-first-out (FIFO), maximize long-term loss, maximize short-term loss, maximize long-term gain, maximize short-term gain, and highest cost. You can also set an account-wide default for dividend reinvestment.
+ 
+Interactive Brokers' order execution engine stays on top of changes in market conditions to re-route all or parts of your order to achieve optimal execution, attain price improvement, and maximize any possible rebate.﻿﻿ The order routing algorithms seek out a speedy execution and can access hidden institutional order flows (dark pools) to execute large block orders. For multi-leg options orders, the router seeks out the best place to execute each leg of a spread, or clients can choose to route for rebates. Any payment for order flow is given back to the client for IBKR Pro clients but not those using the Lite pricing plan.
+ 
+IBKR offers an order type that it calls MidPrice order, which can be routed to a number of venues including IEX. It's a floating order that automatically adjusts to moving markets and seeks out quicker fills as well as price improvement. Clients can choose a particular venue to execute an order from TWS. Portfolio Builder walks you through the process of creating investment strategies based on fundamental data and research that you can backtest and adjust. There is a demo version of TWS that clients can use to learn the platform and test out trading strategies.
+ 
+IBKR Lite customers can use any platform or mobile apps, except IBKR Mobile Web, to enter free orders. The order router for Lite customers prioritizes payment for order flow, which is not shared with the customer.
+ 
+With most of the large brokers cutting their equity commissions to $0, Interactive Brokers has gone from being one of the lowest cost brokers to being comparatively expensive for their Pro offering when it comes to trading. Interactive Brokers’ fee structure is rather complex. There are three types of commissions for U.S. equities.
+ 
+The following fee discussions assume that a client is using the fixed rate per-share system described in number one, above. 
+ 
+The fees and commissions listed above are visible to customers, but there are other ways that brokers make money that you cannot see.
+ 
+Interactive Brokers’ wide range of tools and research resources provides a wealth of information for traders and investors. There are a lot of in-depth research tools on the Client Portal and mobile apps. Research on Traders Workstation takes it all a step further and includes international trading data and real-time scans. 
+ 
+Using the Mosaic interface on TWS, there's a market scanner that lets you scan on hundreds of criteria for global equities and options. You can use a predefined scanner or set up a custom scan. The Fundamentals Explorer, on both TWS and Client Portal, digs down deep into hundreds of data points and includes analyst ratings from TipRanks. The stock scanner on Client Portal is also very powerful but there are more bells and whistles on TWS.
+ 
+The market scanner on Mosaic lets you specify ETFs as an asset class. You can use a predefined scanner or set up a custom scan. All the capabilities of the Fundamental Explorer can be used to examine ETFs. The Mutual Fund Replicator identifies ETFs that are essentially identical to a specific mutual fund, but more liquid and lower cost. Additionally, clients have access to AltaVista's proprietary Hedge Finder and ETF Alternative tools to find ETFs that hold a specific stock or similar ETFs, respectively. 
+ 
+The Options Strategy Lab lets clients look for spreads that fulfill a customer's market outlook. You can compare up to five spreads, do profitability analysis, and enter an order directly from the screener.
+ 
+The Fund Scanner on TWS allows screening on 170 variables. This tool will be rolling out to Client Portal and mobile platforms in 2020.
+ 
+Bond Scanner in TWS explores IBKR's entire fixed-income inventory, which is huge. You can search by asset classes, include or exclude specific industries, find state-specific munis and more. This tool is not available on mobile.
+ 
+Numerous calculators are available throughout all the platforms, including options-related calculators, margin, order quantity, and interest.
+ 
+Capitalise, IBKR Market Signals, Benzinga, and Refinitiv Significant Developments can be used for idea generators. The blogs contain trading ideas as well.
+ 
+Dozens of real-time news sources available on all platforms that include 24/7 Wall Street, AccessWire, Benzinga Pro News, Benzinga Crypto News, Briefing.com, China Perspective, China Investment Insight, Dow Jones North American Briefing, IBKR Market Signals, IBKR Quant blog, IBKR Traders’ Insight, Insider Insights, Market Realist, MNI Forex and Fixed Income, Morningstar Ownership Equity, Seeking Alpha, StreetInsider.com Top News and Analyst Actions, TalkMarkets, The Motley Fool, Thomson Reuters Global Financial Market News, TipRanks Market News, Refinitiv Brief, and Refinitiv Transactions. Access to premium news feeds at an additional charge.
+ 
+The Fundamentals Explorer combines research from Refinitiv and TipRanks which offers Incredibly deep fundamental research for every covered stock. You can also search for a particular piece of data. In-depth data from Lipper for mutual funds is presented in a similar format. Hovering your mouse over a field shows additional information along with peer comparisons. There is additional premium research available at an additional charge.
+ 
+A tool providing sustainable investment portfolio analytics is in beta-test as of October 2020 with the Impact Dashboard, which allows clients to align their portfolios with their values. The beta test is currently in the Traders Workstation with plans to extend it to Client Portal and IBKR Mobile by the end of the year.
+ 
+Extensively customizable charting is offered on all platforms that includes hundreds of indicators and real-time streaming data.
+ 
+Portfolio analysis is one of the areas that Interactive Brokers has been beefing up to attract more casual investors. Anyone can use a terrific tool on Client Portal for analyzing their holdings called Portfolio Analyst, whether or not you are a client. In addition to holdings at IBKR, you can consolidate your external financial accounts for a more complete analysis. Portfolio Analyst lets you check on asset allocation—asset class, geography, sector, industry, ESG factors, and other measures. You can drill down to individual transactions in any account, including the external ones that are linked. A feature called Portfolio Checker lets you assess your portfolio’s health by comparing its performance to one of about 200 global benchmarks and evaluating risk measures. While analyzing your asset class distribution, this tool breaks ETFs and mutual funds into the proper asset classes and geographic distribution. The analytical results are shown in tables and graphs.
+ 
+All balances, margin, and buying power calculations are in real-time. You can calculate your internal rate of return in real-time as well.
+ 
+Interactive Brokers’ proprietary Tax Optimizer tool allows a client to set a default matching method that is used automatically, and override that method for a specific symbol if desired. To help a client maximize tax efficiency, the Tax Optimizer provides a "what-if" capability to give the client a preview of P&L for each of the matching methods.
+ 
+IBKR offers the Trader's Journal in TWS, which is a note-taking feature that lets you record and save trading notes and ideas on any product. Traders’ Journal also provides functionality to save a screenshot of any screen in TWS, including charts, as part of a note. Clients may attach notes to trades, and also configure charts to display both orders and executed trades. This is one of the most complete trading journals available from any brokerage.
+ 
+Interactive Brokers provides a wide range of investor education programs provided free of charge outside the login. Traders Academy is a structured, rigorous curriculum intended for financial professionals, investors, educators, and students seeking a better understanding of the asset classes, markets, currencies, tools, and functionality available on IBKR's Trader Workstation, TWS for mobile, Account Management and TWS API applications. There are more than 45 courses available, with the number of courses doubling during 2019, and continuing to increase during 2020.
+ 
+Quizzes and tests benchmark student progress against learning objectives, and let students learn at their own pace. Examples of course offerings include introductions to asset classes such as options, futures, forex, international trading, and bonds, and how to use margin. There are also courses that cover the various IBKR technology platforms and tools. The website includes a trading glossary and FAQ.
+ 
+Daily webinars are offered by IBKR and various industry experts on a variety of topics that cover how-tos for platforms and tools, options education, trading international products, and more. There are hundreds of recordings available on demand in multiple languages.
+ 
+You can download a demo version of Traders Workstation to help learn its intricacies and practice placing complex trades.
+ 
+Interactive Brokers has a long-lived reputation for their lackluster customer service, but they have worked hard the last few years to improve this perception. One terrific feature that was added a couple of years ago and is expanding constantly is IBKR’s IBot service, powered by an artificial intelligence engine that answers questions asked in plain English. IBot is available throughout the website and trading platforms.
+ 
+A unique service, The IBKR Securities Class Action Recovery solution, launched in May 2020. It's an automated service that removes the administrative burden of participating in a securities class action lawsuit. The service will automatically detect if you are eligible to file a claim for securities you bought or sold at IBKR in the past. When applicable, the service will submit filings to claims administrators on your behalf and seek to recover funds for compensation. Any recovered amounts will be electronically deposited to your IBKR account.
+ 
+Because Interactive Brokers has clients from all around the world, it’s been focused on security for a long time and meets or exceeds industry standards. This includes:
+ 
+On August 10, 2020, the Financial Industry Regulatory Authority (FINRA) announced that it had fined Interactive Brokers LLC $15 million for widespread failures in the firm’s anti-money laundering (AML) program, which persisted for more than five years. The same day, the Securities and Exchange Commission, and Commodity Futures Trading Commission announced disciplinary actions fining Interactive Brokers $11.5 million for AML failures, resulting in more than $38 million in total fines and other penalties.
+ 
+Interactive Brokers responded by saying that the firm cooperated fully with the regulators and that the significant steps taken to expand and enhance its program were taken into account in Monday’s settlements.  
+ 
+This settlement doesn't directly affect retail investors, but it is a significant breach of corporate ethics. Investopedia will continue to monitor this issue.
+ 
+Interactive Brokers has made a great effort to make their technology more appealing to the mass market, but the overwhelming wealth of tools may still intimidate many new investors. Of course, this same wealth of tools makes the platform one of the best choices for day traders and more advanced investors who can benefit from the extensive capabilities and customizations. Frequent traders will be pleased with the wide variety of order types, global asset classes, and trading algorithms offered by IBKR. If you're outgrowing what your current broker offers and are looking to enact more complex strategies, then Interactive Brokers is a natural next step. 
+ 
+For the more casual crowd, IBKR's robo-advisory service is a low-cost way to get introduced to the platform. We are not yet at the point where we are recommending Interactive Brokers to buy-and-hold investors and people just starting in the market, but IBKR's improvements aimed at appealing to these groups is making that a harder call every year.

@@ -1,0 +1,36 @@
+
+A public ledger derives its name from the age-old record-keeping system used to record information, such as agricultural commodity prices, news, and analysis. The public ledger was available for general public viewing as well as for verification. As cryptocurrency-based blockchain systems emerged, which rely on a similar record-keeping and public verification mechanism, the use of the public ledger gained popularity in the world of cryptocurrency. This article explores cryptocurrency public ledgers, how they work, and the challenges they face.
+ 
+A cryptocurrency is an encrypted, decentralized digital currency that facilitates the exchange of value by transfer of cryptotokens between network participants. The public ledger is used as a record-keeping system that maintains participants’ identities in secure and (pseudo-)anonymous form, their respective cryptocurrency balances, and a record book of all the genuine transactions executed between network participants.
+ 
+To draw a parallel, think about writing a check to a friend, or making an online transfer to their bank account for $200. In both cases, the details of the transaction will be updated in the bank's records—the sender’s account is debited by $200 while the receiver’s account is credited by the same amount. The bank’s accounting systems maintain the record of balances and ensure that the sender’s account has sufficient funds; otherwise, the check bounces or the online transfer will not be allowed. If the sender has only $200 in their account, and they issue two $100 checks, the order in which the checks are presented determines who will receive the money and whose check will bounce.
+ 
+The transaction's details in the bank's records can be queried and verified by the two parties between whom the transaction took place. Additionally, the bank record is accessible only by the designated bank officials and the concerned (central) authorities like the tax department or the government on a need basis. No one else can have access to those details.
+ 
+Public ledgers work the same way as bank records, although with a few differences.
+ 
+Similar to the bank records, the transaction details on a cryptocurrency public ledger can be verified and queried by the two transacting participants. However, no central authority or network participants can know the identity of the participants. Transactions are allowed and recorded only after suitable verification of the sender’s liquidity; otherwise, they are discarded.
+ 
+Since no central authority controls or maintains the ledger records, how is fairness regulated on cryptocurrency ledgers?
+ 
+Physically, a public ledger can be viewed as a data management or storage system similar to a database system of bank records. A blockchain is a form of public ledger, which is a series (or chain) of blocks on which transaction details are recorded after suitable authentication and verification by the designated network participants.
+ 
+The recording and storage of all confirmed transactions on such public ledgers begin at the creation and start of a cryptocurrency. As a block is filled to capacity with transaction details, new ones are mined and added to the blockchain by the network participants called miners.
+ 
+Select network participants, often called full nodes, maintain a copy of the whole ledger on their devices that are connected to the cryptocurrency network. Depending on the participants’ interest and their spread across the globe, the public ledger is distributed as participants connect and contribute to the blockchain network activities keeping it agile and functional.
+ 
+Since hundreds and thousands of participants maintain a copy of the ledger, they are aware of the true state of the network in terms of who holds cryptotokens, how many tokens are held, whether transactions are authentic and recorded to prevent any misuse like double spending. A combination of the various intrinsic features of the public ledger, such as consensus algorithms, encryption, and reward mechanisms, ensure that the participants’ identities are protected, and only genuine transactions are conducted on the network.
+ 
+To complete a transaction, for example, if Alice wants to send one bitcoin to Bob, she only needs to broadcast the encrypted account numbers (wallet addresses) for herself and Bob and the transaction amount of one bitcoin. Even the amount can be obfuscated, depending upon the network configuration. An internal digital signature mechanism ensures that only the person with the necessary cryptocoins is conduct transactions from their wallets or accounts.
+ 
+All full nodes on the network see this transaction broadcast, verify it for authenticity, and can update the public ledger records on the various nodes that form the part of the blockchain cryptocurrency network.
+ 
+Despite the advantages of public ledgers, there has been rising concern over their use for cryptocurrencies.
+ 
+For instance, the blockchain's working mechanism mandates the recording of every single transaction that has ever occurred on the network. Balancing the maintenance of this long-running detailed history while scaling capacity to process the growing number of transactions is a challenge.
+ 
+Similarly, there are concerns that maintaining a public ledger that records every transaction in perpetuity would also allow hackers, governments, and security agencies to track public records as well as network participants. This would put the anonymity and privacy of the blockchain participants at risk, the most important aspects of cryptocurrency use.
+ 
+In fact, American security agency NSA is already accused of attempting to track down bitcoin users. Additionally, any public ledger-based cryptocurrency is always vulnerable to hacking attempts, stealing of cryptocoins, and network clogging by hackers.
+ 
+As a data storage container, the public ledger forms the backbone of a cryptocurrency by storing information after verification. While its use is being widely adopted, configuring the public ledger with the right parameters is important to maintain decentralized and anonymous features for hassle-free transactions in cryptocurrencies.

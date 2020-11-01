@@ -1,0 +1,18 @@
+
+The Macaulay duration of a zero-coupon bond is equal to the time to maturity of the bond.
+ 
+The Macaulay duration can be viewed as the economic balance point of a group of cash flows. Another way to interpret the statistic is that it is the weighted average number of years an investor must maintain a position in the bond until the present value of the bond's cash flows equals the amount paid for the bond.
+ 
+In simpler terms, the Macaulay duration is the time an investor would take to get back all his invested money in the bond by way of periodic interest as well as principal repayments. The Macaulay duration is measured in years, and it represents the duration of a debt fund, which is nothing but the weighted average Macaulay Duration of the debt securities in the portfolio.
+ 
+A bond's price, maturity, coupon, and yield to maturity all factor into the calculation of duration. All else equal, as maturity increases, duration increases. As a bond's coupon increases, its duration decreases. As interest rates increase, duration decreases and the bond's sensitivity to further interest rate increases go down. Also, sinking fund in place, a scheduled prepayment before maturity and call provisions lower a bond's duration.
+ 
+What is a zero-coupon bond? Simply put, it is a type of fixed-income security that does not pay interest on the principal amount. To compensate for the lack of coupon payment, a zero-coupon bond typically trades at a discount, enabling traders and investors to profit at its maturity date, when the bond is redeemed at its face value.
+ 
+﻿Macaulay Duration=∑inti×PViVwhere:ti=The time until the ith cash flow from the asset will bereceivedPVi=The present value of the ith cash flow from the assetV=The present value of all cash flows from the asset\begin{aligned} &\text{Macaulay Duration}=\sum_{i}^{n}t_i\times\frac{PV_i}{V}\\ &\textbf{where:}\\ &t_i = \text{The time until the } i \text{th cash flow from the asset will be}\\ &\text{received}\\ &PV_i = \text{The present value of the } i \text{th cash flow from the asset}\\ &V = \text{The present value of all cash flows from the asset}\\ \end{aligned}​Macaulay Duration=i∑n​ti​×VPVi​​where:ti​=The time until the ith cash flow from the asset will bereceivedPVi​=The present value of the ith cash flow from the assetV=The present value of all cash flows from the asset​﻿
+ 
+The Macaulay duration is complicated and has a number of variations, but the primary version is calculated by adding up the coupon payment per period, multiplied by the time to maturity, divided by 1, plus the yield per period raised to the time to maturity. The resulting value is then added to the total number of periods, multiplied by the bond's par value, divided by 1, plus the yield per period raised to the total number of periods. The resulting value is divided by the current bond price.
+ 
+Assume you hold a two-year zero-coupon bond with a par value of $10,000, a yield of 5%, and you want to calculate the duration in Excel. In column A and B, right-click on the columns, select "Column Width", and change the value to 30 for both columns. Next, enter "Par Value" into cell A2, "Yield" into cell A3, "Coupon Rate" into cell A4, "Time to Maturity" into cell A5, and "Macaulay Duration" into cell A6.
+ 
+Enter "=10000" in cell B2, "=0.05" into cell B3, "=0" into cell B4, and "=2" into cell B5. In cell B6, enter the formula "=(B4 + (B5*B2)/(1+B3)^1) / ((B4 + B2)/(1+B3)^1)." Since a zero-coupon bond only has one cash flow and does not pay any coupons, the resulting Macaulay duration is 2.

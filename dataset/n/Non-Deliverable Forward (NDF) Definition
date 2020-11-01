@@ -1,0 +1,25 @@
+
+A non-deliverable forward (NDF) is a cash-settled, and usually short-term, forward contract. The notional amount is never exchanged, hence the name "non-deliverable." Two parties agree to take opposite sides of a transaction for a set amount of money—at a contracted rate, in the case of a currency NDF. This means that counterparties settle the difference between contracted NDF price and the prevailing spot price. The profit or loss is calculated on the notional amount of the agreement by taking the difference between the agreed-upon rate and the spot rate at the time of settlement.
+ 
+A non-deliverable forward (NDF) is a two-party currency derivatives contract to exchange cash flows between the NDF and prevailing spot rates. One party will pay the other the difference resulting from this exchange.
+ 
+Cash flow = (NDF rate - Spot rate) * Notional amount
+ 
+NDFs are traded over-the-counter (OTC) and commonly quoted for time periods from one month up to one year. They are most frequently quoted and settled in U.S. dollars and have become a popular instrument since the 1990s for corporations seeking to hedge exposure to illiquid currencies.
+ 
+A non-deliverable forward (NDF) is usually executed offshore, meaning outside the home market of the illiquid or untraded currency. For example, if a country's currency is restricted from moving offshore, it won't be possible to settle the transaction in that currency with someone outside the restricted country. However, the two parties can settle the NDF by converting all profits and losses on the contract to a freely traded currency. They can then pay each other the profits/losses in that freely traded currency.
+ 
+That said, non-deliverable forwards are not limited to illiquid markets or currencies. They can be used by parties looking to hedge or expose themselves to a particular asset, but who are not interested in delivering or receiving the underlying product.
+ 
+All NDF contracts set out the currency pair, notional amount, fixing date, settlement date, and NDF rate, and stipulate that the prevailing spot rate on the fixing date be used to conclude the transaction.
+ 
+The fixing date is the date at which the difference between the prevailing spot market rate and the agreed-upon rate is calculated. The settlement date is the date by which the payment of the difference is due to the party receiving payment. The settlement of an NDF is closer to that of a forward rate agreement (FRA) than to a traditional forward contract.
+ 
+If one party agrees to buy Chinese yuan (sell dollars), and the other agrees to buy U.S. dollars (sell yuan), then there is potential for a non-deliverable forward between the two parties. They agree to a rate of 6.41 on $1 million U.S. dollars. The fixing date will be in one month, with settlement due shortly after.
+ 
+If in one month the rate is 6.3, the yuan has increased in value relative to the U.S. dollar. The party who bought the yuan is owed money. If the rate increased to 6.5, the yuan has decreased in value (U.S. dollar increase), so the party who bought U.S. dollars is owed money. 
+ 
+The largest NDF markets are in the Chinese yuan, Indian rupee, South Korean won, New Taiwan dollar, Brazilian real and Russian ruble.﻿﻿ The largest segment of NDF trading takes place in London, with active markets also in New York, Singapore and Hong Kong.﻿﻿ Some countries, including South Korea, have limited but restricted onshore forward markets in addition to an active NDF market.﻿﻿
+ 
+The largest segment of NDF trading is done via the U.S. dollar. There are also active markets using the euro, the Japanese yen and, to a lesser extent, the British pound and the Swiss franc.﻿﻿
+ Nikhil Patel, Dora Xia. "Offshore markets drive trading of emerging market currencies," page 59. BIS Quarterly Review, December 2019. Nikhil Patel, Dora Xia. "Offshore markets drive trading of emerging market currencies," page 61. BIS Quarterly Review, December 2019. Guonan Ma, Corrinne Ho, Robert N McCauley. "The markets for non-deliverable forwards in Asian currencies," page 82. BIS Quarterly Review, June 2004.

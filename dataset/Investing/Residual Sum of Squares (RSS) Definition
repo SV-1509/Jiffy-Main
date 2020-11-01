@@ -1,0 +1,12 @@
+
+A residual sum of squares (RSS) is a statistical technique used to measure the amount of variance in a data set that is not explained by a regression model. Regression is a measurement that helps determine the strength of the relationship between a dependent variable and a series of other changing variables or independent variables.
+ 
+The residual sum of squares measures the amount of error remaining between the regression function and the data set. A smaller residual sum of squares figure represents a regression function. Residual sum of squares–also known as the sum of squared residuals–essentially determines how well a regression model explains or represents the data in the model.
+ 
+Financial markets have increasingly become more quantitatively driven; as such, in search of an edge, many investors are using advanced statistical techniques to aid in their decisions. Big data, machine learning, and artificial intelligence applications further necessitate the use of statistical properties to guide contemporary investment strategies. The residual sum of squares–or RSS statistics–is one of many statistical properties enjoying a renaissance.
+ 
+Statistical models are used by investors and portfolio managers to track an investment's price and use that data to predict future movements. The study–called regression analysis–might involve analyzing the relationship in price movements between a commodity and the stocks of companies engaged in producing the commodity.
+ 
+Any model might have variances between the predicted values and actual results. Although the variances might be explained by the regression analysis, the residual sum of squares represents the variances or errors that are not explained.
+ 
+Since a sufficiently complex regression function can be made to closely fit virtually any data set, further study is necessary to determine whether the regression function is, in fact, useful in explaining the variance of the dataset. Typically, however, a smaller or lower value for the residual sum of squares is ideal in any model since it means there's less variation in the data set. In other words, the lower the sum of squared residuals, the better the regression model is at explaining the data.

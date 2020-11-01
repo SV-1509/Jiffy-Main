@@ -1,0 +1,10 @@
+
+The Kagi chart is a specialized type of technical analysis developed by the Japanese in the 1870s which uses a series of vertical lines to illustrate general levels of supply and demand for certain assets, including the price movement of rice, a core Japanese agricultural product. Thick lines are drawn when the price of the underlying asset breaks above the previous high price and is interpreted as an increase in demand for the asset. Thin lines are used to represent increased supply when the price falls below the previous low.
+ 
+On the Kagi chart, an entry signal is triggered when the vertical line changes from thin to thick and is not reversed until the thick line changes back to thin.
+ 
+One important note about these charts is that they are independent of time and only change direction once a predefined reversal amount is reached. This is a sharp difference from the more traditional candlestick charts, which are rather prevalent in technical analysis. Kagi charts, being time time-invariant have the advantage of being largely free of random noise, which is a particular drawback of traditional candlestick charting methods. Because a change in price direction occurs only after a specific threshold is reached, Kagi charts have proved rather effective in signaling clear paths of price movements.
+ 
+The day-to-day price fluctuations of securities can make it extremely difficult for traders in the financial markets to determine the true trend of an asset. Luckily for traders, methods such as Kagi charting have helped put an end to focusing on unimportant price moves that do not affect future price momentum.
+ 
+We offer a deeper dive into using Kagi charts here.

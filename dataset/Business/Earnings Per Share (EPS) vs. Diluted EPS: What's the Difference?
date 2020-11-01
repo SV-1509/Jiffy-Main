@@ -1,0 +1,22 @@
+
+Earnings per share (EPS) and diluted EPS are profitability measures used in the fundamental analysis of companies. EPS takes into account a company's common shares, whereas diluted EPS takes into account all convertible securities, such as convertible bonds or convertible preferred stock, which are changed into equity or common stock. 
+ 
+EPS measures the amount of a company's profit on a per-share basis. Unlike diluted EPS, basic EPS does not account for the dilutive effects that convertible securities have on earnings per share.
+ 
+Dilutive effects occur when the number of shares increases. For example, through a new share issue. If a company issues more shares to investors, this increases the number of shares outstanding and decreases the company's earnings per share. Ultimately, this can decrease the stock price.
+ 
+To calculate a company's basic EPS, take a company's net income and subtract any preferred dividends, then divide the result by the weighted average number of common shares outstanding. The weighted average is a measurement investors use to monitor the cost basis on shares accumulated over a period of years.
+ 
+Assume Company XYZ had $50 million in net income over the past year, but did not pay any dividends and has 15 million common shares outstanding.
+ 
+The resulting EPS for Company XYZ is:
+ 
+Conversely, diluted EPS is a metric used in fundamental analysis to gauge a company's quality of earnings per share assuming all convertible securities have been exercised. Convertible securities include all outstanding convertible preferred shares, convertible debt, equity options (mainly employer-based options), and warrants.
+ 
+To calculate diluted EPS, take a company's net income and subtract any preferred dividends, then divide the result by the sum of the weighted average number of shares outstanding and dilutive shares (convertible preferred shares, options, warrants, and other dilutive securities).
+ 
+For example, assume Company ABC has 15 million common shares in addition to employee stock options that could be converted to 1 million common shares and convertible preferred shares that could be converted to 3 million common shares.
+ 
+The resulting diluted EPS for Company ABC is:
+ 
+Generally, if a company has convertible securities, the diluted EPS is less than its basic EPS.

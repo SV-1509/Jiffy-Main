@@ -1,0 +1,39 @@
+
+Cryptocurrencies like Bitcoin and Ethereum have gained immense popularity thanks to their decentralized, secure and anonymous nature, which supports the peer-to-peer architecture and makes it possible to transfer funds and other digital assets between two different individuals without a central authority.
+ 
+How does this automated and anonymous system of cryptocurrency ensure that all transactions are processed with due diligence and authenticity without any intervention? Enter the underlying concept and tools of cryptography, which form the backbone of cryptocurrency processing.
+ 
+The word “crypto” literally means concealed or secret – in this context, anonymous. Depending upon the configuration, the implemented cryptography technology ensures pseudo- or full anonymity. In principle, the cryptography guarantees the security of the transactions and the participants, independence of operations from a central authority, and protection from double spending.
+ 
+Cryptography technology is used for multiple purposes – for securing the various transactions occurring on the network, for controlling the generation of new currency units, and for verification of the transfer of digital assets and tokens.
+ 
+Lets draw an analogy with a real world transaction – like signing a bank check – that needs your signature. A trustworthy and secure signature requires it to have the following properties:
+ 
+Cryptocurrencies emulate the concept of real world signatures by using cryptography techniques and the encryption keys. Cryptography methods use advanced mathematical codes to store and transmit data values in a secure format that ensures only those, for whom the data or transaction is intended for, can receive, read and process it, and ensure the authenticity of the transaction and participant, like a real-world signature.
+ 
+Think about receiving radio signals on your car’s radio that allows you to listen to the broadcast. This broadcast is public knowledge and open to everyone. By contrast, think about defense level communications, like that between soldiers on a combat mission. This communication will be secure and encrypted. It will be received by and known to only the intended participants instead of being open to the whole world. Cryptocurrency’s cryptography works in a similar way.
+ 
+In the simplest terms, cryptography is a technique to send secure messages between two or more participants – the sender encrypts/hides a message using a type of key and algorithm, sends this encrypted form of message to the receiver, and the receiver decrypts it to generate the original message.
+ 
+Encryption keys are the most important aspect of cryptography. They make a message, transaction or data value unreadable for an unauthorized reader or recipient, and it can be read and processed only by the intended recipient. Keys make the information “crypto”, or secret.
+ 
+Many cryptocurrencies, like Bitcoin, may not explicitly use sending of such secret, encrypted messages, as most of the information that involves Bitcoin transactions is public to a good extent. However, there is a new breed of cryptocurrencies, like ZCash and Monero, which uses various forms of cryptography encryption to keep the transaction details secure and completely anonymous during transmission.﻿﻿ ﻿﻿
+ 
+Some of the tools that were developed as a part of cryptography have found important use in cryptocurrency working. They include functions of hashing and digital signatures that form an integral part of Bitcoin processing, even if Bitcoin does not directly use hidden messages.﻿﻿
+ 
+Multiple methods exist for encryption in cryptography.
+ 
+The first one is Symmetric Encryption Cryptography. It uses the same secret key to encrypt the raw message at source, transmit the encrypted message to the recipient, and then decrypt the message at the destination. A simple example is representing alphabets with numbers – say, ‘A’ is ‘01’, ‘B’ is ‘02’, and so on. A message like “HELLO” will be encrypted as “0805121215,” and this value will be transmitted over the network to the recipient(s). Once received, the recipient will decrypt it using the same reverse methodology – ‘08’ is ‘H’, ‘05’ is ‘E’, and so on, to get the original message value “HELLO.” Even if unauthorized parties receives the encrypted message “0805121215,” it will be of no value to them unless they know the encryption methodology.
+ 
+The above is one of the simplest examples of symmetric encryption, but lots of complex variations exist for enhanced security. This method offers advantages of simple implementation with minimum operational overhead, but suffers from issues of security of shared key and problems of scalability.
+ 
+The second method is Asymmetric Encryption Cryptography, which uses two different keys – public and private – to encrypt and decrypt data. The public key can be disseminated openly, like the address of the fund receiver, while the private key is known only to the owner. In this method, a person can encrypt a message using the receiver’s public key, but it can be decrypted only by the receiver's private key. This method helps achieve the two important functions of authentication and encryption for cryptocurrency transactions. The former is achieved as the public key verifies the paired private key for the genuine sender of the message, while the later is accomplished as only the paired private key holder can successfully decrypt the encrypted message.﻿﻿
+ The asymmetry used for Bitcoin keys is called elliptical curve cryptography. The specific method is known as secp256k1 and was apparently chosen by Satoshi for no particular reason other than it was available at the time!﻿﻿ 
+The third cryptography method is Hashing, which is used to efficiently verify the integrity of data of transactions on the network. It maintains the structure of blockchain data, encodes people’s account addresses, is an integral part of the process of encrypting transactions that occur between accounts, and makes block mining possible. Additionally, Digital Signatures complement these various cryptography processes, by allowing genuine participants to prove their identities to the network.﻿﻿
+ 
+Multiple variations of the above methods with desired levels of customization can be implemented across various cryptocurrency networks.
+ 
+Anonymity and concealment is a key aspect of cryptocurrencies, and various methods used through cryptographic techniques ensure that participants as well as their activities remain hidden to the desired extent on the network.
+ 
+[Investing in cryptocurrencies and Initial Coin Offerings ("ICOs") is highly risky and speculative, and this article is not a recommendation by Investopedia or the writer to invest in cryptocurrencies or ICOs. Since each individual's situation is unique, a qualified professional should always be consulted before making any financial decisions. Investopedia makes no representations or warranties as to the accuracy or timeliness of the information contained herein. As of the date this article was written, the author owns no cryptocurrencies.]
+ Zcash. "How it Works." Accessed June 24, 2020. Monero. "What Is Monero (XMR)?" Accessed June 24, 2020. Satoshi Nakamoto. "Bitcoin: A Peer-to-Peer Electronic Cash System," Page 1. Accessed June 24, 2020. Satoshi Nakamoto. "Bitcoin: A Peer-to-Peer Electronic Cash System," Pages 2-3. Accessed June 24, 2020. Bitcoin Forum. "secp256k1." Accessed June 24, 2020.
