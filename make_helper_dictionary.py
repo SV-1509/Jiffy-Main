@@ -67,16 +67,13 @@ def create_counter(filename):
 	return x
 
 
-'''
+
 
 def get_description(filename):
 	df = pd.read_csv(filename)
 	d = df['desc'].tolist()
 
 	
-#get_description('file.csv')
-#print(create_counter('file.csv'))
-
 
 def create_keywords(filename):
 
@@ -172,6 +169,3 @@ for ele in dictionary:
 	row = [ele]+dictionary[ele]
 	writer.writerow(row)
 file.close()
-
-
-'''
