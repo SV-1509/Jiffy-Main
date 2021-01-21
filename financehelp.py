@@ -1,40 +1,38 @@
 import gensim
-import make as m
+from d import nltk_tag_to_wordnet_tag, lemmatize_sentence
 import csv
+import pandas as pd
 
 
 import re
 model = gensim.models.KeyedVectors.load_word2vec_format('glove.txt', binary = False)
 
 reader = csv.reader(open('dict.csv', 'r'))
-finder = {}
+dictionary = {}
 for row in reader:
-   k, v = row
-   finder[k] = v
-			
-		
-def findfunction(x):
-	x=x.lower()
-	try:
-		functions = ""
-		for i in finder[x]:
-			functions = functions + i + " "
-		print("You might be looking for {}".format(functions) )
-	except:
-		try:
-			a = model.most_similar(positive = [x])[:5]
-			print(a)
-			for j in a :
-				functions = ""
-				for i in finder[j[0]]:
-					functions = functions + i + " "
-			print("You might be looking for {}".format(functions) )
-		except:
-			print("No functions found ! Try a different keyword")
+   k, v = row[0],row[1:]
+   dictionary[k] = v
+df = pd.read_csv('file.csv')
+functions = df['func'].tolist()
+syntax = df['arg'].tolist()
+description = df['desc'].tolist()
 
-# def helpfunction(x):
-# 	x=x.lower()
-# 	try :
-# 		print(helper[x])
-# 	except:
-# 		print("No function found")
+def findFunction(word):
+	word = lemmatize_sentence([word])[0]
+	if word in dictionary:
+		print('here are the results \n')
+		for i in range(len(dictionary[word])):
+			print(str(i) + ' - '+dictionary[word][i])
+		a = input('\nwant to get more details?(y/n) ')
+		if a.lower() == 'y':
+			n = int(input('\nenter the function:'))
+			index = functions.index(dictionary[word][n])
+			print('\n')
+			print("SYNTAX: ")
+			print(syntax[index])
+			print('\n')
+			print('DESCRIPTION: ')
+			print(description[index])
+
+	else:
+		print('not found')
