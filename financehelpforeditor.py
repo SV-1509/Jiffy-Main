@@ -20,6 +20,7 @@ description = df['desc'].tolist()
 index = []
 def findFunction(word):
 	global index
+	index = []
 	word = lemmatize_sentence([word])[0]
 	
 	if word in dictionary:
