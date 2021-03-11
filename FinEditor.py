@@ -165,12 +165,14 @@ class FinEditor:
         else:
 
             num = simpledialog.askstring("Helper",new_text )
-            PopUp  = fh.helpFunction(int(num)) 
+            PopUp,Synt= fh.helpFunction(int(num)) 
         popup = tk.Tk()
+        popup.clipboard_clear()
+        popup.clipboard_append(Synt[:-1])
         popup.wm_title("Syntax and Description")
         label = ttk.Label(popup, text=PopUp, font="ubuntu")
         label.pack(side="top", fill="x", pady=10)
-        B1 = ttk.Button(popup, text="Okay", command = popup.destroy)
+        B1 = ttk.Button(popup, text="Copy", command = popup.destroy)
         B1.pack()
         
 
