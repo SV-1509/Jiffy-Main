@@ -49,4 +49,5 @@ def helpFunction(num):
 	#n = int(input('\nEnter the function:'))
 	#index = functions.index(dictionary[word][function_index])
 	func_desc="SYNTAX: "+syntax[index[num]] + '\n' + 'DESCRIPTION: ' + description[index[num]]
-	return func_desc
+	synt = syntax[index[num]]
+	return func_desc,synt
