@@ -8,7 +8,7 @@ import pandas as pd
 import re
 model = gensim.models.KeyedVectors.load_word2vec_format('glove.txt', binary = False)
 
-reader = csv.reader(open('dict.csv', 'r'))
+reader = csv.reader(open('csv/helper_dictionary_3.csv', 'r'))
 dictionary = {}
 for row in reader:
    k, v = row[0],row[1:]
