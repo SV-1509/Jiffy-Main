@@ -1,6 +1,7 @@
 # Word Embeddings for Financial Domain
   This repository contains the code for the creattion and implementation of word embeddings for the financial domain.
   The dataset was created by scraping articles from investopedia and the word embeddings model was created using         **Word2Vec**
+  All models generated are in the **models** directory and all the csv files nneded are in the **csv** directory
   
 ## Webscraping
 The webscraping part was implemented using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library in Python which is useful pulling and parsing content out of HTML and XML files. The website used to scrape the data from is [Investopedia](https://www.investopedia.com/).
@@ -22,7 +23,7 @@ The cleaned corpus is then preprocessed in the **preprocess.py** file where the 
 
 ## Word2Vec
 The Word2Vec model was implemented using the [Gensim](https://radimrehurek.com/gensim/) module for NLP. The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Words are distributed in a vector space depending on the context in which it is used.  
-The **word2vec.py** contains the implementation of the word2vec model. In the model used here a window size of 5, hidden layer dimension of 300 was used on a CBOW model
+The **word2vec.py** contains the implementation of the word2vec model. In the model used here a window size of 5, hidden layer dimension of 300 was used on a CBOW model. In order to train your own custom corpus and build a model, place all your text files in a single or multiple folder. Place this folder inside the dataset directory and run the *word2vec.py* file. Change the name of the model and the resultant trained model will be stored in the models directory.
 The **predict.py** has code for the desired predictions we want. For example using our model **word2vec.txt** when the word vector of *company* was subtraced from the word vector of *business* the resultant vector was of the word *enterpreunership*.
 
 ## GloVe
