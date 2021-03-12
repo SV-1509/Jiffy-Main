@@ -36,8 +36,15 @@ The end product involves the user searching a word and the model returning the f
 ### Helper Module
 The file **finhelper.py** when run, takes an input word from the user and returns the function/functions that is most similar in context to the input word. The following steps are involved in the process.
 
-#### Obtaining the function names syntax and description. 
-This is contained in the **/csv/financepy.csv**. This file was cleaned and null values removed for better results.
-  * Create helper dictionary
-    *
+#### FinancePy Functions
+All the FinancePy functions, its syntax and corresponding function description is obtained from [FinancePy documantation](https://github.com/domokane/FinancePy). This is contained in the **/csv/financepy.csv**. Each row corresponds to a singe function, its syntax and its function description. This file was cleaned and null values removed for better results.
+
+#### FinHelper Module
+This is the helper module that interacts with the user to provide a function match for any input word. It has the following steps
+  * Creating keywords to be inputted into the model. The last term in the fucntion name was taken, and split appropriately for obtaining meaningnful words to be given as input to the model.
+  * Creating the helper dictionary. The keyowrds generated are fed into the model and similarity words are obtained using a threshold value. Coresponding words are matched to functions and are stored in a dictionary. **make_helper_dictionary_4.csv** and **make_helper_dictionary_5.csv** contains the dictionary entries for the Word2Vec and Glove model respectively. The results are combined by running the file **combine_csv.py** to give the final dictionary **make_helper_dictionary_6.csv**.
+  * **finhelper.py** references the input word from the user to find a match in the helper dictionary and return possible matcghes. The user can interactively choose which function he/she needs and recieve its syntax and function description
+
+### 
+
 
