@@ -2,6 +2,7 @@ import os
 import string
 from clean import clean
 
+#function to return a list oflists of the entire corpus cleaned and to be fed as input to the Word2Vec model
 def preprocess(path):
 	folders = os.listdir(path=path)
 	data = []
