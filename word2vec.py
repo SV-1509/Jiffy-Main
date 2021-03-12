@@ -18,8 +18,9 @@ logging.basicConfig(format="%(levelname)s - %(asctime)s: %(message)s", datefmt= 
 stopwords = stopwords.words('english')
 lemmatizer = WordNetLemmatizer()
 
-
+#preprocess data
 cwd = os.getcwd()
+#place any files of any custom domain in a folder in the path given below to train them
 path = cwd + '/dataset/'
 data = preprocess(path)
 
@@ -33,19 +34,20 @@ for sent in sentences:
 		word_freq[i] += 1
 print(len(word_freq))
 print(sorted(word_freq, key = word_freq.get, reverse = True)[:50])
-
+#define the model
 cores = multiprocessing.cpu_count()
 model = Word2Vec(min_count=5,
-                     window=5,
+                     window=3,
                      size=300,
                      sample=6e-5, 
                      alpha=0.03, 
                      min_alpha=0.0007, 
                      negative=20,
                      workers=cores-1)
+#train the model
 t = time()
 model.build_vocab(sentences, progress_per=10000)
 print('Time to build vocab: {} mins'.format(round((time() - t) / 60, 2)))
 model.train(sentences, total_examples=model.corpus_count, epochs=30, report_delay=1)
 model.init_sims(replace=True)
-model.save('finance3.model')	
+model.wv.save_word2vec_format(cwd+'/models/word2vec.txt')	
