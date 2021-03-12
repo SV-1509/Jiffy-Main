@@ -30,10 +30,8 @@ The GloVe algorithm was used to train the custom corpus to create the model **gl
 
 All the models used can be found in the /models directory.
 
-## Function Mapping using the Model
-The end product involves the user searching a word and the model returning the fucntion matches for that particlar word. Here the combination of both Word2Vec and GloVe was used for provoding results.
-
-### Helper Module
+## FinHelper Module
+The end product involves the user searching a word and the model returning the fucntion matches for that particlar word. Here the combination of both Word2Vec and GloVe was used for providing results.
 The file **finhelper.py** when run, takes an input word from the user and returns the function/functions that is most similar in context to the input word. The following steps are involved in the process.
 
 #### FinancePy Functions
@@ -44,7 +42,8 @@ This is the helper module that interacts with the user to provide a function mat
   * Creating keywords to be inputted into the model. The last term in the fucntion name was taken, and split appropriately for obtaining meaningnful words to be given as input to the model.
   * Creating the helper dictionary. The keyowrds generated are fed into the model and similarity words are obtained using a threshold value. Coresponding words are matched to functions and are stored in a dictionary. **make_helper_dictionary_4.csv** and **make_helper_dictionary_5.csv** contains the dictionary entries for the Word2Vec and Glove model respectively. The results are combined by running the file **combine_csv.py** to give the final dictionary **make_helper_dictionary_6.csv**.
   * **finhelper.py** references the input word from the user to find a match in the helper dictionary and return possible matcghes. The user can interactively choose which function he/she needs and recieve its syntax and function description
+  * An interactive environment using tkinter is provided where the user can call the finhelper module and enter a word. FinHelper returns results , and the user can copy the syntax to his/her clipboard for easy use.
 
-### 
+
 
 
