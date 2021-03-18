@@ -35,7 +35,7 @@ def scrapeWiki(url,c=0):
     scrape = "https://en.wikipedia.org" + str(link['href'])
     try:
       if see(scrape)==0 or link['href'].find("/Portal:")==True or link['href'].find(".svg")==True:
-        print("SHAKIRA")
+        print("OK")
         continue
     except:
       continue
