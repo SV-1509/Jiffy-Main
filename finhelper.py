@@ -63,7 +63,7 @@ if word in dictionary:
 else :
 	func = []
 	for i in functions:
-		func.append(i.split('.')[-1].lower()
+		func.append(i.split('.')[-1].lower())
 	suggestions = []
 	for i in func:
 		if word in i:
