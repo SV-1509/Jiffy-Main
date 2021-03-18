@@ -26,8 +26,9 @@ def findFunction(word):
 	if word in dictionary:
 		Functions = 'Related functions are \n'
 		for i in range(len(dictionary[word])):
-			Functions = Functions+(str(i) + ' - '+dictionary[word][i] + '\n')
-			index.append(functions.index(dictionary[word][i]))
+			if dictionary[word][i] != '':
+				Functions = Functions+(str(i) + ' - '+dictionary[word][i] + '\n')
+				index.append(functions.index(dictionary[word][i]))
 		#a = input('\nwant to get more details?(y/n) ')
 		# if a.lower() == 'y':
 		# 	n = int(input('\nenter the function:'))
