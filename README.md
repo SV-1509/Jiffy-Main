@@ -3,13 +3,18 @@
   The dataset was created by scraping articles from Investopedia and the word embeddings model was created using         **Word2Vec**.
   All models generated are in the `models` directory and all the csv files needed are in the `csv` directory.
   
+  
+## Installation
+To install all the necessary packages run the following command in the terminal
+`pip install -r requirements.txt`
+
 ## Webscraping
 The webscraping part was implemented using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library in Python which is useful for pulling and parsing content out of HTML and XML files. The website used to scrape the data from is [Investopedia](https://www.investopedia.com/).
 The file `scrap_term_definitions.py` has the code for scraping the paragraph content of all the financial term definitions available in Investopedia and `scrap_articles.py` is for scraping all the articles related to finance.
 
 
 ## Data Preprocessing
-The `dataset` folder consists of all the scraped content which is the dataset on which the model is trained upon.
+The `dataset` folder consists of all the scraped content which is the dataset on which the model is trained upon. It contains the topic related articles and the alphabetical term definitions scarped from Investopedia.
 
 ### Cleaning
 The cleaning procedure is done in `clean.py`. It uses the [NLTK](https://www.nltk.org/) library for Python which has a lot of useful tools for Natural Language Processing tasks. The steps involved in cleaning are:
@@ -24,12 +29,15 @@ The cleaned corpus is then preprocessed in the `preprocess.py` file where the co
 ## Word2Vec
 The Word2Vec model was implemented using the [Gensim](https://radimrehurek.com/gensim/) module for NLP. The Word2Vec algorithm uses a neural network model to learn word associations from a large corpus of text. Words are distributed in a vector space depending on the context in which it is used.  
 The file `word2vec.py` contains the implementation of the word2vec model. In the model used here a window size of 5, hidden layer dimension of 300 was used on a CBOW model. In order to train your own custom corpus and build a model, place all your text files in a single or multiple folder. Place this folder inside the dataset directory and run the `word2vec.py` file. Change the name of the model and the resultant trained model will be stored in the models directory.
-The file `predict.py` has code for the desired predictions we want. For example using our model `word2vec.txt` when the word vector of *company* was subtraced from the word vector of *business* the resultant vector was of the word *enterpreunership*.
+ `predict.py` has code for the desired predictions we want. This can be for obtaining the similarity measure or the *n* most similar words. For example using our model `word2vec.txt` when the word vector of *company* was subtraced from the word vector of *business* the resultant vector was of the word *enterpreunership*.
 
 ## GloVe
-The GloVe algorithm was used to train the custom corpus to create the model `glove.txt`. This was trained by creating a corpus that was fed into the GloVe model implemented by Stanford Univeristy which can be found [here](https://github.com/stanfordnlp/GloVe). The corpus was created in the appropriate format by running the `corpus.py`.
+The GloVe algorithm was used to train the custom corpus to create the model `glove.txt`. This was trained by creating a corpus that was fed into the GloVe model implemented by Stanford Univeristy which can be found [here](https://github.com/stanfordnlp/GloVe). In order to create the corpus, simply run the `corpus.py` file.
 
 All the models used can be found in the /models directory.
+## Comparison
+The Word2Vec and GloVe model results were compared by checking the similarity measure between certain input words. 
+
 
 ## FinHelper Module
 The end product involves the user searching a word and the model returning the function matches for that particlar word. Here, the combination of both Word2Vec and GloVe was used for providing results.
