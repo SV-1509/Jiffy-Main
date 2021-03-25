@@ -1,7 +1,7 @@
 # Word Embeddings for Financial Domain
   This repository contains the code for the creation and implementation of word embeddings for the financial domain.
   The dataset was created by scraping articles from Investopedia and the word embeddings model was created using         **Word2Vec**.
-  All models generated are in the ''' models ''' directory and all the csv files needed are in the **csv** directory.
+  All models generated are in the `models` directory and all the csv files needed are in the `csv` directory.
   
 ## Webscraping
 The webscraping part was implemented using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library in Python which is useful for pulling and parsing content out of HTML and XML files. The website used to scrape the data from is [Investopedia](https://www.investopedia.com/).
