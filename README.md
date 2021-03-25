@@ -37,6 +37,7 @@ The GloVe algorithm was used to train the custom corpus to create the model `glo
 All the models used can be found in the /models directory.
 ## Comparison
 The Word2Vec and GloVe model results were compared by checking the similarity measure between certain input words. 
+![comparison](https://github.com/SV-1509/Jiffy-Main/blob/main/img/w2v%20vs%20glove.png?raw=true)
 
 
 ## FinHelper Module
