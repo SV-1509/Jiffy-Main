@@ -5,7 +5,7 @@
   
   
 ## Installation
-To install all the necessary packages run the following command in the terminal
+To install all the necessary packages, navigate to the `Jiffy-Main` folder and run the following command in the terminal <br />
 `pip install -r requirements.txt`
 
 ## Webscraping
