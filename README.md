@@ -39,6 +39,7 @@ All the models used can be found in the /models directory.
 The Word2Vec and GloVe model results were compared by checking the similarity measure between certain input words. 
 ![comparison](https://github.com/SV-1509/Jiffy-Main/blob/main/img/w2v%20vs%20glove.png?raw=true)
 
+As observed, the GloVe model produced slightly better accuracy than the Word2Vec model. However for building the helper module both these models were taken into account.
 
 ## FinHelper Module
 The end product involves the user searching a word and the model returning the function matches for that particlar word. Here, the combination of both Word2Vec and GloVe was used for providing results.
@@ -50,8 +51,9 @@ All the FinancePy functions, its syntax and corresponding function description i
 #### FinHelper Module
 This is the helper module that interacts with the user to provide a function match for any input word. It has the following steps
   * Creating keywords to be inputted into the model. The last term in the function name was taken, and split appropriately for obtaining meaningnful words to be given as input to the model.
-  * Creating the helper dictionary. The keywords generated are fed into the model and similarity words are obtained using a threshold value. Coresponding words are matched to functions and are stored in a dictionary. `make_helper_dictionary_4.csv` and **make_helper_dictionary_5.csv** contains the dictionary entries for the Word2Vec and Glove model respectively. The results are combined by running the file `combine_csv.py` to give the final dictionary **make_helper_dictionary_6.csv**.
-  * `finhelper.py` references the input word from the user to find a match in the helper dictionary and return possible matches. The user can interactively choose which function he/she needs and receive its syntax and function description.
+  * Creating the helper dictionary. The keywords generated are fed into both the Word2Vec and GloVe models and top 5 similar words are obtained.  Coresponding words are matched to functions and are stored in a dictionary. `helper_dictionary.csv` and `helper_dictionary_2.csv` are the dictionaries corresponding to Word2Vec and GloVe models. The results are combined by running the file `combine_csv.py` to give the final dictionary `make_helper_dictionary_3.csv`.
+  * `description.csv` contains a similar word to fucntion mapping, where the semantically important words in the fucntion description are used as the mapping criterion. The helper modules uses this dictionary along with the `helper_dictionary_3.csv` to give more accurate search results
+  * `finhelper.py` references the input word from the user to find a match in the helper dictionary and/or the description dictionary and return possible matches. The user can interactively choose which function he/she needs and receive its syntax and function description.
   * An interactive environment using tkinter is provided where the user can call the finhelper module and enter a word. FinHelper returns results, and the user can copy the syntax to his/her clipboard for easy use.
 
 
